@@ -10,4 +10,6 @@ cp "$FILE" "$FILE_NEW.csv"
 
 sed -i -e 's/	/,/g' "$FILE_NEW.csv" # Replace Tabs with comma
 
-rm "$FILE_NEW.csv-e"
+if [ "$(uname)" == "Darwin" ]; then
+  rm "$FILE_NEW.csv-e"
+fi
