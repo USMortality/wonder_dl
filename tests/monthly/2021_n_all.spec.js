@@ -1,5 +1,5 @@
 import { test } from '@playwright/test'
-import { makeSequence, waitUntilLoaded } from './../common.js'
+import { makeSequence, waitUntilLoaded } from '../common.js'
 
 const dl = async (page) => {
   await page.goto('https://wonder.cdc.gov/mcd-icd10-provisional.html')
@@ -25,7 +25,7 @@ const dl = async (page) => {
         if (el.value.includes('/') && !el.textContent.includes('partial')) return el.value
       }).filter(el => el)
   )
-  const dates = makeSequence(2020, yearOptions[yearOptions.length - 1])
+  const dates = makeSequence(2021, yearOptions[yearOptions.length - 1])
     .concat(dateOptions)
   await page.locator('select#codes-D176\\.V1').selectOption(dates) // select months of latest year
   await waitUntilLoaded(page)
@@ -35,10 +35,10 @@ const dl = async (page) => {
   const downloadPromise = page.waitForEvent('download')
   await page.getByRole('button', { name: 'Export' }).dblclick()
   const download = await downloadPromise
-  await download.saveAs('./out/monthly/us_states_2020-n_all.txt')
+  await download.saveAs('./out/monthly/us_states_2021-n_all.txt')
 }
 
-test('Download CDC Wonder Data 2020-n [all].', async ({ page }) => {
+test('Download CDC Wonder Data 2021-n [all].', async ({ page }) => {
   await dl(page)
   await page.close()
 })

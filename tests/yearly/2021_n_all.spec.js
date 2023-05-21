@@ -1,5 +1,5 @@
 import { test } from '@playwright/test'
-import { makeSequence, waitUntilLoaded } from './../common.js'
+import { waitUntilLoaded } from '../common.js'
 
 const dl = async (page) => {
   await page.goto('https://wonder.cdc.gov/mcd-icd10-provisional.html')
@@ -15,10 +15,10 @@ const dl = async (page) => {
   const downloadPromise = page.waitForEvent('download')
   await page.getByRole('button', { name: 'Export' }).dblclick()
   const download = await downloadPromise
-  await download.saveAs('./out/yearly/us_states_2020-n_all.txt')
+  await download.saveAs('./out/yearly/us_states_2021-n_all.txt')
 }
 
-test('Download CDC Wonder Data 2020-n [all].', async ({ page }) => {
+test('Download CDC Wonder Data 2021-n [all].', async ({ page }) => {
   await dl(page)
   await page.close()
 })
