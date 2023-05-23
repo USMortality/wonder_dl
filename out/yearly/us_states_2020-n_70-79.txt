@@ -1,0 +1,392 @@
+"Notes"	"Residence State"	"Residence State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2018"	"2018"	12767	367780	3471.4
+	"Alabama"	"01"	"2019"	"2019"	12937	381813	3388.3
+	"Alabama"	"01"	"2020"	"2020"	15893	396138	4012.0
+	"Alabama"	"01"	"2021"	"2021"	17087	407928	4188.7
+	"Alabama"	"01"	"2022 (provisional)"	"2022"	15743	407928	3859.3
+	"Alabama"	"01"	"2023 (provisional and partial)"	"2023"	4529	407928	1110.2
+"Total"	"Alabama"	"01"			78956	2369515	3332.2
+	"Alaska"	"02"	"2018"	"2018"	933	37370	2496.7
+	"Alaska"	"02"	"2019"	"2019"	996	40117	2482.7
+	"Alaska"	"02"	"2020"	"2020"	1171	42567	2751.0
+	"Alaska"	"02"	"2021"	"2021"	1421	44042	3226.5
+	"Alaska"	"02"	"2022 (provisional)"	"2022"	1335	44042	3031.2
+	"Alaska"	"02"	"2023 (provisional and partial)"	"2023"	350	44042	794.7
+"Total"	"Alaska"	"02"			6206	252180	2460.9
+	"Arizona"	"04"	"2018"	"2018"	13670	575927	2373.6
+	"Arizona"	"04"	"2019"	"2019"	14215	605867	2346.2
+	"Arizona"	"04"	"2020"	"2020"	18201	641387	2837.8
+	"Arizona"	"04"	"2021"	"2021"	20031	629943	3179.8
+	"Arizona"	"04"	"2022 (provisional)"	"2022"	18331	629943	2909.9
+	"Arizona"	"04"	"2023 (provisional and partial)"	"2023"	5418	629943	860.1
+"Total"	"Arizona"	"04"			89866	3713010	2420.3
+	"Arkansas"	"05"	"2018"	"2018"	7694	228684	3364.5
+	"Arkansas"	"05"	"2019"	"2019"	7960	235956	3373.5
+	"Arkansas"	"05"	"2020"	"2020"	9299	242585	3833.3
+	"Arkansas"	"05"	"2021"	"2021"	9917	241831	4100.8
+	"Arkansas"	"05"	"2022 (provisional)"	"2022"	9676	241831	4001.1
+	"Arkansas"	"05"	"2023 (provisional and partial)"	"2023"	2924	241831	1209.1
+"Total"	"Arkansas"	"05"			47470	1432718	3313.3
+	"California"	"06"	"2018"	"2018"	54543	2409030	2264.1
+	"California"	"06"	"2019"	"2019"	55576	2514479	2210.2
+	"California"	"06"	"2020"	"2020"	67330	2603700	2585.9
+	"California"	"06"	"2021"	"2021"	71425	2642817	2702.6
+	"California"	"06"	"2022 (provisional)"	"2022"	67985	2642817	2572.4
+	"California"	"06"	"2023 (provisional and partial)"	"2023"	20316	2642817	768.7
+"Total"	"California"	"06"			337175	15455660	2181.6
+	"Colorado"	"08"	"2018"	"2018"	7931	346828	2286.7
+	"Colorado"	"08"	"2019"	"2019"	8204	367633	2231.6
+	"Colorado"	"08"	"2020"	"2020"	10176	389473	2612.8
+	"Colorado"	"08"	"2021"	"2021"	10698	399765	2676.1
+	"Colorado"	"08"	"2022 (provisional)"	"2022"	10495	399765	2625.3
+	"Colorado"	"08"	"2023 (provisional and partial)"	"2023"	3184	399765	796.5
+"Total"	"Colorado"	"08"			50688	2303229	2200.7
+	"Connecticut"	"09"	"2018"	"2018"	5911	260636	2267.9
+	"Connecticut"	"09"	"2019"	"2019"	6267	270020	2320.9
+	"Connecticut"	"09"	"2020"	"2020"	7631	279497	2730.3
+	"Connecticut"	"09"	"2021"	"2021"	7201	285568	2521.6
+	"Connecticut"	"09"	"2022 (provisional)"	"2022"	7226	285568	2530.4
+	"Connecticut"	"09"	"2023 (provisional and partial)"	"2023"	2147	285568	751.8
+"Total"	"Connecticut"	"09"			36383	1666857	2182.7
+	"Delaware"	"10"	"2018"	"2018"	2153	81485	2642.2
+	"Delaware"	"10"	"2019"	"2019"	2072	86088	2406.8
+	"Delaware"	"10"	"2020"	"2020"	2656	90831	2924.1
+	"Delaware"	"10"	"2021"	"2021"	2782	93762	2967.1
+	"Delaware"	"10"	"2022 (provisional)"	"2022"	2856	93762	3046.0
+	"Delaware"	"10"	"2023 (provisional and partial)"	"2023"	857	93762	914.0
+"Total"	"Delaware"	"10"			13376	539690	2478.5
+	"District of Columbia"	"11"	"2018"	"2018"	942	35539	2650.6
+	"District of Columbia"	"11"	"2019"	"2019"	943	36974	2550.4
+	"District of Columbia"	"11"	"2020"	"2020"	1265	38509	3284.9
+	"District of Columbia"	"11"	"2021"	"2021"	1208	37627	3210.5
+	"District of Columbia"	"11"	"2022 (provisional)"	"2022"	1163	37627	3090.9
+	"District of Columbia"	"11"	"2023 (provisional and partial)"	"2023"	287	37627	762.8
+"Total"	"District of Columbia"	"11"			5808	223903	2594.0
+	"Florida"	"12"	"2018"	"2018"	45807	1959208	2338.0
+	"Florida"	"12"	"2019"	"2019"	46678	2039852	2288.3
+	"Florida"	"12"	"2020"	"2020"	55032	2116066	2600.7
+	"Florida"	"12"	"2021"	"2021"	61237	2126878	2879.2
+	"Florida"	"12"	"2022 (provisional)"	"2022"	56533	2126878	2658.0
+	"Florida"	"12"	"2023 (provisional and partial)"	"2023"	17115	2126878	804.7
+"Total"	"Florida"	"12"			282402	12495760	2260.0
+	"Georgia"	"13"	"2018"	"2018"	19822	654183	3030.0
+	"Georgia"	"13"	"2019"	"2019"	20262	688195	2944.2
+	"Georgia"	"13"	"2020"	"2020"	24734	720583	3432.5
+	"Georgia"	"13"	"2021"	"2021"	27125	732808	3701.5
+	"Georgia"	"13"	"2022 (provisional)"	"2022"	25196	732808	3438.3
+	"Georgia"	"13"	"2023 (provisional and partial)"	"2023"	7128	732808	972.7
+"Total"	"Georgia"	"13"			124267	4261385	2916.1
+	"Hawaii"	"15"	"2018"	"2018"	2280	108836	2094.9
+	"Hawaii"	"15"	"2019"	"2019"	2298	114553	2006.1
+	"Hawaii"	"15"	"2020"	"2020"	2574	119929	2146.3
+	"Hawaii"	"15"	"2021"	"2021"	2700	126329	2137.3
+	"Hawaii"	"15"	"2022 (provisional)"	"2022"	2913	126329	2305.9
+	"Hawaii"	"15"	"2023 (provisional and partial)"	"2023"	888	126329	702.9
+"Total"	"Hawaii"	"15"			13653	722305	1890.2
+	"Idaho"	"16"	"2018"	"2018"	3195	123864	2579.4
+	"Idaho"	"16"	"2019"	"2019"	3428	130923	2618.3
+	"Idaho"	"16"	"2020"	"2020"	4005	139347	2874.1
+	"Idaho"	"16"	"2021"	"2021"	4475	146004	3065.0
+	"Idaho"	"16"	"2022 (provisional)"	"2022"	4299	146004	2944.4
+	"Idaho"	"16"	"2023 (provisional and partial)"	"2023"	1247	146004	854.1
+"Total"	"Idaho"	"16"			20649	832146	2481.4
+	"Illinois"	"17"	"2018"	"2018"	23051	841100	2740.6
+	"Illinois"	"17"	"2019"	"2019"	23276	872882	2666.6
+	"Illinois"	"17"	"2020"	"2020"	29239	903233	3237.1
+	"Illinois"	"17"	"2021"	"2021"	28448	926203	3071.5
+	"Illinois"	"17"	"2022 (provisional)"	"2022"	28252	926203	3050.3
+	"Illinois"	"17"	"2023 (provisional and partial)"	"2023"	8128	926203	877.6
+"Total"	"Illinois"	"17"			140394	5395824	2601.9
+	"Indiana"	"18"	"2018"	"2018"	14527	450969	3221.3
+	"Indiana"	"18"	"2019"	"2019"	14979	470009	3187.0
+	"Indiana"	"18"	"2020"	"2020"	17927	488561	3669.3
+	"Indiana"	"18"	"2021"	"2021"	18547	497068	3731.3
+	"Indiana"	"18"	"2022 (provisional)"	"2022"	18153	497068	3652.0
+	"Indiana"	"18"	"2023 (provisional and partial)"	"2023"	5092	497068	1024.4
+"Total"	"Indiana"	"18"			89225	2900743	3075.9
+	"Iowa"	"19"	"2018"	"2018"	6156	220867	2787.2
+	"Iowa"	"19"	"2019"	"2019"	6418	229378	2798.0
+	"Iowa"	"19"	"2020"	"2020"	7695	238374	3228.1
+	"Iowa"	"19"	"2021"	"2021"	7723	244909	3153.4
+	"Iowa"	"19"	"2022 (provisional)"	"2022"	7751	244909	3164.8
+	"Iowa"	"19"	"2023 (provisional and partial)"	"2023"	2351	244909	959.9
+"Total"	"Iowa"	"19"			38094	1423346	2676.4
+	"Kansas"	"20"	"2018"	"2018"	5688	191006	2977.9
+	"Kansas"	"20"	"2019"	"2019"	5888	199057	2957.9
+	"Kansas"	"20"	"2020"	"2020"	7082	207748	3408.9
+	"Kansas"	"20"	"2021"	"2021"	7277	213634	3406.3
+	"Kansas"	"20"	"2022 (provisional)"	"2022"	7286	213634	3410.5
+	"Kansas"	"20"	"2023 (provisional and partial)"	"2023"	2285	213634	1069.6
+"Total"	"Kansas"	"20"			35506	1238713	2866.4
+	"Kentucky"	"21"	"2018"	"2018"	11575	321045	3605.4
+	"Kentucky"	"21"	"2019"	"2019"	11712	333565	3511.2
+	"Kentucky"	"21"	"2020"	"2020"	13372	345732	3867.7
+	"Kentucky"	"21"	"2021"	"2021"	14936	351335	4251.2
+	"Kentucky"	"21"	"2022 (provisional)"	"2022"	14386	351335	4094.7
+	"Kentucky"	"21"	"2023 (provisional and partial)"	"2023"	4077	351335	1160.4
+"Total"	"Kentucky"	"21"			70058	2054347	3410.2
+	"Louisiana"	"22"	"2018"	"2018"	10382	311695	3330.8
+	"Louisiana"	"22"	"2019"	"2019"	10381	324752	3196.6
+	"Louisiana"	"22"	"2020"	"2020"	13171	337706	3900.1
+	"Louisiana"	"22"	"2021"	"2021"	13295	342528	3881.4
+	"Louisiana"	"22"	"2022 (provisional)"	"2022"	12474	342528	3641.7
+	"Louisiana"	"22"	"2023 (provisional and partial)"	"2023"	3128	342528	913.2
+"Total"	"Louisiana"	"22"			62831	2001737	3138.8
+	"Maine"	"23"	"2018"	"2018"	3232	119225	2710.8
+	"Maine"	"23"	"2019"	"2019"	3361	125371	2680.8
+	"Maine"	"23"	"2020"	"2020"	3690	131508	2805.9
+	"Maine"	"23"	"2021"	"2021"	4103	136110	3014.5
+	"Maine"	"23"	"2022 (provisional)"	"2022"	4190	136110	3078.4
+	"Maine"	"23"	"2023 (provisional and partial)"	"2023"	1297	136110	952.9
+"Total"	"Maine"	"23"			19873	784434	2533.4
+	"Maryland"	"24"	"2018"	"2018"	10508	401024	2620.3
+	"Maryland"	"24"	"2019"	"2019"	10826	419013	2583.7
+	"Maryland"	"24"	"2020"	"2020"	13192	435672	3028.0
+	"Maryland"	"24"	"2021"	"2021"	13087	449798	2909.5
+	"Maryland"	"24"	"2022 (provisional)"	"2022"	12857	449798	2858.4
+	"Maryland"	"24"	"2023 (provisional and partial)"	"2023"	3820	449798	849.3
+"Total"	"Maryland"	"24"			64290	2605103	2467.8
+	"Massachusetts"	"25"	"2018"	"2018"	11948	479916	2489.6
+	"Massachusetts"	"25"	"2019"	"2019"	11681	501580	2328.8
+	"Massachusetts"	"25"	"2020"	"2020"	14541	521680	2787.3
+	"Massachusetts"	"25"	"2021"	"2021"	13884	540700	2567.8
+	"Massachusetts"	"25"	"2022 (provisional)"	"2022"	14127	540700	2612.7
+	"Massachusetts"	"25"	"2023 (provisional and partial)"	"2023"	4206	540700	777.9
+"Total"	"Massachusetts"	"25"			70387	3125276	2252.2
+	"Michigan"	"26"	"2018"	"2018"	21274	734848	2895.0
+	"Michigan"	"26"	"2019"	"2019"	21995	766810	2868.4
+	"Michigan"	"26"	"2020"	"2020"	26867	797551	3368.7
+	"Michigan"	"26"	"2021"	"2021"	27788	818318	3395.7
+	"Michigan"	"26"	"2022 (provisional)"	"2022"	26454	818318	3232.7
+	"Michigan"	"26"	"2023 (provisional and partial)"	"2023"	7754	818318	947.6
+"Total"	"Michigan"	"26"			132132	4754163	2779.3
+	"Minnesota"	"27"	"2018"	"2018"	8794	368852	2384.2
+	"Minnesota"	"27"	"2019"	"2019"	9313	386194	2411.5
+	"Minnesota"	"27"	"2020"	"2020"	10997	404196	2720.7
+	"Minnesota"	"27"	"2021"	"2021"	11312	416997	2712.7
+	"Minnesota"	"27"	"2022 (provisional)"	"2022"	11380	416997	2729.0
+	"Minnesota"	"27"	"2023 (provisional and partial)"	"2023"	3416	416997	819.2
+"Total"	"Minnesota"	"27"			55212	2410233	2290.7
+	"Mississippi"	"28"	"2018"	"2018"	7348	208582	3522.8
+	"Mississippi"	"28"	"2019"	"2019"	7676	215973	3554.1
+	"Mississippi"	"28"	"2020"	"2020"	9525	223770	4256.6
+	"Mississippi"	"28"	"2021"	"2021"	9840	224597	4381.2
+	"Mississippi"	"28"	"2022 (provisional)"	"2022"	9327	224597	4152.8
+	"Mississippi"	"28"	"2023 (provisional and partial)"	"2023"	2611	224597	1162.5
+"Total"	"Mississippi"	"28"			46327	1322116	3504.0
+	"Missouri"	"29"	"2018"	"2018"	13887	446028	3113.5
+	"Missouri"	"29"	"2019"	"2019"	14048	462600	3036.7
+	"Missouri"	"29"	"2020"	"2020"	16975	478861	3544.9
+	"Missouri"	"29"	"2021"	"2021"	17322	483689	3581.2
+	"Missouri"	"29"	"2022 (provisional)"	"2022"	16963	483689	3507.0
+	"Missouri"	"29"	"2023 (provisional and partial)"	"2023"	4869	483689	1006.6
+"Total"	"Missouri"	"29"			84064	2838556	2961.5
+	"Montana"	"30"	"2018"	"2018"	2279	85539	2664.3
+	"Montana"	"30"	"2019"	"2019"	2445	90226	2709.9
+	"Montana"	"30"	"2020"	"2020"	2829	94746	2985.9
+	"Montana"	"30"	"2021"	"2021"	3020	98095	3078.6
+	"Montana"	"30"	"2022 (provisional)"	"2022"	2833	98095	2888.0
+	"Montana"	"30"	"2023 (provisional and partial)"	"2023"	866	98095	882.8
+"Total"	"Montana"	"30"			14272	564796	2526.9
+	"Nebraska"	"31"	"2018"	"2018"	3468	124409	2787.6
+	"Nebraska"	"31"	"2019"	"2019"	3546	130484	2717.6
+	"Nebraska"	"31"	"2020"	"2020"	4326	135615	3189.9
+	"Nebraska"	"31"	"2021"	"2021"	4224	140775	3000.5
+	"Nebraska"	"31"	"2022 (provisional)"	"2022"	4241	140775	3012.6
+	"Nebraska"	"31"	"2023 (provisional and partial)"	"2023"	1297	140775	921.3
+"Total"	"Nebraska"	"31"			21102	812833	2596.1
+	"Nevada"	"32"	"2018"	"2018"	6265	221037	2834.4
+	"Nevada"	"32"	"2019"	"2019"	6713	232429	2888.2
+	"Nevada"	"32"	"2020"	"2020"	8074	244675	3299.9
+	"Nevada"	"32"	"2021"	"2021"	8572	246453	3478.1
+	"Nevada"	"32"	"2022 (provisional)"	"2022"	8294	246453	3365.3
+	"Nevada"	"32"	"2023 (provisional and partial)"	"2023"	2378	246453	964.9
+"Total"	"Nevada"	"32"			40296	1437500	2803.2
+	"New Hampshire"	"33"	"2018"	"2018"	2666	105569	2525.4
+	"New Hampshire"	"33"	"2019"	"2019"	2837	111309	2548.8
+	"New Hampshire"	"33"	"2020"	"2020"	3043	116701	2607.5
+	"New Hampshire"	"33"	"2021"	"2021"	3401	120598	2820.1
+	"New Hampshire"	"33"	"2022 (provisional)"	"2022"	3444	120598	2855.8
+	"New Hampshire"	"33"	"2023 (provisional and partial)"	"2023"	1034	120598	857.4
+"Total"	"New Hampshire"	"33"			16425	695373	2362.0
+	"New Jersey"	"34"	"2018"	"2018"	15180	611817	2481.1
+	"New Jersey"	"34"	"2019"	"2019"	15289	633990	2411.6
+	"New Jersey"	"34"	"2020"	"2020"	20620	655639	3145.0
+	"New Jersey"	"34"	"2021"	"2021"	18268	690855	2644.3
+	"New Jersey"	"34"	"2022 (provisional)"	"2022"	18074	690855	2616.2
+	"New Jersey"	"34"	"2023 (provisional and partial)"	"2023"	5163	690855	747.3
+"Total"	"New Jersey"	"34"			92594	3974011	2330.0
+	"New Mexico"	"35"	"2018"	"2018"	3998	161107	2481.6
+	"New Mexico"	"35"	"2019"	"2019"	4255	168907	2519.1
+	"New Mexico"	"35"	"2020"	"2020"	5276	177503	2972.3
+	"New Mexico"	"35"	"2021"	"2021"	5605	181777	3083.4
+	"New Mexico"	"35"	"2022 (provisional)"	"2022"	5429	181777	2986.6
+	"New Mexico"	"35"	"2023 (provisional and partial)"	"2023"	1545	181777	849.9
+"Total"	"New Mexico"	"35"			26108	1052848	2479.8
+	"New York"	"36"	"2018"	"2018"	32057	1351628	2371.7
+	"New York"	"36"	"2019"	"2019"	32596	1405882	2318.5
+	"New York"	"36"	"2020"	"2020"	44249	1455152	3040.9
+	"New York"	"36"	"2021"	"2021"	40283	1530584	2631.9
+	"New York"	"36"	"2022 (provisional)"	"2022"	38271	1530584	2500.4
+	"New York"	"36"	"2023 (provisional and partial)"	"2023"	11608	1530584	758.4
+"Total"	"New York"	"36"			199064	8804414	2261.0
+	"North Carolina"	"37"	"2018"	"2018"	21713	751106	2890.8
+	"North Carolina"	"37"	"2019"	"2019"	22440	788970	2844.2
+	"North Carolina"	"37"	"2020"	"2020"	26162	826332	3166.0
+	"North Carolina"	"37"	"2021"	"2021"	28341	829523	3416.5
+	"North Carolina"	"37"	"2022 (provisional)"	"2022"	26952	829523	3249.1
+	"North Carolina"	"37"	"2023 (provisional and partial)"	"2023"	8098	829523	976.2
+"Total"	"North Carolina"	"37"			133706	4854977	2754.0
+	"North Dakota"	"38"	"2018"	"2018"	1243	45907	2707.6
+	"North Dakota"	"38"	"2019"	"2019"	1270	47804	2656.7
+	"North Dakota"	"38"	"2020"	"2020"	1574	50038	3145.6
+	"North Dakota"	"38"	"2021"	"2021"	1583	52197	3032.7
+	"North Dakota"	"38"	"2022 (provisional)"	"2022"	1435	52197	2749.2
+	"North Dakota"	"38"	"2023 (provisional and partial)"	"2023"	448	52197	858.3
+"Total"	"North Dakota"	"38"			7553	300340	2514.8
+	"Ohio"	"39"	"2018"	"2018"	26611	845187	3148.5
+	"Ohio"	"39"	"2019"	"2019"	27291	879972	3101.3
+	"Ohio"	"39"	"2020"	"2020"	32504	914614	3553.8
+	"Ohio"	"39"	"2021"	"2021"	34451	934119	3688.1
+	"Ohio"	"39"	"2022 (provisional)"	"2022"	32627	934119	3492.8
+	"Ohio"	"39"	"2023 (provisional and partial)"	"2023"	9247	934119	989.9
+"Total"	"Ohio"	"39"			162731	5442130	2990.2
+	"Oklahoma"	"40"	"2018"	"2018"	9562	272154	3513.5
+	"Oklahoma"	"40"	"2019"	"2019"	9615	280342	3429.7
+	"Oklahoma"	"40"	"2020"	"2020"	11762	290258	4052.3
+	"Oklahoma"	"40"	"2021"	"2021"	12506	290557	4304.1
+	"Oklahoma"	"40"	"2022 (provisional)"	"2022"	11973	290557	4120.7
+	"Oklahoma"	"40"	"2023 (provisional and partial)"	"2023"	3387	290557	1165.7
+"Total"	"Oklahoma"	"40"			58805	1714425	3430.0
+	"Oregon"	"41"	"2018"	"2018"	8135	322750	2520.5
+	"Oregon"	"41"	"2019"	"2019"	8762	341064	2569.0
+	"Oregon"	"41"	"2020"	"2020"	9388	358374	2619.6
+	"Oregon"	"41"	"2021"	"2021"	10898	366935	2970.0
+	"Oregon"	"41"	"2022 (provisional)"	"2022"	11081	366935	3019.9
+	"Oregon"	"41"	"2023 (provisional and partial)"	"2023"	3257	366935	887.6
+"Total"	"Oregon"	"41"			51521	2122993	2426.8
+	"Pennsylvania"	"42"	"2018"	"2018"	27910	980190	2847.4
+	"Pennsylvania"	"42"	"2019"	"2019"	28355	1018313	2784.5
+	"Pennsylvania"	"42"	"2020"	"2020"	33920	1054987	3215.2
+	"Pennsylvania"	"42"	"2021"	"2021"	35309	1085662	3252.3
+	"Pennsylvania"	"42"	"2022 (provisional)"	"2022"	33761	1085662	3109.7
+	"Pennsylvania"	"42"	"2023 (provisional and partial)"	"2023"	10185	1085662	938.1
+"Total"	"Pennsylvania"	"42"			169440	6310476	2685.1
+	"Rhode Island"	"44"	"2018"	"2018"	1995	75611	2638.5
+	"Rhode Island"	"44"	"2019"	"2019"	2080	78818	2639.0
+	"Rhode Island"	"44"	"2020"	"2020"	2444	82536	2961.1
+	"Rhode Island"	"44"	"2021"	"2021"	2437	86994	2801.3
+	"Rhode Island"	"44"	"2022 (provisional)"	"2022"	2424	86994	2786.4
+	"Rhode Island"	"44"	"2023 (provisional and partial)"	"2023"	748	86994	859.8
+"Total"	"Rhode Island"	"44"			12128	497947	2435.6
+	"South Carolina"	"45"	"2018"	"2018"	11970	410826	2913.6
+	"South Carolina"	"45"	"2019"	"2019"	12385	434407	2851.0
+	"South Carolina"	"45"	"2020"	"2020"	15152	457129	3314.6
+	"South Carolina"	"45"	"2021"	"2021"	16230	458613	3538.9
+	"South Carolina"	"45"	"2022 (provisional)"	"2022"	15378	458613	3353.2
+	"South Carolina"	"45"	"2023 (provisional and partial)"	"2023"	4461	458613	972.7
+"Total"	"South Carolina"	"45"			75576	2678201	2821.9
+	"South Dakota"	"46"	"2018"	"2018"	1523	58556	2600.9
+	"South Dakota"	"46"	"2019"	"2019"	1673	61636	2714.3
+	"South Dakota"	"46"	"2020"	"2020"	2037	65142	3127.0
+	"South Dakota"	"46"	"2021"	"2021"	1988	67051	2964.9
+	"South Dakota"	"46"	"2022 (provisional)"	"2022"	2033	67051	3032.0
+	"South Dakota"	"46"	"2023 (provisional and partial)"	"2023"	562	67051	838.2
+"Total"	"South Dakota"	"46"			9816	386487	2539.8
+	"Tennessee"	"47"	"2018"	"2018"	16454	496017	3317.2
+	"Tennessee"	"47"	"2019"	"2019"	17018	516865	3292.5
+	"Tennessee"	"47"	"2020"	"2020"	20164	537563	3751.0
+	"Tennessee"	"47"	"2021"	"2021"	22055	546530	4035.5
+	"Tennessee"	"47"	"2022 (provisional)"	"2022"	21010	546530	3844.3
+	"Tennessee"	"47"	"2023 (provisional and partial)"	"2023"	6043	546530	1105.7
+"Total"	"Tennessee"	"47"			102744	3190035	3220.8
+	"Texas"	"48"	"2018"	"2018"	44493	1567390	2838.7
+	"Texas"	"48"	"2019"	"2019"	45838	1643230	2789.5
+	"Texas"	"48"	"2020"	"2020"	57744	1722595	3352.2
+	"Texas"	"48"	"2021"	"2021"	62316	1746733	3567.6
+	"Texas"	"48"	"2022 (provisional)"	"2022"	57173	1746733	3273.1
+	"Texas"	"48"	"2023 (provisional and partial)"	"2023"	16761	1746733	959.6
+"Total"	"Texas"	"48"			284325	10173414	2794.8
+	"Utah"	"49"	"2018"	"2018"	3723	152395	2443.0
+	"Utah"	"49"	"2019"	"2019"	3911	160928	2430.3
+	"Utah"	"49"	"2020"	"2020"	4594	169565	2709.3
+	"Utah"	"49"	"2021"	"2021"	4914	175865	2794.2
+	"Utah"	"49"	"2022 (provisional)"	"2022"	4991	175865	2838.0
+	"Utah"	"49"	"2023 (provisional and partial)"	"2023"	1502	175865	854.1
+"Total"	"Utah"	"49"			23635	1010483	2339.0
+	"Vermont"	"50"	"2018"	"2018"	1289	52267	2466.2
+	"Vermont"	"50"	"2019"	"2019"	1348	55141	2444.6
+	"Vermont"	"50"	"2020"	"2020"	1468	57635	2547.1
+	"Vermont"	"50"	"2021"	"2021"	1561	61050	2556.9
+	"Vermont"	"50"	"2022 (provisional)"	"2022"	1665	61050	2727.3
+	"Vermont"	"50"	"2023 (provisional and partial)"	"2023"	510	61050	835.4
+"Total"	"Vermont"	"50"			7841	348193	2251.9
+	"Virginia"	"51"	"2018"	"2018"	15687	581429	2698.0
+	"Virginia"	"51"	"2019"	"2019"	16107	608232	2648.2
+	"Virginia"	"51"	"2020"	"2020"	18680	633043	2950.8
+	"Virginia"	"51"	"2021"	"2021"	20408	644055	3168.7
+	"Virginia"	"51"	"2022 (provisional)"	"2022"	19842	644055	3080.8
+	"Virginia"	"51"	"2023 (provisional and partial)"	"2023"	5878	644055	912.7
+"Total"	"Virginia"	"51"			96602	3754869	2572.7
+	"Washington"	"53"	"2018"	"2018"	12372	505211	2448.9
+	"Washington"	"53"	"2019"	"2019"	13205	534493	2470.6
+	"Washington"	"53"	"2020"	"2020"	14455	559577	2583.2
+	"Washington"	"53"	"2021"	"2021"	16231	574114	2827.1
+	"Washington"	"53"	"2022 (provisional)"	"2022"	16452	574114	2865.6
+	"Washington"	"53"	"2023 (provisional and partial)"	"2023"	4934	574114	859.4
+"Total"	"Washington"	"53"			77649	3321623	2337.7
+	"West Virginia"	"54"	"2018"	"2018"	5508	157510	3496.9
+	"West Virginia"	"54"	"2019"	"2019"	5553	163844	3389.2
+	"West Virginia"	"54"	"2020"	"2020"	6444	169705	3797.2
+	"West Virginia"	"54"	"2021"	"2021"	7395	171626	4308.8
+	"West Virginia"	"54"	"2022 (provisional)"	"2022"	7051	171626	4108.4
+	"West Virginia"	"54"	"2023 (provisional and partial)"	"2023"	2091	171626	1218.3
+"Total"	"West Virginia"	"54"			34042	1005937	3384.1
+	"Wisconsin"	"55"	"2018"	"2018"	11016	411562	2676.6
+	"Wisconsin"	"55"	"2019"	"2019"	11530	431420	2672.6
+	"Wisconsin"	"55"	"2020"	"2020"	13708	452680	3028.2
+	"Wisconsin"	"55"	"2021"	"2021"	13691	468213	2924.1
+	"Wisconsin"	"55"	"2022 (provisional)"	"2022"	13952	468213	2979.8
+	"Wisconsin"	"55"	"2023 (provisional and partial)"	"2023"	4050	468213	865.0
+"Total"	"Wisconsin"	"55"			67947	2700301	2516.3
+	"Wyoming"	"56"	"2018"	"2018"	1142	40788	2799.8
+	"Wyoming"	"56"	"2019"	"2019"	1188	42737	2779.8
+	"Wyoming"	"56"	"2020"	"2020"	1453	45556	3189.5
+	"Wyoming"	"56"	"2021"	"2021"	1593	46409	3432.5
+	"Wyoming"	"56"	"2022 (provisional)"	"2022"	1437	46409	3096.4
+	"Wyoming"	"56"	"2023 (provisional and partial)"	"2023"	439	46409	945.9
+"Total"	"Wyoming"	"56"			7252	268308	2702.9
+"Total"					3808466	146545863	2598.8
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Single-Year Ages: 70 years; 71 years; 72 years; 73 years; 74 years; 75 years; 76 years; 77 years; 78 years; 79 years"
+"Group By: Residence State; Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: May 21, 2023 1:23:10 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on May 21, 2023 1:23:10"
+"AM"
+"---"
+Caveats:
+"1. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"2. The population figures for years 2021 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2021 postcensal series based on the April 2020 Census counts, released by the Census Bureau on June 30, 2022. The population"
+"figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"3. Deaths occurring through April 22, 2023 as of May 07, 2023."

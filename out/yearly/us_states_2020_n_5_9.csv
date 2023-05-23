@@ -1,0 +1,275 @@
+"Notes","Residence State","Residence State Code","Year","Year Code",Deaths,Population,Crude Rate
+,"Alabama","01","2018","2018",55,297900,18.5
+,"Alabama","01","2019","2019",60,297968,20.1
+,"Alabama","01","2020","2020",53,299404,17.7
+,"Alabama","01","2021","2021",48,307465,15.6
+,"Alabama","01","2022 (provisional)","2022",60,307465,19.5
+,"Alabama","01","2023 (provisional and partial)","2023",15,307465,Unreliable
+,"Alaska","02","2018","2018",16,52056,Unreliable
+,"Alaska","02","2020","2020",17,51643,Unreliable
+,"Alaska","02","2022 (provisional)","2022",12,51285,Unreliable
+,"Arizona","04","2018","2018",46,451726,10.2
+,"Arizona","04","2019","2019",50,453692,11.0
+,"Arizona","04","2020","2020",52,458844,11.3
+,"Arizona","04","2021","2021",54,445488,12.1
+,"Arizona","04","2022 (provisional)","2022",52,445488,11.7
+,"Arizona","04","2023 (provisional and partial)","2023",24,445488,5.4
+,"Arkansas","05","2018","2018",35,193284,18.1
+,"Arkansas","05","2019","2019",28,192747,14.5
+,"Arkansas","05","2020","2020",25,193212,12.9
+,"Arkansas","05","2021","2021",32,193097,16.6
+,"Arkansas","05","2022 (provisional)","2022",38,193097,19.7
+,"Arkansas","05","2023 (provisional and partial)","2023",10,193097,Unreliable
+,"California","06","2018","2018",215,2488902,8.6
+,"California","06","2019","2019",220,2478850,8.9
+,"California","06","2020","2020",206,2468600,8.3
+,"California","06","2021","2021",212,2431665,8.7
+,"California","06","2022 (provisional)","2022",226,2431665,9.3
+,"California","06","2023 (provisional and partial)","2023",55,2431665,2.3
+,"Colorado","08","2018","2018",38,347953,10.9
+,"Colorado","08","2019","2019",40,346783,11.5
+,"Colorado","08","2020","2020",20,344851,5.8
+,"Colorado","08","2021","2021",32,339865,9.4
+,"Colorado","08","2022 (provisional)","2022",43,339865,12.7
+,"Connecticut","09","2018","2018",23,196011,11.7
+,"Connecticut","09","2019","2019",12,194738,Unreliable
+,"Connecticut","09","2020","2020",15,193731,Unreliable
+,"Connecticut","09","2022 (provisional)","2022",25,195153,12.8
+,"Florida","12","2018","2018",147,1157587,12.7
+,"Florida","12","2019","2019",141,1166350,12.1
+,"Florida","12","2020","2020",147,1179044,12.5
+,"Florida","12","2021","2021",143,1181269,12.1
+,"Florida","12","2022 (provisional)","2022",146,1181269,12.4
+,"Florida","12","2023 (provisional and partial)","2023",46,1181269,3.9
+,"Georgia","13","2018","2018",90,685904,13.1
+,"Georgia","13","2019","2019",93,685587,13.6
+,"Georgia","13","2020","2020",87,687297,12.7
+,"Georgia","13","2021","2021",92,687507,13.4
+,"Georgia","13","2022 (provisional)","2022",92,687507,13.4
+,"Georgia","13","2023 (provisional and partial)","2023",23,687507,3.3
+,"Idaho","16","2018","2018",11,122965,Unreliable
+,"Idaho","16","2019","2019",33,123317,26.8
+,"Idaho","16","2020","2020",14,125055,Unreliable
+,"Idaho","16","2022 (provisional)","2022",12,129429,Unreliable
+,"Illinois","17","2018","2018",82,778102,10.5
+,"Illinois","17","2019","2019",72,769727,9.4
+,"Illinois","17","2020","2020",84,762503,11.0
+,"Illinois","17","2021","2021",104,765597,13.6
+,"Illinois","17","2022 (provisional)","2022",87,765597,11.4
+,"Illinois","17","2023 (provisional and partial)","2023",32,765597,4.2
+,"Indiana","18","2018","2018",58,430106,13.5
+,"Indiana","18","2019","2019",52,431942,12.0
+,"Indiana","18","2020","2020",62,434108,14.3
+,"Indiana","18","2021","2021",64,437113,14.6
+,"Indiana","18","2022 (provisional)","2022",64,437113,14.6
+,"Indiana","18","2023 (provisional and partial)","2023",15,437113,Unreliable
+,"Iowa","19","2018","2018",28,201115,13.9
+,"Iowa","19","2019","2019",21,200156,10.5
+,"Iowa","19","2020","2020",26,200418,13.0
+,"Iowa","19","2021","2021",25,202779,12.3
+,"Iowa","19","2022 (provisional)","2022",26,202779,12.8
+,"Kansas","20","2018","2018",27,197621,13.7
+,"Kansas","20","2019","2019",26,196363,13.2
+,"Kansas","20","2020","2020",20,194309,10.3
+,"Kansas","20","2021","2021",25,194595,12.8
+,"Kansas","20","2022 (provisional)","2022",27,194595,13.9
+,"Kentucky","21","2018","2018",41,276726,14.8
+,"Kentucky","21","2019","2019",37,276417,13.4
+,"Kentucky","21","2020","2020",38,277704,13.7
+,"Kentucky","21","2021","2021",52,279964,18.6
+,"Kentucky","21","2022 (provisional)","2022",40,279964,14.3
+,"Kentucky","21","2023 (provisional and partial)","2023",10,279964,Unreliable
+,"Louisiana","22","2018","2018",51,301567,16.9
+,"Louisiana","22","2019","2019",43,301217,14.3
+,"Louisiana","22","2020","2020",47,301718,15.6
+,"Louisiana","22","2021","2021",54,301326,17.9
+,"Louisiana","22","2022 (provisional)","2022",42,301326,13.9
+,"Louisiana","22","2023 (provisional and partial)","2023",14,301326,Unreliable
+,"Maine","23","2019","2019",10,67424,Unreliable
+,"Maryland","24","2018","2018",37,370444,10.0
+,"Maryland","24","2019","2019",27,370555,7.3
+,"Maryland","24","2020","2020",39,371372,10.5
+,"Maryland","24","2021","2021",42,375916,11.2
+,"Maryland","24","2022 (provisional)","2022",43,375916,11.4
+,"Maryland","24","2023 (provisional and partial)","2023",15,375916,Unreliable
+,"Massachusetts","25","2018","2018",36,370010,9.7
+,"Massachusetts","25","2019","2019",32,368450,8.7
+,"Massachusetts","25","2020","2020",19,367853,Unreliable
+,"Massachusetts","25","2021","2021",26,370123,7.0
+,"Massachusetts","25","2022 (provisional)","2022",36,370123,9.7
+,"Michigan","26","2018","2018",87,586648,14.8
+,"Michigan","26","2019","2019",76,586325,13.0
+,"Michigan","26","2020","2020",81,585009,13.8
+,"Michigan","26","2021","2021",79,590004,13.4
+,"Michigan","26","2022 (provisional)","2022",79,590004,13.4
+,"Michigan","26","2023 (provisional and partial)","2023",25,590004,4.2
+,"Minnesota","27","2018","2018",40,360434,11.1
+,"Minnesota","27","2019","2019",33,362846,9.1
+,"Minnesota","27","2020","2020",34,363435,9.4
+,"Minnesota","27","2021","2021",49,366552,13.4
+,"Minnesota","27","2022 (provisional)","2022",47,366552,12.8
+,"Mississippi","28","2018","2018",37,192967,19.2
+,"Mississippi","28","2019","2019",46,189377,24.3
+,"Mississippi","28","2020","2020",44,187645,23.4
+,"Mississippi","28","2021","2021",37,185447,20.0
+,"Mississippi","28","2022 (provisional)","2022",37,185447,20.0
+,"Mississippi","28","2023 (provisional and partial)","2023",11,185447,Unreliable
+,"Missouri","29","2018","2018",52,377947,13.8
+,"Missouri","29","2019","2019",51,378425,13.5
+,"Missouri","29","2020","2020",45,379136,11.9
+,"Missouri","29","2021","2021",50,379721,13.2
+,"Missouri","29","2022 (provisional)","2022",56,379721,14.7
+,"Missouri","29","2023 (provisional and partial)","2023",13,379721,Unreliable
+,"Montana","30","2019","2019",12,63876,Unreliable
+,"Montana","30","2020","2020",11,64831,Unreliable
+,"Montana","30","2022 (provisional)","2022",13,66204,Unreliable
+,"Nebraska","31","2018","2018",15,132340,Unreliable
+,"Nebraska","31","2019","2019",17,132357,Unreliable
+,"Nebraska","31","2020","2020",19,133064,Unreliable
+,"Nebraska","31","2021","2021",16,134800,Unreliable
+,"Nebraska","31","2022 (provisional)","2022",17,134800,Unreliable
+,"Nevada","32","2018","2018",25,191607,13.0
+,"Nevada","32","2019","2019",23,193050,11.9
+,"Nevada","32","2020","2020",15,195109,Unreliable
+,"Nevada","32","2021","2021",34,193363,17.6
+,"Nevada","32","2022 (provisional)","2022",27,193363,14.0
+,"Nevada","32","2023 (provisional and partial)","2023",10,193363,Unreliable
+,"New Jersey","34","2018","2018",68,533562,12.7
+,"New Jersey","34","2019","2019",46,532258,8.6
+,"New Jersey","34","2020","2020",27,532324,5.1
+,"New Jersey","34","2021","2021",47,552745,8.5
+,"New Jersey","34","2022 (provisional)","2022",33,552745,6.0
+,"New Jersey","34","2023 (provisional and partial)","2023",12,552745,Unreliable
+,"New Mexico","35","2018","2018",21,134822,15.6
+,"New Mexico","35","2019","2019",21,132779,15.8
+,"New Mexico","35","2020","2020",12,131348,Unreliable
+,"New Mexico","35","2021","2021",24,129577,18.5
+,"New Mexico","35","2022 (provisional)","2022",11,129577,Unreliable
+,"New York","36","2018","2018",110,1119326,9.8
+,"New York","36","2019","2019",130,1117891,11.6
+,"New York","36","2020","2020",106,1114413,9.5
+,"New York","36","2021","2021",120,1139585,10.5
+,"New York","36","2022 (provisional)","2022",126,1139585,11.1
+,"New York","36","2023 (provisional and partial)","2023",32,1139585,2.8
+,"North Carolina","37","2018","2018",75,628094,11.9
+,"North Carolina","37","2019","2019",82,628866,13.0
+,"North Carolina","37","2020","2020",81,632113,12.8
+,"North Carolina","37","2021","2021",71,626224,11.3
+,"North Carolina","37","2022 (provisional)","2022",96,626224,15.3
+,"North Carolina","37","2023 (provisional and partial)","2023",33,626224,5.3
+,"North Dakota","38","2018","2018",10,50206,Unreliable
+,"North Dakota","38","2022 (provisional)","2022",11,53299,Unreliable
+,"Ohio","39","2018","2018",76,708148,10.7
+,"Ohio","39","2019","2019",69,708467,9.7
+,"Ohio","39","2020","2020",70,710741,9.8
+,"Ohio","39","2021","2021",94,718318,13.1
+,"Ohio","39","2022 (provisional)","2022",97,718318,13.5
+,"Ohio","39","2023 (provisional and partial)","2023",29,718318,4.0
+,"Oklahoma","40","2018","2018",35,267797,13.1
+,"Oklahoma","40","2019","2019",41,267907,15.3
+,"Oklahoma","40","2020","2020",45,269174,16.7
+,"Oklahoma","40","2021","2021",47,269611,17.4
+,"Oklahoma","40","2022 (provisional)","2022",51,269611,18.9
+,"Oklahoma","40","2023 (provisional and partial)","2023",12,269611,Unreliable
+,"Oregon","41","2018","2018",21,242575,8.7
+,"Oregon","41","2019","2019",20,242452,8.2
+,"Oregon","41","2020","2020",21,241871,8.7
+,"Oregon","41","2021","2021",25,239614,10.4
+,"Oregon","41","2022 (provisional)","2022",26,239614,10.9
+,"Pennsylvania","42","2018","2018",79,725614,10.9
+,"Pennsylvania","42","2019","2019",91,726053,12.5
+,"Pennsylvania","42","2020","2020",77,725467,10.6
+,"Pennsylvania","42","2021","2021",94,734804,12.8
+,"Pennsylvania","42","2022 (provisional)","2022",96,734804,13.1
+,"Pennsylvania","42","2023 (provisional and partial)","2023",27,734804,3.7
+,"South Carolina","45","2018","2018",42,306255,13.7
+,"South Carolina","45","2019","2019",36,306776,11.7
+,"South Carolina","45","2020","2020",50,308821,16.2
+,"South Carolina","45","2021","2021",56,305189,18.3
+,"South Carolina","45","2022 (provisional)","2022",53,305189,17.4
+,"South Carolina","45","2023 (provisional and partial)","2023",17,305189,Unreliable
+,"South Dakota","46","2021","2021",10,61519,Unreliable
+,"Tennessee","47","2018","2018",56,412340,13.6
+,"Tennessee","47","2019","2019",69,413379,16.7
+,"Tennessee","47","2020","2020",57,416196,13.7
+,"Tennessee","47","2021","2021",60,422344,14.2
+,"Tennessee","47","2022 (provisional)","2022",60,422344,14.2
+,"Tennessee","47","2023 (provisional and partial)","2023",20,422344,4.7
+,"Texas","48","2018","2018",236,2047747,11.5
+,"Texas","48","2019","2019",239,2063578,11.6
+,"Texas","48","2020","2020",233,2086674,11.2
+,"Texas","48","2021","2021",246,2087035,11.8
+,"Texas","48","2022 (provisional)","2022",264,2087035,12.6
+,"Texas","48","2023 (provisional and partial)","2023",69,2087035,3.3
+,"Utah","49","2018","2018",17,259078,Unreliable
+,"Utah","49","2019","2019",29,258976,11.2
+,"Utah","49","2020","2020",19,258247,Unreliable
+,"Utah","49","2021","2021",24,260885,9.2
+,"Utah","49","2022 (provisional)","2022",36,260885,13.8
+,"Utah","49","2023 (provisional and partial)","2023",14,260885,Unreliable
+,"Virginia","51","2018","2018",52,514457,10.1
+,"Virginia","51","2019","2019",56,514886,10.9
+,"Virginia","51","2020","2020",45,518139,8.7
+,"Virginia","51","2021","2021",52,520261,10.0
+,"Virginia","51","2022 (provisional)","2022",74,520261,14.2
+,"Virginia","51","2023 (provisional and partial)","2023",13,520261,Unreliable
+,"Washington","53","2018","2018",44,466916,9.4
+,"Washington","53","2019","2019",38,468777,8.1
+,"Washington","53","2020","2020",41,471749,8.7
+,"Washington","53","2021","2021",43,471811,9.1
+,"Washington","53","2022 (provisional)","2022",49,471811,10.4
+,"Washington","53","2023 (provisional and partial)","2023",23,471811,4.9
+,"West Virginia","54","2018","2018",14,101043,Unreliable
+,"West Virginia","54","2019","2019",10,100280,Unreliable
+,"West Virginia","54","2020","2020",15,99916,Unreliable
+,"West Virginia","54","2021","2021",14,99221,Unreliable
+,"West Virginia","54","2022 (provisional)","2022",14,99221,Unreliable
+,"Wisconsin","55","2018","2018",27,349799,7.7
+,"Wisconsin","55","2019","2019",40,347240,11.5
+,"Wisconsin","55","2020","2020",39,344504,11.3
+,"Wisconsin","55","2021","2021",35,346824,10.1
+,"Wisconsin","55","2022 (provisional)","2022",57,346824,16.4
+,"Wisconsin","55","2023 (provisional and partial)","2023",20,346824,5.8
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Single-Year Ages: 5 years; 6 years; 7 years; 8 years; 9 years"
+"Group By: Residence State; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: May 21, 2023 1:24:32 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on May 21, 2023 1:24:32"
+"AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"4. The population figures for years 2021 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2021 postcensal series based on the April 2020 Census counts, released by the Census Bureau on June 30, 2022. The population"
+"figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"5. Deaths occurring through April 22, 2023 as of May 07, 2023."
