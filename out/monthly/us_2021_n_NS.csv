@@ -1,0 +1,53 @@
+"Notes","Month","Month Code",Deaths,Population,Crude Rate
+,"Jan., 2021","2021/01",14,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06",10,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07",10,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09",12,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12",10,Not Applicable,Not Applicable
+,"Jan., 2022 (provisional)","2022/01",19,Not Applicable,Not Applicable
+,"Feb., 2022 (provisional)","2022/02",11,Not Applicable,Not Applicable
+,"Mar., 2022 (provisional)","2022/03",10,Not Applicable,Not Applicable
+,"Aug., 2022 (provisional)","2022/08",10,Not Applicable,Not Applicable
+,"Dec., 2022 (provisional)","2022/12",10,Not Applicable,Not Applicable
+"Total",,,218,Not Applicable,Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Month"
+"Query Parameters:"
+"Single-Year Ages: Not Stated"
+"Year/Month: 2021; 2022 (provisional); Jan., 2023 (provisional); Feb., 2023 (provisional); Mar., 2023 (provisional); Apr., 2023"
+"(provisional)"
+"Group By: Month"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: May 26, 2023 7:48:46 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on May 26, 2023 7:48:46"
+"PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"5. Deaths occurring through April 22, 2023 as of May 07, 2023."

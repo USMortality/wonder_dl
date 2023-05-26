@@ -61,5 +61,6 @@ test('Download CDC Wonder Data 1999-2020 [5y groups].', async ({ page }) => {
   await dl(page, makeSequence(85, 89))
   await dl(page, makeSequence(90, 94))
   await dl(page, makeSequence(95, 100))
+  await dl(page, 'NS')
   await page.close()
 })
