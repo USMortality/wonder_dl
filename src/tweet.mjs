@@ -44,9 +44,10 @@ const downloadCsv = url => new Promise((resolve) => {
 })
 const tweet = async (iso3c, jurisdiction, max) => {
   await downloadImage(`${url_base}${iso3c}.png`, './out/twitter.png')
-  const message = `📊 Mortality Data for ${jurisdiction} has Been Updated! 🗺️\n` +
-    ">> Latest data now available through " +
-    `${max} <<\n"🔗 https://mortality.watch/explorer/?t=cmr&ct=weekly_52w_sma&v=2&c=${iso3c}`
+  const message = `📊 Mortality data for ${jurisdiction} just updated!\n` +
+    `🗓️ Data now available through ${max}.` +
+    `🔗 https://mortality.watch/explorer/?t=cmr&ct=weekly_52w_sma&v=2&c=${iso3c}` +
+    `#️⃣ #COVID #COVID19 #Vaccine #CovidVaccine`
   const mediaId = await client.v1.uploadMedia('./out/twitter.png')
   await client.v2.tweet(message, { media: { media_ids: [mediaId] } })
 }
