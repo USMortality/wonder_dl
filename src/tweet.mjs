@@ -3,6 +3,7 @@ import * as fs from 'fs'
 import * as https from 'https'
 import * as csv from 'csv'
 import * as Minio from 'minio'
+import { stringify } from 'csv-stringify/sync';
 
 const s3Client = new Minio.Client({
   endPoint: process.env.AWS_DEFAULT_REGION + '.' + process.env.AWS_S3_ENDPOINT,
@@ -89,16 +90,13 @@ for (const [iso3c, date] of Object.entries(df)) {
 }
 
 const writeCsv = async (obj, path) => new Promise((resolve) => {
-  const csvStringifier = csv.stringify({ header: true })
-  csvStringifier.on('readable', async () => {
-    let row
-    while (row = csvStringifier.read()) {
-      await fs.appendFile(path, row, 'utf8', () => { })
-    }
-    resolve()
-  })
-  for (const row of obj) csvStringifier.write(row)
+  if (fs.existsSync(path)) fs.unlinkSync(path)
+  const data = stringify(obj, { header: true })
+  fs.writeFileSync(path, data)
+  resolve()
 })
+
+console.log(`Updated tweets: ${tweets}`)
 
 // Only update when we have new tweets.
 if (tweets > 0) {
