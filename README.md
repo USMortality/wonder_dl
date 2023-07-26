@@ -1,4 +1,4 @@
-# Download CDC Wonder Data Deaths by state, month, 10y age-groups
+# Download CDC Wonder Data Deaths
 
 ## Installation
 ```
