@@ -55,12 +55,13 @@ const tweet = async (iso3c, jurisdiction, max) => {
 
 fs.mkdirSync('./out', { recursive: true })
 
+const meta = await downloadCsv('https://s3.mortality.watch/data/mortality/world_meta.csv')
 const data_old = await downloadCsv('https://s3.mortality.watch/data/mortality/world_max_date.csv')
 const data_ytd = await downloadCsv('https://s3.mortality.watch/data/mortality/world_ytd.csv')
 
 // Find iso - jurisdictions
 const jurisdictions = {}
-for (const row of data_ytd) jurisdictions[row.iso3c] = row.jurisdiction
+for (const row of meta) jurisdictions[row.iso3c] = row.jurisdiction
 
 // Find last date
 const df_old = {}
