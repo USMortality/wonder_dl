@@ -3,6 +3,7 @@ import * as fs from 'fs'
 import * as https from 'https'
 import { parse } from 'csv-parse'
 import * as Minio from 'minio'
+import { waitUntilLoaded } from './common'
 
 const s3Client = new Minio.Client({
   endPoint: process.env.AWS_DEFAULT_REGION + '.' + process.env.AWS_S3_ENDPOINT,
@@ -60,35 +61,11 @@ const saveChart = async (page, type, iso) => {
 
 test('Save 52W Mortality, CMR', async ({ page }) => {
   const countries = await getCountryList()
-  const population = await getPopulationList()
-
-  await page.goto('https://www.mortality.watch/explorer')
   await page.evaluate(() => window.disableToast = true)
 
-  // 52W SMA
-  await page.locator('#chart-type-select').click()
-  await page.keyboard.type('52')
-  await page.keyboard.press('Enter');
-
-  // ASMR
-  await page.locator('#type-select').click()
-  await page.keyboard.type('Crude Mortality Rate (CMR)')
-  await page.keyboard.press('Enter');
-
   for (const iso of countries.cmr) {
-    let country = population.get(iso)
-    country = country === 'Deutschland' ? 'Germany' : country
-    if (!country) throw new Error('No country name for iso3c found: ' + iso)
-
-    // Country
-    await page.locator('#country-select').click()
-    await page.keyboard.press('Backspace');
-    await page.keyboard.press('Backspace');
-    await page.locator('#country-select > div > div.multiselect__tags > input')
-      .fill(country)
-    await page.keyboard.press('Enter');
-
-    await page.locator('#country-select > div > div.multiselect__select').click()
+    await page.goto(`https://www.mortality.watch/explorer/?c=${iso}&t=cmr&ct=weekly_52w_sma&v=2`)
+    await waitUntilLoaded(page)
     await saveChart(page, "cmr", iso)
   }
 
@@ -97,36 +74,11 @@ test('Save 52W Mortality, CMR', async ({ page }) => {
 
 test('Save 52W Mortality, ASMR', async ({ page }) => {
   const countries = await getCountryList()
-  const population = await getPopulationList()
-
-  await page.goto('https://www.mortality.watch/explorer')
   await page.evaluate(() => window.disableToast = true)
 
-  // 52W SMA
-  await page.locator('#chart-type-select').click()
-  await page.keyboard.type('52')
-  await page.keyboard.press('Enter');
-
-  // ASMR
-  await page.locator('#type-select').click()
-  await page.keyboard.type('Age Std. Mortality Rate (ASMR)')
-  await page.keyboard.press('Enter');
-
   for (const iso of countries.asmr) {
-    let country = population.get(iso)
-    country = country === 'Deutschland' ? 'Germany' : country
-    if (!country) throw new Error('No country name for iso3c found: ' + iso)
-
-    // Country
-    await page.locator('#country-select').click()
-    await page.keyboard.press('Backspace');
-    await page.keyboard.press('Backspace');
-    await page.locator('#country-select > div > div.multiselect__tags > input')
-      .fill(country)
-    await page.keyboard.press('Enter');
-
-    await page.locator('#country-select > div > div.multiselect__select').click()
-
+    await page.goto(`https://www.mortality.watch/explorer/?c=${iso}&t=asmr&ct=weekly_52w_sma&v=2`)
+    await waitUntilLoaded(page)
     await saveChart(page, "asmr", iso)
   }
 
