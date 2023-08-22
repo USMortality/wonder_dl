@@ -15,15 +15,15 @@ test.use({ deviceScaleFactor: 2, viewport: { width: 700, height: 1200 } })
 
 const wait = ms => new Promise(r => setTimeout(r, ms))
 
-const retryOperation = (
+const retryOperation = async (
   operation, delay, retries, ...args
-) => new Promise((resolve, reject) => {
-  return operation(...args)
+) => new Promise(async (resolve, reject) => {
+  return await operation(...args)
     .then(resolve)
     .catch((reason) => {
       if (retries > 0) {
         return wait(delay)
-          .then(retryOperation.bind(null, operation, delay, retries - 1))
+          .then(retryOperation.bind(null, operation, delay, retries - 1, ...args))
           .then(resolve)
           .catch(reject)
       }
@@ -73,10 +73,9 @@ test('Save 52W Mortality, CMR', async ({ page }) => {
     await page.goto(`https://www.mortality.watch/explorer/?c=${iso}&t=cmr&ct=weekly_52w_sma&v=2`)
     await waitUntilLoaded(page)
     await page.waitForSelector('canvas')
-    retryOperation(saveChart, 1000, 5, page, "cmr", iso)
-      .then(console.log)
+    await retryOperation(saveChart, 1000, 5, page, "cmr", iso)
       .catch(console.log)
-    wait(1000)
+    await wait(1000)
   }
 
   await page.close()
@@ -91,10 +90,9 @@ test('Save 52W Mortality, ASMR', async ({ page }) => {
     await page.goto(`https://www.mortality.watch/explorer/?c=${iso}&t=asmr&ct=weekly_52w_sma&v=2`)
     await waitUntilLoaded(page)
     await page.waitForSelector('canvas')
-    retryOperation(saveChart, 1000, 5, page, "cmr", iso)
-      .then(console.log)
+    await retryOperation(saveChart, 1000, 5, page, "cmr", iso)
       .catch(console.log)
-    wait(1000)
+    await wait(1000)
   }
 
   await page.close()
