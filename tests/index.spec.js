@@ -13,9 +13,11 @@ const s3Client = new Minio.Client({
 
 test.use({ deviceScaleFactor: 2, viewport: { width: 700, height: 1200 } })
 
-const wait = ms => new Promise(r => setTimeout(r, ms));
+const wait = ms => new Promise(r => setTimeout(r, ms))
 
-const retryOperation = (operation, delay, retries, ...args) => new Promise((resolve, reject) => {
+const retryOperation = (
+  operation, delay, retries, ...args
+) => new Promise((resolve, reject) => {
   return operation(...args)
     .then(resolve)
     .catch((reason) => {
@@ -23,15 +25,15 @@ const retryOperation = (operation, delay, retries, ...args) => new Promise((reso
         return wait(delay)
           .then(retryOperation.bind(null, operation, delay, retries - 1))
           .then(resolve)
-          .catch(reject);
+          .catch(reject)
       }
-      return reject(reason);
-    });
-});
+      return reject(reason)
+    })
+})
 
 const getCountryList = () => new Promise((resolve) => {
-  const cmr = new Set();
-  const asmr = new Set();
+  const cmr = new Set()
+  const asmr = new Set()
   https.get('https://s3.mortality.watch/data/mortality/world_meta.csv', csvResponse => {
     csvResponse.pipe(parse({ columns: true, delimiter: ',' }))
       .on('data', (row) => {
