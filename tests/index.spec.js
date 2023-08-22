@@ -76,6 +76,7 @@ test('Save 52W Mortality, CMR', async ({ page }) => {
     retryOperation(saveChart, 1000, 5, page, "cmr", iso)
       .then(console.log)
       .catch(console.log)
+    wait(1000)
   }
 
   await page.close()
@@ -93,6 +94,7 @@ test('Save 52W Mortality, ASMR', async ({ page }) => {
     retryOperation(saveChart, 1000, 5, page, "cmr", iso)
       .then(console.log)
       .catch(console.log)
+    wait(1000)
   }
 
   await page.close()
