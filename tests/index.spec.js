@@ -13,6 +13,22 @@ const s3Client = new Minio.Client({
 
 test.use({ deviceScaleFactor: 2, viewport: { width: 700, height: 1200 } })
 
+const wait = ms => new Promise(r => setTimeout(r, ms));
+
+const retryOperation = (operation, delay, retries, ...args) => new Promise((resolve, reject) => {
+  return operation(...args)
+    .then(resolve)
+    .catch((reason) => {
+      if (retries > 0) {
+        return wait(delay)
+          .then(retryOperation.bind(null, operation, delay, retries - 1))
+          .then(resolve)
+          .catch(reject);
+      }
+      return reject(reason);
+    });
+});
+
 const getCountryList = () => new Promise((resolve) => {
   const cmr = new Set();
   const asmr = new Set();
@@ -24,19 +40,6 @@ const getCountryList = () => new Promise((resolve) => {
       })
       .on('end', () => {
         resolve({ cmr, asmr })
-      })
-  }).end()
-})
-
-const getPopulationList = () => new Promise((resolve) => {
-  const records = new Map();
-  https.get('https://s3.mortality.watch/data/population/world.csv', csvResponse => {
-    csvResponse.pipe(parse({ columns: true, delimiter: ',' }))
-      .on('data', (row) => {
-        records.set(row.iso3c, row.jurisdiction);
-      })
-      .on('end', () => {
-        resolve(records)
       })
   }).end()
 })
@@ -64,9 +67,13 @@ test('Save 52W Mortality, CMR', async ({ page }) => {
   await page.evaluate(() => window.disableToast = true)
 
   for (const iso of countries.cmr) {
+    console.log(iso)
     await page.goto(`https://www.mortality.watch/explorer/?c=${iso}&t=cmr&ct=weekly_52w_sma&v=2`)
     await waitUntilLoaded(page)
-    await saveChart(page, "cmr", iso)
+    await page.waitForSelector('canvas')
+    retryOperation(saveChart, 1000, 5, page, "cmr", iso)
+      .then(console.log)
+      .catch(console.log)
   }
 
   await page.close()
@@ -77,9 +84,13 @@ test('Save 52W Mortality, ASMR', async ({ page }) => {
   await page.evaluate(() => window.disableToast = true)
 
   for (const iso of countries.asmr) {
+    console.log(iso)
     await page.goto(`https://www.mortality.watch/explorer/?c=${iso}&t=asmr&ct=weekly_52w_sma&v=2`)
     await waitUntilLoaded(page)
-    await saveChart(page, "asmr", iso)
+    await page.waitForSelector('canvas')
+    retryOperation(saveChart, 1000, 5, page, "cmr", iso)
+      .then(console.log)
+      .catch(console.log)
   }
 
   await page.close()
