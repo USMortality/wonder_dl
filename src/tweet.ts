@@ -73,6 +73,7 @@ const downloadCsv = <T>(url): Promise<T[]> => new Promise((resolve) => {
 })
 
 const tweet = async (iso3c, jurisdiction, max) => {
+  if (iso3c.startsWith('USA-') || iso3c.startsWith('DEU-')) return
   console.log(`Tweeting for ${jurisdiction}...`)
   await downloadImage(`${url_base}${iso3c}.png`, './out/twitter.png')
   const message = `📊 Mortality data for ${jurisdiction} just updated!\n` +
