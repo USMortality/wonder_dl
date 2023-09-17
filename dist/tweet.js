@@ -4,6 +4,10 @@ import * as https from 'https';
 import * as csv from 'csv';
 import * as Minio from 'minio';
 import { stringify } from 'csv-stringify/sync';
+import { program } from 'commander';
+program.option('-r, --reset');
+program.parse();
+const options = program.opts();
 let _s3Client = undefined;
 const s3Client = () => {
     if (!process.env.AWS_ACCESS_KEY_ID) {
@@ -108,10 +112,12 @@ const main = async () => {
         if (!old || dn)
             updated.push(country);
     }
-    for (const country of updated) {
-        tweet(country.iso3c, jurisdictions[country.iso3c], country.max_date);
-        if (updated.length > 1)
-            await sleep(15 * 60 * 1000);
+    if (!options.reset) {
+        for (const country of updated) {
+            tweet(country.iso3c, jurisdictions[country.iso3c], country.max_date);
+            if (updated.length > 1)
+                await sleep(15 * 60 * 1000);
+        }
     }
     const writeCsv = async (obj, path) => new Promise((resolve) => {
         if (fs.existsSync(path))
@@ -122,7 +128,7 @@ const main = async () => {
     });
     // Only update when we have new tweets.
     console.log(`Updated tweets: ${updated.length}`);
-    if (updated.length > 0) {
+    if (options.reset || updated.length > 0) {
         const path = "./out/world_max_date.csv";
         await writeCsv(unique_countries, path);
         s3Client().fPutObject('data', 'mortality/world_max_date.csv', path, {}, err => {
