@@ -42,7 +42,7 @@ for (const iso of countries.cmr) {
   })
 }
 
-for (const iso of countries.cmr) {
+for (const iso of countries.asmr) {
   test(`Save 52W Mortality, ASMR [${iso}]`, async ({ page }) => {
     await page.evaluate(() => window.disableToast = true)
     await page.goto(`https://www.mortality.watch/explorer/?c=${iso}&t=asmr&ct=weekly_52w_sma&v=2`)
