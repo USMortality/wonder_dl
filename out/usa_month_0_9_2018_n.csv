@@ -1,0 +1,101 @@
+"Notes","Month","Month Code",Deaths,Population,Crude Rate
+,"Jan., 2018","2018/01",2482,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02",2145,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03",2404,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04",2209,Not Applicable,Not Applicable
+,"May, 2018","2018/05",2369,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06",2241,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07",2397,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08",2342,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09",2310,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10",2313,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11",2208,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12",2207,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01",2225,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02",2130,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03",2341,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04",2223,Not Applicable,Not Applicable
+,"May, 2019","2019/05",2343,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06",2333,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07",2311,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08",2264,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09",2171,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10",2134,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11",2144,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12",2311,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01",2271,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02",2179,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03",2145,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04",1980,Not Applicable,Not Applicable
+,"May, 2020","2020/05",2209,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06",2199,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07",2217,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08",2090,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09",2033,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10",2056,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11",1988,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12",1954,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01",2119,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02",1911,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03",2115,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04",2165,Not Applicable,Not Applicable
+,"May, 2021","2021/05",2277,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06",2158,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07",2267,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08",2272,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09",2241,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10",2215,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11",2111,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12",2291,Not Applicable,Not Applicable
+,"Jan., 2022 (provisional)","2022/01",2171,Not Applicable,Not Applicable
+,"Feb., 2022 (provisional)","2022/02",1987,Not Applicable,Not Applicable
+,"Mar., 2022 (provisional)","2022/03",2184,Not Applicable,Not Applicable
+,"Apr., 2022 (provisional)","2022/04",2145,Not Applicable,Not Applicable
+,"May, 2022 (provisional)","2022/05",2333,Not Applicable,Not Applicable
+,"Jun., 2022 (provisional)","2022/06",2359,Not Applicable,Not Applicable
+,"Jul., 2022 (provisional)","2022/07",2427,Not Applicable,Not Applicable
+,"Aug., 2022 (provisional)","2022/08",2327,Not Applicable,Not Applicable
+,"Sep., 2022 (provisional)","2022/09",2250,Not Applicable,Not Applicable
+,"Oct., 2022 (provisional)","2022/10",2358,Not Applicable,Not Applicable
+,"Nov., 2022 (provisional)","2022/11",2344,Not Applicable,Not Applicable
+,"Dec., 2022 (provisional)","2022/12",2353,Not Applicable,Not Applicable
+,"Jan., 2023 (provisional)","2023/01",2253,Not Applicable,Not Applicable
+,"Feb., 2023 (provisional)","2023/02",1956,Not Applicable,Not Applicable
+,"Mar., 2023 (provisional)","2023/03",2326,Not Applicable,Not Applicable
+,"Apr., 2023 (provisional)","2023/04",2151,Not Applicable,Not Applicable
+,"May, 2023 (provisional)","2023/05",2166,Not Applicable,Not Applicable
+,"Jun., 2023 (provisional)","2023/06",2134,Not Applicable,Not Applicable
+,"Jul., 2023 (provisional)","2023/07",2117,Not Applicable,Not Applicable
+,"Aug., 2023 (provisional)","2023/08",1988,Not Applicable,Not Applicable
+,"Sep., 2023 (provisional)","2023/09",1429,Not Applicable,Not Applicable
+,"Oct., 2023 (provisional and partial)","2023/10",121,Not Applicable,Not Applicable
+"Total",,,151899,Not Applicable,Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Single-Year Ages: < 1 year; 1 year; 2 years; 3 years; 4 years; 5 years; 6 years; 7 years; 8 years; 9 years"
+"Group By: Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 19, 2023 4:38:55 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 19, 2023 4:38:55"
+"PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"3. Deaths occurring through October 07, 2023 as of October 15, 2023."
