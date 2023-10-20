@@ -1,0 +1,2529 @@
+"Notes","Month","Month Code","Residence State","Residence State Code",Deaths,Population,Crude Rate
+,"Jan., 2018","2018/01","Alabama","01",818,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Alaska","02",69,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Arizona","04",720,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Arkansas","05",405,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","California","06",3262,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Colorado","08",504,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Connecticut","09",308,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Delaware","10",125,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","District of Columbia","11",89,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Florida","12",2270,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Georgia","13",1306,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Hawaii","15",107,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Idaho","16",137,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Illinois","17",1343,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Indiana","18",881,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Iowa","19",295,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Kansas","20",316,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Kentucky","21",722,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Louisiana","22",725,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Maine","23",125,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Maryland","24",629,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Massachusetts","25",567,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Michigan","26",1150,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Minnesota","27",420,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Mississippi","28",520,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Missouri","29",818,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Montana","30",95,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Nebraska","31",167,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Nevada","32",355,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","New Hampshire","33",128,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","New Jersey","34",879,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","New Mexico","35",252,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","New York","36",1755,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","North Carolina","37",1239,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","North Dakota","38",66,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Ohio","39",1452,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Oklahoma","40",592,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Oregon","41",389,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Pennsylvania","42",1384,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Rhode Island","44",84,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","South Carolina","45",711,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","South Dakota","46",83,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Tennessee","47",1042,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Texas","48",3035,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Utah","49",207,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Vermont","50",68,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Virginia","51",868,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Washington","53",642,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","West Virginia","54",318,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Wisconsin","55",536,Not Applicable,Not Applicable
+,"Jan., 2018","2018/01","Wyoming","56",64,Not Applicable,Not Applicable
+"Total","Jan., 2018","2018/01",,,35042,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Alabama","01",664,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Alaska","02",79,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Arizona","04",632,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Arkansas","05",371,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","California","06",2778,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Colorado","08",398,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Connecticut","09",286,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Delaware","10",107,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","District of Columbia","11",74,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Florida","12",2073,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Georgia","13",1046,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Hawaii","15",100,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Idaho","16",116,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Illinois","17",1149,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Indiana","18",710,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Iowa","19",271,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Kansas","20",275,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Kentucky","21",605,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Louisiana","22",589,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Maine","23",116,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Maryland","24",592,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Massachusetts","25",523,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Michigan","26",1047,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Minnesota","27",396,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Mississippi","28",404,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Missouri","29",672,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Montana","30",97,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Nebraska","31",143,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Nevada","32",292,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","New Hampshire","33",138,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","New Jersey","34",717,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","New Mexico","35",211,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","New York","36",1500,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","North Carolina","37",1031,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","North Dakota","38",57,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Ohio","39",1244,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Oklahoma","40",498,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Oregon","41",287,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Pennsylvania","42",1170,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Rhode Island","44",106,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","South Carolina","45",611,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","South Dakota","46",71,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Tennessee","47",873,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Texas","48",2557,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Utah","49",181,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Vermont","50",48,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Virginia","51",735,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Washington","53",518,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","West Virginia","54",287,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Wisconsin","55",463,Not Applicable,Not Applicable
+,"Feb., 2018","2018/02","Wyoming","56",51,Not Applicable,Not Applicable
+"Total","Feb., 2018","2018/02",,,29959,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Alabama","01",686,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Alaska","02",56,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Arizona","04",653,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Arkansas","05",389,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","California","06",3047,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Colorado","08",405,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Connecticut","09",309,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Delaware","10",107,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","District of Columbia","11",72,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Florida","12",2108,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Georgia","13",1153,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Hawaii","15",121,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Idaho","16",153,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Illinois","17",1169,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Indiana","18",793,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Iowa","19",271,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Kansas","20",289,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Kentucky","21",645,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Louisiana","22",584,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Maine","23",124,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Maryland","24",618,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Massachusetts","25",586,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Michigan","26",1176,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Minnesota","27",387,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Mississippi","28",444,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Missouri","29",751,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Montana","30",74,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Nebraska","31",157,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Nevada","32",315,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","New Hampshire","33",126,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","New Jersey","34",777,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","New Mexico","35",248,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","New York","36",1502,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","North Carolina","37",1151,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","North Dakota","38",50,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Ohio","39",1313,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Oklahoma","40",521,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Oregon","41",351,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Pennsylvania","42",1316,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Rhode Island","44",79,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","South Carolina","45",637,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","South Dakota","46",83,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Tennessee","47",922,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Texas","48",2615,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Utah","49",188,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Vermont","50",50,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Virginia","51",796,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Washington","53",612,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","West Virginia","54",295,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Wisconsin","55",486,Not Applicable,Not Applicable
+,"Mar., 2018","2018/03","Wyoming","56",65,Not Applicable,Not Applicable
+"Total","Mar., 2018","2018/03",,,31825,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Alabama","01",655,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Alaska","02",65,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Arizona","04",618,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Arkansas","05",361,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","California","06",2800,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Colorado","08",446,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Connecticut","09",277,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Delaware","10",102,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","District of Columbia","11",95,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Florida","12",2066,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Georgia","13",1136,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Hawaii","15",101,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Idaho","16",118,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Illinois","17",1123,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Indiana","18",690,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Iowa","19",282,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Kansas","20",236,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Kentucky","21",616,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Louisiana","22",586,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Maine","23",149,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Maryland","24",578,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Massachusetts","25",478,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Michigan","26",1067,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Minnesota","27",338,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Mississippi","28",437,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Missouri","29",701,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Montana","30",104,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Nebraska","31",167,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Nevada","32",288,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","New Hampshire","33",136,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","New Jersey","34",723,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","New Mexico","35",222,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","New York","36",1463,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","North Carolina","37",1060,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","North Dakota","38",62,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Ohio","39",1283,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Oklahoma","40",486,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Oregon","41",368,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Pennsylvania","42",1239,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Rhode Island","44",89,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","South Carolina","45",561,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","South Dakota","46",66,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Tennessee","47",857,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Texas","48",2353,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Utah","49",169,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Vermont","50",51,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Virginia","51",749,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Washington","53",547,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","West Virginia","54",262,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Wisconsin","55",431,Not Applicable,Not Applicable
+,"Apr., 2018","2018/04","Wyoming","56",55,Not Applicable,Not Applicable
+"Total","Apr., 2018","2018/04",,,29912,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Alabama","01",630,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Alaska","02",60,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Arizona","04",640,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Arkansas","05",400,Not Applicable,Not Applicable
+,"May, 2018","2018/05","California","06",2792,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Colorado","08",455,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Connecticut","09",277,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Delaware","10",90,Not Applicable,Not Applicable
+,"May, 2018","2018/05","District of Columbia","11",71,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Florida","12",2068,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Georgia","13",1166,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Hawaii","15",86,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Idaho","16",125,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Illinois","17",1103,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Indiana","18",719,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Iowa","19",242,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Kansas","20",248,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Kentucky","21",606,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Louisiana","22",620,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Maine","23",132,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Maryland","24",555,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Massachusetts","25",567,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Michigan","26",1000,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Minnesota","27",370,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Mississippi","28",392,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Missouri","29",656,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Montana","30",76,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Nebraska","31",155,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Nevada","32",286,Not Applicable,Not Applicable
+,"May, 2018","2018/05","New Hampshire","33",125,Not Applicable,Not Applicable
+,"May, 2018","2018/05","New Jersey","34",749,Not Applicable,Not Applicable
+,"May, 2018","2018/05","New Mexico","35",237,Not Applicable,Not Applicable
+,"May, 2018","2018/05","New York","36",1484,Not Applicable,Not Applicable
+,"May, 2018","2018/05","North Carolina","37",1052,Not Applicable,Not Applicable
+,"May, 2018","2018/05","North Dakota","38",56,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Ohio","39",1352,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Oklahoma","40",504,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Oregon","41",328,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Pennsylvania","42",1257,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Rhode Island","44",82,Not Applicable,Not Applicable
+,"May, 2018","2018/05","South Carolina","45",576,Not Applicable,Not Applicable
+,"May, 2018","2018/05","South Dakota","46",73,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Tennessee","47",900,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Texas","48",2440,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Utah","49",190,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Vermont","50",58,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Virginia","51",804,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Washington","53",559,Not Applicable,Not Applicable
+,"May, 2018","2018/05","West Virginia","54",287,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Wisconsin","55",468,Not Applicable,Not Applicable
+,"May, 2018","2018/05","Wyoming","56",56,Not Applicable,Not Applicable
+"Total","May, 2018","2018/05",,,30224,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Alabama","01",639,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Alaska","02",69,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Arizona","04",672,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Arkansas","05",351,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","California","06",2760,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Colorado","08",423,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Connecticut","09",298,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Delaware","10",110,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","District of Columbia","11",74,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Florida","12",2029,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Georgia","13",1031,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Hawaii","15",101,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Idaho","16",128,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Illinois","17",1118,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Indiana","18",645,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Iowa","19",250,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Kansas","20",256,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Kentucky","21",587,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Louisiana","22",569,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Maine","23",114,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Maryland","24",580,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Massachusetts","25",548,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Michigan","26",953,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Minnesota","27",375,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Mississippi","28",392,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Missouri","29",688,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Montana","30",80,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Nebraska","31",175,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Nevada","32",319,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","New Hampshire","33",118,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","New Jersey","34",730,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","New Mexico","35",246,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","New York","36",1506,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","North Carolina","37",1099,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","North Dakota","38",63,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Ohio","39",1243,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Oklahoma","40",477,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Oregon","41",323,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Pennsylvania","42",1275,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Rhode Island","44",83,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","South Carolina","45",576,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","South Dakota","46",81,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Tennessee","47",858,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Texas","48",2461,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Utah","49",207,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Vermont","50",61,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Virginia","51",691,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Washington","53",567,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","West Virginia","54",284,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Wisconsin","55",473,Not Applicable,Not Applicable
+,"Jun., 2018","2018/06","Wyoming","56",46,Not Applicable,Not Applicable
+"Total","Jun., 2018","2018/06",,,29802,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Alabama","01",658,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Alaska","02",71,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Arizona","04",651,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Arkansas","05",392,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","California","06",2816,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Colorado","08",421,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Connecticut","09",294,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Delaware","10",104,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","District of Columbia","11",69,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Florida","12",2109,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Georgia","13",1017,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Hawaii","15",129,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Idaho","16",139,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Illinois","17",1167,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Indiana","18",713,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Iowa","19",265,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Kansas","20",260,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Kentucky","21",608,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Louisiana","22",579,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Maine","23",146,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Maryland","24",603,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Massachusetts","25",516,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Michigan","26",1012,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Minnesota","27",414,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Mississippi","28",402,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Missouri","29",701,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Montana","30",108,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Nebraska","31",167,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Nevada","32",306,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","New Hampshire","33",144,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","New Jersey","34",764,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","New Mexico","35",230,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","New York","36",1552,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","North Carolina","37",1063,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","North Dakota","38",60,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Ohio","39",1328,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Oklahoma","40",477,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Oregon","41",336,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Pennsylvania","42",1270,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Rhode Island","44",70,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","South Carolina","45",602,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","South Dakota","46",63,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Tennessee","47",942,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Texas","48",2445,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Utah","49",207,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Vermont","50",52,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Virginia","51",751,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Washington","53",566,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","West Virginia","54",255,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Wisconsin","55",493,Not Applicable,Not Applicable
+,"Jul., 2018","2018/07","Wyoming","56",58,Not Applicable,Not Applicable
+"Total","Jul., 2018","2018/07",,,30565,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Alabama","01",661,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Alaska","02",81,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Arizona","04",631,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Arkansas","05",380,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","California","06",2847,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Colorado","08",444,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Connecticut","09",295,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Delaware","10",114,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","District of Columbia","11",61,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Florida","12",1983,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Georgia","13",1129,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Hawaii","15",121,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Idaho","16",127,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Illinois","17",1093,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Indiana","18",724,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Iowa","19",286,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Kansas","20",246,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Kentucky","21",612,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Louisiana","22",578,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Maine","23",147,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Maryland","24",537,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Massachusetts","25",542,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Michigan","26",1020,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Minnesota","27",412,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Mississippi","28",421,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Missouri","29",719,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Montana","30",87,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Nebraska","31",149,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Nevada","32",311,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","New Hampshire","33",123,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","New Jersey","34",790,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","New Mexico","35",229,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","New York","36",1541,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","North Carolina","37",1024,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","North Dakota","38",40,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Ohio","39",1342,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Oklahoma","40",512,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Oregon","41",332,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Pennsylvania","42",1246,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Rhode Island","44",93,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","South Carolina","45",578,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","South Dakota","46",79,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Tennessee","47",940,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Texas","48",2450,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Utah","49",173,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Vermont","50",53,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Virginia","51",754,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Washington","53",593,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","West Virginia","54",272,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Wisconsin","55",526,Not Applicable,Not Applicable
+,"Aug., 2018","2018/08","Wyoming","56",50,Not Applicable,Not Applicable
+"Total","Aug., 2018","2018/08",,,30498,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Alabama","01",612,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Alaska","02",70,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Arizona","04",589,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Arkansas","05",363,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","California","06",2667,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Colorado","08",403,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Connecticut","09",295,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Delaware","10",92,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","District of Columbia","11",67,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Florida","12",1953,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Georgia","13",1085,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Hawaii","15",99,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Idaho","16",150,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Illinois","17",1128,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Indiana","18",715,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Iowa","19",244,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Kansas","20",250,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Kentucky","21",582,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Louisiana","22",548,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Maine","23",132,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Maryland","24",556,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Massachusetts","25",517,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Michigan","26",981,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Minnesota","27",402,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Mississippi","28",405,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Missouri","29",664,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Montana","30",98,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Nebraska","31",130,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Nevada","32",254,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","New Hampshire","33",124,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","New Jersey","34",729,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","New Mexico","35",220,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","New York","36",1421,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","North Carolina","37",986,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","North Dakota","38",72,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Ohio","39",1309,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Oklahoma","40",439,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Oregon","41",334,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Pennsylvania","42",1212,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Rhode Island","44",74,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","South Carolina","45",615,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","South Dakota","46",72,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Tennessee","47",903,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Texas","48",2322,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Utah","49",213,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Vermont","50",69,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Virginia","51",772,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Washington","53",551,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","West Virginia","54",275,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Wisconsin","55",459,Not Applicable,Not Applicable
+,"Sep., 2018","2018/09","Wyoming","56",47,Not Applicable,Not Applicable
+"Total","Sep., 2018","2018/09",,,29269,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Alabama","01",630,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Alaska","02",63,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Arizona","04",554,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Arkansas","05",356,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","California","06",2686,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Colorado","08",406,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Connecticut","09",305,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Delaware","10",97,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","District of Columbia","11",68,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Florida","12",2069,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Georgia","13",1081,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Hawaii","15",106,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Idaho","16",115,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Illinois","17",1209,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Indiana","18",721,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Iowa","19",277,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Kansas","20",241,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Kentucky","21",622,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Louisiana","22",552,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Maine","23",120,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Maryland","24",598,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Massachusetts","25",536,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Michigan","26",1068,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Minnesota","27",409,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Mississippi","28",410,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Missouri","29",713,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Montana","30",100,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Nebraska","31",147,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Nevada","32",295,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","New Hampshire","33",135,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","New Jersey","34",783,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","New Mexico","35",245,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","New York","36",1539,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","North Carolina","37",1043,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","North Dakota","38",62,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Ohio","39",1261,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Oklahoma","40",477,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Oregon","41",339,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Pennsylvania","42",1256,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Rhode Island","44",86,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","South Carolina","45",585,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","South Dakota","46",85,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Tennessee","47",919,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Texas","48",2422,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Utah","49",195,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Vermont","50",59,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Virginia","51",786,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Washington","53",570,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","West Virginia","54",289,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Wisconsin","55",499,Not Applicable,Not Applicable
+,"Oct., 2018","2018/10","Wyoming","56",38,Not Applicable,Not Applicable
+"Total","Oct., 2018","2018/10",,,30227,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Alabama","01",666,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Alaska","02",74,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Arizona","04",564,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Arkansas","05",370,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","California","06",2759,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Colorado","08",413,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Connecticut","09",297,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Delaware","10",97,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","District of Columbia","11",63,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Florida","12",2055,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Georgia","13",1047,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Hawaii","15",96,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Idaho","16",110,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Illinois","17",1033,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Indiana","18",646,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Iowa","19",241,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Kansas","20",253,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Kentucky","21",624,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Louisiana","22",585,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Maine","23",162,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Maryland","24",615,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Massachusetts","25",524,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Michigan","26",1029,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Minnesota","27",404,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Mississippi","28",413,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Missouri","29",659,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Montana","30",90,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Nebraska","31",154,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Nevada","32",278,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","New Hampshire","33",124,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","New Jersey","34",741,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","New Mexico","35",220,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","New York","36",1493,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","North Carolina","37",1031,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","North Dakota","38",51,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Ohio","39",1280,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Oklahoma","40",482,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Oregon","41",328,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Pennsylvania","42",1216,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Rhode Island","44",85,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","South Carolina","45",611,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","South Dakota","46",74,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Tennessee","47",895,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Texas","48",2409,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Utah","49",186,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Vermont","50",50,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Virginia","51",726,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Washington","53",541,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","West Virginia","54",274,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Wisconsin","55",475,Not Applicable,Not Applicable
+,"Nov., 2018","2018/11","Wyoming","56",53,Not Applicable,Not Applicable
+"Total","Nov., 2018","2018/11",,,29666,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Alabama","01",711,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Alaska","02",65,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Arizona","04",675,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Arkansas","05",390,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","California","06",2880,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Colorado","08",475,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Connecticut","09",298,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Delaware","10",96,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","District of Columbia","11",81,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Florida","12",2174,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Georgia","13",1182,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Hawaii","15",114,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Idaho","16",147,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Illinois","17",1259,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Indiana","18",742,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Iowa","19",254,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Kansas","20",291,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Kentucky","21",601,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Louisiana","22",577,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Maine","23",150,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Maryland","24",642,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Massachusetts","25",519,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Michigan","26",993,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Minnesota","27",420,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Mississippi","28",436,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Missouri","29",676,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Montana","30",99,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Nebraska","31",169,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Nevada","32",292,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","New Hampshire","33",147,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","New Jersey","34",723,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","New Mexico","35",228,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","New York","36",1596,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","North Carolina","37",1104,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","North Dakota","38",62,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Ohio","39",1376,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Oklahoma","40",480,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Oregon","41",373,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Pennsylvania","42",1222,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Rhode Island","44",102,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","South Carolina","45",650,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","South Dakota","46",76,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Tennessee","47",925,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Texas","48",2593,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Utah","49",218,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Vermont","50",48,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Virginia","51",751,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Washington","53",600,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","West Virginia","54",326,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Wisconsin","55",504,Not Applicable,Not Applicable
+,"Dec., 2018","2018/12","Wyoming","56",62,Not Applicable,Not Applicable
+"Total","Dec., 2018","2018/12",,,31574,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Alabama","01",691,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Alaska","02",78,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Arizona","04",694,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Arkansas","05",381,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","California","06",3068,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Colorado","08",462,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Connecticut","09",329,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Delaware","10",127,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","District of Columbia","11",67,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Florida","12",2176,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Georgia","13",1135,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Hawaii","15",124,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Idaho","16",118,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Illinois","17",1225,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Indiana","18",821,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Iowa","19",288,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Kansas","20",291,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Kentucky","21",648,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Louisiana","22",622,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Maine","23",143,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Maryland","24",586,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Massachusetts","25",569,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Michigan","26",959,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Minnesota","27",436,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Mississippi","28",457,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Missouri","29",753,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Montana","30",109,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Nebraska","31",178,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Nevada","32",347,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","New Hampshire","33",136,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","New Jersey","34",779,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","New Mexico","35",235,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","New York","36",1590,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","North Carolina","37",1074,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","North Dakota","38",61,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Ohio","39",1427,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Oklahoma","40",514,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Oregon","41",377,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Pennsylvania","42",1332,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Rhode Island","44",113,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","South Carolina","45",639,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","South Dakota","46",80,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Tennessee","47",934,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Texas","48",2634,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Utah","49",208,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Vermont","50",65,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Virginia","51",793,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Washington","53",627,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","West Virginia","54",296,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Wisconsin","55",517,Not Applicable,Not Applicable
+,"Jan., 2019","2019/01","Wyoming","56",61,Not Applicable,Not Applicable
+"Total","Jan., 2019","2019/01",,,32374,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Alabama","01",593,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Alaska","02",64,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Arizona","04",598,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Arkansas","05",389,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","California","06",2826,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Colorado","08",419,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Connecticut","09",292,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Delaware","10",91,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","District of Columbia","11",68,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Florida","12",1965,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Georgia","13",1025,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Hawaii","15",104,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Idaho","16",134,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Illinois","17",1067,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Indiana","18",697,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Iowa","19",249,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Kansas","20",233,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Kentucky","21",597,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Louisiana","22",538,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Maine","23",120,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Maryland","24",546,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Massachusetts","25",557,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Michigan","26",951,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Minnesota","27",370,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Mississippi","28",419,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Missouri","29",640,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Montana","30",93,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Nebraska","31",156,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Nevada","32",292,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","New Hampshire","33",102,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","New Jersey","34",753,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","New Mexico","35",234,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","New York","36",1429,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","North Carolina","37",1046,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","North Dakota","38",55,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Ohio","39",1249,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Oklahoma","40",472,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Oregon","41",341,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Pennsylvania","42",1141,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Rhode Island","44",85,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","South Carolina","45",584,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","South Dakota","46",70,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Tennessee","47",880,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Texas","48",2205,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Utah","49",184,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Vermont","50",50,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Virginia","51",717,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Washington","53",591,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","West Virginia","54",247,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Wisconsin","55",471,Not Applicable,Not Applicable
+,"Feb., 2019","2019/02","Wyoming","56",43,Not Applicable,Not Applicable
+"Total","Feb., 2019","2019/02",,,29042,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Alabama","01",656,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Alaska","02",70,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Arizona","04",629,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Arkansas","05",400,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","California","06",2949,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Colorado","08",464,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Connecticut","09",298,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Delaware","10",82,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","District of Columbia","11",75,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Florida","12",2190,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Georgia","13",1176,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Hawaii","15",141,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Idaho","16",120,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Illinois","17",1147,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Indiana","18",758,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Iowa","19",307,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Kansas","20",269,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Kentucky","21",636,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Louisiana","22",589,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Maine","23",157,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Maryland","24",649,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Massachusetts","25",531,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Michigan","26",1055,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Minnesota","27",406,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Mississippi","28",461,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Missouri","29",695,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Montana","30",80,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Nebraska","31",167,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Nevada","32",293,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","New Hampshire","33",127,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","New Jersey","34",802,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","New Mexico","35",220,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","New York","36",1526,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","North Carolina","37",1142,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","North Dakota","38",59,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Ohio","39",1402,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Oklahoma","40",572,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Oregon","41",366,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Pennsylvania","42",1359,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Rhode Island","44",84,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","South Carolina","45",613,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","South Dakota","46",83,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Tennessee","47",889,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Texas","48",2596,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Utah","49",238,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Vermont","50",55,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Virginia","51",738,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Washington","53",655,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","West Virginia","54",273,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Wisconsin","55",492,Not Applicable,Not Applicable
+,"Mar., 2019","2019/03","Wyoming","56",73,Not Applicable,Not Applicable
+"Total","Mar., 2019","2019/03",,,31814,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Alabama","01",656,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Alaska","02",55,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Arizona","04",618,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Arkansas","05",341,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","California","06",2775,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Colorado","08",429,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Connecticut","09",267,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Delaware","10",76,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","District of Columbia","11",68,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Florida","12",2045,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Georgia","13",1081,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Hawaii","15",104,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Idaho","16",129,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Illinois","17",1099,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Indiana","18",719,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Iowa","19",265,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Kansas","20",250,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Kentucky","21",661,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Louisiana","22",580,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Maine","23",129,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Maryland","24",586,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Massachusetts","25",538,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Michigan","26",967,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Minnesota","27",388,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Mississippi","28",379,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Missouri","29",651,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Montana","30",98,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Nebraska","31",155,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Nevada","32",324,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","New Hampshire","33",130,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","New Jersey","34",669,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","New Mexico","35",223,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","New York","36",1461,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","North Carolina","37",1056,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","North Dakota","38",76,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Ohio","39",1278,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Oklahoma","40",468,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Oregon","41",329,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Pennsylvania","42",1230,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Rhode Island","44",91,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","South Carolina","45",580,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","South Dakota","46",78,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Tennessee","47",901,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Texas","48",2377,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Utah","49",173,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Vermont","50",60,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Virginia","51",752,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Washington","53",564,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","West Virginia","54",281,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Wisconsin","55",474,Not Applicable,Not Applicable
+,"Apr., 2019","2019/04","Wyoming","56",49,Not Applicable,Not Applicable
+"Total","Apr., 2019","2019/04",,,29733,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Alabama","01",684,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Alaska","02",58,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Arizona","04",618,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Arkansas","05",368,Not Applicable,Not Applicable
+,"May, 2019","2019/05","California","06",2759,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Colorado","08",433,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Connecticut","09",258,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Delaware","10",98,Not Applicable,Not Applicable
+,"May, 2019","2019/05","District of Columbia","11",74,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Florida","12",2123,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Georgia","13",1132,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Hawaii","15",104,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Idaho","16",128,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Illinois","17",1179,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Indiana","18",744,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Iowa","19",259,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Kansas","20",292,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Kentucky","21",604,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Louisiana","22",561,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Maine","23",111,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Maryland","24",570,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Massachusetts","25",538,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Michigan","26",1033,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Minnesota","27",403,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Mississippi","28",426,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Missouri","29",694,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Montana","30",85,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Nebraska","31",146,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Nevada","32",296,Not Applicable,Not Applicable
+,"May, 2019","2019/05","New Hampshire","33",123,Not Applicable,Not Applicable
+,"May, 2019","2019/05","New Jersey","34",734,Not Applicable,Not Applicable
+,"May, 2019","2019/05","New Mexico","35",238,Not Applicable,Not Applicable
+,"May, 2019","2019/05","New York","36",1414,Not Applicable,Not Applicable
+,"May, 2019","2019/05","North Carolina","37",1106,Not Applicable,Not Applicable
+,"May, 2019","2019/05","North Dakota","38",64,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Ohio","39",1213,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Oklahoma","40",513,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Oregon","41",345,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Pennsylvania","42",1205,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Rhode Island","44",103,Not Applicable,Not Applicable
+,"May, 2019","2019/05","South Carolina","45",627,Not Applicable,Not Applicable
+,"May, 2019","2019/05","South Dakota","46",68,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Tennessee","47",943,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Texas","48",2426,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Utah","49",182,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Vermont","50",46,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Virginia","51",782,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Washington","53",565,Not Applicable,Not Applicable
+,"May, 2019","2019/05","West Virginia","54",298,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Wisconsin","55",488,Not Applicable,Not Applicable
+,"May, 2019","2019/05","Wyoming","56",56,Not Applicable,Not Applicable
+"Total","May, 2019","2019/05",,,30317,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Alabama","01",661,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Alaska","02",59,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Arizona","04",628,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Arkansas","05",351,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","California","06",2821,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Colorado","08",420,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Connecticut","09",293,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Delaware","10",98,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","District of Columbia","11",70,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Florida","12",2083,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Georgia","13",1024,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Hawaii","15",113,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Idaho","16",111,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Illinois","17",1069,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Indiana","18",671,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Iowa","19",264,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Kansas","20",267,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Kentucky","21",587,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Louisiana","22",560,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Maine","23",135,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Maryland","24",560,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Massachusetts","25",508,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Michigan","26",984,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Minnesota","27",390,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Mississippi","28",412,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Missouri","29",617,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Montana","30",107,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Nebraska","31",168,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Nevada","32",294,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","New Hampshire","33",109,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","New Jersey","34",718,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","New Mexico","35",240,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","New York","36",1407,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","North Carolina","37",1071,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","North Dakota","38",46,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Ohio","39",1250,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Oklahoma","40",443,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Oregon","41",305,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Pennsylvania","42",1159,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Rhode Island","44",81,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","South Carolina","45",569,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","South Dakota","46",76,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Tennessee","47",932,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Texas","48",2356,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Utah","49",176,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Vermont","50",50,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Virginia","51",703,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Washington","53",529,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","West Virginia","54",283,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Wisconsin","55",473,Not Applicable,Not Applicable
+,"Jun., 2019","2019/06","Wyoming","56",44,Not Applicable,Not Applicable
+"Total","Jun., 2019","2019/06",,,29345,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Alabama","01",631,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Alaska","02",57,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Arizona","04",679,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Arkansas","05",393,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","California","06",2674,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Colorado","08",449,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Connecticut","09",307,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Delaware","10",111,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","District of Columbia","11",71,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Florida","12",2060,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Georgia","13",1112,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Hawaii","15",96,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Idaho","16",125,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Illinois","17",1178,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Indiana","18",706,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Iowa","19",300,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Kansas","20",272,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Kentucky","21",599,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Louisiana","22",614,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Maine","23",132,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Maryland","24",614,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Massachusetts","25",575,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Michigan","26",1019,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Minnesota","27",410,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Mississippi","28",455,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Missouri","29",724,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Montana","30",95,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Nebraska","31",153,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Nevada","32",312,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","New Hampshire","33",114,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","New Jersey","34",780,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","New Mexico","35",262,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","New York","36",1494,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","North Carolina","37",1090,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","North Dakota","38",51,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Ohio","39",1341,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Oklahoma","40",481,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Oregon","41",362,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Pennsylvania","42",1203,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Rhode Island","44",101,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","South Carolina","45",602,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","South Dakota","46",70,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Tennessee","47",905,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Texas","48",2459,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Utah","49",206,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Vermont","50",38,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Virginia","51",741,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Washington","53",560,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","West Virginia","54",269,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Wisconsin","55",482,Not Applicable,Not Applicable
+,"Jul., 2019","2019/07","Wyoming","56",60,Not Applicable,Not Applicable
+"Total","Jul., 2019","2019/07",,,30594,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Alabama","01",628,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Alaska","02",58,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Arizona","04",650,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Arkansas","05",360,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","California","06",2679,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Colorado","08",431,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Connecticut","09",301,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Delaware","10",92,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","District of Columbia","11",78,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Florida","12",1938,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Georgia","13",998,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Hawaii","15",104,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Idaho","16",134,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Illinois","17",1068,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Indiana","18",645,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Iowa","19",282,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Kansas","20",249,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Kentucky","21",564,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Louisiana","22",545,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Maine","23",137,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Maryland","24",593,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Massachusetts","25",495,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Michigan","26",956,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Minnesota","27",388,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Mississippi","28",427,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Missouri","29",682,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Montana","30",104,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Nebraska","31",175,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Nevada","32",294,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","New Hampshire","33",120,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","New Jersey","34",699,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","New Mexico","35",238,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","New York","36",1473,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","North Carolina","37",989,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","North Dakota","38",64,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Ohio","39",1292,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Oklahoma","40",456,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Oregon","41",353,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Pennsylvania","42",1253,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Rhode Island","44",94,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","South Carolina","45",610,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","South Dakota","46",91,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Tennessee","47",896,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Texas","48",2501,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Utah","49",179,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Vermont","50",61,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Virginia","51",719,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Washington","53",526,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","West Virginia","54",272,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Wisconsin","55",500,Not Applicable,Not Applicable
+,"Aug., 2019","2019/08","Wyoming","56",37,Not Applicable,Not Applicable
+"Total","Aug., 2019","2019/08",,,29478,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Alabama","01",660,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Alaska","02",68,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Arizona","04",613,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Arkansas","05",373,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","California","06",2762,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Colorado","08",379,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Connecticut","09",255,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Delaware","10",112,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","District of Columbia","11",69,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Florida","12",1978,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Georgia","13",1037,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Hawaii","15",116,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Idaho","16",129,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Illinois","17",1142,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Indiana","18",675,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Iowa","19",262,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Kansas","20",264,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Kentucky","21",592,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Louisiana","22",565,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Maine","23",104,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Maryland","24",512,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Massachusetts","25",478,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Michigan","26",955,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Minnesota","27",374,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Mississippi","28",381,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Missouri","29",655,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Montana","30",86,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Nebraska","31",141,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Nevada","32",294,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","New Hampshire","33",99,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","New Jersey","34",717,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","New Mexico","35",233,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","New York","36",1401,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","North Carolina","37",1014,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","North Dakota","38",55,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Ohio","39",1218,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Oklahoma","40",470,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Oregon","41",327,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Pennsylvania","42",1178,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Rhode Island","44",84,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","South Carolina","45",559,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","South Dakota","46",94,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Tennessee","47",844,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Texas","48",2377,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Utah","49",171,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Vermont","50",60,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Virginia","51",687,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Washington","53",547,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","West Virginia","54",262,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Wisconsin","55",460,Not Applicable,Not Applicable
+,"Sep., 2019","2019/09","Wyoming","56",65,Not Applicable,Not Applicable
+"Total","Sep., 2019","2019/09",,,28953,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Alabama","01",625,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Alaska","02",69,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Arizona","04",626,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Arkansas","05",372,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","California","06",2774,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Colorado","08",433,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Connecticut","09",258,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Delaware","10",74,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","District of Columbia","11",65,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Florida","12",2005,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Georgia","13",1039,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Hawaii","15",116,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Idaho","16",139,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Illinois","17",1149,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Indiana","18",733,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Iowa","19",278,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Kansas","20",267,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Kentucky","21",574,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Louisiana","22",542,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Maine","23",149,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Maryland","24",571,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Massachusetts","25",534,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Michigan","26",1016,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Minnesota","27",365,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Mississippi","28",398,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Missouri","29",652,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Montana","30",92,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Nebraska","31",154,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Nevada","32",269,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","New Hampshire","33",125,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","New Jersey","34",683,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","New Mexico","35",256,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","New York","36",1471,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","North Carolina","37",1043,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","North Dakota","38",61,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Ohio","39",1298,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Oklahoma","40",444,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Oregon","41",351,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Pennsylvania","42",1208,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Rhode Island","44",76,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","South Carolina","45",582,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","South Dakota","46",76,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Tennessee","47",896,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Texas","48",2446,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Utah","49",176,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Vermont","50",58,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Virginia","51",732,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Washington","53",553,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","West Virginia","54",269,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Wisconsin","55",518,Not Applicable,Not Applicable
+,"Oct., 2019","2019/10","Wyoming","56",48,Not Applicable,Not Applicable
+"Total","Oct., 2019","2019/10",,,29708,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Alabama","01",658,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Alaska","02",77,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Arizona","04",610,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Arkansas","05",352,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","California","06",2828,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Colorado","08",453,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Connecticut","09",284,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Delaware","10",96,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","District of Columbia","11",88,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Florida","12",1962,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Georgia","13",1113,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Hawaii","15",102,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Idaho","16",128,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Illinois","17",1123,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Indiana","18",718,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Iowa","19",254,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Kansas","20",241,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Kentucky","21",617,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Louisiana","22",610,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Maine","23",137,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Maryland","24",604,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Massachusetts","25",541,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Michigan","26",1011,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Minnesota","27",377,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Mississippi","28",390,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Missouri","29",726,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Montana","30",97,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Nebraska","31",138,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Nevada","32",256,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","New Hampshire","33",121,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","New Jersey","34",730,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","New Mexico","35",235,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","New York","36",1489,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","North Carolina","37",1021,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","North Dakota","38",65,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Ohio","39",1317,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Oklahoma","40",494,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Oregon","41",321,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Pennsylvania","42",1207,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Rhode Island","44",74,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","South Carolina","45",589,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","South Dakota","46",79,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Tennessee","47",879,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Texas","48",2550,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Utah","49",204,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Vermont","50",47,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Virginia","51",720,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Washington","53",565,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","West Virginia","54",248,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Wisconsin","55",482,Not Applicable,Not Applicable
+,"Nov., 2019","2019/11","Wyoming","56",57,Not Applicable,Not Applicable
+"Total","Nov., 2019","2019/11",,,30085,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Alabama","01",647,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Alaska","02",69,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Arizona","04",632,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Arkansas","05",400,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","California","06",2903,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Colorado","08",428,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Connecticut","09",318,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Delaware","10",123,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","District of Columbia","11",82,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Florida","12",2171,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Georgia","13",1193,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Hawaii","15",135,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Idaho","16",148,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Illinois","17",1189,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Indiana","18",710,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Iowa","19",294,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Kansas","20",254,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Kentucky","21",693,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Louisiana","22",671,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Maine","23",155,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Maryland","24",564,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Massachusetts","25",556,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Michigan","26",1008,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Minnesota","27",425,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Mississippi","28",432,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Missouri","29",681,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Montana","30",100,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Nebraska","31",160,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Nevada","32",325,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","New Hampshire","33",137,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","New Jersey","34",781,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","New Mexico","35",261,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","New York","36",1587,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","North Carolina","37",1133,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","North Dakota","38",70,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Ohio","39",1306,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Oklahoma","40",521,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Oregon","41",350,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Pennsylvania","42",1370,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Rhode Island","44",108,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","South Carolina","45",659,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","South Dakota","46",72,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Tennessee","47",977,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Texas","48",2569,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Utah","49",180,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Vermont","50",54,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Virginia","51",731,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Washington","53",624,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","West Virginia","54",255,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Wisconsin","55",492,Not Applicable,Not Applicable
+,"Dec., 2019","2019/12","Wyoming","56",48,Not Applicable,Not Applicable
+"Total","Dec., 2019","2019/12",,,31751,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Alabama","01",706,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Alaska","02",77,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Arizona","04",676,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Arkansas","05",415,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","California","06",3093,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Colorado","08",448,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Connecticut","09",299,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Delaware","10",80,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","District of Columbia","11",67,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Florida","12",2187,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Georgia","13",1170,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Hawaii","15",118,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Idaho","16",139,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Illinois","17",1261,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Indiana","18",778,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Iowa","19",275,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Kansas","20",296,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Kentucky","21",656,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Louisiana","22",593,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Maine","23",145,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Maryland","24",621,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Massachusetts","25",509,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Michigan","26",1056,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Minnesota","27",399,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Mississippi","28",421,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Missouri","29",709,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Montana","30",95,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Nebraska","31",138,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Nevada","32",349,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","New Hampshire","33",122,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","New Jersey","34",830,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","New Mexico","35",239,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","New York","36",1579,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","North Carolina","37",1179,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","North Dakota","38",76,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Ohio","39",1364,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Oklahoma","40",520,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Oregon","41",367,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Pennsylvania","42",1318,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Rhode Island","44",98,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","South Carolina","45",677,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","South Dakota","46",81,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Tennessee","47",1026,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Texas","48",2705,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Utah","49",203,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Vermont","50",52,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Virginia","51",861,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Washington","53",671,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","West Virginia","54",301,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Wisconsin","55",524,Not Applicable,Not Applicable
+,"Jan., 2020","2020/01","Wyoming","56",51,Not Applicable,Not Applicable
+"Total","Jan., 2020","2020/01",,,32620,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Alabama","01",702,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Alaska","02",72,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Arizona","04",601,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Arkansas","05",369,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","California","06",2888,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Colorado","08",457,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Connecticut","09",279,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Delaware","10",99,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","District of Columbia","11",66,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Florida","12",2091,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Georgia","13",1095,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Hawaii","15",100,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Idaho","16",134,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Illinois","17",1077,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Indiana","18",735,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Iowa","19",284,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Kansas","20",296,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Kentucky","21",642,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Louisiana","22",585,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Maine","23",134,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Maryland","24",534,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Massachusetts","25",508,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Michigan","26",1031,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Minnesota","27",396,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Mississippi","28",437,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Missouri","29",732,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Montana","30",87,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Nebraska","31",136,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Nevada","32",295,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","New Hampshire","33",127,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","New Jersey","34",676,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","New Mexico","35",203,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","New York","36",1474,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","North Carolina","37",1041,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","North Dakota","38",68,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Ohio","39",1259,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Oklahoma","40",477,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Oregon","41",295,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Pennsylvania","42",1235,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Rhode Island","44",79,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","South Carolina","45",624,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","South Dakota","46",71,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Tennessee","47",883,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Texas","48",2426,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Utah","49",199,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Vermont","50",47,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Virginia","51",776,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Washington","53",553,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","West Virginia","54",271,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Wisconsin","55",510,Not Applicable,Not Applicable
+,"Feb., 2020","2020/02","Wyoming","56",55,Not Applicable,Not Applicable
+"Total","Feb., 2020","2020/02",,,30211,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Alabama","01",741,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Alaska","02",52,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Arizona","04",710,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Arkansas","05",391,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","California","06",3085,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Colorado","08",461,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Connecticut","09",321,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Delaware","10",120,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","District of Columbia","11",67,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Florida","12",2179,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Georgia","13",1165,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Hawaii","15",134,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Idaho","16",145,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Illinois","17",1211,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Indiana","18",771,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Iowa","19",258,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Kansas","20",279,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Kentucky","21",667,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Louisiana","22",698,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Maine","23",143,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Maryland","24",586,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Massachusetts","25",575,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Michigan","26",1198,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Minnesota","27",431,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Mississippi","28",494,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Missouri","29",702,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Montana","30",97,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Nebraska","31",137,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Nevada","32",293,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","New Hampshire","33",132,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","New Jersey","34",901,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","New Mexico","35",264,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","New York","36",2264,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","North Carolina","37",1099,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","North Dakota","38",58,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Ohio","39",1355,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Oklahoma","40",497,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Oregon","41",412,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Pennsylvania","42",1256,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Rhode Island","44",105,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","South Carolina","45",713,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","South Dakota","46",80,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Tennessee","47",938,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Texas","48",2531,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Utah","49",220,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Vermont","50",54,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Virginia","51",840,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Washington","53",613,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","West Virginia","54",315,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Wisconsin","55",525,Not Applicable,Not Applicable
+,"Mar., 2020","2020/03","Wyoming","56",59,Not Applicable,Not Applicable
+"Total","Mar., 2020","2020/03",,,33342,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Alabama","01",725,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Alaska","02",71,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Arizona","04",688,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Arkansas","05",411,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","California","06",3234,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Colorado","08",573,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Connecticut","09",457,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Delaware","10",111,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","District of Columbia","11",121,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Florida","12",2290,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Georgia","13",1260,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Hawaii","15",112,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Idaho","16",132,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Illinois","17",1480,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Indiana","18",857,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Iowa","19",285,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Kansas","20",268,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Kentucky","21",662,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Louisiana","22",776,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Maine","23",152,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Maryland","24",810,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Massachusetts","25",756,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Michigan","26",1490,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Minnesota","27",416,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Mississippi","28",503,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Missouri","29",735,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Montana","30",100,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Nebraska","31",150,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Nevada","32",357,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","New Hampshire","33",136,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","New Jersey","34",1970,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","New Mexico","35",257,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","New York","36",4737,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","North Carolina","37",1169,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","North Dakota","38",60,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Ohio","39",1365,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Oklahoma","40",473,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Oregon","41",358,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Pennsylvania","42",1491,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Rhode Island","44",113,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","South Carolina","45",640,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","South Dakota","46",81,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Tennessee","47",937,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Texas","48",2674,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Utah","49",203,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Vermont","50",69,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Virginia","51",857,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Washington","53",636,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","West Virginia","54",286,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Wisconsin","55",533,Not Applicable,Not Applicable
+,"Apr., 2020","2020/04","Wyoming","56",53,Not Applicable,Not Applicable
+"Total","Apr., 2020","2020/04",,,39080,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Alabama","01",778,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Alaska","02",82,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Arizona","04",721,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Arkansas","05",405,Not Applicable,Not Applicable
+,"May, 2020","2020/05","California","06",3183,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Colorado","08",507,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Connecticut","09",382,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Delaware","10",129,Not Applicable,Not Applicable
+,"May, 2020","2020/05","District of Columbia","11",113,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Florida","12",2322,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Georgia","13",1287,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Hawaii","15",138,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Idaho","16",141,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Illinois","17",1623,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Indiana","18",847,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Iowa","19",294,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Kansas","20",331,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Kentucky","21",716,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Louisiana","22",717,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Maine","23",162,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Maryland","24",884,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Massachusetts","25",719,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Michigan","26",1224,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Minnesota","27",439,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Mississippi","28",530,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Missouri","29",727,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Montana","30",91,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Nebraska","31",183,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Nevada","32",343,Not Applicable,Not Applicable
+,"May, 2020","2020/05","New Hampshire","33",142,Not Applicable,Not Applicable
+,"May, 2020","2020/05","New Jersey","34",1207,Not Applicable,Not Applicable
+,"May, 2020","2020/05","New Mexico","35",326,Not Applicable,Not Applicable
+,"May, 2020","2020/05","New York","36",2336,Not Applicable,Not Applicable
+,"May, 2020","2020/05","North Carolina","37",1259,Not Applicable,Not Applicable
+,"May, 2020","2020/05","North Dakota","38",57,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Ohio","39",1561,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Oklahoma","40",485,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Oregon","41",390,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Pennsylvania","42",1404,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Rhode Island","44",126,Not Applicable,Not Applicable
+,"May, 2020","2020/05","South Carolina","45",691,Not Applicable,Not Applicable
+,"May, 2020","2020/05","South Dakota","46",93,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Tennessee","47",1070,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Texas","48",2828,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Utah","49",219,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Vermont","50",65,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Virginia","51",882,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Washington","53",627,Not Applicable,Not Applicable
+,"May, 2020","2020/05","West Virginia","54",338,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Wisconsin","55",558,Not Applicable,Not Applicable
+,"May, 2020","2020/05","Wyoming","56",56,Not Applicable,Not Applicable
+"Total","May, 2020","2020/05",,,36738,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Alabama","01",794,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Alaska","02",64,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Arizona","04",883,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Arkansas","05",451,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","California","06",3196,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Colorado","08",519,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Connecticut","09",339,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Delaware","10",102,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","District of Columbia","11",84,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Florida","12",2237,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Georgia","13",1250,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Hawaii","15",116,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Idaho","16",120,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Illinois","17",1358,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Indiana","18",832,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Iowa","19",276,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Kansas","20",294,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Kentucky","21",656,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Louisiana","22",662,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Maine","23",144,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Maryland","24",710,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Massachusetts","25",562,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Michigan","26",1150,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Minnesota","27",425,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Mississippi","28",501,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Missouri","29",677,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Montana","30",106,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Nebraska","31",161,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Nevada","32",334,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","New Hampshire","33",106,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","New Jersey","34",852,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","New Mexico","35",316,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","New York","36",1682,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","North Carolina","37",1273,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","North Dakota","38",68,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Ohio","39",1512,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Oklahoma","40",522,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Oregon","41",353,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Pennsylvania","42",1327,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Rhode Island","44",93,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","South Carolina","45",726,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","South Dakota","46",86,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Tennessee","47",1011,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Texas","48",2930,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Utah","49",214,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Vermont","50",42,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Virginia","51",825,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Washington","53",623,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","West Virginia","54",303,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Wisconsin","55",526,Not Applicable,Not Applicable
+,"Jun., 2020","2020/06","Wyoming","56",65,Not Applicable,Not Applicable
+"Total","Jun., 2020","2020/06",,,34458,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Alabama","01",840,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Alaska","02",80,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Arizona","04",1193,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Arkansas","05",480,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","California","06",3900,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Colorado","08",508,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Connecticut","09",366,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Delaware","10",101,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","District of Columbia","11",81,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Florida","12",2753,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Georgia","13",1476,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Hawaii","15",116,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Idaho","16",148,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Illinois","17",1263,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Indiana","18",852,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Iowa","19",293,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Kansas","20",321,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Kentucky","21",693,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Louisiana","22",780,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Maine","23",165,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Maryland","24",676,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Massachusetts","25",582,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Michigan","26",1200,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Minnesota","27",450,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Mississippi","28",572,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Missouri","29",748,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Montana","30",101,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Nebraska","31",178,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Nevada","32",464,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","New Hampshire","33",123,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","New Jersey","34",788,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","New Mexico","35",286,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","New York","36",1738,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","North Carolina","37",1319,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","North Dakota","38",76,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Ohio","39",1523,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Oklahoma","40",536,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Oregon","41",387,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Pennsylvania","42",1398,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Rhode Island","44",100,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","South Carolina","45",879,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","South Dakota","46",94,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Tennessee","47",1140,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Texas","48",4011,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Utah","49",230,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Vermont","50",67,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Virginia","51",944,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Washington","53",635,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","West Virginia","54",324,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Wisconsin","55",579,Not Applicable,Not Applicable
+,"Jul., 2020","2020/07","Wyoming","56",70,Not Applicable,Not Applicable
+"Total","Jul., 2020","2020/07",,,38627,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Alabama","01",858,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Alaska","02",89,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Arizona","04",930,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Arkansas","05",487,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","California","06",3829,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Colorado","08",509,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Connecticut","09",308,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Delaware","10",116,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","District of Columbia","11",101,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Florida","12",2740,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Georgia","13",1493,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Hawaii","15",131,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Idaho","16",170,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Illinois","17",1345,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Indiana","18",808,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Iowa","19",299,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Kansas","20",284,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Kentucky","21",730,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Louisiana","22",744,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Maine","23",122,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Maryland","24",714,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Massachusetts","25",499,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Michigan","26",1081,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Minnesota","27",450,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Mississippi","28",611,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Missouri","29",757,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Montana","30",103,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Nebraska","31",184,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Nevada","32",454,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","New Hampshire","33",115,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","New Jersey","34",775,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","New Mexico","35",309,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","New York","36",1617,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","North Carolina","37",1274,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","North Dakota","38",69,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Ohio","39",1450,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Oklahoma","40",574,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Oregon","41",399,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Pennsylvania","42",1283,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Rhode Island","44",87,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","South Carolina","45",788,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","South Dakota","46",81,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Tennessee","47",1105,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Texas","48",3648,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Utah","49",216,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Vermont","50",71,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Virginia","51",866,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Washington","53",647,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","West Virginia","54",296,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Wisconsin","55",562,Not Applicable,Not Applicable
+,"Aug., 2020","2020/08","Wyoming","56",64,Not Applicable,Not Applicable
+"Total","Aug., 2020","2020/08",,,37242,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Alabama","01",766,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Alaska","02",87,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Arizona","04",796,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Arkansas","05",453,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","California","06",3287,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Colorado","08",513,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Connecticut","09",303,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Delaware","10",100,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","District of Columbia","11",64,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Florida","12",2369,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Georgia","13",1347,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Hawaii","15",113,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Idaho","16",157,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Illinois","17",1176,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Indiana","18",724,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Iowa","19",349,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Kansas","20",290,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Kentucky","21",667,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Louisiana","22",669,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Maine","23",145,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Maryland","24",625,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Massachusetts","25",527,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Michigan","26",1091,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Minnesota","27",449,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Mississippi","28",488,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Missouri","29",755,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Montana","30",120,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Nebraska","31",154,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Nevada","32",351,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","New Hampshire","33",132,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","New Jersey","34",707,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","New Mexico","35",275,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","New York","36",1590,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","North Carolina","37",1240,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","North Dakota","38",57,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Ohio","39",1363,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Oklahoma","40",491,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Oregon","41",384,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Pennsylvania","42",1323,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Rhode Island","44",90,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","South Carolina","45",731,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","South Dakota","46",79,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Tennessee","47",1063,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Texas","48",2928,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Utah","49",227,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Vermont","50",66,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Virginia","51",866,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Washington","53",601,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","West Virginia","54",309,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Wisconsin","55",498,Not Applicable,Not Applicable
+,"Sep., 2020","2020/09","Wyoming","56",53,Not Applicable,Not Applicable
+"Total","Sep., 2020","2020/09",,,34008,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Alabama","01",726,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Alaska","02",84,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Arizona","04",747,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Arkansas","05",457,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","California","06",3224,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Colorado","08",488,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Connecticut","09",337,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Delaware","10",105,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","District of Columbia","11",94,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Florida","12",2352,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Georgia","13",1362,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Hawaii","15",120,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Idaho","16",161,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Illinois","17",1264,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Indiana","18",813,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Iowa","19",305,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Kansas","20",280,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Kentucky","21",745,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Louisiana","22",701,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Maine","23",172,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Maryland","24",665,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Massachusetts","25",598,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Michigan","26",1149,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Minnesota","27",449,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Mississippi","28",513,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Missouri","29",808,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Montana","30",164,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Nebraska","31",160,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Nevada","32",360,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","New Hampshire","33",123,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","New Jersey","34",776,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","New Mexico","35",285,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","New York","36",1596,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","North Carolina","37",1246,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","North Dakota","38",76,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Ohio","39",1461,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Oklahoma","40",576,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Oregon","41",380,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Pennsylvania","42",1274,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Rhode Island","44",107,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","South Carolina","45",701,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","South Dakota","46",115,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Tennessee","47",1073,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Texas","48",3055,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Utah","49",228,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Vermont","50",57,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Virginia","51",882,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Washington","53",611,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","West Virginia","54",305,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Wisconsin","55",542,Not Applicable,Not Applicable
+,"Oct., 2020","2020/10","Wyoming","56",70,Not Applicable,Not Applicable
+"Total","Oct., 2020","2020/10",,,34942,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Alabama","01",774,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Alaska","02",84,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Arizona","04",768,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Arkansas","05",447,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","California","06",3501,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Colorado","08",551,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Connecticut","09",328,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Delaware","10",86,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","District of Columbia","11",76,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Florida","12",2330,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Georgia","13",1253,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Hawaii","15",107,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Idaho","16",150,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Illinois","17",1449,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Indiana","18",848,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Iowa","19",314,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Kansas","20",333,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Kentucky","21",707,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Louisiana","22",683,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Maine","23",148,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Maryland","24",684,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Massachusetts","25",581,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Michigan","26",1200,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Minnesota","27",475,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Mississippi","28",532,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Missouri","29",854,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Montana","30",149,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Nebraska","31",214,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Nevada","32",393,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","New Hampshire","33",122,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","New Jersey","34",952,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","New Mexico","35",381,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","New York","36",1639,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","North Carolina","37",1226,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","North Dakota","38",104,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Ohio","39",1553,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Oklahoma","40",600,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Oregon","41",378,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Pennsylvania","42",1387,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Rhode Island","44",110,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","South Carolina","45",740,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","South Dakota","46",98,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Tennessee","47",1067,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Texas","48",3243,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Utah","49",241,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Vermont","50",51,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Virginia","51",818,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Washington","53",625,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","West Virginia","54",309,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Wisconsin","55",632,Not Applicable,Not Applicable
+,"Nov., 2020","2020/11","Wyoming","56",70,Not Applicable,Not Applicable
+"Total","Nov., 2020","2020/11",,,36365,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Alabama","01",946,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Alaska","02",90,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Arizona","04",1060,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Arkansas","05",529,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","California","06",5338,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Colorado","08",596,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Connecticut","09",408,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Delaware","10",130,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","District of Columbia","11",99,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Florida","12",2540,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Georgia","13",1516,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Hawaii","15",114,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Idaho","16",159,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Illinois","17",1572,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Indiana","18",986,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Iowa","19",354,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Kansas","20",393,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Kentucky","21",856,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Louisiana","22",787,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Maine","23",165,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Maryland","24",772,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Massachusetts","25",595,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Michigan","26",1336,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Minnesota","27",531,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Mississippi","28",619,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Missouri","29",890,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Montana","30",135,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Nebraska","31",223,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Nevada","32",523,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","New Hampshire","33",120,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","New Jersey","34",1063,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","New Mexico","35",428,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","New York","36",1848,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","North Carolina","37",1438,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","North Dakota","38",69,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Ohio","39",1752,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Oklahoma","40",773,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Oregon","41",420,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Pennsylvania","42",1733,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Rhode Island","44",116,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","South Carolina","45",841,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","South Dakota","46",91,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Tennessee","47",1280,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Texas","48",3810,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Utah","49",253,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Vermont","50",58,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Virginia","51",975,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Washington","53",678,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","West Virginia","54",396,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Wisconsin","55",662,Not Applicable,Not Applicable
+,"Dec., 2020","2020/12","Wyoming","56",80,Not Applicable,Not Applicable
+"Total","Dec., 2020","2020/12",,,43146,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Alabama","01",1126,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Alaska","02",80,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Arizona","04",1310,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Arkansas","05",576,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","California","06",6458,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Colorado","08",559,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Connecticut","09",401,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Delaware","10",144,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","District of Columbia","11",109,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Florida","12",2587,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Georgia","13",1764,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Hawaii","15",119,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Idaho","16",159,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Illinois","17",1391,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Indiana","18",952,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Iowa","19",331,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Kansas","20",370,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Kentucky","21",757,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Louisiana","22",855,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Maine","23",179,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Maryland","24",773,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Massachusetts","25",679,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Michigan","26",1203,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Minnesota","27",461,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Mississippi","28",622,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Missouri","29",844,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Montana","30",132,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Nebraska","31",194,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Nevada","32",484,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","New Hampshire","33",138,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","New Jersey","34",1049,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","New Mexico","35",378,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","New York","36",2085,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","North Carolina","37",1539,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","North Dakota","38",61,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Ohio","39",1714,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Oklahoma","40",758,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Oregon","41",440,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Pennsylvania","42",1603,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Rhode Island","44",100,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","South Carolina","45",896,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","South Dakota","46",131,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Tennessee","47",1358,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Texas","48",4220,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Utah","49",282,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Vermont","50",58,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Virginia","51",1015,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Washington","53",682,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","West Virginia","54",428,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Wisconsin","55",579,Not Applicable,Not Applicable
+,"Jan., 2021","2021/01","Wyoming","56",62,Not Applicable,Not Applicable
+"Total","Jan., 2021","2021/01",,,45195,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Alabama","01",788,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Alaska","02",63,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Arizona","04",889,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Arkansas","05",481,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","California","06",4116,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Colorado","08",446,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Connecticut","09",336,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Delaware","10",111,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","District of Columbia","11",79,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Florida","12",2295,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Georgia","13",1422,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Hawaii","15",111,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Idaho","16",114,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Illinois","17",1222,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Indiana","18",812,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Iowa","19",258,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Kansas","20",274,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Kentucky","21",697,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Louisiana","22",664,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Maine","23",141,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Maryland","24",623,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Massachusetts","25",597,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Michigan","26",1059,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Minnesota","27",401,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Mississippi","28",530,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Missouri","29",745,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Montana","30",96,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Nebraska","31",130,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Nevada","32",390,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","New Hampshire","33",95,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","New Jersey","34",913,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","New Mexico","35",320,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","New York","36",1816,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","North Carolina","37",1281,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","North Dakota","38",61,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Ohio","39",1429,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Oklahoma","40",585,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Oregon","41",358,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Pennsylvania","42",1427,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Rhode Island","44",111,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","South Carolina","45",725,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","South Dakota","46",98,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Tennessee","47",1005,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Texas","48",3443,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Utah","49",204,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Vermont","50",53,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Virginia","51",896,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Washington","53",601,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","West Virginia","54",295,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Wisconsin","55",497,Not Applicable,Not Applicable
+,"Feb., 2021","2021/02","Wyoming","56",56,Not Applicable,Not Applicable
+"Total","Feb., 2021","2021/02",,,36159,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Alabama","01",794,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Alaska","02",73,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Arizona","04",760,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Arkansas","05",463,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","California","06",3589,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Colorado","08",558,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Connecticut","09",352,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Delaware","10",118,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","District of Columbia","11",88,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Florida","12",2394,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Georgia","13",1297,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Hawaii","15",111,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Idaho","16",159,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Illinois","17",1288,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Indiana","18",780,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Iowa","19",262,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Kansas","20",296,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Kentucky","21",757,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Louisiana","22",748,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Maine","23",150,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Maryland","24",710,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Massachusetts","25",636,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Michigan","26",1132,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Minnesota","27",446,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Mississippi","28",541,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Missouri","29",770,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Montana","30",110,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Nebraska","31",162,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Nevada","32",330,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","New Hampshire","33",114,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","New Jersey","34",943,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","New Mexico","35",330,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","New York","36",1959,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","North Carolina","37",1292,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","North Dakota","38",67,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Ohio","39",1408,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Oklahoma","40",566,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Oregon","41",405,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Pennsylvania","42",1460,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Rhode Island","44",97,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","South Carolina","45",763,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","South Dakota","46",99,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Tennessee","47",1062,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Texas","48",3326,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Utah","49",213,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Vermont","50",62,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Virginia","51",896,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Washington","53",669,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","West Virginia","54",363,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Wisconsin","55",523,Not Applicable,Not Applicable
+,"Mar., 2021","2021/03","Wyoming","56",71,Not Applicable,Not Applicable
+"Total","Mar., 2021","2021/03",,,36562,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Alabama","01",770,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Alaska","02",94,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Arizona","04",765,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Arkansas","05",402,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","California","06",3154,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Colorado","08",478,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Connecticut","09",329,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Delaware","10",132,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","District of Columbia","11",84,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Florida","12",2426,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Georgia","13",1333,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Hawaii","15",118,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Idaho","16",152,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Illinois","17",1340,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Indiana","18",766,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Iowa","19",289,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Kansas","20",301,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Kentucky","21",750,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Louisiana","22",684,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Maine","23",155,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Maryland","24",716,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Massachusetts","25",611,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Michigan","26",1391,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Minnesota","27",443,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Mississippi","28",500,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Missouri","29",762,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Montana","30",118,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Nebraska","31",178,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Nevada","32",320,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","New Hampshire","33",125,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","New Jersey","34",945,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","New Mexico","35",301,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","New York","36",1932,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","North Carolina","37",1346,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","North Dakota","38",72,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Ohio","39",1505,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Oklahoma","40",530,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Oregon","41",383,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Pennsylvania","42",1401,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Rhode Island","44",103,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","South Carolina","45",799,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","South Dakota","46",81,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Tennessee","47",1090,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Texas","48",2967,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Utah","49",228,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Vermont","50",55,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Virginia","51",928,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Washington","53",663,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","West Virginia","54",355,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Wisconsin","55",499,Not Applicable,Not Applicable
+,"Apr., 2021","2021/04","Wyoming","56",57,Not Applicable,Not Applicable
+"Total","Apr., 2021","2021/04",,,35926,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Alabama","01",775,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Alaska","02",81,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Arizona","04",795,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Arkansas","05",456,Not Applicable,Not Applicable
+,"May, 2021","2021/05","California","06",3281,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Colorado","08",501,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Connecticut","09",353,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Delaware","10",120,Not Applicable,Not Applicable
+,"May, 2021","2021/05","District of Columbia","11",79,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Florida","12",2464,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Georgia","13",1347,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Hawaii","15",107,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Idaho","16",159,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Illinois","17",1348,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Indiana","18",808,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Iowa","19",274,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Kansas","20",285,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Kentucky","21",733,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Louisiana","22",709,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Maine","23",166,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Maryland","24",673,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Massachusetts","25",540,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Michigan","26",1371,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Minnesota","27",444,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Mississippi","28",527,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Missouri","29",765,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Montana","30",101,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Nebraska","31",163,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Nevada","32",369,Not Applicable,Not Applicable
+,"May, 2021","2021/05","New Hampshire","33",153,Not Applicable,Not Applicable
+,"May, 2021","2021/05","New Jersey","34",831,Not Applicable,Not Applicable
+,"May, 2021","2021/05","New Mexico","35",314,Not Applicable,Not Applicable
+,"May, 2021","2021/05","New York","36",1826,Not Applicable,Not Applicable
+,"May, 2021","2021/05","North Carolina","37",1294,Not Applicable,Not Applicable
+,"May, 2021","2021/05","North Dakota","38",68,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Ohio","39",1497,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Oklahoma","40",512,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Oregon","41",415,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Pennsylvania","42",1500,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Rhode Island","44",99,Not Applicable,Not Applicable
+,"May, 2021","2021/05","South Carolina","45",723,Not Applicable,Not Applicable
+,"May, 2021","2021/05","South Dakota","46",96,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Tennessee","47",1199,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Texas","48",2922,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Utah","49",226,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Vermont","50",59,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Virginia","51",864,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Washington","53",691,Not Applicable,Not Applicable
+,"May, 2021","2021/05","West Virginia","54",296,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Wisconsin","55",545,Not Applicable,Not Applicable
+,"May, 2021","2021/05","Wyoming","56",60,Not Applicable,Not Applicable
+"Total","May, 2021","2021/05",,,35984,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Alabama","01",742,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Alaska","02",67,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Arizona","04",826,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Arkansas","05",481,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","California","06",3157,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Colorado","08",503,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Connecticut","09",341,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Delaware","10",117,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","District of Columbia","11",83,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Florida","12",2366,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Georgia","13",1199,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Hawaii","15",140,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Idaho","16",149,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Illinois","17",1305,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Indiana","18",797,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Iowa","19",244,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Kansas","20",278,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Kentucky","21",748,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Louisiana","22",659,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Maine","23",181,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Maryland","24",593,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Massachusetts","25",523,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Michigan","26",1088,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Minnesota","27",465,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Mississippi","28",441,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Missouri","29",774,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Montana","30",127,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Nebraska","31",164,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Nevada","32",360,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","New Hampshire","33",132,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","New Jersey","34",801,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","New Mexico","35",305,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","New York","36",1593,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","North Carolina","37",1268,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","North Dakota","38",60,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Ohio","39",1392,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Oklahoma","40",511,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Oregon","41",447,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Pennsylvania","42",1261,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Rhode Island","44",92,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","South Carolina","45",698,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","South Dakota","46",81,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Tennessee","47",1070,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Texas","48",2915,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Utah","49",250,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Vermont","50",53,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Virginia","51",831,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Washington","53",716,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","West Virginia","54",301,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Wisconsin","55",520,Not Applicable,Not Applicable
+,"Jun., 2021","2021/06","Wyoming","56",71,Not Applicable,Not Applicable
+"Total","Jun., 2021","2021/06",,,34286,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Alabama","01",839,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Alaska","02",82,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Arizona","04",823,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Arkansas","05",557,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","California","06",3259,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Colorado","08",508,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Connecticut","09",326,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Delaware","10",94,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","District of Columbia","11",71,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Florida","12",2779,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Georgia","13",1286,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Hawaii","15",132,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Idaho","16",171,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Illinois","17",1304,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Indiana","18",841,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Iowa","19",287,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Kansas","20",296,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Kentucky","21",731,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Louisiana","22",779,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Maine","23",154,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Maryland","24",613,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Massachusetts","25",553,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Michigan","26",1037,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Minnesota","27",453,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Mississippi","28",571,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Missouri","29",937,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Montana","30",103,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Nebraska","31",178,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Nevada","32",456,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","New Hampshire","33",109,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","New Jersey","34",832,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","New Mexico","35",314,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","New York","36",1673,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","North Carolina","37",1257,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","North Dakota","38",57,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Ohio","39",1413,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Oklahoma","40",611,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Oregon","41",420,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Pennsylvania","42",1332,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Rhode Island","44",91,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","South Carolina","45",741,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","South Dakota","46",98,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Tennessee","47",1089,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Texas","48",3154,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Utah","49",263,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Vermont","50",79,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Virginia","51",855,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Washington","53",738,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","West Virginia","54",306,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Wisconsin","55",521,Not Applicable,Not Applicable
+,"Jul., 2021","2021/07","Wyoming","56",68,Not Applicable,Not Applicable
+"Total","Jul., 2021","2021/07",,,36241,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Alabama","01",1291,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Alaska","02",112,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Arizona","04",1024,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Arkansas","05",676,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","California","06",4208,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Colorado","08",577,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Connecticut","09",340,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Delaware","10",104,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","District of Columbia","11",91,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Florida","12",4937,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Georgia","13",2079,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Hawaii","15",180,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Idaho","16",200,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Illinois","17",1350,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Indiana","18",878,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Iowa","19",341,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Kansas","20",397,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Kentucky","21",905,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Louisiana","22",1188,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Maine","23",157,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Maryland","24",634,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Massachusetts","25",607,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Michigan","26",1161,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Minnesota","27",481,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Mississippi","28",836,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Missouri","29",1129,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Montana","30",151,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Nebraska","31",192,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Nevada","32",519,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","New Hampshire","33",130,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","New Jersey","34",828,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","New Mexico","35",365,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","New York","36",1887,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","North Carolina","37",1691,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","North Dakota","38",63,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Ohio","39",1600,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Oklahoma","40",814,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Oregon","41",538,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Pennsylvania","42",1367,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Rhode Island","44",90,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","South Carolina","45",992,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","South Dakota","46",107,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Tennessee","47",1456,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Texas","48",5057,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Utah","49",276,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Vermont","50",67,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Virginia","51",975,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Washington","53",810,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","West Virginia","54",377,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Wisconsin","55",538,Not Applicable,Not Applicable
+,"Aug., 2021","2021/08","Wyoming","56",96,Not Applicable,Not Applicable
+"Total","Aug., 2021","2021/08",,,46869,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Alabama","01",1381,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Alaska","02",109,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Arizona","04",1064,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Arkansas","05",606,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","California","06",4219,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Colorado","08",630,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Connecticut","09",321,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Delaware","10",135,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","District of Columbia","11",83,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Florida","12",4251,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Georgia","13",2392,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Hawaii","15",187,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Idaho","16",276,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Illinois","17",1464,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Indiana","18",1093,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Iowa","19",352,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Kansas","20",394,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Kentucky","21",1132,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Louisiana","22",1098,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Maine","23",195,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Maryland","24",702,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Massachusetts","25",550,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Michigan","26",1224,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Minnesota","27",483,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Mississippi","28",781,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Missouri","29",962,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Montana","30",157,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Nebraska","31",186,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Nevada","32",513,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","New Hampshire","33",144,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","New Jersey","34",861,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","New Mexico","35",400,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","New York","36",1811,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","North Carolina","37",1896,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","North Dakota","38",91,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Ohio","39",1902,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Oklahoma","40",878,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Oregon","41",577,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Pennsylvania","42",1550,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Rhode Island","44",100,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","South Carolina","45",1188,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","South Dakota","46",106,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Tennessee","47",1885,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Texas","48",5380,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Utah","49",290,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Vermont","50",70,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Virginia","51",1127,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Washington","53",885,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","West Virginia","54",531,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Wisconsin","55",658,Not Applicable,Not Applicable
+,"Sep., 2021","2021/09","Wyoming","56",94,Not Applicable,Not Applicable
+"Total","Sep., 2021","2021/09",,,49364,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Alabama","01",939,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Alaska","02",149,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Arizona","04",1045,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Arkansas","05",525,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","California","06",3835,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Colorado","08",632,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Connecticut","09",318,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Delaware","10",147,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","District of Columbia","11",86,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Florida","12",2876,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Georgia","13",1732,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Hawaii","15",149,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Idaho","16",263,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Illinois","17",1380,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Indiana","18",1026,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Iowa","19",381,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Kansas","20",370,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Kentucky","21",917,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Louisiana","22",774,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Maine","23",183,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Maryland","24",773,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Massachusetts","25",632,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Michigan","26",1372,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Minnesota","27",500,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Mississippi","28",502,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Missouri","29",841,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Montana","30",173,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Nebraska","31",221,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Nevada","32",462,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","New Hampshire","33",156,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","New Jersey","34",940,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","New Mexico","35",384,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","New York","36",1838,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","North Carolina","37",1711,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","North Dakota","38",101,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Ohio","39",1979,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Oklahoma","40",690,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Oregon","41",514,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Pennsylvania","42",1744,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Rhode Island","44",122,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","South Carolina","45",1006,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","South Dakota","46",100,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Tennessee","47",1501,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Texas","48",3977,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Utah","49",328,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Vermont","50",79,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Virginia","51",1110,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Washington","53",836,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","West Virginia","54",503,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Wisconsin","55",681,Not Applicable,Not Applicable
+,"Oct., 2021","2021/10","Wyoming","56",94,Not Applicable,Not Applicable
+"Total","Oct., 2021","2021/10",,,43597,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Alabama","01",762,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Alaska","02",122,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Arizona","04",995,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Arkansas","05",469,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","California","06",3598,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Colorado","08",719,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Connecticut","09",357,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Delaware","10",104,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","District of Columbia","11",70,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Florida","12",2312,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Georgia","13",1378,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Hawaii","15",133,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Idaho","16",218,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Illinois","17",1327,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Indiana","18",973,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Iowa","19",343,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Kansas","20",322,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Kentucky","21",779,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Louisiana","22",641,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Maine","23",181,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Maryland","24",602,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Massachusetts","25",588,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Michigan","26",1496,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Minnesota","27",548,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Mississippi","28",479,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Missouri","29",788,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Montana","30",156,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Nebraska","31",208,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Nevada","32",375,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","New Hampshire","33",138,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","New Jersey","34",782,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","New Mexico","35",411,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","New York","36",1820,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","North Carolina","37",1359,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","North Dakota","38",107,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Ohio","39",1808,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Oklahoma","40",604,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Oregon","41",465,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Pennsylvania","42",1692,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Rhode Island","44",128,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","South Carolina","45",773,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","South Dakota","46",116,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Tennessee","47",1135,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Texas","48",3100,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Utah","49",275,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Vermont","50",74,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Virginia","51",967,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Washington","53",720,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","West Virginia","54",386,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Wisconsin","55",697,Not Applicable,Not Applicable
+,"Nov., 2021","2021/11","Wyoming","56",88,Not Applicable,Not Applicable
+"Total","Nov., 2021","2021/11",,,38688,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Alabama","01",844,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Alaska","02",102,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Arizona","04",1203,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Arkansas","05",473,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","California","06",3977,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Colorado","08",736,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Connecticut","09",389,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Delaware","10",156,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","District of Columbia","11",87,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Florida","12",2426,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Georgia","13",1405,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Hawaii","15",110,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Idaho","16",168,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Illinois","17",1652,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Indiana","18",1169,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Iowa","19",417,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Kansas","20",385,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Kentucky","21",871,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Louisiana","22",703,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Maine","23",248,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Maryland","24",753,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Massachusetts","25",706,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Michigan","26",1884,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Minnesota","27",700,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Mississippi","28",557,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Missouri","29",970,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Montana","30",116,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Nebraska","31",213,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Nevada","32",440,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","New Hampshire","33",168,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","New Jersey","34",978,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","New Mexico","35",511,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","New York","36",2058,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","North Carolina","37",1458,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","North Dakota","38",81,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Ohio","39",2188,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Oklahoma","40",716,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Oregon","41",489,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Pennsylvania","42",2025,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Rhode Island","44",137,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","South Carolina","45",762,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","South Dakota","46",119,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Tennessee","47",1269,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Texas","48",3142,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Utah","49",281,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Vermont","50",67,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Virginia","51",994,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Washington","53",756,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","West Virginia","54",397,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Wisconsin","55",786,Not Applicable,Not Applicable
+,"Dec., 2021","2021/12","Wyoming","56",68,Not Applicable,Not Applicable
+"Total","Dec., 2021","2021/12",,,43310,Not Applicable,Not Applicable
+"Total",,,,,1644717,Not Applicable,Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Single-Year Ages: 40 years; 41 years; 42 years; 43 years; 44 years; 45 years; 46 years; 47 years; 48 years; 49 years; 50 years;"
+"51 years; 52 years; 53 years; 54 years; 55 years; 56 years; 57 years; 58 years; 59 years"
+"Year/Month: 2018; 2019; 2020; 2021"
+"Group By: Month; Residence State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 20, 2023 12:18:10 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 12:18:10"
+"AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"3. Deaths occurring through October 07, 2023 as of October 15, 2023."

@@ -1,296 +1,1154 @@
-"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate
-	"1999"	"1999"	"Jan., 1999"	"1999/01"	30010	Not Applicable	Not Applicable
-	"1999"	"1999"	"Feb., 1999"	"1999/02"	27330	Not Applicable	Not Applicable
-	"1999"	"1999"	"Mar., 1999"	"1999/03"	29707	Not Applicable	Not Applicable
-	"1999"	"1999"	"Apr., 1999"	"1999/04"	26484	Not Applicable	Not Applicable
-	"1999"	"1999"	"May, 1999"	"1999/05"	26181	Not Applicable	Not Applicable
-	"1999"	"1999"	"Jun., 1999"	"1999/06"	24715	Not Applicable	Not Applicable
-	"1999"	"1999"	"Jul., 1999"	"1999/07"	25604	Not Applicable	Not Applicable
-	"1999"	"1999"	"Aug., 1999"	"1999/08"	25094	Not Applicable	Not Applicable
-	"1999"	"1999"	"Sep., 1999"	"1999/09"	24150	Not Applicable	Not Applicable
-	"1999"	"1999"	"Oct., 1999"	"1999/10"	26302	Not Applicable	Not Applicable
-	"1999"	"1999"	"Nov., 1999"	"1999/11"	25606	Not Applicable	Not Applicable
-	"1999"	"1999"	"Dec., 1999"	"1999/12"	29607	Not Applicable	Not Applicable
-"Total"	"1999"	"1999"			320790	Not Applicable	Not Applicable
-	"2000"	"2000"	"Jan., 2000"	"2000/01"	31418	Not Applicable	Not Applicable
-	"2000"	"2000"	"Feb., 2000"	"2000/02"	26294	Not Applicable	Not Applicable
-	"2000"	"2000"	"Mar., 2000"	"2000/03"	26470	Not Applicable	Not Applicable
-	"2000"	"2000"	"Apr., 2000"	"2000/04"	25604	Not Applicable	Not Applicable
-	"2000"	"2000"	"May, 2000"	"2000/05"	26280	Not Applicable	Not Applicable
-	"2000"	"2000"	"Jun., 2000"	"2000/06"	24714	Not Applicable	Not Applicable
-	"2000"	"2000"	"Jul., 2000"	"2000/07"	25262	Not Applicable	Not Applicable
-	"2000"	"2000"	"Aug., 2000"	"2000/08"	25257	Not Applicable	Not Applicable
-	"2000"	"2000"	"Sep., 2000"	"2000/09"	24626	Not Applicable	Not Applicable
-	"2000"	"2000"	"Oct., 2000"	"2000/10"	25906	Not Applicable	Not Applicable
-	"2000"	"2000"	"Nov., 2000"	"2000/11"	25801	Not Applicable	Not Applicable
-	"2000"	"2000"	"Dec., 2000"	"2000/12"	28202	Not Applicable	Not Applicable
-"Total"	"2000"	"2000"			315834	Not Applicable	Not Applicable
-	"2001"	"2001"	"Jan., 2001"	"2001/01"	29026	Not Applicable	Not Applicable
-	"2001"	"2001"	"Feb., 2001"	"2001/02"	25252	Not Applicable	Not Applicable
-	"2001"	"2001"	"Mar., 2001"	"2001/03"	27624	Not Applicable	Not Applicable
-	"2001"	"2001"	"Apr., 2001"	"2001/04"	26179	Not Applicable	Not Applicable
-	"2001"	"2001"	"May, 2001"	"2001/05"	25962	Not Applicable	Not Applicable
-	"2001"	"2001"	"Jun., 2001"	"2001/06"	24767	Not Applicable	Not Applicable
-	"2001"	"2001"	"Jul., 2001"	"2001/07"	25006	Not Applicable	Not Applicable
-	"2001"	"2001"	"Aug., 2001"	"2001/08"	25284	Not Applicable	Not Applicable
-	"2001"	"2001"	"Sep., 2001"	"2001/09"	24326	Not Applicable	Not Applicable
-	"2001"	"2001"	"Oct., 2001"	"2001/10"	26176	Not Applicable	Not Applicable
-	"2001"	"2001"	"Nov., 2001"	"2001/11"	25930	Not Applicable	Not Applicable
-	"2001"	"2001"	"Dec., 2001"	"2001/12"	27316	Not Applicable	Not Applicable
-"Total"	"2001"	"2001"			312848	Not Applicable	Not Applicable
-	"2002"	"2002"	"Jan., 2002"	"2002/01"	28465	Not Applicable	Not Applicable
-	"2002"	"2002"	"Feb., 2002"	"2002/02"	26315	Not Applicable	Not Applicable
-	"2002"	"2002"	"Mar., 2002"	"2002/03"	28336	Not Applicable	Not Applicable
-	"2002"	"2002"	"Apr., 2002"	"2002/04"	25526	Not Applicable	Not Applicable
-	"2002"	"2002"	"May, 2002"	"2002/05"	25919	Not Applicable	Not Applicable
-	"2002"	"2002"	"Jun., 2002"	"2002/06"	24621	Not Applicable	Not Applicable
-	"2002"	"2002"	"Jul., 2002"	"2002/07"	25070	Not Applicable	Not Applicable
-	"2002"	"2002"	"Aug., 2002"	"2002/08"	24869	Not Applicable	Not Applicable
-	"2002"	"2002"	"Sep., 2002"	"2002/09"	24536	Not Applicable	Not Applicable
-	"2002"	"2002"	"Oct., 2002"	"2002/10"	26047	Not Applicable	Not Applicable
-	"2002"	"2002"	"Nov., 2002"	"2002/11"	25914	Not Applicable	Not Applicable
-	"2002"	"2002"	"Dec., 2002"	"2002/12"	27874	Not Applicable	Not Applicable
-"Total"	"2002"	"2002"			313492	Not Applicable	Not Applicable
-	"2003"	"2003"	"Jan., 2003"	"2003/01"	28333	Not Applicable	Not Applicable
-	"2003"	"2003"	"Feb., 2003"	"2003/02"	25593	Not Applicable	Not Applicable
-	"2003"	"2003"	"Mar., 2003"	"2003/03"	27761	Not Applicable	Not Applicable
-	"2003"	"2003"	"Apr., 2003"	"2003/04"	26186	Not Applicable	Not Applicable
-	"2003"	"2003"	"May, 2003"	"2003/05"	26106	Not Applicable	Not Applicable
-	"2003"	"2003"	"Jun., 2003"	"2003/06"	25211	Not Applicable	Not Applicable
-	"2003"	"2003"	"Jul., 2003"	"2003/07"	25306	Not Applicable	Not Applicable
-	"2003"	"2003"	"Aug., 2003"	"2003/08"	25379	Not Applicable	Not Applicable
-	"2003"	"2003"	"Sep., 2003"	"2003/09"	24892	Not Applicable	Not Applicable
-	"2003"	"2003"	"Oct., 2003"	"2003/10"	26515	Not Applicable	Not Applicable
-	"2003"	"2003"	"Nov., 2003"	"2003/11"	26001	Not Applicable	Not Applicable
-	"2003"	"2003"	"Dec., 2003"	"2003/12"	30714	Not Applicable	Not Applicable
-"Total"	"2003"	"2003"			317997	Not Applicable	Not Applicable
-	"2004"	"2004"	"Jan., 2004"	"2004/01"	29848	Not Applicable	Not Applicable
-	"2004"	"2004"	"Feb., 2004"	"2004/02"	26210	Not Applicable	Not Applicable
-	"2004"	"2004"	"Mar., 2004"	"2004/03"	27623	Not Applicable	Not Applicable
-	"2004"	"2004"	"Apr., 2004"	"2004/04"	25715	Not Applicable	Not Applicable
-	"2004"	"2004"	"May, 2004"	"2004/05"	26056	Not Applicable	Not Applicable
-	"2004"	"2004"	"Jun., 2004"	"2004/06"	24944	Not Applicable	Not Applicable
-	"2004"	"2004"	"Jul., 2004"	"2004/07"	25648	Not Applicable	Not Applicable
-	"2004"	"2004"	"Aug., 2004"	"2004/08"	25112	Not Applicable	Not Applicable
-	"2004"	"2004"	"Sep., 2004"	"2004/09"	24792	Not Applicable	Not Applicable
-	"2004"	"2004"	"Oct., 2004"	"2004/10"	26073	Not Applicable	Not Applicable
-	"2004"	"2004"	"Nov., 2004"	"2004/11"	25615	Not Applicable	Not Applicable
-	"2004"	"2004"	"Dec., 2004"	"2004/12"	27882	Not Applicable	Not Applicable
-"Total"	"2004"	"2004"			315518	Not Applicable	Not Applicable
-	"2005"	"2005"	"Jan., 2005"	"2005/01"	29118	Not Applicable	Not Applicable
-	"2005"	"2005"	"Feb., 2005"	"2005/02"	26692	Not Applicable	Not Applicable
-	"2005"	"2005"	"Mar., 2005"	"2005/03"	29187	Not Applicable	Not Applicable
-	"2005"	"2005"	"Apr., 2005"	"2005/04"	26489	Not Applicable	Not Applicable
-	"2005"	"2005"	"May, 2005"	"2005/05"	26730	Not Applicable	Not Applicable
-	"2005"	"2005"	"Jun., 2005"	"2005/06"	25035	Not Applicable	Not Applicable
-	"2005"	"2005"	"Jul., 2005"	"2005/07"	25609	Not Applicable	Not Applicable
-	"2005"	"2005"	"Aug., 2005"	"2005/08"	25521	Not Applicable	Not Applicable
-	"2005"	"2005"	"Sep., 2005"	"2005/09"	24762	Not Applicable	Not Applicable
-	"2005"	"2005"	"Oct., 2005"	"2005/10"	26120	Not Applicable	Not Applicable
-	"2005"	"2005"	"Nov., 2005"	"2005/11"	25994	Not Applicable	Not Applicable
-	"2005"	"2005"	"Dec., 2005"	"2005/12"	28802	Not Applicable	Not Applicable
-"Total"	"2005"	"2005"			320059	Not Applicable	Not Applicable
-	"2006"	"2006"	"Jan., 2006"	"2006/01"	28524	Not Applicable	Not Applicable
-	"2006"	"2006"	"Feb., 2006"	"2006/02"	26200	Not Applicable	Not Applicable
-	"2006"	"2006"	"Mar., 2006"	"2006/03"	28589	Not Applicable	Not Applicable
-	"2006"	"2006"	"Apr., 2006"	"2006/04"	26239	Not Applicable	Not Applicable
-	"2006"	"2006"	"May, 2006"	"2006/05"	26847	Not Applicable	Not Applicable
-	"2006"	"2006"	"Jun., 2006"	"2006/06"	25055	Not Applicable	Not Applicable
-	"2006"	"2006"	"Jul., 2006"	"2006/07"	26094	Not Applicable	Not Applicable
-	"2006"	"2006"	"Aug., 2006"	"2006/08"	25818	Not Applicable	Not Applicable
-	"2006"	"2006"	"Sep., 2006"	"2006/09"	25293	Not Applicable	Not Applicable
-	"2006"	"2006"	"Oct., 2006"	"2006/10"	26818	Not Applicable	Not Applicable
-	"2006"	"2006"	"Nov., 2006"	"2006/11"	26438	Not Applicable	Not Applicable
-	"2006"	"2006"	"Dec., 2006"	"2006/12"	28316	Not Applicable	Not Applicable
-"Total"	"2006"	"2006"			320231	Not Applicable	Not Applicable
-	"2007"	"2007"	"Jan., 2007"	"2007/01"	29669	Not Applicable	Not Applicable
-	"2007"	"2007"	"Feb., 2007"	"2007/02"	27011	Not Applicable	Not Applicable
-	"2007"	"2007"	"Mar., 2007"	"2007/03"	29161	Not Applicable	Not Applicable
-	"2007"	"2007"	"Apr., 2007"	"2007/04"	27318	Not Applicable	Not Applicable
-	"2007"	"2007"	"May, 2007"	"2007/05"	27028	Not Applicable	Not Applicable
-	"2007"	"2007"	"Jun., 2007"	"2007/06"	25862	Not Applicable	Not Applicable
-	"2007"	"2007"	"Jul., 2007"	"2007/07"	26553	Not Applicable	Not Applicable
-	"2007"	"2007"	"Aug., 2007"	"2007/08"	26732	Not Applicable	Not Applicable
-	"2007"	"2007"	"Sep., 2007"	"2007/09"	25915	Not Applicable	Not Applicable
-	"2007"	"2007"	"Oct., 2007"	"2007/10"	27450	Not Applicable	Not Applicable
-	"2007"	"2007"	"Nov., 2007"	"2007/11"	27359	Not Applicable	Not Applicable
-	"2007"	"2007"	"Dec., 2007"	"2007/12"	29585	Not Applicable	Not Applicable
-"Total"	"2007"	"2007"			329643	Not Applicable	Not Applicable
-	"2008"	"2008"	"Jan., 2008"	"2008/01"	30325	Not Applicable	Not Applicable
-	"2008"	"2008"	"Feb., 2008"	"2008/02"	30074	Not Applicable	Not Applicable
-	"2008"	"2008"	"Mar., 2008"	"2008/03"	30785	Not Applicable	Not Applicable
-	"2008"	"2008"	"Apr., 2008"	"2008/04"	28163	Not Applicable	Not Applicable
-	"2008"	"2008"	"May, 2008"	"2008/05"	28342	Not Applicable	Not Applicable
-	"2008"	"2008"	"Jun., 2008"	"2008/06"	27095	Not Applicable	Not Applicable
-	"2008"	"2008"	"Jul., 2008"	"2008/07"	27574	Not Applicable	Not Applicable
-	"2008"	"2008"	"Aug., 2008"	"2008/08"	27347	Not Applicable	Not Applicable
-	"2008"	"2008"	"Sep., 2008"	"2008/09"	26910	Not Applicable	Not Applicable
-	"2008"	"2008"	"Oct., 2008"	"2008/10"	28260	Not Applicable	Not Applicable
-	"2008"	"2008"	"Nov., 2008"	"2008/11"	28714	Not Applicable	Not Applicable
-	"2008"	"2008"	"Dec., 2008"	"2008/12"	31335	Not Applicable	Not Applicable
-"Total"	"2008"	"2008"			344924	Not Applicable	Not Applicable
-	"2009"	"2009"	"Jan., 2009"	"2009/01"	31220	Not Applicable	Not Applicable
-	"2009"	"2009"	"Feb., 2009"	"2009/02"	28260	Not Applicable	Not Applicable
-	"2009"	"2009"	"Mar., 2009"	"2009/03"	30458	Not Applicable	Not Applicable
-	"2009"	"2009"	"Apr., 2009"	"2009/04"	28897	Not Applicable	Not Applicable
-	"2009"	"2009"	"May, 2009"	"2009/05"	28772	Not Applicable	Not Applicable
-	"2009"	"2009"	"Jun., 2009"	"2009/06"	27598	Not Applicable	Not Applicable
-	"2009"	"2009"	"Jul., 2009"	"2009/07"	28599	Not Applicable	Not Applicable
-	"2009"	"2009"	"Aug., 2009"	"2009/08"	28176	Not Applicable	Not Applicable
-	"2009"	"2009"	"Sep., 2009"	"2009/09"	27837	Not Applicable	Not Applicable
-	"2009"	"2009"	"Oct., 2009"	"2009/10"	30022	Not Applicable	Not Applicable
-	"2009"	"2009"	"Nov., 2009"	"2009/11"	29756	Not Applicable	Not Applicable
-	"2009"	"2009"	"Dec., 2009"	"2009/12"	31777	Not Applicable	Not Applicable
-"Total"	"2009"	"2009"			351372	Not Applicable	Not Applicable
-	"2010"	"2010"	"Jan., 2010"	"2010/01"	31993	Not Applicable	Not Applicable
-	"2010"	"2010"	"Feb., 2010"	"2010/02"	29085	Not Applicable	Not Applicable
-	"2010"	"2010"	"Mar., 2010"	"2010/03"	31570	Not Applicable	Not Applicable
-	"2010"	"2010"	"Apr., 2010"	"2010/04"	29232	Not Applicable	Not Applicable
-	"2010"	"2010"	"May, 2010"	"2010/05"	29653	Not Applicable	Not Applicable
-	"2010"	"2010"	"Jun., 2010"	"2010/06"	28845	Not Applicable	Not Applicable
-	"2010"	"2010"	"Jul., 2010"	"2010/07"	29781	Not Applicable	Not Applicable
-	"2010"	"2010"	"Aug., 2010"	"2010/08"	29433	Not Applicable	Not Applicable
-	"2010"	"2010"	"Sep., 2010"	"2010/09"	28234	Not Applicable	Not Applicable
-	"2010"	"2010"	"Oct., 2010"	"2010/10"	30217	Not Applicable	Not Applicable
-	"2010"	"2010"	"Nov., 2010"	"2010/11"	30057	Not Applicable	Not Applicable
-	"2010"	"2010"	"Dec., 2010"	"2010/12"	32703	Not Applicable	Not Applicable
-"Total"	"2010"	"2010"			360803	Not Applicable	Not Applicable
-	"2011"	"2011"	"Jan., 2011"	"2011/01"	33397	Not Applicable	Not Applicable
-	"2011"	"2011"	"Feb., 2011"	"2011/02"	30579	Not Applicable	Not Applicable
-	"2011"	"2011"	"Mar., 2011"	"2011/03"	32614	Not Applicable	Not Applicable
-	"2011"	"2011"	"Apr., 2011"	"2011/04"	30504	Not Applicable	Not Applicable
-	"2011"	"2011"	"May, 2011"	"2011/05"	30603	Not Applicable	Not Applicable
-	"2011"	"2011"	"Jun., 2011"	"2011/06"	29518	Not Applicable	Not Applicable
-	"2011"	"2011"	"Jul., 2011"	"2011/07"	30320	Not Applicable	Not Applicable
-	"2011"	"2011"	"Aug., 2011"	"2011/08"	30347	Not Applicable	Not Applicable
-	"2011"	"2011"	"Sep., 2011"	"2011/09"	29770	Not Applicable	Not Applicable
-	"2011"	"2011"	"Oct., 2011"	"2011/10"	31040	Not Applicable	Not Applicable
-	"2011"	"2011"	"Nov., 2011"	"2011/11"	30733	Not Applicable	Not Applicable
-	"2011"	"2011"	"Dec., 2011"	"2011/12"	33093	Not Applicable	Not Applicable
-"Total"	"2011"	"2011"			372518	Not Applicable	Not Applicable
-	"2012"	"2012"	"Jan., 2012"	"2012/01"	33137	Not Applicable	Not Applicable
-	"2012"	"2012"	"Feb., 2012"	"2012/02"	31124	Not Applicable	Not Applicable
-	"2012"	"2012"	"Mar., 2012"	"2012/03"	32923	Not Applicable	Not Applicable
-	"2012"	"2012"	"Apr., 2012"	"2012/04"	31683	Not Applicable	Not Applicable
-	"2012"	"2012"	"May, 2012"	"2012/05"	31755	Not Applicable	Not Applicable
-	"2012"	"2012"	"Jun., 2012"	"2012/06"	30436	Not Applicable	Not Applicable
-	"2012"	"2012"	"Jul., 2012"	"2012/07"	31588	Not Applicable	Not Applicable
-	"2012"	"2012"	"Aug., 2012"	"2012/08"	31950	Not Applicable	Not Applicable
-	"2012"	"2012"	"Sep., 2012"	"2012/09"	30914	Not Applicable	Not Applicable
-	"2012"	"2012"	"Oct., 2012"	"2012/10"	32398	Not Applicable	Not Applicable
-	"2012"	"2012"	"Nov., 2012"	"2012/11"	32539	Not Applicable	Not Applicable
-	"2012"	"2012"	"Dec., 2012"	"2012/12"	35671	Not Applicable	Not Applicable
-"Total"	"2012"	"2012"			386118	Not Applicable	Not Applicable
-	"2013"	"2013"	"Jan., 2013"	"2013/01"	37399	Not Applicable	Not Applicable
-	"2013"	"2013"	"Feb., 2013"	"2013/02"	32291	Not Applicable	Not Applicable
-	"2013"	"2013"	"Mar., 2013"	"2013/03"	35016	Not Applicable	Not Applicable
-	"2013"	"2013"	"Apr., 2013"	"2013/04"	32607	Not Applicable	Not Applicable
-	"2013"	"2013"	"May, 2013"	"2013/05"	32701	Not Applicable	Not Applicable
-	"2013"	"2013"	"Jun., 2013"	"2013/06"	31405	Not Applicable	Not Applicable
-	"2013"	"2013"	"Jul., 2013"	"2013/07"	32368	Not Applicable	Not Applicable
-	"2013"	"2013"	"Aug., 2013"	"2013/08"	31918	Not Applicable	Not Applicable
-	"2013"	"2013"	"Sep., 2013"	"2013/09"	31394	Not Applicable	Not Applicable
-	"2013"	"2013"	"Oct., 2013"	"2013/10"	33054	Not Applicable	Not Applicable
-	"2013"	"2013"	"Nov., 2013"	"2013/11"	33108	Not Applicable	Not Applicable
-	"2013"	"2013"	"Dec., 2013"	"2013/12"	36394	Not Applicable	Not Applicable
-"Total"	"2013"	"2013"			399655	Not Applicable	Not Applicable
-	"2014"	"2014"	"Jan., 2014"	"2014/01"	38683	Not Applicable	Not Applicable
-	"2014"	"2014"	"Feb., 2014"	"2014/02"	33260	Not Applicable	Not Applicable
-	"2014"	"2014"	"Mar., 2014"	"2014/03"	35666	Not Applicable	Not Applicable
-	"2014"	"2014"	"Apr., 2014"	"2014/04"	33785	Not Applicable	Not Applicable
-	"2014"	"2014"	"May, 2014"	"2014/05"	34080	Not Applicable	Not Applicable
-	"2014"	"2014"	"Jun., 2014"	"2014/06"	32664	Not Applicable	Not Applicable
-	"2014"	"2014"	"Jul., 2014"	"2014/07"	33409	Not Applicable	Not Applicable
-	"2014"	"2014"	"Aug., 2014"	"2014/08"	33018	Not Applicable	Not Applicable
-	"2014"	"2014"	"Sep., 2014"	"2014/09"	32535	Not Applicable	Not Applicable
-	"2014"	"2014"	"Oct., 2014"	"2014/10"	34991	Not Applicable	Not Applicable
-	"2014"	"2014"	"Nov., 2014"	"2014/11"	34728	Not Applicable	Not Applicable
-	"2014"	"2014"	"Dec., 2014"	"2014/12"	37653	Not Applicable	Not Applicable
-"Total"	"2014"	"2014"			414472	Not Applicable	Not Applicable
-	"2015"	"2015"	"Jan., 2015"	"2015/01"	39832	Not Applicable	Not Applicable
-	"2015"	"2015"	"Feb., 2015"	"2015/02"	35068	Not Applicable	Not Applicable
-	"2015"	"2015"	"Mar., 2015"	"2015/03"	38216	Not Applicable	Not Applicable
-	"2015"	"2015"	"Apr., 2015"	"2015/04"	35510	Not Applicable	Not Applicable
-	"2015"	"2015"	"May, 2015"	"2015/05"	35609	Not Applicable	Not Applicable
-	"2015"	"2015"	"Jun., 2015"	"2015/06"	34519	Not Applicable	Not Applicable
-	"2015"	"2015"	"Jul., 2015"	"2015/07"	35167	Not Applicable	Not Applicable
-	"2015"	"2015"	"Aug., 2015"	"2015/08"	35057	Not Applicable	Not Applicable
-	"2015"	"2015"	"Sep., 2015"	"2015/09"	34461	Not Applicable	Not Applicable
-	"2015"	"2015"	"Oct., 2015"	"2015/10"	36421	Not Applicable	Not Applicable
-	"2015"	"2015"	"Nov., 2015"	"2015/11"	35686	Not Applicable	Not Applicable
-	"2015"	"2015"	"Dec., 2015"	"2015/12"	38132	Not Applicable	Not Applicable
-"Total"	"2015"	"2015"			433678	Not Applicable	Not Applicable
-	"2016"	"2016"	"Jan., 2016"	"2016/01"	39372	Not Applicable	Not Applicable
-	"2016"	"2016"	"Feb., 2016"	"2016/02"	37305	Not Applicable	Not Applicable
-	"2016"	"2016"	"Mar., 2016"	"2016/03"	40571	Not Applicable	Not Applicable
-	"2016"	"2016"	"Apr., 2016"	"2016/04"	37567	Not Applicable	Not Applicable
-	"2016"	"2016"	"May, 2016"	"2016/05"	36956	Not Applicable	Not Applicable
-	"2016"	"2016"	"Jun., 2016"	"2016/06"	35685	Not Applicable	Not Applicable
-	"2016"	"2016"	"Jul., 2016"	"2016/07"	36849	Not Applicable	Not Applicable
-	"2016"	"2016"	"Aug., 2016"	"2016/08"	36663	Not Applicable	Not Applicable
-	"2016"	"2016"	"Sep., 2016"	"2016/09"	35222	Not Applicable	Not Applicable
-	"2016"	"2016"	"Oct., 2016"	"2016/10"	37380	Not Applicable	Not Applicable
-	"2016"	"2016"	"Nov., 2016"	"2016/11"	36877	Not Applicable	Not Applicable
-	"2016"	"2016"	"Dec., 2016"	"2016/12"	40507	Not Applicable	Not Applicable
-"Total"	"2016"	"2016"			450954	Not Applicable	Not Applicable
-	"2017"	"2017"	"Jan., 2017"	"2017/01"	41706	Not Applicable	Not Applicable
-	"2017"	"2017"	"Feb., 2017"	"2017/02"	37143	Not Applicable	Not Applicable
-	"2017"	"2017"	"Mar., 2017"	"2017/03"	40269	Not Applicable	Not Applicable
-	"2017"	"2017"	"Apr., 2017"	"2017/04"	37472	Not Applicable	Not Applicable
-	"2017"	"2017"	"May, 2017"	"2017/05"	37655	Not Applicable	Not Applicable
-	"2017"	"2017"	"Jun., 2017"	"2017/06"	36275	Not Applicable	Not Applicable
-	"2017"	"2017"	"Jul., 2017"	"2017/07"	37077	Not Applicable	Not Applicable
-	"2017"	"2017"	"Aug., 2017"	"2017/08"	36686	Not Applicable	Not Applicable
-	"2017"	"2017"	"Sep., 2017"	"2017/09"	36123	Not Applicable	Not Applicable
-	"2017"	"2017"	"Oct., 2017"	"2017/10"	37837	Not Applicable	Not Applicable
-	"2017"	"2017"	"Nov., 2017"	"2017/11"	37931	Not Applicable	Not Applicable
-	"2017"	"2017"	"Dec., 2017"	"2017/12"	41821	Not Applicable	Not Applicable
-"Total"	"2017"	"2017"			457995	Not Applicable	Not Applicable
-	"2018"	"2018"	"Jan., 2018"	"2018/01"	45182	Not Applicable	Not Applicable
-	"2018"	"2018"	"Feb., 2018"	"2018/02"	37867	Not Applicable	Not Applicable
-	"2018"	"2018"	"Mar., 2018"	"2018/03"	40445	Not Applicable	Not Applicable
-	"2018"	"2018"	"Apr., 2018"	"2018/04"	38138	Not Applicable	Not Applicable
-	"2018"	"2018"	"May, 2018"	"2018/05"	37897	Not Applicable	Not Applicable
-	"2018"	"2018"	"Jun., 2018"	"2018/06"	36617	Not Applicable	Not Applicable
-	"2018"	"2018"	"Jul., 2018"	"2018/07"	37583	Not Applicable	Not Applicable
-	"2018"	"2018"	"Aug., 2018"	"2018/08"	37343	Not Applicable	Not Applicable
-	"2018"	"2018"	"Sep., 2018"	"2018/09"	36247	Not Applicable	Not Applicable
-	"2018"	"2018"	"Oct., 2018"	"2018/10"	38514	Not Applicable	Not Applicable
-	"2018"	"2018"	"Nov., 2018"	"2018/11"	38466	Not Applicable	Not Applicable
-	"2018"	"2018"	"Dec., 2018"	"2018/12"	40820	Not Applicable	Not Applicable
-"Total"	"2018"	"2018"			465119	Not Applicable	Not Applicable
-	"2019"	"2019"	"Jan., 2019"	"2019/01"	42421	Not Applicable	Not Applicable
-	"2019"	"2019"	"Feb., 2019"	"2019/02"	38350	Not Applicable	Not Applicable
-	"2019"	"2019"	"Mar., 2019"	"2019/03"	41768	Not Applicable	Not Applicable
-	"2019"	"2019"	"Apr., 2019"	"2019/04"	38750	Not Applicable	Not Applicable
-	"2019"	"2019"	"May, 2019"	"2019/05"	39310	Not Applicable	Not Applicable
-	"2019"	"2019"	"Jun., 2019"	"2019/06"	37343	Not Applicable	Not Applicable
-	"2019"	"2019"	"Jul., 2019"	"2019/07"	38069	Not Applicable	Not Applicable
-	"2019"	"2019"	"Aug., 2019"	"2019/08"	38018	Not Applicable	Not Applicable
-	"2019"	"2019"	"Sep., 2019"	"2019/09"	36646	Not Applicable	Not Applicable
-	"2019"	"2019"	"Oct., 2019"	"2019/10"	38972	Not Applicable	Not Applicable
-	"2019"	"2019"	"Nov., 2019"	"2019/11"	39464	Not Applicable	Not Applicable
-	"2019"	"2019"	"Dec., 2019"	"2019/12"	41785	Not Applicable	Not Applicable
-"Total"	"2019"	"2019"			470896	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Jan., 2020 "	"2020/01"	43669	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Feb., 2020 "	"2020/02"	40596	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Mar., 2020 "	"2020/03"	44840	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Apr., 2020 "	"2020/04"	52451	Not Applicable	Not Applicable
-	"2020 "	"2020"	"May, 2020 "	"2020/05"	46353	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Jun., 2020 "	"2020/06"	42314	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Jul., 2020 "	"2020/07"	47739	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Aug., 2020 "	"2020/08"	47252	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Sep., 2020 "	"2020/09"	43089	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Oct., 2020 "	"2020/10"	45714	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Nov., 2020 "	"2020/11"	49299	Not Applicable	Not Applicable
-	"2020 "	"2020"	"Dec., 2020 "	"2020/12"	60393	Not Applicable	Not Applicable
-"Total"	"2020 "	"2020"			563709	Not Applicable	Not Applicable
-"Total"					8338625	Not Applicable	Not Applicable
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"Alabama"	"01"	6670	357177	1867.4
+	"1999"	"1999"	"Alaska"	"02"	434	29179	1487.4
+	"1999"	"1999"	"Arizona"	"04"	5604	386685	1449.2
+	"1999"	"1999"	"Arkansas"	"05"	3911	220514	1773.6
+	"1999"	"1999"	"California"	"06"	29789	2112750	1410.0
+	"1999"	"1999"	"Colorado"	"08"	3516	262248	1340.7
+	"1999"	"1999"	"Connecticut"	"09"	3310	249252	1328.0
+	"1999"	"1999"	"Delaware"	"10"	978	61568	1588.5
+	"1999"	"1999"	"District of Columbia"	"11"	841	40582	2072.3
+	"1999"	"1999"	"Florida"	"12"	20788	1452505	1431.2
+	"1999"	"1999"	"Georgia"	"13"	9537	514209	1854.7
+	"1999"	"1999"	"Hawaii"	"15"	1101	88718	1241.0
+	"1999"	"1999"	"Idaho"	"16"	1214	86365	1405.7
+	"1999"	"1999"	"Illinois"	"17"	14181	862358	1644.4
+	"1999"	"1999"	"Indiana"	"18"	7677	438961	1748.9
+	"1999"	"1999"	"Iowa"	"19"	3258	226792	1436.6
+	"1999"	"1999"	"Kansas"	"20"	2894	189499	1527.2
+	"1999"	"1999"	"Kentucky"	"21"	5934	310797	1909.3
+	"1999"	"1999"	"Louisiana"	"22"	6060	317481	1908.8
+	"1999"	"1999"	"Maine"	"23"	1651	103995	1587.6
+	"1999"	"1999"	"Maryland"	"24"	5927	366789	1615.9
+	"1999"	"1999"	"Massachusetts"	"25"	6477	452932	1430.0
+	"1999"	"1999"	"Michigan"	"26"	11762	705032	1668.3
+	"1999"	"1999"	"Minnesota"	"27"	4254	328077	1296.6
+	"1999"	"1999"	"Mississippi"	"28"	4216	210797	2000.0
+	"1999"	"1999"	"Missouri"	"29"	7604	432018	1760.1
+	"1999"	"1999"	"Montana"	"30"	1053	69772	1509.2
+	"1999"	"1999"	"Nebraska"	"31"	1875	124152	1510.2
+	"1999"	"1999"	"Nevada"	"32"	2711	151940	1784.3
+	"1999"	"1999"	"New Hampshire"	"33"	1279	86858	1472.5
+	"1999"	"1999"	"New Jersey"	"34"	9497	623750	1522.6
+	"1999"	"1999"	"New Mexico"	"35"	1862	133185	1398.1
+	"1999"	"1999"	"New York"	"36"	21030	1410151	1491.3
+	"1999"	"1999"	"North Carolina"	"37"	10353	603025	1716.8
+	"1999"	"1999"	"North Dakota"	"38"	673	48102	1399.1
+	"1999"	"1999"	"Ohio"	"39"	14787	861278	1716.9
+	"1999"	"1999"	"Oklahoma"	"40"	4820	270852	1779.6
+	"1999"	"1999"	"Oregon"	"41"	3546	241560	1468.0
+	"1999"	"1999"	"Pennsylvania"	"42"	16192	999168	1620.5
+	"1999"	"1999"	"Rhode Island"	"44"	1097	75305	1456.7
+	"1999"	"1999"	"South Carolina"	"45"	5780	308485	1873.7
+	"1999"	"1999"	"South Dakota"	"46"	769	55979	1373.7
+	"1999"	"1999"	"Tennessee"	"47"	8030	440088	1824.6
+	"1999"	"1999"	"Texas"	"48"	20740	1298067	1597.8
+	"1999"	"1999"	"Utah"	"49"	1458	115204	1265.6
+	"1999"	"1999"	"Vermont"	"50"	673	44790	1502.6
+	"1999"	"1999"	"Virginia"	"51"	8155	497889	1637.9
+	"1999"	"1999"	"Washington"	"53"	5571	383351	1453.2
+	"1999"	"1999"	"West Virginia"	"54"	3082	162174	1900.4
+	"1999"	"1999"	"Wisconsin"	"55"	5611	386656	1451.2
+	"1999"	"1999"	"Wyoming"	"56"	558	35650	1565.2
+"Total"	"1999"	"1999"			320790	20234711	1585.3
+	"2000"	"2000"	"Alabama"	"01"	6714	358050	1875.2
+	"2000"	"2000"	"Alaska"	"02"	430	29953	1435.6
+	"2000"	"2000"	"Arizona"	"04"	5502	392704	1401.1
+	"2000"	"2000"	"Arkansas"	"05"	3978	222565	1787.3
+	"2000"	"2000"	"California"	"06"	28960	2131376	1358.7
+	"2000"	"2000"	"Colorado"	"08"	3518	265807	1323.5
+	"2000"	"2000"	"Connecticut"	"09"	3475	249208	1394.4
+	"2000"	"2000"	"Delaware"	"10"	969	62151	1559.1
+	"2000"	"2000"	"District of Columbia"	"11"	846	40505	2088.6
+	"2000"	"2000"	"Florida"	"12"	20309	1464991	1386.3
+	"2000"	"2000"	"Georgia"	"13"	9484	522439	1815.3
+	"2000"	"2000"	"Hawaii"	"15"	1146	89247	1284.1
+	"2000"	"2000"	"Idaho"	"16"	1214	87674	1384.7
+	"2000"	"2000"	"Illinois"	"17"	13585	860329	1579.0
+	"2000"	"2000"	"Indiana"	"18"	7615	439412	1733.0
+	"2000"	"2000"	"Iowa"	"19"	3123	225733	1383.5
+	"2000"	"2000"	"Kansas"	"20"	2796	188693	1481.8
+	"2000"	"2000"	"Kentucky"	"21"	5899	312783	1886.0
+	"2000"	"2000"	"Louisiana"	"22"	6125	318291	1924.3
+	"2000"	"2000"	"Maine"	"23"	1587	104797	1514.4
+	"2000"	"2000"	"Maryland"	"24"	5917	369971	1599.3
+	"2000"	"2000"	"Massachusetts"	"25"	6416	452903	1416.6
+	"2000"	"2000"	"Michigan"	"26"	11559	705979	1637.3
+	"2000"	"2000"	"Minnesota"	"27"	4189	331181	1264.9
+	"2000"	"2000"	"Mississippi"	"28"	4214	211800	1989.6
+	"2000"	"2000"	"Missouri"	"29"	7160	433697	1650.9
+	"2000"	"2000"	"Montana"	"30"	1017	70486	1442.8
+	"2000"	"2000"	"Nebraska"	"31"	1760	123347	1426.9
+	"2000"	"2000"	"Nevada"	"32"	2672	156529	1707.0
+	"2000"	"2000"	"New Hampshire"	"33"	1172	88138	1329.7
+	"2000"	"2000"	"New Jersey"	"34"	9294	623842	1489.8
+	"2000"	"2000"	"New Mexico"	"35"	1790	134839	1327.5
+	"2000"	"2000"	"New York"	"36"	20543	1413579	1453.3
+	"2000"	"2000"	"North Carolina"	"37"	10459	606341	1724.9
+	"2000"	"2000"	"North Dakota"	"38"	663	47649	1391.4
+	"2000"	"2000"	"Ohio"	"39"	14555	858400	1695.6
+	"2000"	"2000"	"Oklahoma"	"40"	4940	271886	1816.9
+	"2000"	"2000"	"Oregon"	"41"	3566	243994	1461.5
+	"2000"	"2000"	"Pennsylvania"	"42"	15574	992312	1569.5
+	"2000"	"2000"	"Rhode Island"	"44"	1065	75030	1419.4
+	"2000"	"2000"	"South Carolina"	"45"	5653	311748	1813.3
+	"2000"	"2000"	"South Dakota"	"46"	773	55864	1383.7
+	"2000"	"2000"	"Tennessee"	"47"	8198	443880	1846.9
+	"2000"	"2000"	"Texas"	"48"	20823	1312101	1587.0
+	"2000"	"2000"	"Utah"	"49"	1416	116189	1218.7
+	"2000"	"2000"	"Vermont"	"50"	645	45443	1419.4
+	"2000"	"2000"	"Virginia"	"51"	8027	502722	1596.7
+	"2000"	"2000"	"Washington"	"53"	5478	387300	1414.4
+	"2000"	"2000"	"West Virginia"	"54"	3032	161763	1874.3
+	"2000"	"2000"	"Wisconsin"	"55"	5469	387118	1412.7
+	"2000"	"2000"	"Wyoming"	"56"	520	36253	1434.4
+"Total"	"2000"	"2000"			315834	20338992	1552.8
+	"2001"	"2001"	"Alabama"	"01"	6662	363083	1834.8
+	"2001"	"2001"	"Alaska"	"02"	446	31731	1405.6
+	"2001"	"2001"	"Arizona"	"04"	5437	404877	1342.9
+	"2001"	"2001"	"Arkansas"	"05"	3995	226491	1763.9
+	"2001"	"2001"	"California"	"06"	29474	2181554	1351.1
+	"2001"	"2001"	"Colorado"	"08"	3399	274942	1236.3
+	"2001"	"2001"	"Connecticut"	"09"	3212	250620	1281.6
+	"2001"	"2001"	"Delaware"	"10"	971	63392	1531.7
+	"2001"	"2001"	"District of Columbia"	"11"	784	40685	1927.0
+	"2001"	"2001"	"Florida"	"12"	20577	1495833	1375.6
+	"2001"	"2001"	"Georgia"	"13"	9582	541439	1769.7
+	"2001"	"2001"	"Hawaii"	"15"	1049	90868	1154.4
+	"2001"	"2001"	"Idaho"	"16"	1211	91237	1327.3
+	"2001"	"2001"	"Illinois"	"17"	13434	866507	1550.4
+	"2001"	"2001"	"Indiana"	"18"	7372	445455	1654.9
+	"2001"	"2001"	"Iowa"	"19"	3062	227016	1348.8
+	"2001"	"2001"	"Kansas"	"20"	2811	190041	1479.2
+	"2001"	"2001"	"Kentucky"	"21"	5887	318658	1847.4
+	"2001"	"2001"	"Louisiana"	"22"	6076	322706	1882.8
+	"2001"	"2001"	"Maine"	"23"	1601	106354	1505.4
+	"2001"	"2001"	"Maryland"	"24"	5846	379327	1541.2
+	"2001"	"2001"	"Massachusetts"	"25"	6176	456024	1354.3
+	"2001"	"2001"	"Michigan"	"26"	11046	713447	1548.3
+	"2001"	"2001"	"Minnesota"	"27"	4251	338320	1256.5
+	"2001"	"2001"	"Mississippi"	"28"	4239	214339	1977.7
+	"2001"	"2001"	"Missouri"	"29"	7082	440076	1609.3
+	"2001"	"2001"	"Montana"	"30"	1001	72407	1382.5
+	"2001"	"2001"	"Nebraska"	"31"	1648	123634	1333.0
+	"2001"	"2001"	"Nevada"	"32"	2790	166803	1672.6
+	"2001"	"2001"	"New Hampshire"	"33"	1269	90136	1407.9
+	"2001"	"2001"	"New Jersey"	"34"	8979	628009	1429.8
+	"2001"	"2001"	"New Mexico"	"35"	1831	138148	1325.4
+	"2001"	"2001"	"New York"	"36"	19948	1424370	1400.5
+	"2001"	"2001"	"North Carolina"	"37"	10203	622737	1638.4
+	"2001"	"2001"	"North Dakota"	"38"	641	47658	1345.0
+	"2001"	"2001"	"Ohio"	"39"	14109	864086	1632.8
+	"2001"	"2001"	"Oklahoma"	"40"	4786	275831	1735.1
+	"2001"	"2001"	"Oregon"	"41"	3624	251584	1440.5
+	"2001"	"2001"	"Pennsylvania"	"42"	15183	990282	1533.2
+	"2001"	"2001"	"Rhode Island"	"44"	1108	75043	1476.5
+	"2001"	"2001"	"South Carolina"	"45"	5573	321657	1732.6
+	"2001"	"2001"	"South Dakota"	"46"	787	55857	1409.0
+	"2001"	"2001"	"Tennessee"	"47"	8109	454528	1784.0
+	"2001"	"2001"	"Texas"	"48"	21205	1347433	1573.7
+	"2001"	"2001"	"Utah"	"49"	1446	119985	1205.2
+	"2001"	"2001"	"Vermont"	"50"	615	46355	1326.7
+	"2001"	"2001"	"Virginia"	"51"	7921	517356	1531.1
+	"2001"	"2001"	"Washington"	"53"	5590	398711	1402.0
+	"2001"	"2001"	"West Virginia"	"54"	2913	163217	1784.7
+	"2001"	"2001"	"Wisconsin"	"55"	5358	390563	1371.9
+	"2001"	"2001"	"Wyoming"	"56"	529	37141	1424.3
+"Total"	"2001"	"2001"			312848	20698553	1511.4
+	"2002"	"2002"	"Alabama"	"01"	6522	369375	1765.7
+	"2002"	"2002"	"Alaska"	"02"	468	33897	1380.7
+	"2002"	"2002"	"Arizona"	"04"	5639	420269	1341.8
+	"2002"	"2002"	"Arkansas"	"05"	4003	231388	1730.0
+	"2002"	"2002"	"California"	"06"	29335	2241095	1309.0
+	"2002"	"2002"	"Colorado"	"08"	3510	284045	1235.7
+	"2002"	"2002"	"Connecticut"	"09"	3110	256077	1214.5
+	"2002"	"2002"	"Delaware"	"10"	917	65125	1408.1
+	"2002"	"2002"	"District of Columbia"	"11"	795	41375	1921.5
+	"2002"	"2002"	"Florida"	"12"	20606	1535731	1341.8
+	"2002"	"2002"	"Georgia"	"13"	9643	560101	1721.7
+	"2002"	"2002"	"Hawaii"	"15"	1075	93148	1154.1
+	"2002"	"2002"	"Idaho"	"16"	1215	94809	1281.5
+	"2002"	"2002"	"Illinois"	"17"	13516	883044	1530.6
+	"2002"	"2002"	"Indiana"	"18"	7301	454664	1605.8
+	"2002"	"2002"	"Iowa"	"19"	3016	229382	1314.8
+	"2002"	"2002"	"Kansas"	"20"	2746	192484	1426.6
+	"2002"	"2002"	"Kentucky"	"21"	6146	326325	1883.4
+	"2002"	"2002"	"Louisiana"	"22"	5936	329003	1804.2
+	"2002"	"2002"	"Maine"	"23"	1623	108708	1493.0
+	"2002"	"2002"	"Maryland"	"24"	5844	391342	1493.3
+	"2002"	"2002"	"Massachusetts"	"25"	6195	463465	1336.7
+	"2002"	"2002"	"Michigan"	"26"	11087	730096	1518.6
+	"2002"	"2002"	"Minnesota"	"27"	4065	346540	1173.0
+	"2002"	"2002"	"Mississippi"	"28"	4212	218143	1930.8
+	"2002"	"2002"	"Missouri"	"29"	7233	448903	1611.3
+	"2002"	"2002"	"Montana"	"30"	1045	74571	1401.3
+	"2002"	"2002"	"Nebraska"	"31"	1756	125030	1404.5
+	"2002"	"2002"	"Nevada"	"32"	2798	176691	1583.6
+	"2002"	"2002"	"New Hampshire"	"33"	1239	92877	1334.0
+	"2002"	"2002"	"New Jersey"	"34"	8781	639137	1373.9
+	"2002"	"2002"	"New Mexico"	"35"	1882	141990	1325.4
+	"2002"	"2002"	"New York"	"36"	19820	1445401	1371.2
+	"2002"	"2002"	"North Carolina"	"37"	10378	642763	1614.6
+	"2002"	"2002"	"North Dakota"	"38"	615	48001	1281.2
+	"2002"	"2002"	"Ohio"	"39"	14226	878649	1619.1
+	"2002"	"2002"	"Oklahoma"	"40"	5042	281237	1792.8
+	"2002"	"2002"	"Oregon"	"41"	3689	261657	1409.9
+	"2002"	"2002"	"Pennsylvania"	"42"	15037	999510	1504.4
+	"2002"	"2002"	"Rhode Island"	"44"	1056	76323	1383.6
+	"2002"	"2002"	"South Carolina"	"45"	5685	331875	1713.0
+	"2002"	"2002"	"South Dakota"	"46"	735	56297	1305.6
+	"2002"	"2002"	"Tennessee"	"47"	8271	467110	1770.7
+	"2002"	"2002"	"Texas"	"48"	21341	1386749	1538.9
+	"2002"	"2002"	"Utah"	"49"	1445	124159	1163.8
+	"2002"	"2002"	"Vermont"	"50"	640	47691	1342.0
+	"2002"	"2002"	"Virginia"	"51"	7895	534595	1476.8
+	"2002"	"2002"	"Washington"	"53"	5530	414556	1334.0
+	"2002"	"2002"	"West Virginia"	"54"	2867	166245	1724.6
+	"2002"	"2002"	"Wisconsin"	"55"	5404	398717	1355.3
+	"2002"	"2002"	"Wyoming"	"56"	557	38381	1451.2
+"Total"	"2002"	"2002"			313492	21198746	1478.8
+	"2003"	"2003"	"Alabama"	"01"	6834	380754	1794.9
+	"2003"	"2003"	"Alaska"	"02"	487	36374	1338.9
+	"2003"	"2003"	"Arizona"	"04"	5693	441274	1290.1
+	"2003"	"2003"	"Arkansas"	"05"	4051	238476	1698.7
+	"2003"	"2003"	"California"	"06"	29701	2332180	1273.5
+	"2003"	"2003"	"Colorado"	"08"	3679	298702	1231.7
+	"2003"	"2003"	"Connecticut"	"09"	3249	268317	1210.9
+	"2003"	"2003"	"Delaware"	"10"	939	67941	1382.1
+	"2003"	"2003"	"District of Columbia"	"11"	704	42045	1674.4
+	"2003"	"2003"	"Florida"	"12"	21141	1598123	1322.9
+	"2003"	"2003"	"Georgia"	"13"	10096	588571	1715.3
+	"2003"	"2003"	"Hawaii"	"15"	1065	96590	1102.6
+	"2003"	"2003"	"Idaho"	"16"	1238	100003	1238.0
+	"2003"	"2003"	"Illinois"	"17"	13391	913231	1466.3
+	"2003"	"2003"	"Indiana"	"18"	7572	471368	1606.4
+	"2003"	"2003"	"Iowa"	"19"	3121	235032	1327.9
+	"2003"	"2003"	"Kansas"	"20"	2769	197975	1398.7
+	"2003"	"2003"	"Kentucky"	"21"	6019	338132	1780.1
+	"2003"	"2003"	"Louisiana"	"22"	6181	339561	1820.3
+	"2003"	"2003"	"Maine"	"23"	1591	113314	1404.1
+	"2003"	"2003"	"Maryland"	"24"	5922	408651	1449.2
+	"2003"	"2003"	"Massachusetts"	"25"	6304	479792	1313.9
+	"2003"	"2003"	"Michigan"	"26"	11099	760433	1459.6
+	"2003"	"2003"	"Minnesota"	"27"	4067	361127	1126.2
+	"2003"	"2003"	"Mississippi"	"28"	4248	224286	1894.0
+	"2003"	"2003"	"Missouri"	"29"	7351	463024	1587.6
+	"2003"	"2003"	"Montana"	"30"	1062	78169	1358.6
+	"2003"	"2003"	"Nebraska"	"31"	1657	128100	1293.5
+	"2003"	"2003"	"Nevada"	"32"	2967	188952	1570.2
+	"2003"	"2003"	"New Hampshire"	"33"	1264	97669	1294.2
+	"2003"	"2003"	"New Jersey"	"34"	8695	662802	1311.9
+	"2003"	"2003"	"New Mexico"	"35"	1968	147951	1330.2
+	"2003"	"2003"	"New York"	"36"	19459	1489057	1306.8
+	"2003"	"2003"	"North Carolina"	"37"	10594	671065	1578.7
+	"2003"	"2003"	"North Dakota"	"38"	670	48878	1370.8
+	"2003"	"2003"	"Ohio"	"39"	14209	907251	1566.2
+	"2003"	"2003"	"Oklahoma"	"40"	4999	289018	1729.7
+	"2003"	"2003"	"Oregon"	"41"	3909	275712	1417.8
+	"2003"	"2003"	"Pennsylvania"	"42"	15266	1030062	1482.0
+	"2003"	"2003"	"Rhode Island"	"44"	1047	79151	1322.8
+	"2003"	"2003"	"South Carolina"	"45"	6037	346421	1742.7
+	"2003"	"2003"	"South Dakota"	"46"	769	57779	1330.9
+	"2003"	"2003"	"Tennessee"	"47"	8512	485772	1752.3
+	"2003"	"2003"	"Texas"	"48"	21683	1442751	1502.9
+	"2003"	"2003"	"Utah"	"49"	1513	130362	1160.6
+	"2003"	"2003"	"Vermont"	"50"	628	50279	1249.0
+	"2003"	"2003"	"Virginia"	"51"	8064	560025	1439.9
+	"2003"	"2003"	"Washington"	"53"	5705	437758	1303.2
+	"2003"	"2003"	"West Virginia"	"54"	3020	171622	1759.7
+	"2003"	"2003"	"Wisconsin"	"55"	5211	413154	1261.3
+	"2003"	"2003"	"Wyoming"	"56"	577	40148	1437.2
+"Total"	"2003"	"2003"			317997	22025184	1443.8
+	"2004"	"2004"	"Alabama"	"01"	6786	391666	1732.6
+	"2004"	"2004"	"Alaska"	"02"	476	38866	1224.7
+	"2004"	"2004"	"Arizona"	"04"	5908	465161	1270.1
+	"2004"	"2004"	"Arkansas"	"05"	4099	245001	1673.1
+	"2004"	"2004"	"California"	"06"	29088	2408738	1207.6
+	"2004"	"2004"	"Colorado"	"08"	3603	312891	1151.5
+	"2004"	"2004"	"Connecticut"	"09"	3273	277069	1181.3
+	"2004"	"2004"	"Delaware"	"10"	981	71248	1376.9
+	"2004"	"2004"	"District of Columbia"	"11"	740	42973	1722.0
+	"2004"	"2004"	"Florida"	"12"	21588	1669470	1293.1
+	"2004"	"2004"	"Georgia"	"13"	9956	613494	1622.8
+	"2004"	"2004"	"Hawaii"	"15"	1087	102170	1063.9
+	"2004"	"2004"	"Idaho"	"16"	1280	105374	1214.7
+	"2004"	"2004"	"Illinois"	"17"	13278	936203	1418.3
+	"2004"	"2004"	"Indiana"	"18"	7314	484335	1510.1
+	"2004"	"2004"	"Iowa"	"19"	3064	240358	1274.8
+	"2004"	"2004"	"Kansas"	"20"	2755	203296	1355.2
+	"2004"	"2004"	"Kentucky"	"21"	5849	346690	1687.1
+	"2004"	"2004"	"Louisiana"	"22"	6178	349075	1769.8
+	"2004"	"2004"	"Maine"	"23"	1557	117818	1321.5
+	"2004"	"2004"	"Maryland"	"24"	5766	423705	1360.9
+	"2004"	"2004"	"Massachusetts"	"25"	5992	493174	1215.0
+	"2004"	"2004"	"Michigan"	"26"	11017	785238	1403.0
+	"2004"	"2004"	"Minnesota"	"27"	4187	373064	1122.3
+	"2004"	"2004"	"Mississippi"	"28"	4257	231214	1841.2
+	"2004"	"2004"	"Missouri"	"29"	7225	475658	1518.9
+	"2004"	"2004"	"Montana"	"30"	1017	81547	1247.1
+	"2004"	"2004"	"Nebraska"	"31"	1645	131441	1251.5
+	"2004"	"2004"	"Nevada"	"32"	3056	201312	1518.0
+	"2004"	"2004"	"New Hampshire"	"33"	1251	102363	1222.1
+	"2004"	"2004"	"New Jersey"	"34"	8538	678620	1258.1
+	"2004"	"2004"	"New Mexico"	"35"	1886	153830	1226.0
+	"2004"	"2004"	"New York"	"36"	19262	1518820	1268.2
+	"2004"	"2004"	"North Carolina"	"37"	10634	698097	1523.3
+	"2004"	"2004"	"North Dakota"	"38"	603	50060	1204.6
+	"2004"	"2004"	"Ohio"	"39"	14031	926648	1514.2
+	"2004"	"2004"	"Oklahoma"	"40"	4994	296999	1681.5
+	"2004"	"2004"	"Oregon"	"41"	3745	289968	1291.5
+	"2004"	"2004"	"Pennsylvania"	"42"	14979	1053116	1422.4
+	"2004"	"2004"	"Rhode Island"	"44"	1042	81432	1279.6
+	"2004"	"2004"	"South Carolina"	"45"	5670	361147	1570.0
+	"2004"	"2004"	"South Dakota"	"46"	722	59698	1209.4
+	"2004"	"2004"	"Tennessee"	"47"	8186	502645	1628.6
+	"2004"	"2004"	"Texas"	"48"	21821	1501857	1452.9
+	"2004"	"2004"	"Utah"	"49"	1686	137107	1229.7
+	"2004"	"2004"	"Vermont"	"50"	628	52563	1194.8
+	"2004"	"2004"	"Virginia"	"51"	8033	583184	1377.4
+	"2004"	"2004"	"Washington"	"53"	5795	462056	1254.2
+	"2004"	"2004"	"West Virginia"	"54"	3048	175583	1735.9
+	"2004"	"2004"	"Wisconsin"	"55"	5389	425752	1265.8
+	"2004"	"2004"	"Wyoming"	"56"	553	41763	1324.1
+"Total"	"2004"	"2004"			315518	22771557	1385.6
+	"2005"	"2005"	"Alabama"	"01"	7050	400345	1761.0
+	"2005"	"2005"	"Alaska"	"02"	504	41161	1224.5
+	"2005"	"2005"	"Arizona"	"04"	6206	490515	1265.2
+	"2005"	"2005"	"Arkansas"	"05"	4226	250903	1684.3
+	"2005"	"2005"	"California"	"06"	29949	2479089	1208.1
+	"2005"	"2005"	"Colorado"	"08"	3598	327692	1098.0
+	"2005"	"2005"	"Connecticut"	"09"	3198	283047	1129.8
+	"2005"	"2005"	"Delaware"	"10"	1050	74064	1417.7
+	"2005"	"2005"	"District of Columbia"	"11"	777	43505	1786.0
+	"2005"	"2005"	"Florida"	"12"	21702	1734341	1251.3
+	"2005"	"2005"	"Georgia"	"13"	10247	641067	1598.4
+	"2005"	"2005"	"Hawaii"	"15"	1170	107487	1088.5
+	"2005"	"2005"	"Idaho"	"16"	1377	111093	1239.5
+	"2005"	"2005"	"Illinois"	"17"	13171	950983	1385.0
+	"2005"	"2005"	"Indiana"	"18"	7520	495981	1516.2
+	"2005"	"2005"	"Iowa"	"19"	3154	244147	1291.8
+	"2005"	"2005"	"Kansas"	"20"	2847	207666	1371.0
+	"2005"	"2005"	"Kentucky"	"21"	6110	355846	1717.0
+	"2005"	"2005"	"Louisiana"	"22"	6305	357870	1761.8
+	"2005"	"2005"	"Maine"	"23"	1660	121398	1367.4
+	"2005"	"2005"	"Maryland"	"24"	5982	436075	1371.8
+	"2005"	"2005"	"Massachusetts"	"25"	6009	503234	1194.1
+	"2005"	"2005"	"Michigan"	"26"	11344	802049	1414.4
+	"2005"	"2005"	"Minnesota"	"27"	4046	383567	1054.8
+	"2005"	"2005"	"Mississippi"	"28"	4302	236384	1819.9
+	"2005"	"2005"	"Missouri"	"29"	7075	486132	1455.4
+	"2005"	"2005"	"Montana"	"30"	1075	84578	1271.0
+	"2005"	"2005"	"Nebraska"	"31"	1700	133754	1271.0
+	"2005"	"2005"	"Nevada"	"32"	3265	209807	1556.2
+	"2005"	"2005"	"New Hampshire"	"33"	1291	105696	1221.4
+	"2005"	"2005"	"New Jersey"	"34"	8541	690438	1237.0
+	"2005"	"2005"	"New Mexico"	"35"	1996	160227	1245.7
+	"2005"	"2005"	"New York"	"36"	18843	1538248	1225.0
+	"2005"	"2005"	"North Carolina"	"37"	10677	723535	1475.7
+	"2005"	"2005"	"North Dakota"	"38"	570	50887	1120.1
+	"2005"	"2005"	"Ohio"	"39"	14145	937675	1508.5
+	"2005"	"2005"	"Oklahoma"	"40"	5195	302902	1715.1
+	"2005"	"2005"	"Oregon"	"41"	3864	303681	1272.4
+	"2005"	"2005"	"Pennsylvania"	"42"	14957	1067523	1401.1
+	"2005"	"2005"	"Rhode Island"	"44"	1047	82925	1262.6
+	"2005"	"2005"	"South Carolina"	"45"	5917	376078	1573.3
+	"2005"	"2005"	"South Dakota"	"46"	786	61090	1286.6
+	"2005"	"2005"	"Tennessee"	"47"	8478	519220	1632.8
+	"2005"	"2005"	"Texas"	"48"	21946	1557308	1409.2
+	"2005"	"2005"	"Utah"	"49"	1577	143508	1098.9
+	"2005"	"2005"	"Vermont"	"50"	571	54533	1047.1
+	"2005"	"2005"	"Virginia"	"51"	8332	604486	1378.4
+	"2005"	"2005"	"Washington"	"53"	5896	485559	1214.3
+	"2005"	"2005"	"West Virginia"	"54"	2894	178373	1622.4
+	"2005"	"2005"	"Wisconsin"	"55"	5356	436065	1228.3
+	"2005"	"2005"	"Wyoming"	"56"	561	43167	1299.6
+"Total"	"2005"	"2005"			320059	23416904	1366.8
+	"2006"	"2006"	"Alabama"	"01"	6885	411161	1674.5
+	"2006"	"2006"	"Alaska"	"02"	489	43426	1126.1
+	"2006"	"2006"	"Arizona"	"04"	6355	515127	1233.7
+	"2006"	"2006"	"Arkansas"	"05"	4097	257791	1589.3
+	"2006"	"2006"	"California"	"06"	29756	2549328	1167.2
+	"2006"	"2006"	"Colorado"	"08"	3686	344449	1070.1
+	"2006"	"2006"	"Connecticut"	"09"	3185	290999	1094.5
+	"2006"	"2006"	"Delaware"	"10"	1047	77482	1351.3
+	"2006"	"2006"	"District of Columbia"	"11"	800	44022	1817.3
+	"2006"	"2006"	"Florida"	"12"	21754	1782488	1220.4
+	"2006"	"2006"	"Georgia"	"13"	10419	673110	1547.9
+	"2006"	"2006"	"Hawaii"	"15"	1225	112615	1087.8
+	"2006"	"2006"	"Idaho"	"16"	1325	117388	1128.7
+	"2006"	"2006"	"Illinois"	"17"	13006	967064	1344.9
+	"2006"	"2006"	"Indiana"	"18"	7588	507561	1495.0
+	"2006"	"2006"	"Iowa"	"19"	3133	247949	1263.6
+	"2006"	"2006"	"Kansas"	"20"	2856	212209	1345.8
+	"2006"	"2006"	"Kentucky"	"21"	6147	365510	1681.8
+	"2006"	"2006"	"Louisiana"	"22"	5927	350034	1693.3
+	"2006"	"2006"	"Maine"	"23"	1652	124855	1323.1
+	"2006"	"2006"	"Maryland"	"24"	5763	446431	1290.9
+	"2006"	"2006"	"Massachusetts"	"25"	6056	515195	1175.5
+	"2006"	"2006"	"Michigan"	"26"	11228	819403	1370.3
+	"2006"	"2006"	"Minnesota"	"27"	4149	394375	1052.0
+	"2006"	"2006"	"Mississippi"	"28"	4261	240440	1772.2
+	"2006"	"2006"	"Missouri"	"29"	7259	497231	1459.9
+	"2006"	"2006"	"Montana"	"30"	1062	87981	1207.1
+	"2006"	"2006"	"Nebraska"	"31"	1674	136420	1227.1
+	"2006"	"2006"	"Nevada"	"32"	3215	217869	1475.7
+	"2006"	"2006"	"New Hampshire"	"33"	1285	109685	1171.5
+	"2006"	"2006"	"New Jersey"	"34"	8530	704230	1211.3
+	"2006"	"2006"	"New Mexico"	"35"	2052	167567	1224.6
+	"2006"	"2006"	"New York"	"36"	18893	1561043	1210.3
+	"2006"	"2006"	"North Carolina"	"37"	10991	755987	1453.9
+	"2006"	"2006"	"North Dakota"	"38"	621	51917	1196.1
+	"2006"	"2006"	"Ohio"	"39"	13804	952604	1449.1
+	"2006"	"2006"	"Oklahoma"	"40"	5138	310482	1654.8
+	"2006"	"2006"	"Oregon"	"41"	3913	318740	1227.6
+	"2006"	"2006"	"Pennsylvania"	"42"	14896	1084497	1373.5
+	"2006"	"2006"	"Rhode Island"	"44"	1036	85219	1215.7
+	"2006"	"2006"	"South Carolina"	"45"	6128	395847	1548.1
+	"2006"	"2006"	"South Dakota"	"46"	780	62879	1240.5
+	"2006"	"2006"	"Tennessee"	"47"	8786	537315	1635.2
+	"2006"	"2006"	"Texas"	"48"	22111	1625473	1360.3
+	"2006"	"2006"	"Utah"	"49"	1619	150024	1079.2
+	"2006"	"2006"	"Vermont"	"50"	631	56433	1118.1
+	"2006"	"2006"	"Virginia"	"51"	8080	623062	1296.8
+	"2006"	"2006"	"Washington"	"53"	6023	510690	1179.4
+	"2006"	"2006"	"West Virginia"	"54"	3002	181774	1651.5
+	"2006"	"2006"	"Wisconsin"	"55"	5312	446593	1189.4
+	"2006"	"2006"	"Wyoming"	"56"	601	44480	1351.2
+"Total"	"2006"	"2006"			320231	24086454	1329.5
+	"2007"	"2007"	"Alabama"	"01"	7201	433840	1659.8
+	"2007"	"2007"	"Alaska"	"02"	549	47635	1152.5
+	"2007"	"2007"	"Arizona"	"04"	6396	547564	1168.1
+	"2007"	"2007"	"Arkansas"	"05"	4261	271898	1567.1
+	"2007"	"2007"	"California"	"06"	30326	2715241	1116.9
+	"2007"	"2007"	"Colorado"	"08"	3866	375920	1028.4
+	"2007"	"2007"	"Connecticut"	"09"	3264	311498	1047.8
+	"2007"	"2007"	"Delaware"	"10"	1008	83191	1211.7
+	"2007"	"2007"	"District of Columbia"	"11"	810	46405	1745.5
+	"2007"	"2007"	"Florida"	"12"	22054	1872535	1177.8
+	"2007"	"2007"	"Georgia"	"13"	10802	727337	1485.1
+	"2007"	"2007"	"Hawaii"	"15"	1240	119903	1034.2
+	"2007"	"2007"	"Idaho"	"16"	1380	126184	1093.6
+	"2007"	"2007"	"Illinois"	"17"	13166	1023681	1286.1
+	"2007"	"2007"	"Indiana"	"18"	7600	539791	1408.0
+	"2007"	"2007"	"Iowa"	"19"	3098	261576	1184.4
+	"2007"	"2007"	"Kansas"	"20"	2872	225922	1271.2
+	"2007"	"2007"	"Kentucky"	"21"	6308	388234	1624.8
+	"2007"	"2007"	"Louisiana"	"22"	6022	372044	1618.6
+	"2007"	"2007"	"Maine"	"23"	1681	133489	1259.3
+	"2007"	"2007"	"Maryland"	"24"	5937	477028	1244.6
+	"2007"	"2007"	"Massachusetts"	"25"	6155	552018	1115.0
+	"2007"	"2007"	"Michigan"	"26"	11734	871594	1346.3
+	"2007"	"2007"	"Minnesota"	"27"	4346	420460	1033.6
+	"2007"	"2007"	"Mississippi"	"28"	4380	253710	1726.4
+	"2007"	"2007"	"Missouri"	"29"	7444	526461	1414.0
+	"2007"	"2007"	"Montana"	"30"	1145	93980	1218.3
+	"2007"	"2007"	"Nebraska"	"31"	1783	144275	1235.8
+	"2007"	"2007"	"Nevada"	"32"	3206	233338	1374.0
+	"2007"	"2007"	"New Hampshire"	"33"	1343	119075	1127.9
+	"2007"	"2007"	"New Jersey"	"34"	8495	745974	1138.8
+	"2007"	"2007"	"New Mexico"	"35"	2178	179231	1215.2
+	"2007"	"2007"	"New York"	"36"	19101	1646422	1160.2
+	"2007"	"2007"	"North Carolina"	"37"	11537	812805	1419.4
+	"2007"	"2007"	"North Dakota"	"38"	601	54503	1102.7
+	"2007"	"2007"	"Ohio"	"39"	14440	1013534	1424.7
+	"2007"	"2007"	"Oklahoma"	"40"	5320	328177	1621.1
+	"2007"	"2007"	"Oregon"	"41"	4136	344730	1199.8
+	"2007"	"2007"	"Pennsylvania"	"42"	15205	1150668	1321.4
+	"2007"	"2007"	"Rhode Island"	"44"	1090	90868	1199.5
+	"2007"	"2007"	"South Carolina"	"45"	6544	426365	1534.8
+	"2007"	"2007"	"South Dakota"	"46"	822	66334	1239.2
+	"2007"	"2007"	"Tennessee"	"47"	8950	572845	1562.4
+	"2007"	"2007"	"Texas"	"48"	23399	1741353	1343.7
+	"2007"	"2007"	"Utah"	"49"	1707	160245	1065.2
+	"2007"	"2007"	"Vermont"	"50"	701	60545	1157.8
+	"2007"	"2007"	"Virginia"	"51"	8418	666043	1263.9
+	"2007"	"2007"	"Washington"	"53"	6295	553047	1138.2
+	"2007"	"2007"	"West Virginia"	"54"	3157	192401	1640.8
+	"2007"	"2007"	"Wisconsin"	"55"	5575	474169	1175.7
+	"2007"	"2007"	"Wyoming"	"56"	595	47811	1244.5
+"Total"	"2007"	"2007"			329643	25643897	1285.5
+	"2008"	"2008"	"Alabama"	"01"	7485	452629	1653.7
+	"2008"	"2008"	"Alaska"	"02"	611	50930	1199.7
+	"2008"	"2008"	"Arizona"	"04"	6649	580191	1146.0
+	"2008"	"2008"	"Arkansas"	"05"	4624	282887	1634.6
+	"2008"	"2008"	"California"	"06"	31761	2858852	1111.0
+	"2008"	"2008"	"Colorado"	"08"	4202	403072	1042.5
+	"2008"	"2008"	"Connecticut"	"09"	3205	326445	981.8
+	"2008"	"2008"	"Delaware"	"10"	1102	88113	1250.7
+	"2008"	"2008"	"District of Columbia"	"11"	775	47849	1619.7
+	"2008"	"2008"	"Florida"	"12"	23141	1956531	1182.8
+	"2008"	"2008"	"Georgia"	"13"	11249	773811	1453.7
+	"2008"	"2008"	"Hawaii"	"15"	1287	127644	1008.3
+	"2008"	"2008"	"Idaho"	"16"	1524	134242	1135.3
+	"2008"	"2008"	"Illinois"	"17"	13944	1067011	1306.8
+	"2008"	"2008"	"Indiana"	"18"	8288	564508	1468.2
+	"2008"	"2008"	"Iowa"	"19"	3331	272648	1221.7
+	"2008"	"2008"	"Kansas"	"20"	3172	236307	1342.3
+	"2008"	"2008"	"Kentucky"	"21"	6656	406567	1637.1
+	"2008"	"2008"	"Louisiana"	"22"	6314	389959	1619.1
+	"2008"	"2008"	"Maine"	"23"	1710	141092	1212.0
+	"2008"	"2008"	"Maryland"	"24"	6076	501222	1212.2
+	"2008"	"2008"	"Massachusetts"	"25"	6164	581073	1060.8
+	"2008"	"2008"	"Michigan"	"26"	12270	912676	1344.4
+	"2008"	"2008"	"Minnesota"	"27"	4582	441950	1036.8
+	"2008"	"2008"	"Mississippi"	"28"	4752	263692	1802.1
+	"2008"	"2008"	"Missouri"	"29"	7857	549666	1429.4
+	"2008"	"2008"	"Montana"	"30"	1211	99578	1216.1
+	"2008"	"2008"	"Nebraska"	"31"	1787	150646	1186.2
+	"2008"	"2008"	"Nevada"	"32"	3370	245898	1370.5
+	"2008"	"2008"	"New Hampshire"	"33"	1352	126970	1064.8
+	"2008"	"2008"	"New Jersey"	"34"	8817	776763	1135.1
+	"2008"	"2008"	"New Mexico"	"35"	2256	189258	1192.0
+	"2008"	"2008"	"New York"	"36"	19695	1711164	1151.0
+	"2008"	"2008"	"North Carolina"	"37"	11822	862236	1371.1
+	"2008"	"2008"	"North Dakota"	"38"	709	56859	1246.9
+	"2008"	"2008"	"Ohio"	"39"	14977	1058730	1414.6
+	"2008"	"2008"	"Oklahoma"	"40"	5707	341410	1671.6
+	"2008"	"2008"	"Oregon"	"41"	4370	367156	1190.2
+	"2008"	"2008"	"Pennsylvania"	"42"	15866	1202808	1319.1
+	"2008"	"2008"	"Rhode Island"	"44"	1120	94948	1179.6
+	"2008"	"2008"	"South Carolina"	"45"	6449	454020	1420.4
+	"2008"	"2008"	"South Dakota"	"46"	822	69768	1178.2
+	"2008"	"2008"	"Tennessee"	"47"	9442	602862	1566.2
+	"2008"	"2008"	"Texas"	"48"	24840	1842945	1347.8
+	"2008"	"2008"	"Utah"	"49"	1724	169624	1016.4
+	"2008"	"2008"	"Vermont"	"50"	678	64133	1057.2
+	"2008"	"2008"	"Virginia"	"51"	8726	701885	1243.2
+	"2008"	"2008"	"Washington"	"53"	6682	587680	1137.0
+	"2008"	"2008"	"West Virginia"	"54"	3323	200629	1656.3
+	"2008"	"2008"	"Wisconsin"	"55"	5866	496798	1180.8
+	"2008"	"2008"	"Wyoming"	"56"	582	50507	1152.3
+"Total"	"2008"	"2008"			344924	26936842	1280.5
+	"2009"	"2009"	"Alabama"	"01"	7747	471537	1642.9
+	"2009"	"2009"	"Alaska"	"02"	620	55321	1120.7
+	"2009"	"2009"	"Arizona"	"04"	6731	608745	1105.7
+	"2009"	"2009"	"Arkansas"	"05"	4621	293043	1576.9
+	"2009"	"2009"	"California"	"06"	32033	3011189	1063.8
+	"2009"	"2009"	"Colorado"	"08"	4418	430299	1026.7
+	"2009"	"2009"	"Connecticut"	"09"	3453	341112	1012.3
+	"2009"	"2009"	"Delaware"	"10"	1126	91819	1226.3
+	"2009"	"2009"	"District of Columbia"	"11"	737	49643	1484.6
+	"2009"	"2009"	"Florida"	"12"	23638	2030522	1164.1
+	"2009"	"2009"	"Georgia"	"13"	11550	818159	1411.7
+	"2009"	"2009"	"Hawaii"	"15"	1415	135035	1047.9
+	"2009"	"2009"	"Idaho"	"16"	1641	141170	1162.4
+	"2009"	"2009"	"Illinois"	"17"	13984	1111643	1258.0
+	"2009"	"2009"	"Indiana"	"18"	8225	589434	1395.4
+	"2009"	"2009"	"Iowa"	"19"	3362	283404	1186.3
+	"2009"	"2009"	"Kansas"	"20"	3154	247331	1275.2
+	"2009"	"2009"	"Kentucky"	"21"	6899	423401	1629.4
+	"2009"	"2009"	"Louisiana"	"22"	6453	407267	1584.5
+	"2009"	"2009"	"Maine"	"23"	1682	148554	1132.2
+	"2009"	"2009"	"Maryland"	"24"	6455	525680	1227.9
+	"2009"	"2009"	"Massachusetts"	"25"	6377	611658	1042.6
+	"2009"	"2009"	"Michigan"	"26"	12525	953770	1313.2
+	"2009"	"2009"	"Minnesota"	"27"	4649	463887	1002.2
+	"2009"	"2009"	"Mississippi"	"28"	4577	273279	1674.8
+	"2009"	"2009"	"Missouri"	"29"	7995	571926	1397.9
+	"2009"	"2009"	"Montana"	"30"	1216	105201	1155.9
+	"2009"	"2009"	"Nebraska"	"31"	1874	158308	1183.8
+	"2009"	"2009"	"Nevada"	"32"	3532	256979	1374.4
+	"2009"	"2009"	"New Hampshire"	"33"	1442	133920	1076.8
+	"2009"	"2009"	"New Jersey"	"34"	8868	806374	1099.7
+	"2009"	"2009"	"New Mexico"	"35"	2286	199786	1144.2
+	"2009"	"2009"	"New York"	"36"	19870	1781964	1115.1
+	"2009"	"2009"	"North Carolina"	"37"	12046	907092	1328.0
+	"2009"	"2009"	"North Dakota"	"38"	684	59454	1150.5
+	"2009"	"2009"	"Ohio"	"39"	15351	1105429	1388.7
+	"2009"	"2009"	"Oklahoma"	"40"	5704	354361	1609.7
+	"2009"	"2009"	"Oregon"	"41"	4601	388429	1184.5
+	"2009"	"2009"	"Pennsylvania"	"42"	16120	1253436	1286.1
+	"2009"	"2009"	"Rhode Island"	"44"	1077	99431	1083.2
+	"2009"	"2009"	"South Carolina"	"45"	6914	477869	1446.8
+	"2009"	"2009"	"South Dakota"	"46"	859	72875	1178.7
+	"2009"	"2009"	"Tennessee"	"47"	9513	630342	1509.2
+	"2009"	"2009"	"Texas"	"48"	25059	1946119	1287.6
+	"2009"	"2009"	"Utah"	"49"	1707	178583	955.9
+	"2009"	"2009"	"Vermont"	"50"	711	67925	1046.7
+	"2009"	"2009"	"Virginia"	"51"	9083	736941	1232.5
+	"2009"	"2009"	"Washington"	"53"	6946	624329	1112.6
+	"2009"	"2009"	"West Virginia"	"54"	3401	209666	1622.1
+	"2009"	"2009"	"Wisconsin"	"55"	5821	520584	1118.2
+	"2009"	"2009"	"Wyoming"	"56"	620	53149	1166.5
+"Total"	"2009"	"2009"			351372	28217374	1245.2
+	"2010"	"2010"	"Alabama"	"01"	7890	485764	1624.2
+	"2010"	"2010"	"Alaska"	"02"	677	58140	1164.4
+	"2010"	"2010"	"Arizona"	"04"	7003	633826	1104.9
+	"2010"	"2010"	"Arkansas"	"05"	4640	300398	1544.6
+	"2010"	"2010"	"California"	"06"	32841	3135755	1047.3
+	"2010"	"2010"	"Colorado"	"08"	4463	451772	987.9
+	"2010"	"2010"	"Connecticut"	"09"	3501	352576	993.0
+	"2010"	"2010"	"Delaware"	"10"	1169	94922	1231.5
+	"2010"	"2010"	"District of Columbia"	"11"	711	51191	1388.9
+	"2010"	"2010"	"Florida"	"12"	24575	2094483	1173.3
+	"2010"	"2010"	"Georgia"	"13"	12271	852013	1440.2
+	"2010"	"2010"	"Hawaii"	"15"	1333	141392	942.8
+	"2010"	"2010"	"Idaho"	"16"	1653	146744	1126.5
+	"2010"	"2010"	"Illinois"	"17"	13926	1150489	1210.4
+	"2010"	"2010"	"Indiana"	"18"	8512	609685	1396.1
+	"2010"	"2010"	"Iowa"	"19"	3420	292722	1168.3
+	"2010"	"2010"	"Kansas"	"20"	3248	256490	1266.3
+	"2010"	"2010"	"Kentucky"	"21"	6977	436630	1597.9
+	"2010"	"2010"	"Louisiana"	"22"	6651	421360	1578.5
+	"2010"	"2010"	"Maine"	"23"	1849	154674	1195.4
+	"2010"	"2010"	"Maryland"	"24"	6599	544375	1212.2
+	"2010"	"2010"	"Massachusetts"	"25"	6614	635006	1041.6
+	"2010"	"2010"	"Michigan"	"26"	12817	987436	1298.0
+	"2010"	"2010"	"Minnesota"	"27"	4834	482345	1002.2
+	"2010"	"2010"	"Mississippi"	"28"	4855	281279	1726.0
+	"2010"	"2010"	"Missouri"	"29"	8119	590346	1375.3
+	"2010"	"2010"	"Montana"	"30"	1210	109499	1105.0
+	"2010"	"2010"	"Nebraska"	"31"	1924	164324	1170.9
+	"2010"	"2010"	"Nevada"	"32"	3524	266425	1322.7
+	"2010"	"2010"	"New Hampshire"	"33"	1423	139130	1022.8
+	"2010"	"2010"	"New Jersey"	"34"	9063	831514	1089.9
+	"2010"	"2010"	"New Mexico"	"35"	2407	208027	1157.1
+	"2010"	"2010"	"New York"	"36"	20253	1839471	1101.0
+	"2010"	"2010"	"North Carolina"	"37"	12685	941063	1347.9
+	"2010"	"2010"	"North Dakota"	"38"	674	61901	1088.8
+	"2010"	"2010"	"Ohio"	"39"	15534	1144273	1357.5
+	"2010"	"2010"	"Oklahoma"	"40"	5842	363905	1605.4
+	"2010"	"2010"	"Oregon"	"41"	4713	405990	1160.9
+	"2010"	"2010"	"Pennsylvania"	"42"	16360	1296298	1262.1
+	"2010"	"2010"	"Rhode Island"	"44"	1184	102757	1152.2
+	"2010"	"2010"	"South Carolina"	"45"	7214	496116	1454.1
+	"2010"	"2010"	"South Dakota"	"46"	864	75517	1144.1
+	"2010"	"2010"	"Tennessee"	"47"	9750	651262	1497.1
+	"2010"	"2010"	"Texas"	"48"	26185	2027867	1291.3
+	"2010"	"2010"	"Utah"	"49"	1898	186599	1017.2
+	"2010"	"2010"	"Vermont"	"50"	731	70624	1035.1
+	"2010"	"2010"	"Virginia"	"51"	9066	762671	1188.7
+	"2010"	"2010"	"Washington"	"53"	6980	652561	1069.6
+	"2010"	"2010"	"West Virginia"	"54"	3514	217185	1618.0
+	"2010"	"2010"	"Wisconsin"	"55"	5981	540854	1105.8
+	"2010"	"2010"	"Wyoming"	"56"	676	55541	1217.1
+"Total"	"2010"	"2010"			360803	29253187	1233.4
+	"2011"	"2011"	"Alabama"	"01"	8133	504794	1611.2
+	"2011"	"2011"	"Alaska"	"02"	732	62509	1171.0
+	"2011"	"2011"	"Arizona"	"04"	7394	665108	1111.7
+	"2011"	"2011"	"Arkansas"	"05"	4839	310963	1556.1
+	"2011"	"2011"	"California"	"06"	33905	3306073	1025.5
+	"2011"	"2011"	"Colorado"	"08"	4671	482762	967.6
+	"2011"	"2011"	"Connecticut"	"09"	3674	367109	1000.8
+	"2011"	"2011"	"Delaware"	"10"	1187	99413	1194.0
+	"2011"	"2011"	"District of Columbia"	"11"	758	53762	1409.9
+	"2011"	"2011"	"Florida"	"12"	24955	2177977	1145.8
+	"2011"	"2011"	"Georgia"	"13"	12355	897374	1376.8
+	"2011"	"2011"	"Hawaii"	"15"	1479	147983	999.4
+	"2011"	"2011"	"Idaho"	"16"	1706	155048	1100.3
+	"2011"	"2011"	"Illinois"	"17"	14467	1205850	1199.7
+	"2011"	"2011"	"Indiana"	"18"	8762	637238	1375.0
+	"2011"	"2011"	"Iowa"	"19"	3552	306241	1159.9
+	"2011"	"2011"	"Kansas"	"20"	3404	269535	1262.9
+	"2011"	"2011"	"Kentucky"	"21"	7094	455143	1558.6
+	"2011"	"2011"	"Louisiana"	"22"	6773	442083	1532.1
+	"2011"	"2011"	"Maine"	"23"	1912	162880	1173.9
+	"2011"	"2011"	"Maryland"	"24"	6560	572004	1146.8
+	"2011"	"2011"	"Massachusetts"	"25"	6720	667937	1006.1
+	"2011"	"2011"	"Michigan"	"26"	13305	1035348	1285.1
+	"2011"	"2011"	"Minnesota"	"27"	5050	509715	990.7
+	"2011"	"2011"	"Mississippi"	"28"	4983	292534	1703.4
+	"2011"	"2011"	"Missouri"	"29"	8293	614438	1349.7
+	"2011"	"2011"	"Montana"	"30"	1320	115650	1141.4
+	"2011"	"2011"	"Nebraska"	"31"	1928	173283	1112.6
+	"2011"	"2011"	"Nevada"	"32"	3725	277969	1340.1
+	"2011"	"2011"	"New Hampshire"	"33"	1540	146802	1049.0
+	"2011"	"2011"	"New Jersey"	"34"	9303	866848	1073.2
+	"2011"	"2011"	"New Mexico"	"35"	2540	218320	1163.4
+	"2011"	"2011"	"New York"	"36"	20595	1917341	1074.1
+	"2011"	"2011"	"North Carolina"	"37"	13056	987501	1322.1
+	"2011"	"2011"	"North Dakota"	"38"	721	65204	1105.8
+	"2011"	"2011"	"Ohio"	"39"	16073	1197013	1342.8
+	"2011"	"2011"	"Oklahoma"	"40"	6068	377572	1607.1
+	"2011"	"2011"	"Oregon"	"41"	4946	430139	1149.9
+	"2011"	"2011"	"Pennsylvania"	"42"	17037	1354691	1257.6
+	"2011"	"2011"	"Rhode Island"	"44"	1218	107345	1134.7
+	"2011"	"2011"	"South Carolina"	"45"	7217	520948	1385.4
+	"2011"	"2011"	"South Dakota"	"46"	908	80198	1132.2
+	"2011"	"2011"	"Tennessee"	"47"	10376	679664	1526.6
+	"2011"	"2011"	"Texas"	"48"	27370	2142196	1277.7
+	"2011"	"2011"	"Utah"	"49"	1925	198175	971.4
+	"2011"	"2011"	"Vermont"	"50"	789	74479	1059.4
+	"2011"	"2011"	"Virginia"	"51"	9342	799363	1168.7
+	"2011"	"2011"	"Washington"	"53"	7364	693128	1062.4
+	"2011"	"2011"	"West Virginia"	"54"	3440	225753	1523.8
+	"2011"	"2011"	"Wisconsin"	"55"	6339	570144	1111.8
+	"2011"	"2011"	"Wyoming"	"56"	715	58833	1215.3
+"Total"	"2011"	"2011"			372518	30680380	1214.2
+	"2012"	"2012"	"Alabama"	"01"	8402	520329	1614.7
+	"2012"	"2012"	"Alaska"	"02"	730	65843	1108.7
+	"2012"	"2012"	"Arizona"	"04"	7759	686950	1129.5
+	"2012"	"2012"	"Arkansas"	"05"	5065	316763	1599.0
+	"2012"	"2012"	"California"	"06"	35703	3442387	1037.2
+	"2012"	"2012"	"Colorado"	"08"	5096	508887	1001.4
+	"2012"	"2012"	"Connecticut"	"09"	3621	378270	957.3
+	"2012"	"2012"	"Delaware"	"10"	1202	102722	1170.1
+	"2012"	"2012"	"District of Columbia"	"11"	781	54963	1421.0
+	"2012"	"2012"	"Florida"	"12"	26041	2250814	1157.0
+	"2012"	"2012"	"Georgia"	"13"	12801	932476	1372.8
+	"2012"	"2012"	"Hawaii"	"15"	1531	153656	996.4
+	"2012"	"2012"	"Idaho"	"16"	1762	161872	1088.5
+	"2012"	"2012"	"Illinois"	"17"	14864	1244285	1194.6
+	"2012"	"2012"	"Indiana"	"18"	9194	658494	1396.2
+	"2012"	"2012"	"Iowa"	"19"	3589	318200	1127.9
+	"2012"	"2012"	"Kansas"	"20"	3574	279823	1277.2
+	"2012"	"2012"	"Kentucky"	"21"	7495	468579	1599.5
+	"2012"	"2012"	"Louisiana"	"22"	7122	457129	1558.0
+	"2012"	"2012"	"Maine"	"23"	1914	169296	1130.6
+	"2012"	"2012"	"Maryland"	"24"	6746	591263	1140.9
+	"2012"	"2012"	"Massachusetts"	"25"	6942	693659	1000.8
+	"2012"	"2012"	"Michigan"	"26"	13639	1073067	1271.0
+	"2012"	"2012"	"Minnesota"	"27"	5273	533803	987.8
+	"2012"	"2012"	"Mississippi"	"28"	5103	301272	1693.8
+	"2012"	"2012"	"Missouri"	"29"	8483	632078	1342.1
+	"2012"	"2012"	"Montana"	"30"	1301	120961	1075.6
+	"2012"	"2012"	"Nebraska"	"31"	2032	180717	1124.4
+	"2012"	"2012"	"Nevada"	"32"	3892	288586	1348.6
+	"2012"	"2012"	"New Hampshire"	"33"	1585	152813	1037.2
+	"2012"	"2012"	"New Jersey"	"34"	9501	893070	1063.9
+	"2012"	"2012"	"New Mexico"	"35"	2564	225326	1137.9
+	"2012"	"2012"	"New York"	"36"	21011	1976958	1062.8
+	"2012"	"2012"	"North Carolina"	"37"	13678	1024901	1334.6
+	"2012"	"2012"	"North Dakota"	"38"	695	68259	1018.2
+	"2012"	"2012"	"Ohio"	"39"	16954	1236134	1371.5
+	"2012"	"2012"	"Oklahoma"	"40"	6164	386876	1593.3
+	"2012"	"2012"	"Oregon"	"41"	5041	449811	1120.7
+	"2012"	"2012"	"Pennsylvania"	"42"	17371	1400308	1240.5
+	"2012"	"2012"	"Rhode Island"	"44"	1153	110934	1039.4
+	"2012"	"2012"	"South Carolina"	"45"	7691	538972	1427.0
+	"2012"	"2012"	"South Dakota"	"46"	955	84665	1128.0
+	"2012"	"2012"	"Tennessee"	"47"	10592	699135	1515.0
+	"2012"	"2012"	"Texas"	"48"	28374	2231300	1271.6
+	"2012"	"2012"	"Utah"	"49"	2066	207764	994.4
+	"2012"	"2012"	"Vermont"	"50"	856	77649	1102.4
+	"2012"	"2012"	"Virginia"	"51"	9667	826399	1169.8
+	"2012"	"2012"	"Washington"	"53"	7683	722609	1063.2
+	"2012"	"2012"	"West Virginia"	"54"	3608	232207	1553.8
+	"2012"	"2012"	"Wisconsin"	"55"	6537	596474	1095.9
+	"2012"	"2012"	"Wyoming"	"56"	715	61330	1165.8
+"Total"	"2012"	"2012"			386118	31791038	1214.5
+	"2013"	"2013"	"Alabama"	"01"	8738	530195	1648.1
+	"2013"	"2013"	"Alaska"	"02"	808	68395	1181.4
+	"2013"	"2013"	"Arizona"	"04"	7922	704838	1123.9
+	"2013"	"2013"	"Arkansas"	"05"	5197	321556	1616.2
+	"2013"	"2013"	"California"	"06"	36683	3575386	1026.0
+	"2013"	"2013"	"Colorado"	"08"	5249	533403	984.1
+	"2013"	"2013"	"Connecticut"	"09"	3756	385157	975.2
+	"2013"	"2013"	"Delaware"	"10"	1254	106233	1180.4
+	"2013"	"2013"	"District of Columbia"	"11"	843	56214	1499.6
+	"2013"	"2013"	"Florida"	"12"	26852	2298152	1168.4
+	"2013"	"2013"	"Georgia"	"13"	13582	959531	1415.5
+	"2013"	"2013"	"Hawaii"	"15"	1617	158391	1020.9
+	"2013"	"2013"	"Idaho"	"16"	1947	168639	1154.5
+	"2013"	"2013"	"Illinois"	"17"	15129	1279198	1182.7
+	"2013"	"2013"	"Indiana"	"18"	9439	677299	1393.6
+	"2013"	"2013"	"Iowa"	"19"	3736	329373	1134.3
+	"2013"	"2013"	"Kansas"	"20"	3513	289108	1215.1
+	"2013"	"2013"	"Kentucky"	"21"	7584	479948	1580.2
+	"2013"	"2013"	"Louisiana"	"22"	7556	470304	1606.6
+	"2013"	"2013"	"Maine"	"23"	1989	174767	1138.1
+	"2013"	"2013"	"Maryland"	"24"	7041	608613	1156.9
+	"2013"	"2013"	"Massachusetts"	"25"	7076	713192	992.2
+	"2013"	"2013"	"Michigan"	"26"	14092	1102307	1278.4
+	"2013"	"2013"	"Minnesota"	"27"	5344	555368	962.2
+	"2013"	"2013"	"Mississippi"	"28"	5434	308130	1763.5
+	"2013"	"2013"	"Missouri"	"29"	8953	646987	1383.8
+	"2013"	"2013"	"Montana"	"30"	1400	125930	1111.7
+	"2013"	"2013"	"Nebraska"	"31"	2033	187312	1085.4
+	"2013"	"2013"	"Nevada"	"32"	4041	297174	1359.8
+	"2013"	"2013"	"New Hampshire"	"33"	1573	157774	997.0
+	"2013"	"2013"	"New Jersey"	"34"	9556	910984	1049.0
+	"2013"	"2013"	"New Mexico"	"35"	2663	231077	1152.4
+	"2013"	"2013"	"New York"	"36"	21604	2021777	1068.6
+	"2013"	"2013"	"North Carolina"	"37"	14204	1054452	1347.1
+	"2013"	"2013"	"North Dakota"	"38"	833	71173	1170.4
+	"2013"	"2013"	"Ohio"	"39"	17121	1269481	1348.7
+	"2013"	"2013"	"Oklahoma"	"40"	6593	395684	1666.2
+	"2013"	"2013"	"Oregon"	"41"	5421	467781	1158.9
+	"2013"	"2013"	"Pennsylvania"	"42"	17714	1437083	1232.6
+	"2013"	"2013"	"Rhode Island"	"44"	1373	113948	1204.9
+	"2013"	"2013"	"South Carolina"	"45"	7913	553721	1429.1
+	"2013"	"2013"	"South Dakota"	"46"	990	88975	1112.7
+	"2013"	"2013"	"Tennessee"	"47"	11180	714458	1564.8
+	"2013"	"2013"	"Texas"	"48"	29792	2317667	1285.4
+	"2013"	"2013"	"Utah"	"49"	2226	217344	1024.2
+	"2013"	"2013"	"Vermont"	"50"	803	79746	1006.9
+	"2013"	"2013"	"Virginia"	"51"	9942	846672	1174.2
+	"2013"	"2013"	"Washington"	"53"	7983	750091	1064.3
+	"2013"	"2013"	"West Virginia"	"54"	3745	237037	1579.9
+	"2013"	"2013"	"Wisconsin"	"55"	6914	618776	1117.4
+	"2013"	"2013"	"Wyoming"	"56"	704	63917	1101.4
+"Total"	"2013"	"2013"			399655	32730718	1221.0
+	"2014"	"2014"	"Alabama"	"01"	9011	545178	1652.9
+	"2014"	"2014"	"Alaska"	"02"	778	71063	1094.8
+	"2014"	"2014"	"Arizona"	"04"	8420	730444	1152.7
+	"2014"	"2014"	"Arkansas"	"05"	5354	328313	1630.8
+	"2014"	"2014"	"California"	"06"	37596	3729361	1008.1
+	"2014"	"2014"	"Colorado"	"08"	5559	558016	996.2
+	"2014"	"2014"	"Connecticut"	"09"	3774	395757	953.6
+	"2014"	"2014"	"Delaware"	"10"	1345	110627	1215.8
+	"2014"	"2014"	"District of Columbia"	"11"	870	57595	1510.5
+	"2014"	"2014"	"Florida"	"12"	27949	2383814	1172.4
+	"2014"	"2014"	"Georgia"	"13"	14005	994268	1408.6
+	"2014"	"2014"	"Hawaii"	"15"	1689	161682	1044.6
+	"2014"	"2014"	"Idaho"	"16"	1896	175424	1080.8
+	"2014"	"2014"	"Illinois"	"17"	15909	1321791	1203.6
+	"2014"	"2014"	"Indiana"	"18"	9740	700463	1390.5
+	"2014"	"2014"	"Iowa"	"19"	4039	341094	1184.1
+	"2014"	"2014"	"Kansas"	"20"	3857	299303	1288.7
+	"2014"	"2014"	"Kentucky"	"21"	7957	494743	1608.3
+	"2014"	"2014"	"Louisiana"	"22"	7730	487600	1585.3
+	"2014"	"2014"	"Maine"	"23"	2036	180556	1127.6
+	"2014"	"2014"	"Maryland"	"24"	7218	627453	1150.4
+	"2014"	"2014"	"Massachusetts"	"25"	7305	736487	991.9
+	"2014"	"2014"	"Michigan"	"26"	14794	1138721	1299.2
+	"2014"	"2014"	"Minnesota"	"27"	5503	577604	952.7
+	"2014"	"2014"	"Mississippi"	"28"	5590	317648	1759.8
+	"2014"	"2014"	"Missouri"	"29"	9336	665894	1402.0
+	"2014"	"2014"	"Montana"	"30"	1499	130825	1145.8
+	"2014"	"2014"	"Nebraska"	"31"	2215	194246	1140.3
+	"2014"	"2014"	"Nevada"	"32"	4261	309247	1377.9
+	"2014"	"2014"	"New Hampshire"	"33"	1700	163668	1038.7
+	"2014"	"2014"	"New Jersey"	"34"	10009	939424	1065.4
+	"2014"	"2014"	"New Mexico"	"35"	2858	237638	1202.7
+	"2014"	"2014"	"New York"	"36"	21951	2079961	1055.4
+	"2014"	"2014"	"North Carolina"	"37"	14407	1089688	1322.1
+	"2014"	"2014"	"North Dakota"	"38"	822	74046	1110.1
+	"2014"	"2014"	"Ohio"	"39"	18210	1313059	1386.8
+	"2014"	"2014"	"Oklahoma"	"40"	6681	405210	1648.8
+	"2014"	"2014"	"Oregon"	"41"	5559	486258	1143.2
+	"2014"	"2014"	"Pennsylvania"	"42"	18464	1483480	1244.6
+	"2014"	"2014"	"Rhode Island"	"44"	1275	117583	1084.3
+	"2014"	"2014"	"South Carolina"	"45"	8329	574334	1450.2
+	"2014"	"2014"	"South Dakota"	"46"	997	93500	1066.3
+	"2014"	"2014"	"Tennessee"	"47"	11369	735584	1545.6
+	"2014"	"2014"	"Texas"	"48"	31266	2418867	1292.6
+	"2014"	"2014"	"Utah"	"49"	2211	227062	973.7
+	"2014"	"2014"	"Vermont"	"50"	813	82300	987.8
+	"2014"	"2014"	"Virginia"	"51"	10325	873038	1182.7
+	"2014"	"2014"	"Washington"	"53"	8361	779341	1072.8
+	"2014"	"2014"	"West Virginia"	"54"	3880	242721	1598.5
+	"2014"	"2014"	"Wisconsin"	"55"	6966	642889	1083.5
+	"2014"	"2014"	"Wyoming"	"56"	784	66530	1178.4
+"Total"	"2014"	"2014"			414472	33891398	1222.9
+	"2015"	"2015"	"Alabama"	"01"	9153	561451	1630.2
+	"2015"	"2015"	"Alaska"	"02"	834	73630	1132.7
+	"2015"	"2015"	"Arizona"	"04"	8988	757918	1185.9
+	"2015"	"2015"	"Arkansas"	"05"	5519	336284	1641.2
+	"2015"	"2015"	"California"	"06"	40057	3879324	1032.6
+	"2015"	"2015"	"Colorado"	"08"	5939	582340	1019.9
+	"2015"	"2015"	"Connecticut"	"09"	4018	407977	984.9
+	"2015"	"2015"	"Delaware"	"10"	1308	115696	1130.5
+	"2015"	"2015"	"District of Columbia"	"11"	968	59304	1632.3
+	"2015"	"2015"	"Florida"	"12"	29475	2481289	1187.9
+	"2015"	"2015"	"Georgia"	"13"	14600	1031058	1416.0
+	"2015"	"2015"	"Hawaii"	"15"	1695	164950	1027.6
+	"2015"	"2015"	"Idaho"	"16"	2015	182496	1104.1
+	"2015"	"2015"	"Illinois"	"17"	16626	1367585	1215.7
+	"2015"	"2015"	"Indiana"	"18"	10293	724611	1420.5
+	"2015"	"2015"	"Iowa"	"19"	4094	354176	1155.9
+	"2015"	"2015"	"Kansas"	"20"	4022	310523	1295.2
+	"2015"	"2015"	"Kentucky"	"21"	8425	509874	1652.4
+	"2015"	"2015"	"Louisiana"	"22"	8011	505843	1583.7
+	"2015"	"2015"	"Maine"	"23"	2102	186251	1128.6
+	"2015"	"2015"	"Maryland"	"24"	7536	649132	1160.9
+	"2015"	"2015"	"Massachusetts"	"25"	7576	764005	991.6
+	"2015"	"2015"	"Michigan"	"26"	15340	1179939	1300.1
+	"2015"	"2015"	"Minnesota"	"27"	5999	601292	997.7
+	"2015"	"2015"	"Mississippi"	"28"	5790	327742	1766.6
+	"2015"	"2015"	"Missouri"	"29"	9689	687570	1409.2
+	"2015"	"2015"	"Montana"	"30"	1523	135864	1121.0
+	"2015"	"2015"	"Nebraska"	"31"	2381	202048	1178.4
+	"2015"	"2015"	"Nevada"	"32"	4400	322162	1365.8
+	"2015"	"2015"	"New Hampshire"	"33"	1806	169971	1062.5
+	"2015"	"2015"	"New Jersey"	"34"	10212	971810	1050.8
+	"2015"	"2015"	"New Mexico"	"35"	2876	244741	1175.1
+	"2015"	"2015"	"New York"	"36"	22482	2144677	1048.3
+	"2015"	"2015"	"North Carolina"	"37"	15146	1126459	1344.6
+	"2015"	"2015"	"North Dakota"	"38"	864	77221	1118.9
+	"2015"	"2015"	"Ohio"	"39"	18732	1361652	1375.7
+	"2015"	"2015"	"Oklahoma"	"40"	6919	417263	1658.2
+	"2015"	"2015"	"Oregon"	"41"	5918	504323	1173.5
+	"2015"	"2015"	"Pennsylvania"	"42"	19130	1537209	1244.5
+	"2015"	"2015"	"Rhode Island"	"44"	1378	121760	1131.7
+	"2015"	"2015"	"South Carolina"	"45"	8484	595999	1423.5
+	"2015"	"2015"	"South Dakota"	"46"	1029	98130	1048.6
+	"2015"	"2015"	"Tennessee"	"47"	12141	757834	1602.1
+	"2015"	"2015"	"Texas"	"48"	32815	2522613	1300.8
+	"2015"	"2015"	"Utah"	"49"	2392	238466	1003.1
+	"2015"	"2015"	"Vermont"	"50"	964	84719	1137.9
+	"2015"	"2015"	"Virginia"	"51"	10883	902588	1205.8
+	"2015"	"2015"	"Washington"	"53"	8757	811420	1079.2
+	"2015"	"2015"	"West Virginia"	"54"	4148	247852	1673.6
+	"2015"	"2015"	"Wisconsin"	"55"	7380	669159	1102.9
+	"2015"	"2015"	"Wyoming"	"56"	846	69145	1223.5
+"Total"	"2015"	"2015"			433678	35137345	1234.2
+	"2016"	"2016"	"Alabama"	"01"	9708	577668	1680.6
+	"2016"	"2016"	"Alaska"	"02"	885	77228	1146.0
+	"2016"	"2016"	"Arizona"	"04"	9421	786586	1197.7
+	"2016"	"2016"	"Arkansas"	"05"	5672	343740	1650.1
+	"2016"	"2016"	"California"	"06"	41421	3993922	1037.1
+	"2016"	"2016"	"Colorado"	"08"	6093	607437	1003.1
+	"2016"	"2016"	"Connecticut"	"09"	4167	419765	992.7
+	"2016"	"2016"	"Delaware"	"10"	1486	120746	1230.7
+	"2016"	"2016"	"District of Columbia"	"11"	1041	60687	1715.4
+	"2016"	"2016"	"Florida"	"12"	30927	2578625	1199.4
+	"2016"	"2016"	"Georgia"	"13"	15481	1068371	1449.0
+	"2016"	"2016"	"Hawaii"	"15"	1735	171812	1009.8
+	"2016"	"2016"	"Idaho"	"16"	2122	190920	1111.5
+	"2016"	"2016"	"Illinois"	"17"	17122	1406140	1217.7
+	"2016"	"2016"	"Indiana"	"18"	10605	748074	1417.6
+	"2016"	"2016"	"Iowa"	"19"	4255	365709	1163.5
+	"2016"	"2016"	"Kansas"	"20"	4114	322361	1276.2
+	"2016"	"2016"	"Kentucky"	"21"	8739	523976	1667.8
+	"2016"	"2016"	"Louisiana"	"22"	8185	523801	1562.6
+	"2016"	"2016"	"Maine"	"23"	2212	191960	1152.3
+	"2016"	"2016"	"Maryland"	"24"	8030	668382	1201.4
+	"2016"	"2016"	"Massachusetts"	"25"	7753	787545	984.5
+	"2016"	"2016"	"Michigan"	"26"	16053	1217853	1318.1
+	"2016"	"2016"	"Minnesota"	"27"	6145	624159	984.5
+	"2016"	"2016"	"Mississippi"	"28"	5973	336835	1773.3
+	"2016"	"2016"	"Missouri"	"29"	9872	709419	1391.6
+	"2016"	"2016"	"Montana"	"30"	1574	141040	1116.0
+	"2016"	"2016"	"Nebraska"	"31"	2352	209555	1122.4
+	"2016"	"2016"	"Nevada"	"32"	4610	333842	1380.9
+	"2016"	"2016"	"New Hampshire"	"33"	1812	176827	1024.7
+	"2016"	"2016"	"New Jersey"	"34"	10541	997977	1056.2
+	"2016"	"2016"	"New Mexico"	"35"	3099	251858	1230.5
+	"2016"	"2016"	"New York"	"36"	23308	2200888	1059.0
+	"2016"	"2016"	"North Carolina"	"37"	15923	1167832	1363.5
+	"2016"	"2016"	"North Dakota"	"38"	899	80159	1121.5
+	"2016"	"2016"	"Ohio"	"39"	19881	1404787	1415.2
+	"2016"	"2016"	"Oklahoma"	"40"	7152	428643	1668.5
+	"2016"	"2016"	"Oregon"	"41"	6132	520593	1177.9
+	"2016"	"2016"	"Pennsylvania"	"42"	19924	1584341	1257.6
+	"2016"	"2016"	"Rhode Island"	"44"	1355	125977	1075.6
+	"2016"	"2016"	"South Carolina"	"45"	9087	619191	1467.6
+	"2016"	"2016"	"South Dakota"	"46"	1111	102700	1081.8
+	"2016"	"2016"	"Tennessee"	"47"	12534	780649	1605.6
+	"2016"	"2016"	"Texas"	"48"	34118	2621075	1301.7
+	"2016"	"2016"	"Utah"	"49"	2562	250085	1024.5
+	"2016"	"2016"	"Vermont"	"50"	903	87001	1037.9
+	"2016"	"2016"	"Virginia"	"51"	11087	932159	1189.4
+	"2016"	"2016"	"Washington"	"53"	9128	844659	1080.7
+	"2016"	"2016"	"West Virginia"	"54"	4125	251866	1637.8
+	"2016"	"2016"	"Wisconsin"	"55"	7662	694028	1104.0
+	"2016"	"2016"	"Wyoming"	"56"	858	71666	1197.2
+"Total"	"2016"	"2016"			450954	36303119	1242.2
+	"2017"	"2017"	"Alabama"	"01"	9763	581980	1677.5
+	"2017"	"2017"	"Alaska"	"02"	893	79086	1129.2
+	"2017"	"2017"	"Arizona"	"04"	9359	792933	1180.3
+	"2017"	"2017"	"Arkansas"	"05"	5855	345492	1694.7
+	"2017"	"2017"	"California"	"06"	42116	4059487	1037.5
+	"2017"	"2017"	"Colorado"	"08"	6230	617645	1008.7
+	"2017"	"2017"	"Connecticut"	"09"	4166	426502	976.8
+	"2017"	"2017"	"Delaware"	"10"	1497	122896	1218.1
+	"2017"	"2017"	"District of Columbia"	"11"	1011	61510	1643.6
+	"2017"	"2017"	"Florida"	"12"	31690	2605530	1216.3
+	"2017"	"2017"	"Georgia"	"13"	15458	1085484	1424.1
+	"2017"	"2017"	"Hawaii"	"15"	1758	172603	1018.5
+	"2017"	"2017"	"Idaho"	"16"	2207	195154	1130.9
+	"2017"	"2017"	"Illinois"	"17"	17380	1427702	1217.3
+	"2017"	"2017"	"Indiana"	"18"	10726	759489	1412.3
+	"2017"	"2017"	"Iowa"	"19"	4443	370137	1200.4
+	"2017"	"2017"	"Kansas"	"20"	4359	326969	1333.2
+	"2017"	"2017"	"Kentucky"	"21"	8597	527713	1629.1
+	"2017"	"2017"	"Louisiana"	"22"	8515	529698	1607.5
+	"2017"	"2017"	"Maine"	"23"	2269	193863	1170.4
+	"2017"	"2017"	"Maryland"	"24"	8086	679157	1190.6
+	"2017"	"2017"	"Massachusetts"	"25"	7954	800328	993.8
+	"2017"	"2017"	"Michigan"	"26"	16301	1237461	1317.3
+	"2017"	"2017"	"Minnesota"	"27"	6227	638206	975.7
+	"2017"	"2017"	"Mississippi"	"28"	6091	340317	1789.8
+	"2017"	"2017"	"Missouri"	"29"	10312	719741	1432.7
+	"2017"	"2017"	"Montana"	"30"	1644	142941	1150.1
+	"2017"	"2017"	"Nebraska"	"31"	2483	213075	1165.3
+	"2017"	"2017"	"Nevada"	"32"	4574	337829	1353.9
+	"2017"	"2017"	"New Hampshire"	"33"	1883	179942	1046.4
+	"2017"	"2017"	"New Jersey"	"34"	10503	1014316	1035.5
+	"2017"	"2017"	"New Mexico"	"35"	3067	254127	1206.9
+	"2017"	"2017"	"New York"	"36"	23110	2240019	1031.7
+	"2017"	"2017"	"North Carolina"	"37"	16174	1184609	1365.3
+	"2017"	"2017"	"North Dakota"	"38"	876	81859	1070.1
+	"2017"	"2017"	"Ohio"	"39"	20496	1422561	1440.8
+	"2017"	"2017"	"Oklahoma"	"40"	7223	431809	1672.7
+	"2017"	"2017"	"Oregon"	"41"	5995	522659	1147.0
+	"2017"	"2017"	"Pennsylvania"	"42"	19841	1601193	1239.1
+	"2017"	"2017"	"Rhode Island"	"44"	1369	127766	1071.5
+	"2017"	"2017"	"South Carolina"	"45"	9146	625128	1463.1
+	"2017"	"2017"	"South Dakota"	"46"	1156	105051	1100.4
+	"2017"	"2017"	"Tennessee"	"47"	12811	786529	1628.8
+	"2017"	"2017"	"Texas"	"48"	35006	2680485	1306.0
+	"2017"	"2017"	"Utah"	"49"	2594	257265	1008.3
+	"2017"	"2017"	"Vermont"	"50"	907	87834	1032.6
+	"2017"	"2017"	"Virginia"	"51"	11554	942719	1225.6
+	"2017"	"2017"	"Washington"	"53"	9348	855803	1092.3
+	"2017"	"2017"	"West Virginia"	"54"	4294	250520	1714.0
+	"2017"	"2017"	"Wisconsin"	"55"	7848	707982	1108.5
+	"2017"	"2017"	"Wyoming"	"56"	830	72979	1137.3
+"Total"	"2017"	"2017"			457995	36824083	1243.7
+	"2018"	"2018"	"Alabama"	"01"	10053	589167	1706.3
+	"2018"	"2018"	"Alaska"	"02"	920	80434	1143.8
+	"2018"	"2018"	"Arizona"	"04"	9355	813921	1149.4
+	"2018"	"2018"	"Arkansas"	"05"	5813	348865	1666.3
+	"2018"	"2018"	"California"	"06"	42316	4115518	1028.2
+	"2018"	"2018"	"Colorado"	"08"	6125	631401	970.1
+	"2018"	"2018"	"Connecticut"	"09"	4161	432658	961.7
+	"2018"	"2018"	"Delaware"	"10"	1426	126360	1128.5
+	"2018"	"2018"	"District of Columbia"	"11"	993	61610	1611.8
+	"2018"	"2018"	"Florida"	"12"	32267	2655901	1214.9
+	"2018"	"2018"	"Georgia"	"13"	15694	1104311	1421.2
+	"2018"	"2018"	"Hawaii"	"15"	1851	172412	1073.6
+	"2018"	"2018"	"Idaho"	"16"	2353	200787	1171.9
+	"2018"	"2018"	"Illinois"	"17"	17669	1447163	1220.9
+	"2018"	"2018"	"Indiana"	"18"	11254	772889	1456.1
+	"2018"	"2018"	"Iowa"	"19"	4585	376323	1218.4
+	"2018"	"2018"	"Kansas"	"20"	4372	331998	1316.9
+	"2018"	"2018"	"Kentucky"	"21"	9038	534523	1690.9
+	"2018"	"2018"	"Louisiana"	"22"	8713	536818	1623.1
+	"2018"	"2018"	"Maine"	"23"	2282	196556	1161.0
+	"2018"	"2018"	"Maryland"	"24"	8130	687699	1182.2
+	"2018"	"2018"	"Massachusetts"	"25"	8042	813943	988.0
+	"2018"	"2018"	"Michigan"	"26"	16471	1258482	1308.8
+	"2018"	"2018"	"Minnesota"	"27"	6498	654005	993.6
+	"2018"	"2018"	"Mississippi"	"28"	6312	344606	1831.7
+	"2018"	"2018"	"Missouri"	"29"	10638	731764	1453.7
+	"2018"	"2018"	"Montana"	"30"	1637	145586	1124.4
+	"2018"	"2018"	"Nebraska"	"31"	2525	216813	1164.6
+	"2018"	"2018"	"Nevada"	"32"	4640	342707	1353.9
+	"2018"	"2018"	"New Hampshire"	"33"	1895	184473	1027.3
+	"2018"	"2018"	"New Jersey"	"34"	10747	1024474	1049.0
+	"2018"	"2018"	"New Mexico"	"35"	3261	256556	1271.1
+	"2018"	"2018"	"New York"	"36"	23306	2252991	1034.4
+	"2018"	"2018"	"North Carolina"	"37"	16211	1207036	1343.0
+	"2018"	"2018"	"North Dakota"	"38"	930	83625	1112.1
+	"2018"	"2018"	"Ohio"	"39"	20717	1445153	1433.6
+	"2018"	"2018"	"Oklahoma"	"40"	7496	437845	1712.0
+	"2018"	"2018"	"Oregon"	"41"	6059	527724	1148.1
+	"2018"	"2018"	"Pennsylvania"	"42"	19946	1625908	1226.8
+	"2018"	"2018"	"Rhode Island"	"44"	1464	129909	1126.9
+	"2018"	"2018"	"South Carolina"	"45"	9263	635823	1456.9
+	"2018"	"2018"	"South Dakota"	"46"	1226	108110	1134.0
+	"2018"	"2018"	"Tennessee"	"47"	12994	796557	1631.3
+	"2018"	"2018"	"Texas"	"48"	35891	2747844	1306.2
+	"2018"	"2018"	"Utah"	"49"	2684	264301	1015.5
+	"2018"	"2018"	"Vermont"	"50"	869	89128	975.0
+	"2018"	"2018"	"Virginia"	"51"	11431	956632	1194.9
+	"2018"	"2018"	"Washington"	"53"	9523	870884	1093.5
+	"2018"	"2018"	"West Virginia"	"54"	4305	250312	1719.9
+	"2018"	"2018"	"Wisconsin"	"55"	7913	724001	1093.0
+	"2018"	"2018"	"Wyoming"	"56"	855	74038	1154.8
+"Total"	"2018"	"2018"			465119	37418544	1243.0
+	"2019"	"2019"	"Alabama"	"01"	10166	596795	1703.4
+	"2019"	"2019"	"Alaska"	"02"	951	81378	1168.6
+	"2019"	"2019"	"Arizona"	"04"	9539	832562	1145.7
+	"2019"	"2019"	"Arkansas"	"05"	6016	352933	1704.6
+	"2019"	"2019"	"California"	"06"	42203	4167730	1012.6
+	"2019"	"2019"	"Colorado"	"08"	6434	644332	998.6
+	"2019"	"2019"	"Connecticut"	"09"	4326	440571	981.9
+	"2019"	"2019"	"Delaware"	"10"	1515	129837	1166.8
+	"2019"	"2019"	"District of Columbia"	"11"	973	61503	1582.0
+	"2019"	"2019"	"Florida"	"12"	32462	2704729	1200.2
+	"2019"	"2019"	"Georgia"	"13"	16266	1127493	1442.7
+	"2019"	"2019"	"Hawaii"	"15"	1765	172217	1024.9
+	"2019"	"2019"	"Idaho"	"16"	2200	206703	1064.3
+	"2019"	"2019"	"Illinois"	"17"	17642	1465861	1203.5
+	"2019"	"2019"	"Indiana"	"18"	11296	784826	1439.3
+	"2019"	"2019"	"Iowa"	"19"	4686	381748	1227.5
+	"2019"	"2019"	"Kansas"	"20"	4427	337364	1312.2
+	"2019"	"2019"	"Kentucky"	"21"	9100	540089	1684.9
+	"2019"	"2019"	"Louisiana"	"22"	8648	545247	1586.1
+	"2019"	"2019"	"Maine"	"23"	2408	199413	1207.5
+	"2019"	"2019"	"Maryland"	"24"	8380	699352	1198.3
+	"2019"	"2019"	"Massachusetts"	"25"	8269	825957	1001.1
+	"2019"	"2019"	"Michigan"	"26"	16819	1275763	1318.3
+	"2019"	"2019"	"Minnesota"	"27"	6601	669132	986.5
+	"2019"	"2019"	"Mississippi"	"28"	6465	349208	1851.3
+	"2019"	"2019"	"Missouri"	"29"	10579	743993	1421.9
+	"2019"	"2019"	"Montana"	"30"	1677	147710	1135.3
+	"2019"	"2019"	"Nebraska"	"31"	2493	220274	1131.8
+	"2019"	"2019"	"Nevada"	"32"	4733	349747	1353.3
+	"2019"	"2019"	"New Hampshire"	"33"	1947	189206	1029.0
+	"2019"	"2019"	"New Jersey"	"34"	10778	1042503	1033.9
+	"2019"	"2019"	"New Mexico"	"35"	3248	258580	1256.1
+	"2019"	"2019"	"New York"	"36"	23819	2280456	1044.5
+	"2019"	"2019"	"North Carolina"	"37"	16469	1232675	1336.0
+	"2019"	"2019"	"North Dakota"	"38"	1003	85275	1176.2
+	"2019"	"2019"	"Ohio"	"39"	20905	1463312	1428.6
+	"2019"	"2019"	"Oklahoma"	"40"	7555	444890	1698.2
+	"2019"	"2019"	"Oregon"	"41"	6129	530806	1154.7
+	"2019"	"2019"	"Pennsylvania"	"42"	20055	1650489	1215.1
+	"2019"	"2019"	"Rhode Island"	"44"	1432	132420	1081.4
+	"2019"	"2019"	"South Carolina"	"45"	9305	648375	1435.1
+	"2019"	"2019"	"South Dakota"	"46"	1240	110731	1119.8
+	"2019"	"2019"	"Tennessee"	"47"	13212	808164	1634.8
+	"2019"	"2019"	"Texas"	"48"	36466	2814539	1295.6
+	"2019"	"2019"	"Utah"	"49"	2683	271809	987.1
+	"2019"	"2019"	"Vermont"	"50"	968	89837	1077.5
+	"2019"	"2019"	"Virginia"	"51"	11667	970902	1201.7
+	"2019"	"2019"	"Washington"	"53"	9602	883145	1087.3
+	"2019"	"2019"	"West Virginia"	"54"	4275	248884	1717.7
+	"2019"	"2019"	"Wisconsin"	"55"	8220	739394	1111.7
+	"2019"	"2019"	"Wyoming"	"56"	879	75288	1167.5
+"Total"	"2019"	"2019"			470896	38026147	1238.3
+	"2020 "	"2020"	"Alabama"	"01"	12143	606548	2002.0
+	"2020 "	"2020"	"Alaska"	"02"	1013	82489	1228.0
+	"2020 "	"2020"	"Arizona"	"04"	12354	858559	1438.9
+	"2020 "	"2020"	"Arkansas"	"05"	6881	358046	1921.8
+	"2020 "	"2020"	"California"	"06"	51903	4214095	1231.7
+	"2020 "	"2020"	"Colorado"	"08"	7515	655252	1146.9
+	"2020 "	"2020"	"Connecticut"	"09"	5316	448892	1184.2
+	"2020 "	"2020"	"Delaware"	"10"	1849	134506	1374.7
+	"2020 "	"2020"	"District of Columbia"	"11"	1313	61950	2119.5
+	"2020 "	"2020"	"Florida"	"12"	37729	2771628	1361.3
+	"2020 "	"2020"	"Georgia"	"13"	19368	1153502	1679.1
+	"2020 "	"2020"	"Hawaii"	"15"	1894	171863	1102.0
+	"2020 "	"2020"	"Idaho"	"16"	2476	214166	1156.1
+	"2020 "	"2020"	"Illinois"	"17"	22188	1479912	1499.3
+	"2020 "	"2020"	"Indiana"	"18"	13274	796846	1665.8
+	"2020 "	"2020"	"Iowa"	"19"	5479	387483	1414.0
+	"2020 "	"2020"	"Kansas"	"20"	5083	341916	1486.6
+	"2020 "	"2020"	"Kentucky"	"21"	10389	546795	1900.0
+	"2020 "	"2020"	"Louisiana"	"22"	10872	553415	1964.5
+	"2020 "	"2020"	"Maine"	"23"	2381	202427	1176.2
+	"2020 "	"2020"	"Maryland"	"24"	9788	711131	1376.4
+	"2020 "	"2020"	"Massachusetts"	"25"	9493	839183	1131.2
+	"2020 "	"2020"	"Michigan"	"26"	19854	1291518	1537.3
+	"2020 "	"2020"	"Minnesota"	"27"	7541	682705	1104.6
+	"2020 "	"2020"	"Mississippi"	"28"	7928	353220	2244.5
+	"2020 "	"2020"	"Missouri"	"29"	12709	758132	1676.4
+	"2020 "	"2020"	"Montana"	"30"	1980	149388	1325.4
+	"2020 "	"2020"	"Nebraska"	"31"	2955	223146	1324.2
+	"2020 "	"2020"	"Nevada"	"32"	5543	359498	1541.9
+	"2020 "	"2020"	"New Hampshire"	"33"	2047	194278	1053.6
+	"2020 "	"2020"	"New Jersey"	"34"	14602	1061446	1375.7
+	"2020 "	"2020"	"New Mexico"	"35"	4041	261148	1547.4
+	"2020 "	"2020"	"New York"	"36"	32018	2308200	1387.1
+	"2020 "	"2020"	"North Carolina"	"37"	18452	1259767	1464.7
+	"2020 "	"2020"	"North Dakota"	"38"	1117	86776	1287.2
+	"2020 "	"2020"	"Ohio"	"39"	23878	1478737	1614.8
+	"2020 "	"2020"	"Oklahoma"	"40"	8868	453203	1956.7
+	"2020 "	"2020"	"Oregon"	"41"	6683	532796	1254.3
+	"2020 "	"2020"	"Pennsylvania"	"42"	23746	1672111	1420.1
+	"2020 "	"2020"	"Rhode Island"	"44"	1635	134454	1216.0
+	"2020 "	"2020"	"South Carolina"	"45"	11027	663856	1661.1
+	"2020 "	"2020"	"South Dakota"	"46"	1469	113858	1290.2
+	"2020 "	"2020"	"Tennessee"	"47"	15424	824870	1869.9
+	"2020 "	"2020"	"Texas"	"48"	45987	2890340	1591.1
+	"2020 "	"2020"	"Utah"	"49"	3132	279301	1121.4
+	"2020 "	"2020"	"Vermont"	"50"	1021	90460	1128.7
+	"2020 "	"2020"	"Virginia"	"51"	13378	988006	1354.0
+	"2020 "	"2020"	"Washington"	"53"	10555	893785	1180.9
+	"2020 "	"2020"	"West Virginia"	"54"	4733	247427	1912.9
+	"2020 "	"2020"	"Wisconsin"	"55"	9605	754563	1272.9
+	"2020 "	"2020"	"Wyoming"	"56"	1080	76652	1409.0
+"Total"	"2020 "	"2020"			563709	38674245	1457.6
+"Total"					8338625	636299418	1310.5
 "---"
 "Dataset: Multiple Cause of Death, 1999-2020"
 "Query Parameters:"
 "Single-Year Ages: 60 years; 61 years; 62 years; 63 years; 64 years; 65 years; 66 years; 67 years; 68 years; 69 years"
-"Group By: Year; Month"
+"Group By: Year; State"
 "Show Totals: True"
 "Show Zero Values: True"
 "Show Suppressed: True"
@@ -299,18 +1157,36 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
 "---"
-"Query Date: Oct 19, 2023 3:51:10 PM"
+"Query Date: Oct 20, 2023 2:31:01 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
 "1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
-"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Oct 19, 2023 3:51:10 PM"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Oct 20, 2023 2:31:01 PM"
 "---"
 Caveats:
-"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
-"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
-"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
 "http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
-"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
 "so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
 "http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"3. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."

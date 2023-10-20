@@ -1,0 +1,248 @@
+"Notes","Year","Year Code","Residence State","Residence State Code",Deaths,Population,Crude Rate
+,"2018","2018","Alabama","01",238,315680,75.4
+,"2018","2018","Alaska","02",36,46263,77.8
+,"2018","2018","Arizona","04",294,473794,62.1
+,"2018","2018","Arkansas","05",137,197707,69.3
+,"2018","2018","California","06",968,2545375,38.0
+,"2018","2018","Colorado","08",200,363364,55.0
+,"2018","2018","Connecticut","09",77,241904,31.8
+,"2018","2018","Delaware","10",39,60363,64.6
+,"2018","2018","District of Columbia","11",23,36900,62.3
+,"2018","2018","Florida","12",588,1206422,48.7
+,"2018","2018","Georgia","13",402,728370,55.2
+,"2018","2018","Hawaii","15",31,77179,40.2
+,"2018","2018","Idaho","16",87,124506,69.9
+,"2018","2018","Illinois","17",381,828205,46.0
+,"2018","2018","Indiana","18",305,455653,66.9
+,"2018","2018","Iowa","19",103,214122,48.1
+,"2018","2018","Kansas","20",125,200274,62.4
+,"2018","2018","Kentucky","21",180,287105,62.7
+,"2018","2018","Louisiana","22",202,296013,68.2
+,"2018","2018","Maine","23",40,77391,51.7
+,"2018","2018","Maryland","24",181,381504,47.4
+,"2018","2018","Massachusetts","25",109,455406,23.9
+,"2018","2018","Michigan","26",300,653747,45.9
+,"2018","2018","Minnesota","27",143,357809,40.0
+,"2018","2018","Mississippi","28",163,205933,79.2
+,"2018","2018","Missouri","29",293,391387,74.9
+,"2018","2018","Montana","30",49,64023,76.5
+,"2018","2018","Nebraska","31",61,131579,46.4
+,"2018","2018","Nevada","32",110,181098,60.7
+,"2018","2018","New Hampshire","33",39,85131,45.8
+,"2018","2018","New Jersey","34",153,557815,27.4
+,"2018","2018","New Mexico","35",92,139052,66.2
+,"2018","2018","New York","36",357,1188292,30.0
+,"2018","2018","North Carolina","37",331,684178,48.4
+,"2018","2018","North Dakota","38",12,47282,Unreliable
+,"2018","2018","Ohio","39",425,761897,55.8
+,"2018","2018","Oklahoma","40",158,264140,59.8
+,"2018","2018","Oregon","41",113,246835,45.8
+,"2018","2018","Pennsylvania","42",349,810300,43.1
+,"2018","2018","Rhode Island","44",20,71426,28.0
+,"2018","2018","South Carolina","45",232,323894,71.6
+,"2018","2018","South Dakota","46",51,57674,88.4
+,"2018","2018","Tennessee","47",310,425325,72.9
+,"2018","2018","Texas","48",1002,2032343,49.3
+,"2018","2018","Utah","49",130,248985,52.2
+,"2018","2018","Vermont","50",16,42285,Unreliable
+,"2018","2018","Virginia","51",257,542284,47.4
+,"2018","2018","Washington","53",232,447049,51.9
+,"2018","2018","West Virginia","54",57,107227,53.2
+,"2018","2018","Wisconsin","55",158,378418,41.8
+,"2018","2018","Wyoming","56",21,36313,57.8
+"Total","2018","2018",,,10380,21097221,49.2
+,"2019","2019","Alabama","01",235,313615,74.9
+,"2019","2019","Alaska","02",59,45110,130.8
+,"2019","2019","Arizona","04",300,478065,62.8
+,"2019","2019","Arkansas","05",135,197251,68.4
+,"2019","2019","California","06",928,2533694,36.6
+,"2019","2019","Colorado","08",219,365448,59.9
+,"2019","2019","Connecticut","09",74,238872,31.0
+,"2019","2019","Delaware","10",33,60218,54.8
+,"2019","2019","District of Columbia","11",30,36571,82.0
+,"2019","2019","Florida","12",597,1202436,49.6
+,"2019","2019","Georgia","13",382,732120,52.2
+,"2019","2019","Hawaii","15",32,77287,41.4
+,"2019","2019","Idaho","16",58,125185,46.3
+,"2019","2019","Illinois","17",398,822630,48.4
+,"2019","2019","Indiana","18",266,457749,58.1
+,"2019","2019","Iowa","19",94,212204,44.3
+,"2019","2019","Kansas","20",116,200494,57.9
+,"2019","2019","Kentucky","21",155,285907,54.2
+,"2019","2019","Louisiana","22",223,293860,75.9
+,"2019","2019","Maine","23",33,77521,42.6
+,"2019","2019","Maryland","24",187,379915,49.2
+,"2019","2019","Massachusetts","25",110,449834,24.5
+,"2019","2019","Michigan","26",266,644559,41.3
+,"2019","2019","Minnesota","27",153,361131,42.4
+,"2019","2019","Mississippi","28",163,201350,81.0
+,"2019","2019","Missouri","29",265,389671,68.0
+,"2019","2019","Montana","30",53,63955,82.9
+,"2019","2019","Nebraska","31",62,132645,46.7
+,"2019","2019","Nevada","32",90,182631,49.3
+,"2019","2019","New Hampshire","33",22,83968,26.2
+,"2019","2019","New Jersey","34",178,552830,32.2
+,"2019","2019","New Mexico","35",109,138458,78.7
+,"2019","2019","New York","36",331,1175399,28.2
+,"2019","2019","North Carolina","37",378,688195,54.9
+,"2019","2019","North Dakota","38",27,47181,57.2
+,"2019","2019","Ohio","39",377,755766,49.9
+,"2019","2019","Oklahoma","40",164,264914,61.9
+,"2019","2019","Oregon","41",109,246133,44.3
+,"2019","2019","Pennsylvania","42",324,803978,40.3
+,"2019","2019","Rhode Island","44",15,71154,Unreliable
+,"2019","2019","South Carolina","45",215,324659,66.2
+,"2019","2019","South Dakota","46",55,57734,95.3
+,"2019","2019","Tennessee","47",284,424280,66.9
+,"2019","2019","Texas","48",1094,2052992,53.3
+,"2019","2019","Utah","49",139,253847,54.8
+,"2019","2019","Vermont","50",13,41216,Unreliable
+,"2019","2019","Virginia","51",248,541828,45.8
+,"2019","2019","Washington","53",194,448059,43.3
+,"2019","2019","West Virginia","54",72,105976,67.9
+,"2019","2019","Wisconsin","55",163,377568,43.2
+,"2019","2019","Wyoming","56",31,36507,84.9
+"Total","2019","2019",,,10258,21054570,48.7
+,"2020","2020","Alabama","01",246,310127,79.3
+,"2020","2020","Alaska","02",43,44846,95.9
+,"2020","2020","Arizona","04",388,481924,80.5
+,"2020","2020","Arkansas","05",174,197095,88.3
+,"2020","2020","California","06",1283,2513522,51.0
+,"2020","2020","Colorado","08",280,366386,76.4
+,"2020","2020","Connecticut","09",93,234796,39.6
+,"2020","2020","Delaware","10",36,60477,59.5
+,"2020","2020","District of Columbia","11",32,36293,88.2
+,"2020","2020","Florida","12",715,1202855,59.4
+,"2020","2020","Georgia","13",460,731958,62.8
+,"2020","2020","Hawaii","15",22,74824,29.4
+,"2020","2020","Idaho","16",87,127139,68.4
+,"2020","2020","Illinois","17",504,812241,62.1
+,"2020","2020","Indiana","18",305,453671,67.2
+,"2020","2020","Iowa","19",124,212414,58.4
+,"2020","2020","Kansas","20",148,199563,74.2
+,"2020","2020","Kentucky","21",214,284918,75.1
+,"2020","2020","Louisiana","22",284,291669,97.4
+,"2020","2020","Maine","23",41,76937,53.3
+,"2020","2020","Maryland","24",208,377580,55.1
+,"2020","2020","Massachusetts","25",133,445396,29.9
+,"2020","2020","Michigan","26",363,633603,57.3
+,"2020","2020","Minnesota","27",185,361987,51.1
+,"2020","2020","Mississippi","28",174,199040,87.4
+,"2020","2020","Missouri","29",286,388427,73.6
+,"2020","2020","Montana","30",52,64601,80.5
+,"2020","2020","Nebraska","31",67,132940,50.4
+,"2020","2020","Nevada","32",141,184412,76.5
+,"2020","2020","New Hampshire","33",30,83054,36.1
+,"2020","2020","New Jersey","34",189,547485,34.5
+,"2020","2020","New Mexico","35",114,138913,82.1
+,"2020","2020","New York","36",411,1153680,35.6
+,"2020","2020","North Carolina","37",417,689241,60.5
+,"2020","2020","North Dakota","38",26,48176,54.0
+,"2020","2020","Ohio","39",415,745614,55.7
+,"2020","2020","Oklahoma","40",189,264926,71.3
+,"2020","2020","Oregon","41",142,244980,58.0
+,"2020","2020","Pennsylvania","42",408,793290,51.4
+,"2020","2020","Rhode Island","44",18,69616,Unreliable
+,"2020","2020","South Carolina","45",269,325272,82.7
+,"2020","2020","South Dakota","46",37,58826,62.9
+,"2020","2020","Tennessee","47",334,422864,79.0
+,"2020","2020","Texas","48",1253,2067665,60.6
+,"2020","2020","Utah","49",135,257119,52.5
+,"2020","2020","Vermont","50",18,40826,Unreliable
+,"2020","2020","Virginia","51",279,542556,51.4
+,"2020","2020","Washington","53",242,447495,54.1
+,"2020","2020","West Virginia","54",59,105098,56.1
+,"2020","2020","Wisconsin","55",185,375588,49.3
+,"2020","2020","Wyoming","56",20,37004,54.0
+"Total","2020","2020",,,12278,20960929,58.6
+,"2021","2021","Alabama","01",291,323584,89.9
+,"2021","2021","Alaska","02",47,45521,103.2
+,"2021","2021","Arizona","04",393,483052,81.4
+,"2021","2021","Arkansas","05",159,201635,78.9
+,"2021","2021","California","06",1280,2570395,49.8
+,"2021","2021","Colorado","08",271,373472,72.6
+,"2021","2021","Connecticut","09",92,240530,38.2
+,"2021","2021","Delaware","10",47,62818,74.8
+,"2021","2021","District of Columbia","11",26,35663,72.9
+,"2021","2021","Florida","12",784,1232983,63.6
+,"2021","2021","Georgia","13",559,752898,74.2
+,"2021","2021","Hawaii","15",34,78448,43.3
+,"2021","2021","Idaho","16",83,134537,61.7
+,"2021","2021","Illinois","17",542,835384,64.9
+,"2021","2021","Indiana","18",370,465414,79.5
+,"2021","2021","Iowa","19",100,220415,45.4
+,"2021","2021","Kansas","20",167,205698,81.2
+,"2021","2021","Kentucky","21",231,293627,78.7
+,"2021","2021","Louisiana","22",348,297612,116.9
+,"2021","2021","Maine","23",37,79287,46.7
+,"2021","2021","Maryland","24",191,392815,48.6
+,"2021","2021","Massachusetts","25",130,456888,28.5
+,"2021","2021","Michigan","26",359,648130,55.4
+,"2021","2021","Minnesota","27",210,374886,56.0
+,"2021","2021","Mississippi","28",231,203601,113.5
+,"2021","2021","Missouri","29",331,399168,82.9
+,"2021","2021","Montana","30",84,67819,123.9
+,"2021","2021","Nebraska","31",74,138497,53.4
+,"2021","2021","Nevada","32",111,189317,58.6
+,"2021","2021","New Hampshire","33",31,84974,36.5
+,"2021","2021","New Jersey","34",192,581971,33.0
+,"2021","2021","New Mexico","35",126,142431,88.5
+,"2021","2021","New York","36",420,1208408,34.8
+,"2021","2021","North Carolina","37",540,697776,77.4
+,"2021","2021","North Dakota","38",40,51039,78.4
+,"2021","2021","Ohio","39",453,764985,59.2
+,"2021","2021","Oklahoma","40",199,272130,73.1
+,"2021","2021","Oregon","41",123,251000,49.0
+,"2021","2021","Pennsylvania","42",452,820381,55.1
+,"2021","2021","Rhode Island","44",23,73144,31.4
+,"2021","2021","South Carolina","45",299,331272,90.3
+,"2021","2021","South Dakota","46",51,60932,83.7
+,"2021","2021","Tennessee","47",401,437455,91.7
+,"2021","2021","Texas","48",1360,2120112,64.1
+,"2021","2021","Utah","49",149,270351,55.1
+,"2021","2021","Vermont","50",23,42758,53.8
+,"2021","2021","Virginia","51",324,556667,58.2
+,"2021","2021","Washington","53",284,459616,61.8
+,"2021","2021","West Virginia","54",72,107557,66.9
+,"2021","2021","Wisconsin","55",222,387382,57.3
+,"2021","2021","Wyoming","56",41,38231,107.2
+"Total","2021","2021",,,13407,21564666,62.2
+"Total",,,,,46323,84677386,54.7
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Single-Year Ages: 15 years; 16 years; 17 years; 18 years; 19 years"
+"Year/Month: 2018; 2019; 2020; 2021"
+"Group By: Year; Residence State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 20, 2023 3:07:32 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 3:07:32"
+"PM"
+"---"
+Caveats:
+"1. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"3. The population figures for years 2021 and later are single-race estimates of the July 1 resident population, based on the"
+"Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021"
+"postcensal series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census"
+"Bureau on July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from"
+"the Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"4. Deaths occurring through October 07, 2023 as of October 15, 2023."

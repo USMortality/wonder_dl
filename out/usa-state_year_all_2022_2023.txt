@@ -1,0 +1,141 @@
+"Notes"	"Year"	"Year Code"	"Residence State"	"Residence State Code"	Deaths	Population	Crude Rate
+	"2022 (provisional)"	"2022"	"Alabama"	"01"	62293	5039877	1236.0
+	"2022 (provisional)"	"2022"	"Alaska"	"02"	5719	732673	780.6
+	"2022 (provisional)"	"2022"	"Arizona"	"04"	74082	7276316	1018.1
+	"2022 (provisional)"	"2022"	"Arkansas"	"05"	37855	3025891	1251.0
+	"2022 (provisional)"	"2022"	"California"	"06"	313165	39237836	798.1
+	"2022 (provisional)"	"2022"	"Colorado"	"08"	46787	5812069	805.0
+	"2022 (provisional)"	"2022"	"Connecticut"	"09"	34583	3605597	959.1
+	"2022 (provisional)"	"2022"	"Delaware"	"10"	11351	1003384	1131.3
+	"2022 (provisional)"	"2022"	"District of Columbia"	"11"	5385	670050	803.7
+	"2022 (provisional)"	"2022"	"Florida"	"12"	239118	21781128	1097.8
+	"2022 (provisional)"	"2022"	"Georgia"	"13"	102340	10799566	947.6
+	"2022 (provisional)"	"2022"	"Hawaii"	"15"	13228	1441553	917.6
+	"2022 (provisional)"	"2022"	"Idaho"	"16"	17162	1900923	902.8
+	"2022 (provisional)"	"2022"	"Illinois"	"17"	122963	12671469	970.4
+	"2022 (provisional)"	"2022"	"Indiana"	"18"	75368	6805985	1107.4
+	"2022 (provisional)"	"2022"	"Iowa"	"19"	33973	3193079	1064.0
+	"2022 (provisional)"	"2022"	"Kansas"	"20"	31551	2934582	1075.1
+	"2022 (provisional)"	"2022"	"Kentucky"	"21"	57053	4509394	1265.2
+	"2022 (provisional)"	"2022"	"Louisiana"	"22"	52339	4624047	1131.9
+	"2022 (provisional)"	"2022"	"Maine"	"23"	17364	1372247	1265.4
+	"2022 (provisional)"	"2022"	"Maryland"	"24"	56456	6165129	915.7
+	"2022 (provisional)"	"2022"	"Massachusetts"	"25"	63366	6984723	907.2
+	"2022 (provisional)"	"2022"	"Michigan"	"26"	110499	10050811	1099.4
+	"2022 (provisional)"	"2022"	"Minnesota"	"27"	51222	5707390	897.5
+	"2022 (provisional)"	"2022"	"Mississippi"	"28"	37803	2949965	1281.5
+	"2022 (provisional)"	"2022"	"Missouri"	"29"	71851	6168187	1164.9
+	"2022 (provisional)"	"2022"	"Montana"	"30"	11684	1104271	1058.1
+	"2022 (provisional)"	"2022"	"Nebraska"	"31"	18615	1963692	948.0
+	"2022 (provisional)"	"2022"	"Nevada"	"32"	30960	3143991	984.7
+	"2022 (provisional)"	"2022"	"New Hampshire"	"33"	14515	1388992	1045.0
+	"2022 (provisional)"	"2022"	"New Jersey"	"34"	81489	9267130	879.3
+	"2022 (provisional)"	"2022"	"New Mexico"	"35"	23655	2115877	1118.0
+	"2022 (provisional)"	"2022"	"New York"	"36"	173944	19835913	876.9
+	"2022 (provisional)"	"2022"	"North Carolina"	"37"	112609	10551162	1067.3
+	"2022 (provisional)"	"2022"	"North Dakota"	"38"	7041	774948	908.6
+	"2022 (provisional)"	"2022"	"Ohio"	"39"	138209	11780017	1173.2
+	"2022 (provisional)"	"2022"	"Oklahoma"	"40"	47976	3986639	1203.4
+	"2022 (provisional)"	"2022"	"Oregon"	"41"	44598	4246155	1050.3
+	"2022 (provisional)"	"2022"	"Pennsylvania"	"42"	147180	12964056	1135.3
+	"2022 (provisional)"	"2022"	"Rhode Island"	"44"	10704	1095610	977.0
+	"2022 (provisional)"	"2022"	"South Carolina"	"45"	61047	5190705	1176.1
+	"2022 (provisional)"	"2022"	"South Dakota"	"46"	9016	895376	1007.0
+	"2022 (provisional)"	"2022"	"Tennessee"	"47"	84989	6975218	1218.4
+	"2022 (provisional)"	"2022"	"Texas"	"48"	241441	29527941	817.7
+	"2022 (provisional)"	"2022"	"Utah"	"49"	21886	3337975	655.7
+	"2022 (provisional)"	"2022"	"Vermont"	"50"	6971	645570	1079.8
+	"2022 (provisional)"	"2022"	"Virginia"	"51"	82930	8642274	959.6
+	"2022 (provisional)"	"2022"	"Washington"	"53"	69194	7738692	894.1
+	"2022 (provisional)"	"2022"	"West Virginia"	"54"	27506	1782959	1542.7
+	"2022 (provisional)"	"2022"	"Wisconsin"	"55"	60588	5895908	1027.6
+	"2022 (provisional)"	"2022"	"Wyoming"	"56"	5905	578803	1020.2
+"Total"	"2022 (provisional)"	"2022"			3279528	331893745	988.1
+	"2023 (provisional and partial)"	"2023"	"Alabama"	"01"	43220	5039877	857.6
+	"2023 (provisional and partial)"	"2023"	"Alaska"	"02"	3705	732673	505.7
+	"2023 (provisional and partial)"	"2023"	"Arizona"	"04"	52305	7276316	718.8
+	"2023 (provisional and partial)"	"2023"	"Arkansas"	"05"	26686	3025891	881.9
+	"2023 (provisional and partial)"	"2023"	"California"	"06"	219639	39237836	559.8
+	"2023 (provisional and partial)"	"2023"	"Colorado"	"08"	33329	5812069	573.4
+	"2023 (provisional and partial)"	"2023"	"Connecticut"	"09"	24207	3605597	671.4
+	"2023 (provisional and partial)"	"2023"	"Delaware"	"10"	7702	1003384	767.6
+	"2023 (provisional and partial)"	"2023"	"District of Columbia"	"11"	3548	670050	529.5
+	"2023 (provisional and partial)"	"2023"	"Florida"	"12"	173227	21781128	795.3
+	"2023 (provisional and partial)"	"2023"	"Georgia"	"13"	69481	10799566	643.4
+	"2023 (provisional and partial)"	"2023"	"Hawaii"	"15"	9490	1441553	658.3
+	"2023 (provisional and partial)"	"2023"	"Idaho"	"16"	12234	1900923	643.6
+	"2023 (provisional and partial)"	"2023"	"Illinois"	"17"	83999	12671469	662.9
+	"2023 (provisional and partial)"	"2023"	"Indiana"	"18"	51289	6805985	753.6
+	"2023 (provisional and partial)"	"2023"	"Iowa"	"19"	23893	3193079	748.3
+	"2023 (provisional and partial)"	"2023"	"Kansas"	"20"	21858	2934582	744.8
+	"2023 (provisional and partial)"	"2023"	"Kentucky"	"21"	38298	4509394	849.3
+	"2023 (provisional and partial)"	"2023"	"Louisiana"	"22"	35141	4624047	760.0
+	"2023 (provisional and partial)"	"2023"	"Maine"	"23"	12561	1372247	915.4
+	"2023 (provisional and partial)"	"2023"	"Maryland"	"24"	39453	6165129	639.9
+	"2023 (provisional and partial)"	"2023"	"Massachusetts"	"25"	45725	6984723	654.6
+	"2023 (provisional and partial)"	"2023"	"Michigan"	"26"	77353	10050811	769.6
+	"2023 (provisional and partial)"	"2023"	"Minnesota"	"27"	36173	5707390	633.8
+	"2023 (provisional and partial)"	"2023"	"Mississippi"	"28"	25875	2949965	877.1
+	"2023 (provisional and partial)"	"2023"	"Missouri"	"29"	48514	6168187	786.5
+	"2023 (provisional and partial)"	"2023"	"Montana"	"30"	8323	1104271	753.7
+	"2023 (provisional and partial)"	"2023"	"Nebraska"	"31"	13335	1963692	679.1
+	"2023 (provisional and partial)"	"2023"	"Nevada"	"32"	19736	3143991	627.7
+	"2023 (provisional and partial)"	"2023"	"New Hampshire"	"33"	10680	1388992	768.9
+	"2023 (provisional and partial)"	"2023"	"New Jersey"	"34"	56229	9267130	606.8
+	"2023 (provisional and partial)"	"2023"	"New Mexico"	"35"	16196	2115877	765.5
+	"2023 (provisional and partial)"	"2023"	"New York"	"36"	121562	19835913	612.8
+	"2023 (provisional and partial)"	"2023"	"North Carolina"	"37"	79037	10551162	749.1
+	"2023 (provisional and partial)"	"2023"	"North Dakota"	"38"	5041	774948	650.5
+	"2023 (provisional and partial)"	"2023"	"Ohio"	"39"	94097	11780017	798.8
+	"2023 (provisional and partial)"	"2023"	"Oklahoma"	"40"	32602	3986639	817.8
+	"2023 (provisional and partial)"	"2023"	"Oregon"	"41"	31096	4246155	732.3
+	"2023 (provisional and partial)"	"2023"	"Pennsylvania"	"42"	102764	12964056	792.7
+	"2023 (provisional and partial)"	"2023"	"Rhode Island"	"44"	7737	1095610	706.2
+	"2023 (provisional and partial)"	"2023"	"South Carolina"	"45"	43384	5190705	835.8
+	"2023 (provisional and partial)"	"2023"	"South Dakota"	"46"	6173	895376	689.4
+	"2023 (provisional and partial)"	"2023"	"Tennessee"	"47"	59028	6975218	846.3
+	"2023 (provisional and partial)"	"2023"	"Texas"	"48"	169550	29527941	574.2
+	"2023 (provisional and partial)"	"2023"	"Utah"	"49"	15462	3337975	463.2
+	"2023 (provisional and partial)"	"2023"	"Vermont"	"50"	5162	645570	799.6
+	"2023 (provisional and partial)"	"2023"	"Virginia"	"51"	58087	8642274	672.1
+	"2023 (provisional and partial)"	"2023"	"Washington"	"53"	49060	7738692	634.0
+	"2023 (provisional and partial)"	"2023"	"West Virginia"	"54"	18428	1782959	1033.6
+	"2023 (provisional and partial)"	"2023"	"Wisconsin"	"55"	42761	5895908	725.3
+	"2023 (provisional and partial)"	"2023"	"Wyoming"	"56"	4187	578803	723.4
+"Total"	"2023 (provisional and partial)"	"2023"			2288622	331893745	689.6
+"Total"					5568150	663787490	838.8
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Year/Month: 2022 (provisional); 2023 (provisional and partial)"
+"Group By: Year; Residence State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 20, 2023 12:25:48 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 12:25:48"
+"AM"
+"---"
+Caveats:
+"1. The population figures for years 2021 and later are single-race estimates of the July 1 resident population, based on the"
+"Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021"
+"postcensal series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census"
+"Bureau on July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from"
+"the Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"3. Deaths occurring through October 07, 2023 as of October 15, 2023."

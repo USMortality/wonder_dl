@@ -1,0 +1,54 @@
+"Notes"	"Month"	"Month Code"	Deaths	Population	Crude Rate
+	"Jan., 2022 (provisional)"	"2022/01"	46783	Not Applicable	Not Applicable
+	"Feb., 2022 (provisional)"	"2022/02"	37290	Not Applicable	Not Applicable
+	"Mar., 2022 (provisional)"	"2022/03"	34023	Not Applicable	Not Applicable
+	"Apr., 2022 (provisional)"	"2022/04"	31035	Not Applicable	Not Applicable
+	"May, 2022 (provisional)"	"2022/05"	32002	Not Applicable	Not Applicable
+	"Jun., 2022 (provisional)"	"2022/06"	31031	Not Applicable	Not Applicable
+	"Jul., 2022 (provisional)"	"2022/07"	32453	Not Applicable	Not Applicable
+	"Aug., 2022 (provisional)"	"2022/08"	32833	Not Applicable	Not Applicable
+	"Sep., 2022 (provisional)"	"2022/09"	31718	Not Applicable	Not Applicable
+	"Oct., 2022 (provisional)"	"2022/10"	33888	Not Applicable	Not Applicable
+	"Nov., 2022 (provisional)"	"2022/11"	34678	Not Applicable	Not Applicable
+	"Dec., 2022 (provisional)"	"2022/12"	39534	Not Applicable	Not Applicable
+	"Jan., 2023 (provisional)"	"2023/01"	38137	Not Applicable	Not Applicable
+	"Feb., 2023 (provisional)"	"2023/02"	32844	Not Applicable	Not Applicable
+	"Mar., 2023 (provisional)"	"2023/03"	35189	Not Applicable	Not Applicable
+	"Apr., 2023 (provisional)"	"2023/04"	32668	Not Applicable	Not Applicable
+	"May, 2023 (provisional)"	"2023/05"	32857	Not Applicable	Not Applicable
+	"Jun., 2023 (provisional)"	"2023/06"	31252	Not Applicable	Not Applicable
+	"Jul., 2023 (provisional)"	"2023/07"	31506	Not Applicable	Not Applicable
+	"Aug., 2023 (provisional)"	"2023/08"	32387	Not Applicable	Not Applicable
+	"Sep., 2023 (provisional)"	"2023/09"	30190	Not Applicable	Not Applicable
+	"Oct., 2023 (provisional and partial)"	"2023/10"	4900	Not Applicable	Not Applicable
+"Total"			719198	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Single-Year Ages: 80 years; 81 years; 82 years; 83 years; 84 years"
+"Year/Month: 2022 (provisional); 2023 (provisional and partial)"
+"Group By: Month"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 20, 2023 3:20:48 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 3:20:48"
+"PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"3. Deaths occurring through October 07, 2023 as of October 15, 2023."

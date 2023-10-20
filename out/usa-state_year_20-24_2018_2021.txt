@@ -1,0 +1,246 @@
+"Notes"	"Year"	"Year Code"	"Residence State"	"Residence State Code"	Deaths	Population	Crude Rate
+	"2018"	"2018"	"Alabama"	"01"	433	325220	133.1
+	"2018"	"2018"	"Alaska"	"02"	61	53000	115.1
+	"2018"	"2018"	"Arizona"	"04"	565	492176	114.8
+	"2018"	"2018"	"Arkansas"	"05"	228	201638	113.1
+	"2018"	"2018"	"California"	"06"	1947	2711800	71.8
+	"2018"	"2018"	"Colorado"	"08"	344	378514	90.9
+	"2018"	"2018"	"Connecticut"	"09"	181	243116	74.5
+	"2018"	"2018"	"Delaware"	"10"	61	58349	104.5
+	"2018"	"2018"	"District of Columbia"	"11"	52	52924	98.3
+	"2018"	"2018"	"Florida"	"12"	1274	1269823	100.3
+	"2018"	"2018"	"Georgia"	"13"	694	716652	96.8
+	"2018"	"2018"	"Hawaii"	"15"	55	90951	60.5
+	"2018"	"2018"	"Idaho"	"16"	144	114894	125.3
+	"2018"	"2018"	"Illinois"	"17"	795	847502	93.8
+	"2018"	"2018"	"Indiana"	"18"	477	471214	101.2
+	"2018"	"2018"	"Iowa"	"19"	141	227778	61.9
+	"2018"	"2018"	"Kansas"	"20"	205	213020	96.2
+	"2018"	"2018"	"Kentucky"	"21"	326	301530	108.1
+	"2018"	"2018"	"Louisiana"	"22"	395	309308	127.7
+	"2018"	"2018"	"Maine"	"23"	56	75024	74.6
+	"2018"	"2018"	"Maryland"	"24"	380	376550	100.9
+	"2018"	"2018"	"Massachusetts"	"25"	306	494067	61.9
+	"2018"	"2018"	"Michigan"	"26"	643	694627	92.6
+	"2018"	"2018"	"Minnesota"	"27"	245	360065	68.0
+	"2018"	"2018"	"Mississippi"	"28"	244	206761	118.0
+	"2018"	"2018"	"Missouri"	"29"	533	409228	130.2
+	"2018"	"2018"	"Montana"	"30"	79	72513	108.9
+	"2018"	"2018"	"Nebraska"	"31"	90	137180	65.6
+	"2018"	"2018"	"Nevada"	"32"	166	182064	91.2
+	"2018"	"2018"	"New Hampshire"	"33"	75	89682	83.6
+	"2018"	"2018"	"New Jersey"	"34"	485	551030	88.0
+	"2018"	"2018"	"New Mexico"	"35"	178	141547	125.8
+	"2018"	"2018"	"New York"	"36"	803	1302338	61.7
+	"2018"	"2018"	"North Carolina"	"37"	732	697871	104.9
+	"2018"	"2018"	"North Dakota"	"38"	49	63579	77.1
+	"2018"	"2018"	"Ohio"	"39"	783	758902	103.2
+	"2018"	"2018"	"Oklahoma"	"40"	255	273690	93.2
+	"2018"	"2018"	"Oregon"	"41"	196	265773	73.7
+	"2018"	"2018"	"Pennsylvania"	"42"	853	815049	104.7
+	"2018"	"2018"	"Rhode Island"	"44"	49	76616	64.0
+	"2018"	"2018"	"South Carolina"	"45"	416	332074	125.3
+	"2018"	"2018"	"South Dakota"	"46"	52	59585	87.3
+	"2018"	"2018"	"Tennessee"	"47"	484	445657	108.6
+	"2018"	"2018"	"Texas"	"48"	1687	1998543	84.4
+	"2018"	"2018"	"Utah"	"49"	190	260906	72.8
+	"2018"	"2018"	"Vermont"	"50"	30	46193	64.9
+	"2018"	"2018"	"Virginia"	"51"	468	578812	80.9
+	"2018"	"2018"	"Washington"	"53"	382	481263	79.4
+	"2018"	"2018"	"West Virginia"	"54"	139	113094	122.9
+	"2018"	"2018"	"Wisconsin"	"55"	303	395921	76.5
+	"2018"	"2018"	"Wyoming"	"56"	45	37966	118.5
+"Total"	"2018"	"2018"			19774	21873579	90.4
+	"2019"	"2019"	"Alabama"	"01"	388	322092	120.5
+	"2019"	"2019"	"Alaska"	"02"	66	51283	128.7
+	"2019"	"2019"	"Arizona"	"04"	545	495482	110.0
+	"2019"	"2019"	"Arkansas"	"05"	254	200287	126.8
+	"2019"	"2019"	"California"	"06"	1976	2647279	74.6
+	"2019"	"2019"	"Colorado"	"08"	365	377765	96.6
+	"2019"	"2019"	"Connecticut"	"09"	165	239931	68.8
+	"2019"	"2019"	"Delaware"	"10"	55	57154	96.2
+	"2019"	"2019"	"District of Columbia"	"11"	66	51397	128.4
+	"2019"	"2019"	"Florida"	"12"	1265	1258122	100.5
+	"2019"	"2019"	"Georgia"	"13"	694	717380	96.7
+	"2019"	"2019"	"Hawaii"	"15"	50	88650	56.4
+	"2019"	"2019"	"Idaho"	"16"	108	116434	92.8
+	"2019"	"2019"	"Illinois"	"17"	711	829977	85.7
+	"2019"	"2019"	"Indiana"	"18"	485	472649	102.6
+	"2019"	"2019"	"Iowa"	"19"	159	224211	70.9
+	"2019"	"2019"	"Kansas"	"20"	170	212319	80.1
+	"2019"	"2019"	"Kentucky"	"21"	295	297891	99.0
+	"2019"	"2019"	"Louisiana"	"22"	385	303408	126.9
+	"2019"	"2019"	"Maine"	"23"	62	74616	83.1
+	"2019"	"2019"	"Maryland"	"24"	414	371115	111.6
+	"2019"	"2019"	"Massachusetts"	"25"	280	485290	57.7
+	"2019"	"2019"	"Michigan"	"26"	563	681766	82.6
+	"2019"	"2019"	"Minnesota"	"27"	286	355929	80.4
+	"2019"	"2019"	"Mississippi"	"28"	274	201517	136.0
+	"2019"	"2019"	"Missouri"	"29"	509	404798	125.7
+	"2019"	"2019"	"Montana"	"30"	71	71936	98.7
+	"2019"	"2019"	"Nebraska"	"31"	95	135551	70.1
+	"2019"	"2019"	"Nevada"	"32"	174	182587	95.3
+	"2019"	"2019"	"New Hampshire"	"33"	88	87906	100.1
+	"2019"	"2019"	"New Jersey"	"34"	375	540725	69.4
+	"2019"	"2019"	"New Mexico"	"35"	196	140001	140.0
+	"2019"	"2019"	"New York"	"36"	841	1269847	66.2
+	"2019"	"2019"	"North Carolina"	"37"	715	698865	102.3
+	"2019"	"2019"	"North Dakota"	"38"	39	62216	62.7
+	"2019"	"2019"	"Ohio"	"39"	763	751457	101.5
+	"2019"	"2019"	"Oklahoma"	"40"	257	274648	93.6
+	"2019"	"2019"	"Oregon"	"41"	205	264104	77.6
+	"2019"	"2019"	"Pennsylvania"	"42"	763	799230	95.5
+	"2019"	"2019"	"Rhode Island"	"44"	44	75503	58.3
+	"2019"	"2019"	"South Carolina"	"45"	423	330743	127.9
+	"2019"	"2019"	"South Dakota"	"46"	60	58930	101.8
+	"2019"	"2019"	"Tennessee"	"47"	552	444925	124.1
+	"2019"	"2019"	"Texas"	"48"	1778	2002525	88.8
+	"2019"	"2019"	"Utah"	"49"	180	264652	68.0
+	"2019"	"2019"	"Vermont"	"50"	25	45430	55.0
+	"2019"	"2019"	"Virginia"	"51"	460	571619	80.5
+	"2019"	"2019"	"Washington"	"53"	357	481263	74.2
+	"2019"	"2019"	"West Virginia"	"54"	131	110880	118.1
+	"2019"	"2019"	"Wisconsin"	"55"	293	390572	75.0
+	"2019"	"2019"	"Wyoming"	"56"	38	38083	99.8
+"Total"	"2019"	"2019"			19513	21632940	90.2
+	"2020"	"2020"	"Alabama"	"01"	482	323264	149.1
+	"2020"	"2020"	"Alaska"	"02"	89	50553	176.1
+	"2020"	"2020"	"Arizona"	"04"	694	504348	137.6
+	"2020"	"2020"	"Arkansas"	"05"	256	201289	127.2
+	"2020"	"2020"	"California"	"06"	2517	2597931	96.9
+	"2020"	"2020"	"Colorado"	"08"	444	380269	116.8
+	"2020"	"2020"	"Connecticut"	"09"	185	238322	77.6
+	"2020"	"2020"	"Delaware"	"10"	81	57543	140.8
+	"2020"	"2020"	"District of Columbia"	"11"	66	51048	129.3
+	"2020"	"2020"	"Florida"	"12"	1444	1263937	114.2
+	"2020"	"2020"	"Georgia"	"13"	843	726152	116.1
+	"2020"	"2020"	"Hawaii"	"15"	65	87107	74.6
+	"2020"	"2020"	"Idaho"	"16"	110	119974	91.7
+	"2020"	"2020"	"Illinois"	"17"	921	818355	112.5
+	"2020"	"2020"	"Indiana"	"18"	611	473342	129.1
+	"2020"	"2020"	"Iowa"	"19"	173	225417	76.7
+	"2020"	"2020"	"Kansas"	"20"	215	211506	101.7
+	"2020"	"2020"	"Kentucky"	"21"	426	298443	142.7
+	"2020"	"2020"	"Louisiana"	"22"	503	303575	165.7
+	"2020"	"2020"	"Maine"	"23"	67	74554	89.9
+	"2020"	"2020"	"Maryland"	"24"	459	368767	124.5
+	"2020"	"2020"	"Massachusetts"	"25"	303	480950	63.0
+	"2020"	"2020"	"Michigan"	"26"	683	672087	101.6
+	"2020"	"2020"	"Minnesota"	"27"	296	353979	83.6
+	"2020"	"2020"	"Mississippi"	"28"	330	200659	164.5
+	"2020"	"2020"	"Missouri"	"29"	588	404293	145.4
+	"2020"	"2020"	"Montana"	"30"	93	72288	128.7
+	"2020"	"2020"	"Nebraska"	"31"	128	135285	94.6
+	"2020"	"2020"	"Nevada"	"32"	229	185474	123.5
+	"2020"	"2020"	"New Hampshire"	"33"	67	87000	77.0
+	"2020"	"2020"	"New Jersey"	"34"	420	536749	78.2
+	"2020"	"2020"	"New Mexico"	"35"	205	140700	145.7
+	"2020"	"2020"	"New York"	"36"	1029	1243572	82.7
+	"2020"	"2020"	"North Carolina"	"37"	953	706948	134.8
+	"2020"	"2020"	"North Dakota"	"38"	59	62341	94.6
+	"2020"	"2020"	"Ohio"	"39"	928	747720	124.1
+	"2020"	"2020"	"Oklahoma"	"40"	299	276994	107.9
+	"2020"	"2020"	"Oregon"	"41"	242	263425	91.9
+	"2020"	"2020"	"Pennsylvania"	"42"	832	789841	105.3
+	"2020"	"2020"	"Rhode Island"	"44"	50	74115	67.5
+	"2020"	"2020"	"South Carolina"	"45"	523	333970	156.6
+	"2020"	"2020"	"South Dakota"	"46"	68	59560	114.2
+	"2020"	"2020"	"Tennessee"	"47"	666	447159	148.9
+	"2020"	"2020"	"Texas"	"48"	2075	2030723	102.2
+	"2020"	"2020"	"Utah"	"49"	190	269900	70.4
+	"2020"	"2020"	"Vermont"	"50"	27	44561	60.6
+	"2020"	"2020"	"Virginia"	"51"	592	574562	103.0
+	"2020"	"2020"	"Washington"	"53"	452	483806	93.4
+	"2020"	"2020"	"West Virginia"	"54"	134	110872	120.9
+	"2020"	"2020"	"Wisconsin"	"55"	379	391233	96.9
+	"2020"	"2020"	"Wyoming"	"56"	47	38293	122.7
+"Total"	"2020"	"2020"			23538	21594755	109.0
+	"2021"	"2021"	"Alabama"	"01"	507	329131	154.0
+	"2021"	"2021"	"Alaska"	"02"	96	50263	191.0
+	"2021"	"2021"	"Arizona"	"04"	744	491891	151.3
+	"2021"	"2021"	"Arkansas"	"05"	279	199930	139.5
+	"2021"	"2021"	"California"	"06"	2569	2539686	101.2
+	"2021"	"2021"	"Colorado"	"08"	472	378373	124.7
+	"2021"	"2021"	"Connecticut"	"09"	199	239441	83.1
+	"2021"	"2021"	"Delaware"	"10"	74	57907	127.8
+	"2021"	"2021"	"District of Columbia"	"11"	56	45630	122.7
+	"2021"	"2021"	"Florida"	"12"	1534	1252319	122.5
+	"2021"	"2021"	"Georgia"	"13"	965	729556	132.3
+	"2021"	"2021"	"Hawaii"	"15"	57	87752	65.0
+	"2021"	"2021"	"Idaho"	"16"	140	123806	113.1
+	"2021"	"2021"	"Illinois"	"17"	917	815109	112.5
+	"2021"	"2021"	"Indiana"	"18"	637	474397	134.3
+	"2021"	"2021"	"Iowa"	"19"	154	225683	68.2
+	"2021"	"2021"	"Kansas"	"20"	225	211764	106.3
+	"2021"	"2021"	"Kentucky"	"21"	448	299092	149.8
+	"2021"	"2021"	"Louisiana"	"22"	559	300583	186.0
+	"2021"	"2021"	"Maine"	"23"	68	75134	90.5
+	"2021"	"2021"	"Maryland"	"24"	457	372307	122.7
+	"2021"	"2021"	"Massachusetts"	"25"	301	478757	62.9
+	"2021"	"2021"	"Michigan"	"26"	724	671349	107.8
+	"2021"	"2021"	"Minnesota"	"27"	346	353691	97.8
+	"2021"	"2021"	"Mississippi"	"28"	405	198356	204.2
+	"2021"	"2021"	"Missouri"	"29"	536	402026	133.3
+	"2021"	"2021"	"Montana"	"30"	94	73376	128.1
+	"2021"	"2021"	"Nebraska"	"31"	127	136367	93.1
+	"2021"	"2021"	"Nevada"	"32"	272	183528	148.2
+	"2021"	"2021"	"New Hampshire"	"33"	60	86826	69.1
+	"2021"	"2021"	"New Jersey"	"34"	439	553446	79.3
+	"2021"	"2021"	"New Mexico"	"35"	264	140578	187.8
+	"2021"	"2021"	"New York"	"36"	900	1245493	72.3
+	"2021"	"2021"	"North Carolina"	"37"	961	701352	137.0
+	"2021"	"2021"	"North Dakota"	"38"	73	61866	118.0
+	"2021"	"2021"	"Ohio"	"39"	880	748464	117.6
+	"2021"	"2021"	"Oklahoma"	"40"	370	276960	133.6
+	"2021"	"2021"	"Oregon"	"41"	279	259922	107.3
+	"2021"	"2021"	"Pennsylvania"	"42"	886	793161	111.7
+	"2021"	"2021"	"Rhode Island"	"44"	60	75681	79.3
+	"2021"	"2021"	"South Carolina"	"45"	560	330203	169.6
+	"2021"	"2021"	"South Dakota"	"46"	82	59304	138.3
+	"2021"	"2021"	"Tennessee"	"47"	738	449447	164.2
+	"2021"	"2021"	"Texas"	"48"	2455	2030728	120.9
+	"2021"	"2021"	"Utah"	"49"	215	277071	77.6
+	"2021"	"2021"	"Vermont"	"50"	36	45360	79.4
+	"2021"	"2021"	"Virginia"	"51"	636	572429	111.1
+	"2021"	"2021"	"Washington"	"53"	491	476815	103.0
+	"2021"	"2021"	"West Virginia"	"54"	148	110551	133.9
+	"2021"	"2021"	"Wisconsin"	"55"	358	393491	91.0
+	"2021"	"2021"	"Wyoming"	"56"	47	37645	124.9
+"Total"	"2021"	"2021"			24900	21523997	115.7
+"Total"					87725	86625271	101.3
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Single-Year Ages: 20 years; 21 years; 22 years; 23 years; 24 years"
+"Year/Month: 2018; 2019; 2020; 2021"
+"Group By: Year; Residence State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 20, 2023 3:07:44 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 3:07:44"
+"PM"
+"---"
+Caveats:
+"1. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"2. The population figures for years 2021 and later are single-race estimates of the July 1 resident population, based on the"
+"Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021"
+"postcensal series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census"
+"Bureau on July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from"
+"the Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"3. Deaths occurring through October 07, 2023 as of October 15, 2023."

@@ -1,0 +1,2487 @@
+"Notes"	"Month"	"Month Code"	"Residence State"	"Residence State Code"	Deaths	Population	Crude Rate
+	"Jan., 2018"	"2018/01"	"Alabama"	"01"	147	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Alaska"	"02"	20	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Arizona"	"04"	144	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Arkansas"	"05"	81	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"California"	"06"	574	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Colorado"	"08"	81	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Connecticut"	"09"	51	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Delaware"	"10"	27	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"District of Columbia"	"11"	19	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Florida"	"12"	416	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Georgia"	"13"	243	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Hawaii"	"15"	17	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Idaho"	"16"	20	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Illinois"	"17"	224	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Indiana"	"18"	155	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Iowa"	"19"	42	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Kansas"	"20"	57	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Kentucky"	"21"	135	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Louisiana"	"22"	111	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Maine"	"23"	14	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Maryland"	"24"	125	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Massachusetts"	"25"	84	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Michigan"	"26"	193	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Minnesota"	"27"	61	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Mississippi"	"28"	92	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Missouri"	"29"	139	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Montana"	"30"	22	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Nebraska"	"31"	21	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Nevada"	"32"	60	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"New Hampshire"	"33"	23	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"New Jersey"	"34"	146	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"New Mexico"	"35"	50	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"New York"	"36"	313	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"North Carolina"	"37"	184	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"North Dakota"	"38"	11	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Ohio"	"39"	254	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Oklahoma"	"40"	80	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Oregon"	"41"	62	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Pennsylvania"	"42"	212	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Rhode Island"	"44"	16	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"South Carolina"	"45"	123	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"South Dakota"	"46"	14	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Tennessee"	"47"	174	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Texas"	"48"	552	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Utah"	"49"	49	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Vermont"	"50"	13	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Virginia"	"51"	142	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Washington"	"53"	109	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"West Virginia"	"54"	44	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Wisconsin"	"55"	94	Not Applicable	Not Applicable
+	"Jan., 2018"	"2018/01"	"Wyoming"	"56"	12	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Alabama"	"01"	119	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Alaska"	"02"	14	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Arizona"	"04"	112	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Arkansas"	"05"	70	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"California"	"06"	501	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Colorado"	"08"	71	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Connecticut"	"09"	53	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Delaware"	"10"	17	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Florida"	"12"	354	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Georgia"	"13"	181	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Hawaii"	"15"	22	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Idaho"	"16"	25	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Illinois"	"17"	192	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Indiana"	"18"	123	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Iowa"	"19"	40	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Kansas"	"20"	45	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Kentucky"	"21"	112	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Louisiana"	"22"	106	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Maine"	"23"	18	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Maryland"	"24"	124	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Massachusetts"	"25"	81	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Michigan"	"26"	189	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Minnesota"	"27"	66	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Mississippi"	"28"	75	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Missouri"	"29"	102	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Montana"	"30"	18	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Nebraska"	"31"	20	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Nevada"	"32"	46	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"New Hampshire"	"33"	22	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"New Jersey"	"34"	128	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"New Mexico"	"35"	38	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"New York"	"36"	242	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"North Carolina"	"37"	167	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"North Dakota"	"38"	13	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Ohio"	"39"	225	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Oklahoma"	"40"	85	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Oregon"	"41"	46	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Pennsylvania"	"42"	179	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Rhode Island"	"44"	15	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"South Carolina"	"45"	112	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"South Dakota"	"46"	Suppressed	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Tennessee"	"47"	165	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Texas"	"48"	445	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Utah"	"49"	36	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Virginia"	"51"	127	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Washington"	"53"	79	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"West Virginia"	"54"	46	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Wisconsin"	"55"	73	Not Applicable	Not Applicable
+	"Feb., 2018"	"2018/02"	"Wyoming"	"56"	13	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Alabama"	"01"	131	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Alaska"	"02"	Suppressed	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Arizona"	"04"	113	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Arkansas"	"05"	72	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"California"	"06"	540	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Colorado"	"08"	78	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Connecticut"	"09"	63	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Delaware"	"10"	13	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"District of Columbia"	"11"	10	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Florida"	"12"	356	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Georgia"	"13"	200	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Hawaii"	"15"	12	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Idaho"	"16"	24	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Illinois"	"17"	201	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Indiana"	"18"	134	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Iowa"	"19"	42	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Kansas"	"20"	36	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Kentucky"	"21"	114	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Louisiana"	"22"	97	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Maine"	"23"	19	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Maryland"	"24"	122	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Massachusetts"	"25"	99	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Michigan"	"26"	200	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Minnesota"	"27"	63	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Mississippi"	"28"	70	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Missouri"	"29"	136	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Montana"	"30"	12	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Nebraska"	"31"	30	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Nevada"	"32"	61	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"New Hampshire"	"33"	26	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"New Jersey"	"34"	120	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"New Mexico"	"35"	47	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"New York"	"36"	271	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"North Carolina"	"37"	211	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Ohio"	"39"	243	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Oklahoma"	"40"	97	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Oregon"	"41"	67	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Pennsylvania"	"42"	213	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Rhode Island"	"44"	12	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"South Carolina"	"45"	123	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"South Dakota"	"46"	18	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Tennessee"	"47"	182	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Texas"	"48"	470	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Utah"	"49"	30	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Virginia"	"51"	138	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Washington"	"53"	102	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"West Virginia"	"54"	46	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Wisconsin"	"55"	85	Not Applicable	Not Applicable
+	"Mar., 2018"	"2018/03"	"Wyoming"	"56"	14	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Alabama"	"01"	107	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Alaska"	"02"	12	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Arizona"	"04"	108	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Arkansas"	"05"	56	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"California"	"06"	506	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Colorado"	"08"	91	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Connecticut"	"09"	36	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Delaware"	"10"	15	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"District of Columbia"	"11"	18	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Florida"	"12"	375	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Georgia"	"13"	226	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Hawaii"	"15"	15	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Idaho"	"16"	20	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Illinois"	"17"	187	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Indiana"	"18"	120	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Iowa"	"19"	49	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Kansas"	"20"	39	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Kentucky"	"21"	114	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Louisiana"	"22"	104	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Maine"	"23"	26	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Maryland"	"24"	100	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Massachusetts"	"25"	80	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Michigan"	"26"	196	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Minnesota"	"27"	56	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Mississippi"	"28"	93	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Missouri"	"29"	108	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Montana"	"30"	15	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Nebraska"	"31"	36	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Nevada"	"32"	48	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"New Hampshire"	"33"	26	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"New Jersey"	"34"	122	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"New Mexico"	"35"	50	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"New York"	"36"	226	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"North Carolina"	"37"	207	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Ohio"	"39"	232	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Oklahoma"	"40"	98	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Oregon"	"41"	69	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Pennsylvania"	"42"	209	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Rhode Island"	"44"	19	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"South Carolina"	"45"	118	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"South Dakota"	"46"	13	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Tennessee"	"47"	146	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Texas"	"48"	440	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Utah"	"49"	33	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Virginia"	"51"	116	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Washington"	"53"	81	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"West Virginia"	"54"	45	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Wisconsin"	"55"	69	Not Applicable	Not Applicable
+	"Apr., 2018"	"2018/04"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Alabama"	"01"	120	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Alaska"	"02"	Suppressed	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Arizona"	"04"	118	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Arkansas"	"05"	61	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"California"	"06"	493	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Colorado"	"08"	91	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Connecticut"	"09"	52	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Delaware"	"10"	11	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Florida"	"12"	368	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Georgia"	"13"	200	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Hawaii"	"15"	16	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Idaho"	"16"	23	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Illinois"	"17"	199	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Indiana"	"18"	138	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Iowa"	"19"	41	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Kansas"	"20"	40	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Kentucky"	"21"	114	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Louisiana"	"22"	103	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Maine"	"23"	21	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Maryland"	"24"	81	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Massachusetts"	"25"	114	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Michigan"	"26"	198	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Minnesota"	"27"	78	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Mississippi"	"28"	69	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Missouri"	"29"	119	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Montana"	"30"	Suppressed	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Nebraska"	"31"	30	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Nevada"	"32"	48	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"New Hampshire"	"33"	18	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"New Jersey"	"34"	150	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"New Mexico"	"35"	40	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"New York"	"36"	247	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"North Carolina"	"37"	168	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"North Dakota"	"38"	10	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Ohio"	"39"	256	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Oklahoma"	"40"	83	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Oregon"	"41"	55	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Pennsylvania"	"42"	222	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Rhode Island"	"44"	16	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"South Carolina"	"45"	105	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"South Dakota"	"46"	Suppressed	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Tennessee"	"47"	178	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Texas"	"48"	432	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Utah"	"49"	42	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Virginia"	"51"	127	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Washington"	"53"	85	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"West Virginia"	"54"	50	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Wisconsin"	"55"	95	Not Applicable	Not Applicable
+	"May, 2018"	"2018/05"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Alabama"	"01"	111	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Alaska"	"02"	13	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Arizona"	"04"	136	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Arkansas"	"05"	60	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"California"	"06"	502	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Colorado"	"08"	82	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Connecticut"	"09"	47	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Delaware"	"10"	18	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"District of Columbia"	"11"	14	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Florida"	"12"	350	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Georgia"	"13"	176	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Hawaii"	"15"	18	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Idaho"	"16"	29	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Illinois"	"17"	200	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Indiana"	"18"	129	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Iowa"	"19"	41	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Kansas"	"20"	45	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Kentucky"	"21"	101	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Louisiana"	"22"	97	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Maine"	"23"	12	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Maryland"	"24"	88	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Massachusetts"	"25"	96	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Michigan"	"26"	168	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Minnesota"	"27"	67	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Mississippi"	"28"	74	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Missouri"	"29"	125	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Montana"	"30"	12	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Nebraska"	"31"	35	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Nevada"	"32"	61	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"New Hampshire"	"33"	17	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"New Jersey"	"34"	116	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"New Mexico"	"35"	40	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"New York"	"36"	251	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"North Carolina"	"37"	196	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Ohio"	"39"	208	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Oklahoma"	"40"	92	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Oregon"	"41"	50	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Pennsylvania"	"42"	222	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Rhode Island"	"44"	16	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"South Carolina"	"45"	111	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"South Dakota"	"46"	12	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Tennessee"	"47"	148	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Texas"	"48"	433	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Utah"	"49"	35	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Vermont"	"50"	10	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Virginia"	"51"	127	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Washington"	"53"	104	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"West Virginia"	"54"	44	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Wisconsin"	"55"	85	Not Applicable	Not Applicable
+	"Jun., 2018"	"2018/06"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Alabama"	"01"	122	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Alaska"	"02"	17	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Arizona"	"04"	130	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Arkansas"	"05"	87	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"California"	"06"	514	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Colorado"	"08"	82	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Connecticut"	"09"	58	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Delaware"	"10"	14	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Florida"	"12"	353	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Georgia"	"13"	177	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Hawaii"	"15"	29	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Idaho"	"16"	41	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Illinois"	"17"	213	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Indiana"	"18"	136	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Iowa"	"19"	52	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Kansas"	"20"	49	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Kentucky"	"21"	109	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Louisiana"	"22"	78	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Maine"	"23"	26	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Maryland"	"24"	102	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Massachusetts"	"25"	88	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Michigan"	"26"	166	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Minnesota"	"27"	58	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Mississippi"	"28"	78	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Missouri"	"29"	134	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Montana"	"30"	23	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Nebraska"	"31"	22	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Nevada"	"32"	61	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"New Hampshire"	"33"	31	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"New Jersey"	"34"	123	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"New Mexico"	"35"	51	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"New York"	"36"	286	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"North Carolina"	"37"	168	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"North Dakota"	"38"	12	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Ohio"	"39"	213	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Oklahoma"	"40"	80	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Oregon"	"41"	63	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Pennsylvania"	"42"	228	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Rhode Island"	"44"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"South Carolina"	"45"	117	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"South Dakota"	"46"	11	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Tennessee"	"47"	175	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Texas"	"48"	437	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Utah"	"49"	43	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Vermont"	"50"	10	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Virginia"	"51"	121	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Washington"	"53"	117	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"West Virginia"	"54"	42	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Wisconsin"	"55"	90	Not Applicable	Not Applicable
+	"Jul., 2018"	"2018/07"	"Wyoming"	"56"	11	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Alabama"	"01"	133	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Alaska"	"02"	16	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Arizona"	"04"	125	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Arkansas"	"05"	72	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"California"	"06"	508	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Colorado"	"08"	85	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Connecticut"	"09"	58	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Delaware"	"10"	19	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Florida"	"12"	322	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Georgia"	"13"	229	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Hawaii"	"15"	22	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Idaho"	"16"	24	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Illinois"	"17"	181	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Indiana"	"18"	127	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Iowa"	"19"	42	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Kansas"	"20"	41	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Kentucky"	"21"	112	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Louisiana"	"22"	90	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Maine"	"23"	27	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Maryland"	"24"	104	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Massachusetts"	"25"	111	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Michigan"	"26"	185	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Minnesota"	"27"	64	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Mississippi"	"28"	83	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Missouri"	"29"	126	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Montana"	"30"	11	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Nebraska"	"31"	30	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Nevada"	"32"	63	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"New Hampshire"	"33"	21	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"New Jersey"	"34"	125	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"New Mexico"	"35"	37	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"New York"	"36"	256	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"North Carolina"	"37"	208	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Ohio"	"39"	261	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Oklahoma"	"40"	96	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Oregon"	"41"	71	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Pennsylvania"	"42"	199	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Rhode Island"	"44"	20	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"South Carolina"	"45"	89	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"South Dakota"	"46"	18	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Tennessee"	"47"	179	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Texas"	"48"	439	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Utah"	"49"	33	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Virginia"	"51"	107	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Washington"	"53"	110	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"West Virginia"	"54"	51	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Wisconsin"	"55"	75	Not Applicable	Not Applicable
+	"Aug., 2018"	"2018/08"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Alabama"	"01"	112	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Alaska"	"02"	14	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Arizona"	"04"	113	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Arkansas"	"05"	61	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"California"	"06"	518	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Colorado"	"08"	69	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Connecticut"	"09"	56	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Delaware"	"10"	13	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"District of Columbia"	"11"	17	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Florida"	"12"	331	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Georgia"	"13"	174	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Hawaii"	"15"	17	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Idaho"	"16"	19	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Illinois"	"17"	185	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Indiana"	"18"	124	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Iowa"	"19"	45	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Kansas"	"20"	34	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Kentucky"	"21"	113	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Louisiana"	"22"	113	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Maine"	"23"	25	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Maryland"	"24"	105	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Massachusetts"	"25"	79	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Michigan"	"26"	184	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Minnesota"	"27"	59	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Mississippi"	"28"	71	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Missouri"	"29"	98	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Montana"	"30"	18	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Nebraska"	"31"	19	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Nevada"	"32"	33	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"New Hampshire"	"33"	20	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"New Jersey"	"34"	133	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"New Mexico"	"35"	35	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"New York"	"36"	249	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"North Carolina"	"37"	170	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Ohio"	"39"	249	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Oklahoma"	"40"	80	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Oregon"	"41"	66	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Pennsylvania"	"42"	216	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Rhode Island"	"44"	12	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"South Carolina"	"45"	115	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"South Dakota"	"46"	17	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Tennessee"	"47"	159	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Texas"	"48"	419	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Utah"	"49"	49	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Vermont"	"50"	10	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Virginia"	"51"	141	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Washington"	"53"	86	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"West Virginia"	"54"	52	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Wisconsin"	"55"	89	Not Applicable	Not Applicable
+	"Sep., 2018"	"2018/09"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Alabama"	"01"	115	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Alaska"	"02"	Suppressed	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Arizona"	"04"	111	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Arkansas"	"05"	68	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"California"	"06"	474	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Colorado"	"08"	82	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Connecticut"	"09"	67	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Delaware"	"10"	15	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Florida"	"12"	338	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Georgia"	"13"	191	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Hawaii"	"15"	22	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Idaho"	"16"	18	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Illinois"	"17"	186	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Indiana"	"18"	115	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Iowa"	"19"	41	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Kansas"	"20"	49	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Kentucky"	"21"	108	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Louisiana"	"22"	102	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Maine"	"23"	19	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Maryland"	"24"	95	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Massachusetts"	"25"	87	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Michigan"	"26"	187	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Minnesota"	"27"	67	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Mississippi"	"28"	73	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Missouri"	"29"	113	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Montana"	"30"	17	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Nebraska"	"31"	30	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Nevada"	"32"	58	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"New Hampshire"	"33"	20	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"New Jersey"	"34"	154	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"New Mexico"	"35"	57	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"New York"	"36"	265	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"North Carolina"	"37"	192	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Ohio"	"39"	216	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Oklahoma"	"40"	73	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Oregon"	"41"	66	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Pennsylvania"	"42"	214	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Rhode Island"	"44"	11	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"South Carolina"	"45"	100	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"South Dakota"	"46"	11	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Tennessee"	"47"	179	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Texas"	"48"	419	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Utah"	"49"	40	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Virginia"	"51"	141	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Washington"	"53"	88	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"West Virginia"	"54"	72	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Wisconsin"	"55"	84	Not Applicable	Not Applicable
+	"Oct., 2018"	"2018/10"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Alabama"	"01"	113	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Alaska"	"02"	10	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Arizona"	"04"	108	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Arkansas"	"05"	59	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"California"	"06"	460	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Colorado"	"08"	69	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Connecticut"	"09"	53	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Delaware"	"10"	12	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Florida"	"12"	338	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Georgia"	"13"	199	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Hawaii"	"15"	12	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Idaho"	"16"	20	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Illinois"	"17"	181	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Indiana"	"18"	103	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Iowa"	"19"	41	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Kansas"	"20"	38	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Kentucky"	"21"	117	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Louisiana"	"22"	114	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Maine"	"23"	21	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Maryland"	"24"	107	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Massachusetts"	"25"	92	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Michigan"	"26"	176	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Minnesota"	"27"	70	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Mississippi"	"28"	71	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Missouri"	"29"	118	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Montana"	"30"	11	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Nebraska"	"31"	20	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Nevada"	"32"	64	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"New Hampshire"	"33"	22	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"New Jersey"	"34"	122	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"New Mexico"	"35"	48	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"New York"	"36"	258	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"North Carolina"	"37"	191	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"North Dakota"	"38"	18	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Ohio"	"39"	196	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Oklahoma"	"40"	95	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Oregon"	"41"	48	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Pennsylvania"	"42"	199	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Rhode Island"	"44"	12	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"South Carolina"	"45"	101	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"South Dakota"	"46"	15	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Tennessee"	"47"	181	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Texas"	"48"	446	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Utah"	"49"	39	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Virginia"	"51"	133	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Washington"	"53"	89	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"West Virginia"	"54"	44	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Wisconsin"	"55"	93	Not Applicable	Not Applicable
+	"Nov., 2018"	"2018/11"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Alabama"	"01"	129	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Alaska"	"02"	Suppressed	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Arizona"	"04"	104	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Arkansas"	"05"	64	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"California"	"06"	508	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Colorado"	"08"	81	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Connecticut"	"09"	47	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Delaware"	"10"	15	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"District of Columbia"	"11"	16	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Florida"	"12"	394	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Georgia"	"13"	229	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Hawaii"	"15"	26	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Idaho"	"16"	22	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Illinois"	"17"	218	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Indiana"	"18"	136	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Iowa"	"19"	48	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Kansas"	"20"	38	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Kentucky"	"21"	113	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Louisiana"	"22"	95	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Maine"	"23"	23	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Maryland"	"24"	110	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Massachusetts"	"25"	85	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Michigan"	"26"	170	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Minnesota"	"27"	65	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Mississippi"	"28"	71	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Missouri"	"29"	125	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Montana"	"30"	14	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Nebraska"	"31"	35	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Nevada"	"32"	45	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"New Hampshire"	"33"	27	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"New Jersey"	"34"	145	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"New Mexico"	"35"	48	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"New York"	"36"	274	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"North Carolina"	"37"	185	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Ohio"	"39"	269	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Oklahoma"	"40"	85	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Oregon"	"41"	65	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Pennsylvania"	"42"	196	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Rhode Island"	"44"	23	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"South Carolina"	"45"	128	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"South Dakota"	"46"	15	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Tennessee"	"47"	180	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Texas"	"48"	494	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Utah"	"49"	33	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Vermont"	"50"	11	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Virginia"	"51"	114	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Washington"	"53"	112	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"West Virginia"	"54"	51	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Wisconsin"	"55"	73	Not Applicable	Not Applicable
+	"Dec., 2018"	"2018/12"	"Wyoming"	"56"	12	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Alabama"	"01"	122	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Alaska"	"02"	14	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Arizona"	"04"	134	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Arkansas"	"05"	65	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"California"	"06"	548	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Colorado"	"08"	90	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Connecticut"	"09"	50	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Delaware"	"10"	23	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"District of Columbia"	"11"	10	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Florida"	"12"	377	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Georgia"	"13"	196	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Hawaii"	"15"	21	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Idaho"	"16"	16	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Illinois"	"17"	203	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Indiana"	"18"	146	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Iowa"	"19"	44	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Kansas"	"20"	45	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Kentucky"	"21"	103	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Louisiana"	"22"	101	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Maine"	"23"	23	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Maryland"	"24"	92	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Massachusetts"	"25"	85	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Michigan"	"26"	143	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Minnesota"	"27"	69	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Mississippi"	"28"	87	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Missouri"	"29"	123	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Montana"	"30"	20	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Nebraska"	"31"	28	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Nevada"	"32"	66	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"New Hampshire"	"33"	21	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"New Jersey"	"34"	121	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"New Mexico"	"35"	51	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"New York"	"36"	255	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"North Carolina"	"37"	208	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"North Dakota"	"38"	14	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Ohio"	"39"	236	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Oklahoma"	"40"	88	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Oregon"	"41"	71	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Pennsylvania"	"42"	235	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Rhode Island"	"44"	16	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"South Carolina"	"45"	105	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"South Dakota"	"46"	12	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Tennessee"	"47"	182	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Texas"	"48"	494	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Utah"	"49"	38	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Virginia"	"51"	140	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Washington"	"53"	121	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"West Virginia"	"54"	45	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Wisconsin"	"55"	75	Not Applicable	Not Applicable
+	"Jan., 2019"	"2019/01"	"Wyoming"	"56"	14	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Alabama"	"01"	116	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Alaska"	"02"	Suppressed	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Arizona"	"04"	104	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Arkansas"	"05"	56	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"California"	"06"	523	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Colorado"	"08"	89	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Connecticut"	"09"	45	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Delaware"	"10"	22	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Florida"	"12"	342	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Georgia"	"13"	205	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Hawaii"	"15"	24	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Idaho"	"16"	27	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Illinois"	"17"	194	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Indiana"	"18"	141	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Iowa"	"19"	43	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Kansas"	"20"	28	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Kentucky"	"21"	96	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Louisiana"	"22"	89	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Maine"	"23"	27	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Maryland"	"24"	84	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Massachusetts"	"25"	91	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Michigan"	"26"	154	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Minnesota"	"27"	65	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Mississippi"	"28"	73	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Missouri"	"29"	104	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Montana"	"30"	13	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Nebraska"	"31"	27	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Nevada"	"32"	51	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"New Hampshire"	"33"	19	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"New Jersey"	"34"	137	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"New Mexico"	"35"	40	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"New York"	"36"	248	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"North Carolina"	"37"	192	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"North Dakota"	"38"	10	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Ohio"	"39"	240	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Oklahoma"	"40"	83	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Oregon"	"41"	51	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Pennsylvania"	"42"	192	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Rhode Island"	"44"	18	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"South Carolina"	"45"	99	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"South Dakota"	"46"	14	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Tennessee"	"47"	195	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Texas"	"48"	398	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Utah"	"49"	34	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Virginia"	"51"	129	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Washington"	"53"	86	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"West Virginia"	"54"	53	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Wisconsin"	"55"	82	Not Applicable	Not Applicable
+	"Feb., 2019"	"2019/02"	"Wyoming"	"56"	13	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Alabama"	"01"	124	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Alaska"	"02"	15	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Arizona"	"04"	125	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Arkansas"	"05"	70	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"California"	"06"	528	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Colorado"	"08"	83	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Connecticut"	"09"	59	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Delaware"	"10"	18	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"District of Columbia"	"11"	19	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Florida"	"12"	347	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Georgia"	"13"	214	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Hawaii"	"15"	29	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Idaho"	"16"	14	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Illinois"	"17"	186	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Indiana"	"18"	133	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Iowa"	"19"	46	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Kansas"	"20"	38	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Kentucky"	"21"	117	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Louisiana"	"22"	84	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Maine"	"23"	28	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Maryland"	"24"	108	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Massachusetts"	"25"	101	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Michigan"	"26"	159	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Minnesota"	"27"	61	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Mississippi"	"28"	86	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Missouri"	"29"	102	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Montana"	"30"	12	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Nebraska"	"31"	38	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Nevada"	"32"	62	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"New Hampshire"	"33"	23	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"New Jersey"	"34"	130	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"New Mexico"	"35"	40	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"New York"	"36"	238	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"North Carolina"	"37"	208	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"North Dakota"	"38"	17	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Ohio"	"39"	230	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Oklahoma"	"40"	80	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Oregon"	"41"	62	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Pennsylvania"	"42"	224	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Rhode Island"	"44"	10	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"South Carolina"	"45"	112	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"South Dakota"	"46"	18	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Tennessee"	"47"	156	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Texas"	"48"	502	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Utah"	"49"	31	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Virginia"	"51"	133	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Washington"	"53"	114	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"West Virginia"	"54"	42	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Wisconsin"	"55"	90	Not Applicable	Not Applicable
+	"Mar., 2019"	"2019/03"	"Wyoming"	"56"	12	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Alabama"	"01"	124	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Alaska"	"02"	11	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Arizona"	"04"	109	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Arkansas"	"05"	49	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"California"	"06"	485	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Colorado"	"08"	91	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Connecticut"	"09"	51	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Delaware"	"10"	Suppressed	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Florida"	"12"	349	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Georgia"	"13"	199	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Hawaii"	"15"	18	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Idaho"	"16"	27	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Illinois"	"17"	203	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Indiana"	"18"	147	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Iowa"	"19"	39	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Kansas"	"20"	37	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Kentucky"	"21"	121	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Louisiana"	"22"	89	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Maine"	"23"	28	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Maryland"	"24"	94	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Massachusetts"	"25"	92	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Michigan"	"26"	157	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Minnesota"	"27"	64	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Mississippi"	"28"	72	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Missouri"	"29"	91	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Montana"	"30"	23	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Nebraska"	"31"	30	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Nevada"	"32"	62	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"New Hampshire"	"33"	16	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"New Jersey"	"34"	94	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"New Mexico"	"35"	40	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"New York"	"36"	219	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"North Carolina"	"37"	187	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"North Dakota"	"38"	18	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Ohio"	"39"	215	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Oklahoma"	"40"	92	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Oregon"	"41"	61	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Pennsylvania"	"42"	203	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Rhode Island"	"44"	19	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"South Carolina"	"45"	106	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"South Dakota"	"46"	13	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Tennessee"	"47"	169	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Texas"	"48"	440	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Utah"	"49"	33	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Virginia"	"51"	109	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Washington"	"53"	94	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"West Virginia"	"54"	48	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Wisconsin"	"55"	74	Not Applicable	Not Applicable
+	"Apr., 2019"	"2019/04"	"Wyoming"	"56"	11	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Alabama"	"01"	104	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Alaska"	"02"	13	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Arizona"	"04"	96	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Arkansas"	"05"	61	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"California"	"06"	481	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Colorado"	"08"	89	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Connecticut"	"09"	35	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Delaware"	"10"	14	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Florida"	"12"	368	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Georgia"	"13"	207	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Hawaii"	"15"	23	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Idaho"	"16"	21	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Illinois"	"17"	209	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Indiana"	"18"	120	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Iowa"	"19"	39	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Kansas"	"20"	56	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Kentucky"	"21"	109	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Louisiana"	"22"	101	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Maine"	"23"	20	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Maryland"	"24"	97	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Massachusetts"	"25"	94	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Michigan"	"26"	185	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Minnesota"	"27"	68	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Mississippi"	"28"	72	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Missouri"	"29"	91	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Montana"	"30"	17	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Nebraska"	"31"	30	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Nevada"	"32"	62	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"New Hampshire"	"33"	16	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"New Jersey"	"34"	137	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"New Mexico"	"35"	53	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"New York"	"36"	246	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"North Carolina"	"37"	215	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"North Dakota"	"38"	12	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Ohio"	"39"	211	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Oklahoma"	"40"	91	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Oregon"	"41"	67	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Pennsylvania"	"42"	204	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Rhode Island"	"44"	22	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"South Carolina"	"45"	113	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"South Dakota"	"46"	11	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Tennessee"	"47"	177	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Texas"	"48"	456	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Utah"	"49"	32	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Virginia"	"51"	118	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Washington"	"53"	101	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"West Virginia"	"54"	59	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Wisconsin"	"55"	84	Not Applicable	Not Applicable
+	"May, 2019"	"2019/05"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Alabama"	"01"	121	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Alaska"	"02"	10	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Arizona"	"04"	112	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Arkansas"	"05"	63	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"California"	"06"	518	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Colorado"	"08"	70	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Connecticut"	"09"	55	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Delaware"	"10"	21	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"District of Columbia"	"11"	15	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Florida"	"12"	372	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Georgia"	"13"	164	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Hawaii"	"15"	24	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Idaho"	"16"	18	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Illinois"	"17"	204	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Indiana"	"18"	110	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Iowa"	"19"	43	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Kansas"	"20"	49	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Kentucky"	"21"	113	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Louisiana"	"22"	103	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Maine"	"23"	26	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Maryland"	"24"	99	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Massachusetts"	"25"	88	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Michigan"	"26"	171	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Minnesota"	"27"	70	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Mississippi"	"28"	76	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Missouri"	"29"	110	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Montana"	"30"	11	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Nebraska"	"31"	28	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Nevada"	"32"	60	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"New Hampshire"	"33"	22	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"New Jersey"	"34"	130	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"New Mexico"	"35"	40	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"New York"	"36"	257	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"North Carolina"	"37"	166	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Ohio"	"39"	215	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Oklahoma"	"40"	79	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Oregon"	"41"	51	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Pennsylvania"	"42"	193	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Rhode Island"	"44"	11	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"South Carolina"	"45"	115	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"South Dakota"	"46"	23	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Tennessee"	"47"	194	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Texas"	"48"	418	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Utah"	"49"	29	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Virginia"	"51"	126	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Washington"	"53"	87	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"West Virginia"	"54"	62	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Wisconsin"	"55"	78	Not Applicable	Not Applicable
+	"Jun., 2019"	"2019/06"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Alabama"	"01"	107	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Alaska"	"02"	11	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Arizona"	"04"	132	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Arkansas"	"05"	62	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"California"	"06"	450	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Colorado"	"08"	80	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Connecticut"	"09"	52	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Delaware"	"10"	20	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Florida"	"12"	355	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Georgia"	"13"	212	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Hawaii"	"15"	22	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Idaho"	"16"	18	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Illinois"	"17"	239	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Indiana"	"18"	129	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Iowa"	"19"	46	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Kansas"	"20"	44	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Kentucky"	"21"	102	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Louisiana"	"22"	118	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Maine"	"23"	17	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Maryland"	"24"	101	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Massachusetts"	"25"	99	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Michigan"	"26"	183	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Minnesota"	"27"	69	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Mississippi"	"28"	96	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Missouri"	"29"	114	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Montana"	"30"	11	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Nebraska"	"31"	22	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Nevada"	"32"	63	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"New Hampshire"	"33"	21	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"New Jersey"	"34"	143	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"New Mexico"	"35"	49	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"New York"	"36"	237	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"North Carolina"	"37"	187	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Ohio"	"39"	218	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Oklahoma"	"40"	72	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Oregon"	"41"	48	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Pennsylvania"	"42"	198	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Rhode Island"	"44"	11	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"South Carolina"	"45"	109	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"South Dakota"	"46"	17	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Tennessee"	"47"	161	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Texas"	"48"	517	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Utah"	"49"	33	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Virginia"	"51"	128	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Washington"	"53"	102	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"West Virginia"	"54"	53	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Wisconsin"	"55"	78	Not Applicable	Not Applicable
+	"Jul., 2019"	"2019/07"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Alabama"	"01"	133	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Alaska"	"02"	Suppressed	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Arizona"	"04"	123	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Arkansas"	"05"	74	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"California"	"06"	509	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Colorado"	"08"	67	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Connecticut"	"09"	52	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Delaware"	"10"	11	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"District of Columbia"	"11"	13	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Florida"	"12"	322	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Georgia"	"13"	168	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Hawaii"	"15"	19	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Idaho"	"16"	23	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Illinois"	"17"	196	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Indiana"	"18"	100	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Iowa"	"19"	42	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Kansas"	"20"	36	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Kentucky"	"21"	88	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Louisiana"	"22"	87	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Maine"	"23"	26	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Maryland"	"24"	97	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Massachusetts"	"25"	84	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Michigan"	"26"	167	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Minnesota"	"27"	67	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Mississippi"	"28"	70	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Missouri"	"29"	115	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Montana"	"30"	15	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Nebraska"	"31"	31	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Nevada"	"32"	49	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"New Hampshire"	"33"	18	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"New Jersey"	"34"	117	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"New Mexico"	"35"	59	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"New York"	"36"	253	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"North Carolina"	"37"	171	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Ohio"	"39"	221	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Oklahoma"	"40"	84	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Oregon"	"41"	53	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Pennsylvania"	"42"	230	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Rhode Island"	"44"	18	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"South Carolina"	"45"	113	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"South Dakota"	"46"	14	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Tennessee"	"47"	178	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Texas"	"48"	442	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Utah"	"49"	35	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Vermont"	"50"	10	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Virginia"	"51"	117	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Washington"	"53"	92	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"West Virginia"	"54"	44	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Wisconsin"	"55"	86	Not Applicable	Not Applicable
+	"Aug., 2019"	"2019/08"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Alabama"	"01"	127	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Alaska"	"02"	12	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Arizona"	"04"	111	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Arkansas"	"05"	70	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"California"	"06"	484	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Colorado"	"08"	70	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Connecticut"	"09"	45	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Delaware"	"10"	18	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Florida"	"12"	328	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Georgia"	"13"	187	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Hawaii"	"15"	18	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Idaho"	"16"	31	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Illinois"	"17"	180	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Indiana"	"18"	113	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Iowa"	"19"	47	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Kansas"	"20"	43	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Kentucky"	"21"	106	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Louisiana"	"22"	91	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Maine"	"23"	14	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Maryland"	"24"	95	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Massachusetts"	"25"	74	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Michigan"	"26"	166	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Minnesota"	"27"	65	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Mississippi"	"28"	73	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Missouri"	"29"	114	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Montana"	"30"	17	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Nebraska"	"31"	19	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Nevada"	"32"	67	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"New Hampshire"	"33"	12	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"New Jersey"	"34"	133	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"New Mexico"	"35"	48	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"New York"	"36"	220	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"North Carolina"	"37"	182	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"North Dakota"	"38"	11	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Ohio"	"39"	209	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Oklahoma"	"40"	78	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Oregon"	"41"	67	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Pennsylvania"	"42"	204	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Rhode Island"	"44"	19	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"South Carolina"	"45"	110	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"South Dakota"	"46"	22	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Tennessee"	"47"	161	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Texas"	"48"	442	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Utah"	"49"	25	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Vermont"	"50"	12	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Virginia"	"51"	119	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Washington"	"53"	90	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"West Virginia"	"54"	48	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Wisconsin"	"55"	77	Not Applicable	Not Applicable
+	"Sep., 2019"	"2019/09"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Alabama"	"01"	117	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Alaska"	"02"	11	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Arizona"	"04"	113	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Arkansas"	"05"	53	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"California"	"06"	473	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Colorado"	"08"	67	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Connecticut"	"09"	40	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Delaware"	"10"	15	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"District of Columbia"	"11"	13	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Florida"	"12"	340	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Georgia"	"13"	199	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Hawaii"	"15"	21	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Idaho"	"16"	30	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Illinois"	"17"	196	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Indiana"	"18"	132	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Iowa"	"19"	43	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Kansas"	"20"	38	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Kentucky"	"21"	108	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Louisiana"	"22"	100	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Maine"	"23"	18	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Maryland"	"24"	97	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Massachusetts"	"25"	99	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Michigan"	"26"	152	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Minnesota"	"27"	65	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Mississippi"	"28"	77	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Missouri"	"29"	109	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Montana"	"30"	16	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Nebraska"	"31"	30	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Nevada"	"32"	46	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"New Hampshire"	"33"	22	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"New Jersey"	"34"	109	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"New Mexico"	"35"	55	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"New York"	"36"	230	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"North Carolina"	"37"	194	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"North Dakota"	"38"	10	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Ohio"	"39"	236	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Oklahoma"	"40"	88	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Oregon"	"41"	63	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Pennsylvania"	"42"	195	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Rhode Island"	"44"	17	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"South Carolina"	"45"	114	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"South Dakota"	"46"	17	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Tennessee"	"47"	161	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Texas"	"48"	423	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Utah"	"49"	25	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Virginia"	"51"	120	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Washington"	"53"	116	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"West Virginia"	"54"	33	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Wisconsin"	"55"	90	Not Applicable	Not Applicable
+	"Oct., 2019"	"2019/10"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Alabama"	"01"	120	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Alaska"	"02"	Suppressed	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Arizona"	"04"	100	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Arkansas"	"05"	68	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"California"	"06"	511	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Colorado"	"08"	87	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Connecticut"	"09"	36	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Delaware"	"10"	17	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Florida"	"12"	360	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Georgia"	"13"	198	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Hawaii"	"15"	15	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Idaho"	"16"	27	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Illinois"	"17"	211	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Indiana"	"18"	139	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Iowa"	"19"	52	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Kansas"	"20"	36	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Kentucky"	"21"	92	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Louisiana"	"22"	96	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Maine"	"23"	26	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Maryland"	"24"	107	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Massachusetts"	"25"	90	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Michigan"	"26"	160	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Minnesota"	"27"	62	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Mississippi"	"28"	84	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Missouri"	"29"	143	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Montana"	"30"	14	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Nebraska"	"31"	25	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Nevada"	"32"	57	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"New Hampshire"	"33"	22	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"New Jersey"	"34"	144	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"New Mexico"	"35"	42	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"New York"	"36"	228	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"North Carolina"	"37"	186	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"North Dakota"	"38"	10	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Ohio"	"39"	246	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Oklahoma"	"40"	102	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Oregon"	"41"	52	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Pennsylvania"	"42"	206	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Rhode Island"	"44"	10	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"South Carolina"	"45"	117	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"South Dakota"	"46"	11	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Tennessee"	"47"	154	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Texas"	"48"	475	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Utah"	"49"	39	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Virginia"	"51"	139	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Washington"	"53"	108	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"West Virginia"	"54"	60	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Wisconsin"	"55"	82	Not Applicable	Not Applicable
+	"Nov., 2019"	"2019/11"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Alabama"	"01"	104	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Alaska"	"02"	Suppressed	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Arizona"	"04"	115	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Arkansas"	"05"	69	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"California"	"06"	520	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Colorado"	"08"	77	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Connecticut"	"09"	49	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Delaware"	"10"	23	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"District of Columbia"	"11"	13	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Florida"	"12"	364	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Georgia"	"13"	206	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Hawaii"	"15"	25	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Idaho"	"16"	21	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Illinois"	"17"	208	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Indiana"	"18"	133	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Iowa"	"19"	56	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Kansas"	"20"	47	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Kentucky"	"21"	121	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Louisiana"	"22"	101	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Maine"	"23"	31	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Maryland"	"24"	100	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Massachusetts"	"25"	84	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Michigan"	"26"	170	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Minnesota"	"27"	75	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Mississippi"	"28"	71	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Missouri"	"29"	121	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Montana"	"30"	19	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Nebraska"	"31"	28	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Nevada"	"32"	74	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"New Hampshire"	"33"	19	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"New Jersey"	"34"	150	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"New Mexico"	"35"	55	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"New York"	"36"	285	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"North Carolina"	"37"	190	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"North Dakota"	"38"	13	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Ohio"	"39"	221	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Oklahoma"	"40"	74	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Oregon"	"41"	62	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Pennsylvania"	"42"	223	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Rhode Island"	"44"	17	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"South Carolina"	"45"	125	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"South Dakota"	"46"	Suppressed	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Tennessee"	"47"	164	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Texas"	"48"	517	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Utah"	"49"	32	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Vermont"	"50"	11	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Virginia"	"51"	120	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Washington"	"53"	105	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"West Virginia"	"54"	42	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Wisconsin"	"55"	80	Not Applicable	Not Applicable
+	"Dec., 2019"	"2019/12"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Alabama"	"01"	125	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Alaska"	"02"	16	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Arizona"	"04"	98	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Arkansas"	"05"	74	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"California"	"06"	538	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Colorado"	"08"	88	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Connecticut"	"09"	47	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Delaware"	"10"	19	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"District of Columbia"	"11"	13	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Florida"	"12"	381	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Georgia"	"13"	221	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Hawaii"	"15"	22	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Idaho"	"16"	22	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Illinois"	"17"	209	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Indiana"	"18"	142	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Iowa"	"19"	45	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Kansas"	"20"	59	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Kentucky"	"21"	113	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Louisiana"	"22"	99	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Maine"	"23"	25	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Maryland"	"24"	96	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Massachusetts"	"25"	87	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Michigan"	"26"	165	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Minnesota"	"27"	64	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Mississippi"	"28"	61	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Missouri"	"29"	126	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Montana"	"30"	11	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Nebraska"	"31"	26	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Nevada"	"32"	57	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"New Hampshire"	"33"	18	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"New Jersey"	"34"	146	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"New Mexico"	"35"	45	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"New York"	"36"	280	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"North Carolina"	"37"	204	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Ohio"	"39"	222	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Oklahoma"	"40"	87	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Oregon"	"41"	62	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Pennsylvania"	"42"	248	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Rhode Island"	"44"	19	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"South Carolina"	"45"	113	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"South Dakota"	"46"	17	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Tennessee"	"47"	184	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Texas"	"48"	501	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Utah"	"49"	42	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Virginia"	"51"	144	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Washington"	"53"	103	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"West Virginia"	"54"	58	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Wisconsin"	"55"	90	Not Applicable	Not Applicable
+	"Jan., 2020"	"2020/01"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Alabama"	"01"	119	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Alaska"	"02"	10	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Arizona"	"04"	117	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Arkansas"	"05"	59	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"California"	"06"	489	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Colorado"	"08"	92	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Connecticut"	"09"	58	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Delaware"	"10"	12	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"District of Columbia"	"11"	15	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Florida"	"12"	350	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Georgia"	"13"	211	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Hawaii"	"15"	22	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Idaho"	"16"	27	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Illinois"	"17"	167	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Indiana"	"18"	134	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Iowa"	"19"	51	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Kansas"	"20"	50	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Kentucky"	"21"	107	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Louisiana"	"22"	107	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Maine"	"23"	13	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Maryland"	"24"	101	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Massachusetts"	"25"	82	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Michigan"	"26"	172	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Minnesota"	"27"	60	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Mississippi"	"28"	70	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Missouri"	"29"	130	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Montana"	"30"	11	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Nebraska"	"31"	28	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Nevada"	"32"	38	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"New Hampshire"	"33"	14	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"New Jersey"	"34"	134	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"New Mexico"	"35"	36	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"New York"	"36"	235	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"North Carolina"	"37"	188	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"North Dakota"	"38"	10	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Ohio"	"39"	209	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Oklahoma"	"40"	79	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Oregon"	"41"	57	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Pennsylvania"	"42"	235	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Rhode Island"	"44"	16	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"South Carolina"	"45"	100	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"South Dakota"	"46"	13	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Tennessee"	"47"	160	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Texas"	"48"	451	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Utah"	"49"	44	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Virginia"	"51"	125	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Washington"	"53"	95	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"West Virginia"	"54"	41	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Wisconsin"	"55"	94	Not Applicable	Not Applicable
+	"Feb., 2020"	"2020/02"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Alabama"	"01"	140	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Alaska"	"02"	Suppressed	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Arizona"	"04"	121	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Arkansas"	"05"	80	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"California"	"06"	482	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Colorado"	"08"	93	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Connecticut"	"09"	50	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Delaware"	"10"	23	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Florida"	"12"	348	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Georgia"	"13"	212	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Hawaii"	"15"	24	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Idaho"	"16"	30	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Illinois"	"17"	214	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Indiana"	"18"	128	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Iowa"	"19"	39	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Kansas"	"20"	47	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Kentucky"	"21"	125	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Louisiana"	"22"	125	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Maine"	"23"	17	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Maryland"	"24"	88	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Massachusetts"	"25"	93	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Michigan"	"26"	214	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Minnesota"	"27"	65	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Mississippi"	"28"	99	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Missouri"	"29"	124	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Montana"	"30"	16	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Nebraska"	"31"	18	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Nevada"	"32"	58	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"New Hampshire"	"33"	26	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"New Jersey"	"34"	171	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"New Mexico"	"35"	50	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"New York"	"36"	388	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"North Carolina"	"37"	217	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"North Dakota"	"38"	21	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Ohio"	"39"	243	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Oklahoma"	"40"	82	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Oregon"	"41"	70	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Pennsylvania"	"42"	189	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Rhode Island"	"44"	14	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"South Carolina"	"45"	124	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"South Dakota"	"46"	Suppressed	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Tennessee"	"47"	179	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Texas"	"48"	456	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Utah"	"49"	43	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Virginia"	"51"	151	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Washington"	"53"	104	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"West Virginia"	"54"	53	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Wisconsin"	"55"	89	Not Applicable	Not Applicable
+	"Mar., 2020"	"2020/03"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Alabama"	"01"	134	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Alaska"	"02"	15	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Arizona"	"04"	114	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Arkansas"	"05"	82	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"California"	"06"	624	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Colorado"	"08"	90	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Connecticut"	"09"	66	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Delaware"	"10"	19	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"District of Columbia"	"11"	16	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Florida"	"12"	386	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Georgia"	"13"	251	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Hawaii"	"15"	18	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Idaho"	"16"	19	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Illinois"	"17"	252	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Indiana"	"18"	157	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Iowa"	"19"	52	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Kansas"	"20"	44	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Kentucky"	"21"	126	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Louisiana"	"22"	142	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Maine"	"23"	29	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Maryland"	"24"	153	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Massachusetts"	"25"	112	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Michigan"	"26"	262	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Minnesota"	"27"	72	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Mississippi"	"28"	88	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Missouri"	"29"	121	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Montana"	"30"	15	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Nebraska"	"31"	26	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Nevada"	"32"	69	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"New Hampshire"	"33"	30	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"New Jersey"	"34"	357	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"New Mexico"	"35"	59	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"New York"	"36"	810	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"North Carolina"	"37"	198	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"North Dakota"	"38"	12	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Ohio"	"39"	227	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Oklahoma"	"40"	83	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Oregon"	"41"	56	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Pennsylvania"	"42"	248	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Rhode Island"	"44"	18	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"South Carolina"	"45"	134	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"South Dakota"	"46"	12	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Tennessee"	"47"	160	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Texas"	"48"	500	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Utah"	"49"	33	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Vermont"	"50"	11	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Virginia"	"51"	143	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Washington"	"53"	113	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"West Virginia"	"54"	54	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Wisconsin"	"55"	75	Not Applicable	Not Applicable
+	"Apr., 2020"	"2020/04"	"Wyoming"	"56"	13	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Alabama"	"01"	139	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Alaska"	"02"	12	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Arizona"	"04"	135	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Arkansas"	"05"	71	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"California"	"06"	605	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Colorado"	"08"	87	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Connecticut"	"09"	58	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Delaware"	"10"	22	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"District of Columbia"	"11"	17	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Florida"	"12"	375	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Georgia"	"13"	242	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Hawaii"	"15"	25	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Idaho"	"16"	22	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Illinois"	"17"	304	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Indiana"	"18"	146	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Iowa"	"19"	40	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Kansas"	"20"	57	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Kentucky"	"21"	122	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Louisiana"	"22"	143	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Maine"	"23"	31	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Maryland"	"24"	142	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Massachusetts"	"25"	124	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Michigan"	"26"	237	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Minnesota"	"27"	69	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Mississippi"	"28"	105	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Missouri"	"29"	124	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Montana"	"30"	23	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Nebraska"	"31"	38	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Nevada"	"32"	66	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"New Hampshire"	"33"	29	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"New Jersey"	"34"	233	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"New Mexico"	"35"	67	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"New York"	"36"	410	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"North Carolina"	"37"	219	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"North Dakota"	"38"	11	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Ohio"	"39"	313	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Oklahoma"	"40"	98	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Oregon"	"41"	65	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Pennsylvania"	"42"	220	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Rhode Island"	"44"	18	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"South Carolina"	"45"	143	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"South Dakota"	"46"	14	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Tennessee"	"47"	214	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Texas"	"48"	535	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Utah"	"49"	47	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Vermont"	"50"	13	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Virginia"	"51"	142	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Washington"	"53"	122	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"West Virginia"	"54"	67	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Wisconsin"	"55"	95	Not Applicable	Not Applicable
+	"May, 2020"	"2020/05"	"Wyoming"	"56"	17	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Alabama"	"01"	130	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Alaska"	"02"	12	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Arizona"	"04"	170	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Arkansas"	"05"	82	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"California"	"06"	543	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Colorado"	"08"	119	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Connecticut"	"09"	59	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Delaware"	"10"	18	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"District of Columbia"	"11"	13	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Florida"	"12"	395	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Georgia"	"13"	226	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Hawaii"	"15"	24	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Idaho"	"16"	19	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Illinois"	"17"	270	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Indiana"	"18"	178	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Iowa"	"19"	33	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Kansas"	"20"	47	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Kentucky"	"21"	126	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Louisiana"	"22"	123	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Maine"	"23"	24	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Maryland"	"24"	104	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Massachusetts"	"25"	92	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Michigan"	"26"	207	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Minnesota"	"27"	62	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Mississippi"	"28"	116	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Missouri"	"29"	116	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Montana"	"30"	13	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Nebraska"	"31"	39	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Nevada"	"32"	57	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"New Hampshire"	"33"	23	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"New Jersey"	"34"	143	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"New Mexico"	"35"	61	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"New York"	"36"	292	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"North Carolina"	"37"	275	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"North Dakota"	"38"	16	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Ohio"	"39"	285	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Oklahoma"	"40"	102	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Oregon"	"41"	60	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Pennsylvania"	"42"	237	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Rhode Island"	"44"	11	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"South Carolina"	"45"	133	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"South Dakota"	"46"	19	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Tennessee"	"47"	192	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Texas"	"48"	568	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Utah"	"49"	40	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Virginia"	"51"	150	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Washington"	"53"	112	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"West Virginia"	"54"	76	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Wisconsin"	"55"	71	Not Applicable	Not Applicable
+	"Jun., 2020"	"2020/06"	"Wyoming"	"56"	12	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Alabama"	"01"	150	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Alaska"	"02"	18	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Arizona"	"04"	206	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Arkansas"	"05"	95	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"California"	"06"	725	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Colorado"	"08"	88	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Connecticut"	"09"	68	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Delaware"	"10"	21	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"District of Columbia"	"11"	16	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Florida"	"12"	448	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Georgia"	"13"	256	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Hawaii"	"15"	21	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Idaho"	"16"	39	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Illinois"	"17"	230	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Indiana"	"18"	156	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Iowa"	"19"	50	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Kansas"	"20"	50	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Kentucky"	"21"	125	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Louisiana"	"22"	127	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Maine"	"23"	35	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Maryland"	"24"	114	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Massachusetts"	"25"	95	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Michigan"	"26"	214	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Minnesota"	"27"	86	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Mississippi"	"28"	115	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Missouri"	"29"	121	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Montana"	"30"	22	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Nebraska"	"31"	26	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Nevada"	"32"	98	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"New Hampshire"	"33"	17	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"New Jersey"	"34"	125	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"New Mexico"	"35"	57	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"New York"	"36"	294	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"North Carolina"	"37"	261	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"North Dakota"	"38"	11	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Ohio"	"39"	272	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Oklahoma"	"40"	103	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Oregon"	"41"	78	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Pennsylvania"	"42"	243	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Rhode Island"	"44"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"South Carolina"	"45"	148	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"South Dakota"	"46"	22	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Tennessee"	"47"	226	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Texas"	"48"	810	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Utah"	"49"	46	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Vermont"	"50"	17	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Virginia"	"51"	165	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Washington"	"53"	86	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"West Virginia"	"54"	43	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Wisconsin"	"55"	103	Not Applicable	Not Applicable
+	"Jul., 2020"	"2020/07"	"Wyoming"	"56"	14	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Alabama"	"01"	158	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Alaska"	"02"	16	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Arizona"	"04"	186	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Arkansas"	"05"	95	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"California"	"06"	645	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Colorado"	"08"	94	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Connecticut"	"09"	64	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Delaware"	"10"	19	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Florida"	"12"	460	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Georgia"	"13"	282	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Hawaii"	"15"	23	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Idaho"	"16"	34	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Illinois"	"17"	263	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Indiana"	"18"	140	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Iowa"	"19"	56	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Kansas"	"20"	57	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Kentucky"	"21"	130	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Louisiana"	"22"	134	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Maine"	"23"	18	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Maryland"	"24"	130	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Massachusetts"	"25"	81	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Michigan"	"26"	197	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Minnesota"	"27"	68	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Mississippi"	"28"	116	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Missouri"	"29"	133	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Montana"	"30"	21	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Nebraska"	"31"	39	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Nevada"	"32"	98	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"New Hampshire"	"33"	22	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"New Jersey"	"34"	128	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"New Mexico"	"35"	64	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"New York"	"36"	269	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"North Carolina"	"37"	211	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"North Dakota"	"38"	15	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Ohio"	"39"	262	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Oklahoma"	"40"	105	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Oregon"	"41"	70	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Pennsylvania"	"42"	220	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Rhode Island"	"44"	15	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"South Carolina"	"45"	148	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"South Dakota"	"46"	11	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Tennessee"	"47"	232	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Texas"	"48"	703	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Utah"	"49"	35	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Vermont"	"50"	12	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Virginia"	"51"	136	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Washington"	"53"	130	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"West Virginia"	"54"	50	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Wisconsin"	"55"	90	Not Applicable	Not Applicable
+	"Aug., 2020"	"2020/08"	"Wyoming"	"56"	11	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Alabama"	"01"	138	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Alaska"	"02"	16	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Arizona"	"04"	141	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Arkansas"	"05"	82	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"California"	"06"	612	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Colorado"	"08"	96	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Connecticut"	"09"	41	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Delaware"	"10"	20	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Florida"	"12"	429	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Georgia"	"13"	259	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Hawaii"	"15"	16	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Idaho"	"16"	25	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Illinois"	"17"	190	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Indiana"	"18"	140	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Iowa"	"19"	68	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Kansas"	"20"	52	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Kentucky"	"21"	137	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Louisiana"	"22"	121	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Maine"	"23"	20	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Maryland"	"24"	112	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Massachusetts"	"25"	78	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Michigan"	"26"	198	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Minnesota"	"27"	69	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Mississippi"	"28"	89	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Missouri"	"29"	151	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Montana"	"30"	24	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Nebraska"	"31"	27	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Nevada"	"32"	55	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"New Hampshire"	"33"	31	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"New Jersey"	"34"	116	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"New Mexico"	"35"	64	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"New York"	"36"	227	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"North Carolina"	"37"	226	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Ohio"	"39"	250	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Oklahoma"	"40"	89	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Oregon"	"41"	69	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Pennsylvania"	"42"	230	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Rhode Island"	"44"	17	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"South Carolina"	"45"	120	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"South Dakota"	"46"	13	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Tennessee"	"47"	176	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Texas"	"48"	538	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Utah"	"49"	50	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Virginia"	"51"	165	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Washington"	"53"	105	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"West Virginia"	"54"	54	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Wisconsin"	"55"	69	Not Applicable	Not Applicable
+	"Sep., 2020"	"2020/09"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Alabama"	"01"	139	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Alaska"	"02"	20	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Arizona"	"04"	145	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Arkansas"	"05"	67	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"California"	"06"	620	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Colorado"	"08"	84	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Connecticut"	"09"	71	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Delaware"	"10"	18	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Florida"	"12"	415	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Georgia"	"13"	236	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Hawaii"	"15"	22	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Idaho"	"16"	24	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Illinois"	"17"	207	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Indiana"	"18"	148	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Iowa"	"19"	50	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Kansas"	"20"	45	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Kentucky"	"21"	133	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Louisiana"	"22"	111	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Maine"	"23"	33	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Maryland"	"24"	129	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Massachusetts"	"25"	97	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Michigan"	"26"	189	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Minnesota"	"27"	73	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Mississippi"	"28"	98	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Missouri"	"29"	126	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Montana"	"30"	34	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Nebraska"	"31"	34	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Nevada"	"32"	67	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"New Hampshire"	"33"	27	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"New Jersey"	"34"	144	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"New Mexico"	"35"	57	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"New York"	"36"	257	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"North Carolina"	"37"	218	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"North Dakota"	"38"	15	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Ohio"	"39"	240	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Oklahoma"	"40"	92	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Oregon"	"41"	65	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Pennsylvania"	"42"	234	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Rhode Island"	"44"	18	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"South Carolina"	"45"	123	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"South Dakota"	"46"	24	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Tennessee"	"47"	203	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Texas"	"48"	572	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Utah"	"49"	46	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Virginia"	"51"	135	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Washington"	"53"	93	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"West Virginia"	"54"	55	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Wisconsin"	"55"	88	Not Applicable	Not Applicable
+	"Oct., 2020"	"2020/10"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Alabama"	"01"	131	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Alaska"	"02"	16	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Arizona"	"04"	141	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Arkansas"	"05"	93	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"California"	"06"	612	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Colorado"	"08"	118	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Connecticut"	"09"	63	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Delaware"	"10"	10	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Florida"	"12"	419	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Georgia"	"13"	219	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Hawaii"	"15"	15	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Idaho"	"16"	34	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Illinois"	"17"	270	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Indiana"	"18"	139	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Iowa"	"19"	36	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Kansas"	"20"	53	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Kentucky"	"21"	133	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Louisiana"	"22"	120	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Maine"	"23"	26	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Maryland"	"24"	110	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Massachusetts"	"25"	96	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Michigan"	"26"	219	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Minnesota"	"27"	84	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Mississippi"	"28"	96	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Missouri"	"29"	137	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Montana"	"30"	25	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Nebraska"	"31"	37	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Nevada"	"32"	84	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"New Hampshire"	"33"	15	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"New Jersey"	"34"	142	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"New Mexico"	"35"	70	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"New York"	"36"	269	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"North Carolina"	"37"	219	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"North Dakota"	"38"	17	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Ohio"	"39"	287	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Oklahoma"	"40"	107	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Oregon"	"41"	70	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Pennsylvania"	"42"	227	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Rhode Island"	"44"	15	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"South Carolina"	"45"	134	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"South Dakota"	"46"	17	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Tennessee"	"47"	191	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Texas"	"48"	621	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Utah"	"49"	45	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Virginia"	"51"	121	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Washington"	"53"	116	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"West Virginia"	"54"	73	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Wisconsin"	"55"	89	Not Applicable	Not Applicable
+	"Nov., 2020"	"2020/11"	"Wyoming"	"56"	13	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Alabama"	"01"	185	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Alaska"	"02"	21	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Arizona"	"04"	191	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Arkansas"	"05"	87	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"California"	"06"	976	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Colorado"	"08"	107	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Connecticut"	"09"	68	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Delaware"	"10"	18	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"District of Columbia"	"11"	13	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Florida"	"12"	433	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Georgia"	"13"	296	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Hawaii"	"15"	19	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Idaho"	"16"	30	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Illinois"	"17"	313	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Indiana"	"18"	176	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Iowa"	"19"	62	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Kansas"	"20"	66	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Kentucky"	"21"	149	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Louisiana"	"22"	146	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Maine"	"23"	28	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Maryland"	"24"	107	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Massachusetts"	"25"	93	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Michigan"	"26"	215	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Minnesota"	"27"	97	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Mississippi"	"28"	105	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Missouri"	"29"	132	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Montana"	"30"	19	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Nebraska"	"31"	24	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Nevada"	"32"	103	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"New Hampshire"	"33"	25	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"New Jersey"	"34"	171	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"New Mexico"	"35"	86	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"New York"	"36"	317	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"North Carolina"	"37"	247	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"North Dakota"	"38"	11	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Ohio"	"39"	303	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Oklahoma"	"40"	134	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Oregon"	"41"	68	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Pennsylvania"	"42"	250	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Rhode Island"	"44"	18	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"South Carolina"	"45"	158	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"South Dakota"	"46"	21	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Tennessee"	"47"	245	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Texas"	"48"	721	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Utah"	"49"	52	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Vermont"	"50"	13	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Virginia"	"51"	159	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Washington"	"53"	89	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"West Virginia"	"54"	70	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Wisconsin"	"55"	118	Not Applicable	Not Applicable
+	"Dec., 2020"	"2020/12"	"Wyoming"	"56"	15	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Alabama"	"01"	179	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Alaska"	"02"	17	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Arizona"	"04"	233	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Arkansas"	"05"	106	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"California"	"06"	1157	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Colorado"	"08"	101	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Connecticut"	"09"	63	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Delaware"	"10"	22	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Florida"	"12"	421	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Georgia"	"13"	319	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Hawaii"	"15"	17	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Idaho"	"16"	23	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Illinois"	"17"	253	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Indiana"	"18"	147	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Iowa"	"19"	60	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Kansas"	"20"	55	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Kentucky"	"21"	128	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Louisiana"	"22"	155	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Maine"	"23"	31	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Maryland"	"24"	117	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Massachusetts"	"25"	101	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Michigan"	"26"	220	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Minnesota"	"27"	80	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Mississippi"	"28"	111	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Missouri"	"29"	143	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Montana"	"30"	25	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Nebraska"	"31"	38	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Nevada"	"32"	106	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"New Hampshire"	"33"	12	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"New Jersey"	"34"	182	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"New Mexico"	"35"	86	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"New York"	"36"	351	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"North Carolina"	"37"	256	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Ohio"	"39"	296	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Oklahoma"	"40"	140	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Oregon"	"41"	67	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Pennsylvania"	"42"	265	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Rhode Island"	"44"	20	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"South Carolina"	"45"	170	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"South Dakota"	"46"	22	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Tennessee"	"47"	254	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Texas"	"48"	751	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Utah"	"49"	68	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Vermont"	"50"	17	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Virginia"	"51"	151	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Washington"	"53"	117	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"West Virginia"	"54"	58	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Wisconsin"	"55"	98	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Wyoming"	"56"	11	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Alabama"	"01"	129	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Alaska"	"02"	11	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Arizona"	"04"	158	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Arkansas"	"05"	81	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"California"	"06"	732	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Colorado"	"08"	83	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Connecticut"	"09"	49	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Delaware"	"10"	19	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Florida"	"12"	386	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Georgia"	"13"	262	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Hawaii"	"15"	14	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Idaho"	"16"	24	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Illinois"	"17"	212	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Indiana"	"18"	150	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Iowa"	"19"	43	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Kansas"	"20"	49	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Kentucky"	"21"	113	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Louisiana"	"22"	126	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Maine"	"23"	30	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Maryland"	"24"	113	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Massachusetts"	"25"	101	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Michigan"	"26"	175	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Minnesota"	"27"	69	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Mississippi"	"28"	75	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Missouri"	"29"	137	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Montana"	"30"	17	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Nebraska"	"31"	29	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Nevada"	"32"	59	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"New Hampshire"	"33"	20	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"New Jersey"	"34"	150	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"New Mexico"	"35"	57	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"New York"	"36"	305	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"North Carolina"	"37"	225	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Ohio"	"39"	234	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Oklahoma"	"40"	107	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Oregon"	"41"	72	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Pennsylvania"	"42"	241	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Rhode Island"	"44"	16	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"South Carolina"	"45"	127	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"South Dakota"	"46"	19	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Tennessee"	"47"	192	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Texas"	"48"	652	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Utah"	"49"	39	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Vermont"	"50"	10	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Virginia"	"51"	154	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Washington"	"53"	92	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"West Virginia"	"54"	56	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Wisconsin"	"55"	84	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Alabama"	"01"	142	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Alaska"	"02"	12	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Arizona"	"04"	133	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Arkansas"	"05"	73	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"California"	"06"	650	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Colorado"	"08"	102	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Connecticut"	"09"	57	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Delaware"	"10"	19	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"District of Columbia"	"11"	19	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Florida"	"12"	419	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Georgia"	"13"	265	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Hawaii"	"15"	23	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Idaho"	"16"	21	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Illinois"	"17"	244	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Indiana"	"18"	130	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Iowa"	"19"	61	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Kansas"	"20"	45	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Kentucky"	"21"	141	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Louisiana"	"22"	123	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Maine"	"23"	21	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Maryland"	"24"	115	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Massachusetts"	"25"	103	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Michigan"	"26"	200	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Minnesota"	"27"	91	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Mississippi"	"28"	92	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Missouri"	"29"	134	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Montana"	"30"	21	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Nebraska"	"31"	25	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Nevada"	"32"	63	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"New Hampshire"	"33"	19	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"New Jersey"	"34"	171	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"New Mexico"	"35"	69	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"New York"	"36"	310	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"North Carolina"	"37"	242	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"North Dakota"	"38"	14	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Ohio"	"39"	261	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Oklahoma"	"40"	100	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Oregon"	"41"	74	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Pennsylvania"	"42"	240	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Rhode Island"	"44"	15	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"South Carolina"	"45"	134	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"South Dakota"	"46"	17	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Tennessee"	"47"	211	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Texas"	"48"	609	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Utah"	"49"	42	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Vermont"	"50"	14	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Virginia"	"51"	164	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Washington"	"53"	126	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"West Virginia"	"54"	64	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Wisconsin"	"55"	79	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Wyoming"	"56"	14	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Alabama"	"01"	169	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Alaska"	"02"	15	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Arizona"	"04"	149	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Arkansas"	"05"	67	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"California"	"06"	570	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Colorado"	"08"	99	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Connecticut"	"09"	45	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Delaware"	"10"	24	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"District of Columbia"	"11"	19	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Florida"	"12"	435	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Georgia"	"13"	264	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Hawaii"	"15"	23	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Idaho"	"16"	18	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Illinois"	"17"	225	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Indiana"	"18"	126	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Iowa"	"19"	47	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Kansas"	"20"	44	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Kentucky"	"21"	144	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Louisiana"	"22"	121	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Maine"	"23"	25	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Maryland"	"24"	127	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Massachusetts"	"25"	105	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Michigan"	"26"	254	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Minnesota"	"27"	78	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Mississippi"	"28"	78	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Missouri"	"29"	142	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Montana"	"30"	27	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Nebraska"	"31"	29	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Nevada"	"32"	69	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"New Hampshire"	"33"	20	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"New Jersey"	"34"	150	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"New Mexico"	"35"	57	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"New York"	"36"	307	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"North Carolina"	"37"	234	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"North Dakota"	"38"	13	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Ohio"	"39"	267	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Oklahoma"	"40"	100	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Oregon"	"41"	73	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Pennsylvania"	"42"	231	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Rhode Island"	"44"	15	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"South Carolina"	"45"	152	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"South Dakota"	"46"	17	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Tennessee"	"47"	206	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Texas"	"48"	534	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Utah"	"49"	55	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Vermont"	"50"	11	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Virginia"	"51"	177	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Washington"	"53"	95	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"West Virginia"	"54"	54	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Wisconsin"	"55"	70	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Alabama"	"01"	138	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Alaska"	"02"	10	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Arizona"	"04"	150	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Arkansas"	"05"	85	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"California"	"06"	602	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Colorado"	"08"	104	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Connecticut"	"09"	60	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Delaware"	"10"	24	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"District of Columbia"	"11"	17	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Florida"	"12"	433	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Georgia"	"13"	228	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Hawaii"	"15"	19	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Idaho"	"16"	35	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Illinois"	"17"	237	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Indiana"	"18"	155	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Iowa"	"19"	41	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Kansas"	"20"	55	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Kentucky"	"21"	142	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Louisiana"	"22"	135	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Maine"	"23"	26	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Maryland"	"24"	110	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Massachusetts"	"25"	101	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Michigan"	"26"	216	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Minnesota"	"27"	74	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Mississippi"	"28"	96	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Missouri"	"29"	124	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Montana"	"30"	23	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Nebraska"	"31"	29	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Nevada"	"32"	68	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"New Hampshire"	"33"	30	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"New Jersey"	"34"	136	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"New Mexico"	"35"	57	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"New York"	"36"	279	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"North Carolina"	"37"	200	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"North Dakota"	"38"	12	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Ohio"	"39"	280	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Oklahoma"	"40"	83	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Oregon"	"41"	69	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Pennsylvania"	"42"	245	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Rhode Island"	"44"	13	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"South Carolina"	"45"	144	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"South Dakota"	"46"	21	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Tennessee"	"47"	231	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Texas"	"48"	570	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Utah"	"49"	53	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Vermont"	"50"	10	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Virginia"	"51"	157	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Washington"	"53"	126	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"West Virginia"	"54"	49	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Wisconsin"	"55"	90	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Wyoming"	"56"	15	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Alabama"	"01"	160	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Alaska"	"02"	18	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Arizona"	"04"	148	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Arkansas"	"05"	88	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"California"	"06"	559	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Colorado"	"08"	92	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Connecticut"	"09"	40	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Delaware"	"10"	16	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Florida"	"12"	413	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Georgia"	"13"	243	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Hawaii"	"15"	20	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Idaho"	"16"	30	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Illinois"	"17"	224	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Indiana"	"18"	141	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Iowa"	"19"	40	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Kansas"	"20"	38	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Kentucky"	"21"	148	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Louisiana"	"22"	120	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Maine"	"23"	29	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Maryland"	"24"	110	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Massachusetts"	"25"	83	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Michigan"	"26"	196	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Minnesota"	"27"	90	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Mississippi"	"28"	74	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Missouri"	"29"	124	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Montana"	"30"	22	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Nebraska"	"31"	26	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Nevada"	"32"	62	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"New Hampshire"	"33"	26	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"New Jersey"	"34"	133	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"New Mexico"	"35"	70	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"New York"	"36"	251	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"North Carolina"	"37"	211	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Ohio"	"39"	227	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Oklahoma"	"40"	82	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Oregon"	"41"	69	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Pennsylvania"	"42"	206	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Rhode Island"	"44"	15	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"South Carolina"	"45"	126	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"South Dakota"	"46"	13	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Tennessee"	"47"	187	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Texas"	"48"	550	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Utah"	"49"	61	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Vermont"	"50"	11	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Virginia"	"51"	147	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Washington"	"53"	129	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"West Virginia"	"54"	56	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Wisconsin"	"55"	76	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Alabama"	"01"	165	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Alaska"	"02"	19	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Arizona"	"04"	168	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Arkansas"	"05"	99	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"California"	"06"	599	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Colorado"	"08"	100	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Connecticut"	"09"	60	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Delaware"	"10"	13	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Florida"	"12"	478	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Georgia"	"13"	223	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Hawaii"	"15"	24	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Idaho"	"16"	34	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Illinois"	"17"	233	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Indiana"	"18"	163	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Iowa"	"19"	43	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Kansas"	"20"	61	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Kentucky"	"21"	143	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Louisiana"	"22"	157	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Maine"	"23"	24	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Maryland"	"24"	105	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Massachusetts"	"25"	101	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Michigan"	"26"	174	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Minnesota"	"27"	75	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Mississippi"	"28"	101	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Missouri"	"29"	158	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Montana"	"30"	21	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Nebraska"	"31"	35	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Nevada"	"32"	93	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"New Hampshire"	"33"	26	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"New Jersey"	"34"	138	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"New Mexico"	"35"	57	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"New York"	"36"	275	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"North Carolina"	"37"	242	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"North Dakota"	"38"	14	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Ohio"	"39"	229	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Oklahoma"	"40"	113	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Oregon"	"41"	87	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Pennsylvania"	"42"	222	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Rhode Island"	"44"	14	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"South Carolina"	"45"	124	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"South Dakota"	"46"	14	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Tennessee"	"47"	201	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Texas"	"48"	635	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Utah"	"49"	57	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Vermont"	"50"	15	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Virginia"	"51"	140	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Washington"	"53"	157	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"West Virginia"	"54"	56	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Wisconsin"	"55"	99	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Alabama"	"01"	241	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Alaska"	"02"	22	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Arizona"	"04"	188	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Arkansas"	"05"	122	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"California"	"06"	731	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Colorado"	"08"	112	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Connecticut"	"09"	54	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Delaware"	"10"	15	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"District of Columbia"	"11"	18	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Florida"	"12"	945	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Georgia"	"13"	380	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Hawaii"	"15"	31	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Idaho"	"16"	35	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Illinois"	"17"	252	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Indiana"	"18"	157	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Iowa"	"19"	61	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Kansas"	"20"	82	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Kentucky"	"21"	163	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Louisiana"	"22"	212	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Maine"	"23"	15	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Maryland"	"24"	112	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Massachusetts"	"25"	88	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Michigan"	"26"	189	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Minnesota"	"27"	79	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Mississippi"	"28"	139	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Missouri"	"29"	212	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Montana"	"30"	29	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Nebraska"	"31"	32	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Nevada"	"32"	95	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"New Hampshire"	"33"	16	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"New Jersey"	"34"	153	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"New Mexico"	"35"	84	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"New York"	"36"	326	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"North Carolina"	"37"	313	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"North Dakota"	"38"	12	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Ohio"	"39"	281	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Oklahoma"	"40"	151	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Oregon"	"41"	91	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Pennsylvania"	"42"	234	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Rhode Island"	"44"	18	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"South Carolina"	"45"	189	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"South Dakota"	"46"	18	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Tennessee"	"47"	272	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Texas"	"48"	1049	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Utah"	"49"	49	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Virginia"	"51"	166	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Washington"	"53"	151	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"West Virginia"	"54"	67	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Wisconsin"	"55"	87	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Wyoming"	"56"	18	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Alabama"	"01"	257	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Alaska"	"02"	18	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Arizona"	"04"	214	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Arkansas"	"05"	95	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"California"	"06"	829	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Colorado"	"08"	124	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Connecticut"	"09"	51	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Delaware"	"10"	25	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"District of Columbia"	"11"	13	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Florida"	"12"	780	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Georgia"	"13"	453	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Hawaii"	"15"	33	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Idaho"	"16"	50	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Illinois"	"17"	256	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Indiana"	"18"	209	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Iowa"	"19"	63	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Kansas"	"20"	59	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Kentucky"	"21"	202	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Louisiana"	"22"	198	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Maine"	"23"	29	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Maryland"	"24"	99	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Massachusetts"	"25"	90	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Michigan"	"26"	224	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Minnesota"	"27"	89	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Mississippi"	"28"	130	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Missouri"	"29"	167	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Montana"	"30"	33	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Nebraska"	"31"	28	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Nevada"	"32"	105	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"New Hampshire"	"33"	22	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"New Jersey"	"34"	138	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"New Mexico"	"35"	78	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"New York"	"36"	283	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"North Carolina"	"37"	354	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"North Dakota"	"38"	15	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Ohio"	"39"	329	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Oklahoma"	"40"	167	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Oregon"	"41"	111	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Pennsylvania"	"42"	267	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Rhode Island"	"44"	13	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"South Carolina"	"45"	229	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"South Dakota"	"46"	24	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Tennessee"	"47"	362	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Texas"	"48"	1110	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Utah"	"49"	57	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Vermont"	"50"	11	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Virginia"	"51"	211	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Washington"	"53"	148	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"West Virginia"	"54"	103	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Wisconsin"	"55"	99	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Wyoming"	"56"	18	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Alabama"	"01"	172	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Alaska"	"02"	25	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Arizona"	"04"	210	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Arkansas"	"05"	98	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"California"	"06"	698	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Colorado"	"08"	115	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Connecticut"	"09"	50	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Delaware"	"10"	21	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"District of Columbia"	"11"	15	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Florida"	"12"	516	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Georgia"	"13"	332	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Hawaii"	"15"	36	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Idaho"	"16"	48	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Illinois"	"17"	270	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Indiana"	"18"	186	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Iowa"	"19"	60	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Kansas"	"20"	81	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Kentucky"	"21"	172	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Louisiana"	"22"	130	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Maine"	"23"	30	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Maryland"	"24"	131	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Massachusetts"	"25"	92	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Michigan"	"26"	247	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Minnesota"	"27"	81	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Mississippi"	"28"	90	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Missouri"	"29"	146	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Montana"	"30"	34	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Nebraska"	"31"	40	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Nevada"	"32"	83	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"New Hampshire"	"33"	29	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"New Jersey"	"34"	166	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"New Mexico"	"35"	83	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"New York"	"36"	306	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"North Carolina"	"37"	290	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"North Dakota"	"38"	18	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Ohio"	"39"	350	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Oklahoma"	"40"	137	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Oregon"	"41"	86	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Pennsylvania"	"42"	274	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Rhode Island"	"44"	18	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"South Carolina"	"45"	199	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"South Dakota"	"46"	23	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Tennessee"	"47"	290	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Texas"	"48"	795	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Utah"	"49"	56	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Vermont"	"50"	14	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Virginia"	"51"	208	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Washington"	"53"	143	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"West Virginia"	"54"	91	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Wisconsin"	"55"	111	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Wyoming"	"56"	19	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Alabama"	"01"	136	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Alaska"	"02"	13	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Arizona"	"04"	208	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Arkansas"	"05"	94	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"California"	"06"	706	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Colorado"	"08"	158	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Connecticut"	"09"	54	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Delaware"	"10"	20	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"District of Columbia"	"11"	12	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Florida"	"12"	395	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Georgia"	"13"	243	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Hawaii"	"15"	21	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Idaho"	"16"	42	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Illinois"	"17"	241	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Indiana"	"18"	161	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Iowa"	"19"	65	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Kansas"	"20"	68	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Kentucky"	"21"	131	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Louisiana"	"22"	100	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Maine"	"23"	23	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Maryland"	"24"	91	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Massachusetts"	"25"	89	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Michigan"	"26"	259	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Minnesota"	"27"	88	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Mississippi"	"28"	77	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Missouri"	"29"	133	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Montana"	"30"	28	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Nebraska"	"31"	39	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Nevada"	"32"	74	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"New Hampshire"	"33"	24	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"New Jersey"	"34"	123	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"New Mexico"	"35"	69	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"New York"	"36"	277	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"North Carolina"	"37"	251	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"North Dakota"	"38"	24	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Ohio"	"39"	310	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Oklahoma"	"40"	100	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Oregon"	"41"	84	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Pennsylvania"	"42"	266	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Rhode Island"	"44"	28	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"South Carolina"	"45"	143	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"South Dakota"	"46"	22	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Tennessee"	"47"	189	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Texas"	"48"	556	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Utah"	"49"	54	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Vermont"	"50"	13	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Virginia"	"51"	179	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Washington"	"53"	122	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"West Virginia"	"54"	76	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Wisconsin"	"55"	124	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Wyoming"	"56"	14	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Alabama"	"01"	150	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Alaska"	"02"	24	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Arizona"	"04"	235	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Arkansas"	"05"	88	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"California"	"06"	706	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Colorado"	"08"	135	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Connecticut"	"09"	55	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Delaware"	"10"	17	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"District of Columbia"	"11"	25	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Florida"	"12"	433	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Georgia"	"13"	282	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Hawaii"	"15"	17	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Idaho"	"16"	34	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Illinois"	"17"	297	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Indiana"	"18"	215	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Iowa"	"19"	78	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Kansas"	"20"	73	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Kentucky"	"21"	131	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Louisiana"	"22"	141	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Maine"	"23"	49	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Maryland"	"24"	117	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Massachusetts"	"25"	129	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Michigan"	"26"	298	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Minnesota"	"27"	119	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Mississippi"	"28"	119	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Missouri"	"29"	162	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Montana"	"30"	19	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Nebraska"	"31"	39	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Nevada"	"32"	84	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"New Hampshire"	"33"	32	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"New Jersey"	"34"	154	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"New Mexico"	"35"	98	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"New York"	"36"	346	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"North Carolina"	"37"	271	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"North Dakota"	"38"	16	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Ohio"	"39"	356	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Oklahoma"	"40"	134	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Oregon"	"41"	73	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Pennsylvania"	"42"	326	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Rhode Island"	"44"	27	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"South Carolina"	"45"	126	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"South Dakota"	"46"	26	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Tennessee"	"47"	216	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Texas"	"48"	614	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Utah"	"49"	57	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Vermont"	"50"	10	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Virginia"	"51"	165	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Washington"	"53"	129	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"West Virginia"	"54"	73	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Wisconsin"	"55"	136	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Wyoming"	"56"	14	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Single-Year Ages: 45 years; 46 years; 47 years; 48 years; 49 years"
+"Year/Month: 2018; 2019; 2020; 2021"
+"Group By: Month; Residence State"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 20, 2023 3:10:33 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 3:10:33"
+"PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
+"5. Deaths occurring through October 07, 2023 as of October 15, 2023."
