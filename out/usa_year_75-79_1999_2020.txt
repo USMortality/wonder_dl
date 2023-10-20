@@ -1,0 +1,70 @@
+"Notes"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	338349	7342606	4608.0
+	"2000"	"2000"	337700	7415813	4553.8
+	"2001"	"2001"	333677	7455413	4475.6
+	"2002"	"2002"	330140	7470461	4419.3
+	"2003"	"2003"	325185	7497842	4337.0
+	"2004"	"2004"	310746	7461399	4164.7
+	"2005"	"2005"	307888	7463609	4125.2
+	"2006"	"2006"	297710	7447034	3997.7
+	"2007"	"2007"	289029	7400363	3905.6
+	"2008"	"2008"	287370	7345743	3912.1
+	"2009"	"2009"	274987	7295064	3769.5
+	"2010"	"2010"	273348	7317795	3735.4
+	"2011"	"2011"	272276	7388687	3685.0
+	"2012"	"2012"	271936	7489583	3630.9
+	"2013"	"2013"	277314	7677881	3611.9
+	"2014"	"2014"	282072	7922324	3560.5
+	"2015"	"2015"	290405	8123833	3574.7
+	"2016"	"2016"	294895	8367895	3524.1
+	"2017"	"2017"	307498	8741261	3517.8
+	"2018"	"2018"	321745	9267066	3471.9
+	"2019"	"2019"	329493	9652665	3413.5
+	"2020 "	"2020"	398191	9986833	3987.2
+"Total"			6751954	173531170	3890.9
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Single-Year Ages: 75 years; 76 years; 77 years; 78 years; 79 years"
+"Group By: Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 19, 2023 5:56:29 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Oct 19, 2023 5:56:29 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"3. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
