@@ -32,22 +32,25 @@ const saveChart = async (page, type, iso) => {
 
 const countries = JSON.parse(readFileSync('./out/countries.json'))
 
+let page
+test.beforeAll(async ({ browser }) => {
+  page = await browser.newPage()
+  await page.evaluate(() => window.disableToast = true)
+})
+test.afterAll(async ({ }) => { page.close() })
+
 for (const iso of countries.cmr) {
-  test(`Save 52W Mortality, CMR [${iso}]`, async ({ page }) => {
-    await page.evaluate(() => window.disableToast = true)
+  test(`Save 52W Mortality, CMR [${iso}]`, async () => {
     await page.goto(`https://www.mortality.watch/explorer/?c=${iso}&t=cmr&ct=weekly_52w_sma&v=2`)
     await waitUntilLoaded(page)
     await saveChart(page, "cmr", iso)
-    await page.close()
   })
 }
 
 for (const iso of countries.asmr) {
-  test(`Save 52W Mortality, ASMR [${iso}]`, async ({ page }) => {
-    await page.evaluate(() => window.disableToast = true)
+  test(`Save 52W Mortality, ASMR [${iso}]`, async () => {
     await page.goto(`https://www.mortality.watch/explorer/?c=${iso}&t=asmr&ct=weekly_52w_sma&v=2`)
     await waitUntilLoaded(page)
     await saveChart(page, "asmr", iso)
-    await page.close()
   })
 }
