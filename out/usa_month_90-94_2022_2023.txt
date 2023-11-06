@@ -13,15 +13,15 @@
 	"Dec., 2022 (provisional)"	"2022/12"	31415	Not Applicable	Not Applicable
 	"Jan., 2023 (provisional)"	"2023/01"	30565	Not Applicable	Not Applicable
 	"Feb., 2023 (provisional)"	"2023/02"	25917	Not Applicable	Not Applicable
-	"Mar., 2023 (provisional)"	"2023/03"	27809	Not Applicable	Not Applicable
-	"Apr., 2023 (provisional)"	"2023/04"	25374	Not Applicable	Not Applicable
-	"May, 2023 (provisional)"	"2023/05"	24948	Not Applicable	Not Applicable
-	"Jun., 2023 (provisional)"	"2023/06"	23651	Not Applicable	Not Applicable
-	"Jul., 2023 (provisional)"	"2023/07"	23614	Not Applicable	Not Applicable
-	"Aug., 2023 (provisional)"	"2023/08"	24185	Not Applicable	Not Applicable
-	"Sep., 2023 (provisional)"	"2023/09"	22881	Not Applicable	Not Applicable
-	"Oct., 2023 (provisional and partial)"	"2023/10"	3874	Not Applicable	Not Applicable
-"Total"			564815	Not Applicable	Not Applicable
+	"Mar., 2023 (provisional)"	"2023/03"	27810	Not Applicable	Not Applicable
+	"Apr., 2023 (provisional)"	"2023/04"	25377	Not Applicable	Not Applicable
+	"May, 2023 (provisional)"	"2023/05"	24949	Not Applicable	Not Applicable
+	"Jun., 2023 (provisional)"	"2023/06"	23652	Not Applicable	Not Applicable
+	"Jul., 2023 (provisional)"	"2023/07"	23622	Not Applicable	Not Applicable
+	"Aug., 2023 (provisional)"	"2023/08"	24230	Not Applicable	Not Applicable
+	"Sep., 2023 (provisional)"	"2023/09"	23874	Not Applicable	Not Applicable
+	"Oct., 2023 (provisional and partial)"	"2023/10"	14526	Not Applicable	Not Applicable
+"Total"			576519	Not Applicable	Not Applicable
 "---"
 "Dataset: Provisional Mortality Statistics, 2018 through Last Week"
 "Query Parameters:"
@@ -36,13 +36,12 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
 "---"
-"Query Date: Oct 20, 2023 3:20:59 PM"
+"Query Date: Nov 6, 2023 5:54:25 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
 "and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 3:20:59"
-"PM"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Nov 6, 2023 5:54:25 PM"
 "---"
 Caveats:
 "1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
@@ -51,4 +50,4 @@ Caveats:
 "2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
 "so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
 "http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
-"3. Deaths occurring through October 07, 2023 as of October 15, 2023."
+"3. Deaths occurring through October 21, 2023 as of October 29, 2023."

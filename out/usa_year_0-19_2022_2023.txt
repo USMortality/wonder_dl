@@ -1,7 +1,7 @@
 "Notes"	"Year"	"Year Code"	Deaths	Population	Crude Rate
 	"2022 (provisional)"	"2022"	43653	82131336	53.2
-	"2023 (provisional and partial)"	"2023"	30566	82131336	37.2
-"Total"			74219	164262672	45.2
+	"2023 (provisional and partial)"	"2023"	32085	82131336	39.1
+"Total"			75738	164262672	46.1
 "---"
 "Dataset: Provisional Mortality Statistics, 2018 through Last Week"
 "Query Parameters:"
@@ -17,13 +17,12 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
 "---"
-"Query Date: Oct 20, 2023 12:15:22 AM"
+"Query Date: Nov 6, 2023 5:46:13 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
 "and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 12:15:22"
-"AM"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Nov 6, 2023 5:46:13 PM"
 "---"
 Caveats:
 "1. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
@@ -41,4 +40,4 @@ Caveats:
 "3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
 "resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
 "Group."
-"4. Deaths occurring through October 07, 2023 as of October 15, 2023."
+"4. Deaths occurring through October 21, 2023 as of October 29, 2023."

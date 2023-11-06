@@ -1,7 +1,7 @@
 "Notes"	"Year"	"Year Code"	Deaths	Population	Crude Rate
 	"2022 (provisional)"	"2022"	524827	Not Applicable	Not Applicable
-	"2023 (provisional and partial)"	"2023"	369085	Not Applicable	Not Applicable
-"Total"			893912	Not Applicable	Not Applicable
+	"2023 (provisional and partial)"	"2023"	387768	Not Applicable	Not Applicable
+"Total"			912595	Not Applicable	Not Applicable
 "---"
 "Dataset: Provisional Mortality Statistics, 2018 through Last Week"
 "Query Parameters:"
@@ -16,13 +16,12 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
 "---"
-"Query Date: Oct 20, 2023 12:19:16 AM"
+"Query Date: Nov 6, 2023 5:48:11 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
 "and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 12:19:16"
-"AM"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Nov 6, 2023 5:48:11 PM"
 "---"
 Caveats:
 "1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
@@ -39,4 +38,4 @@ Caveats:
 "figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
 "on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
 "http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
-"4. Deaths occurring through October 07, 2023 as of October 15, 2023."
+"4. Deaths occurring through October 21, 2023 as of October 29, 2023."
