@@ -1,6 +1,6 @@
 import { test } from '@playwright/test'
 import {
-  age_groups, download, makeSequence, twenty_year_age_groups, waitUntilLoaded
+  age_groups, download, makeSequence, six_age_groups, waitUntilLoaded
 } from './common.js'
 import { existsSync } from 'fs'
 
@@ -44,14 +44,16 @@ const dl = async (page, jurisdiction, period, ageGroups, file) => {
 for (const jurisdiction of ['usa', 'usa-state']) {
   for (const period of ['year', 'month', 'week']) {
     for (const ag of age_groups) {
-      // Weekly only process 20y age groups.
-      if (period === 'week' && !twenty_year_age_groups.includes(ag)) continue
+      // Weekly only process six age groups.
+      if (period !== "week" || (ag !== 'NS' && !six_age_groups.includes(ag))) {
+        continue
+      }
       const ag_str = Array.isArray(ag) ? `${ag.at(0)}-${ag.at(-1)}` : ag
       const file = `./out/${jurisdiction}_${period}_${ag_str}_` +
         `${YEARS.at(0)}_${YEARS.at(-1)}.txt`
-      // if (existsSync(file)) continue
+      if (existsSync(file)) continue
       test(
-        `Download CDC Wonder Data by: ${jurisdiction}/${period}/10y/2018-n: ` +
+        `Download CDC Wonder Data by: ${jurisdiction}/${period}/2022-n: ` +
         `Age Groups: ${Array.isArray(ag) ? ag.join(', ') : ag}`,
         async ({ page }) => {
           await dl(page, jurisdiction, period, ag, file)

@@ -51,92 +51,56 @@
 ,"2022 (provisional)","2022","Wisconsin","55",5311,360367,1473.8
 ,"2022 (provisional)","2022","Wyoming","56",619,37010,1672.5
 "Total","2022 (provisional)","2022",,,306133,18394320,1664.3
-,"2023 (provisional and partial)","2023","Alabama","01",4559,294377,1548.7
-,"2023 (provisional and partial)","2023","Alaska","02",409,38297,1068.0
-,"2023 (provisional and partial)","2023","Arizona","04",4797,409308,1172.0
-,"2023 (provisional and partial)","2023","Arkansas","05",2623,170339,1539.9
-,"2023 (provisional and partial)","2023","California","06",18843,1961307,960.7
-,"2023 (provisional and partial)","2023","Colorado","08",2964,308907,959.5
-,"2023 (provisional and partial)","2023","Connecticut","09",1979,209492,944.7
-,"2023 (provisional and partial)","2023","Delaware","10",683,67369,1013.8
-,"2023 (provisional and partial)","2023","District of Columbia","11",412,27873,1478.1
-,"2023 (provisional and partial)","2023","Florida","12",15244,1352886,1126.8
-,"2023 (provisional and partial)","2023","Georgia","13",7044,539737,1305.1
-,"2023 (provisional and partial)","2023","Hawaii","15",777,86471,898.6
-,"2023 (provisional and partial)","2023","Idaho","16",1112,107836,1031.2
-,"2023 (provisional and partial)","2023","Illinois","17",7797,696825,1118.9
-,"2023 (provisional and partial)","2023","Indiana","18",5101,376938,1353.3
-,"2023 (provisional and partial)","2023","Iowa","19",2174,185617,1171.2
-,"2023 (provisional and partial)","2023","Kansas","20",1953,163343,1195.6
-,"2023 (provisional and partial)","2023","Kentucky","21",4066,259763,1565.3
-,"2023 (provisional and partial)","2023","Louisiana","22",3735,260931,1431.4
-,"2023 (provisional and partial)","2023","Maine","23",1087,99258,1095.1
-,"2023 (provisional and partial)","2023","Maryland","24",3529,332170,1062.4
-,"2023 (provisional and partial)","2023","Massachusetts","25",3756,398530,942.5
-,"2023 (provisional and partial)","2023","Michigan","26",7617,617312,1233.9
-,"2023 (provisional and partial)","2023","Minnesota","27",3014,321627,937.1
-,"2023 (provisional and partial)","2023","Mississippi","28",2757,166225,1658.6
-,"2023 (provisional and partial)","2023","Missouri","29",4812,356887,1348.3
-,"2023 (provisional and partial)","2023","Montana","30",753,74417,1011.9
-,"2023 (provisional and partial)","2023","Nebraska","31",1171,107049,1093.9
-,"2023 (provisional and partial)","2023","Nevada","32",1978,172744,1145.0
-,"2023 (provisional and partial)","2023","New Hampshire","33",983,92129,1067.0
-,"2023 (provisional and partial)","2023","New Jersey","34",4679,508080,920.9
-,"2023 (provisional and partial)","2023","New Mexico","35",1521,127485,1193.1
-,"2023 (provisional and partial)","2023","New York","36",10492,1114139,941.7
-,"2023 (provisional and partial)","2023","North Carolina","37",7695,595852,1291.4
-,"2023 (provisional and partial)","2023","North Dakota","38",462,41796,1105.4
-,"2023 (provisional and partial)","2023","Ohio","39",9307,701254,1327.2
-,"2023 (provisional and partial)","2023","Oklahoma","40",3333,213644,1560.1
-,"2023 (provisional and partial)","2023","Oregon","41",2843,263384,1079.4
-,"2023 (provisional and partial)","2023","Pennsylvania","42",9421,804870,1170.5
-,"2023 (provisional and partial)","2023","Rhode Island","44",707,65626,1077.3
-,"2023 (provisional and partial)","2023","South Carolina","45",4310,320465,1344.9
-,"2023 (provisional and partial)","2023","South Dakota","46",554,55178,1004.0
-,"2023 (provisional and partial)","2023","Tennessee","47",6054,395614,1530.3
-,"2023 (provisional and partial)","2023","Texas","48",16556,1340363,1235.2
-,"2023 (provisional and partial)","2023","Utah","49",1276,134996,945.2
-,"2023 (provisional and partial)","2023","Vermont","50",458,45013,1017.5
-,"2023 (provisional and partial)","2023","Virginia","51",5469,464096,1178.4
-,"2023 (provisional and partial)","2023","Washington","53",4396,429420,1023.7
-,"2023 (provisional and partial)","2023","West Virginia","54",1923,119704,1606.5
-,"2023 (provisional and partial)","2023","Wisconsin","55",3776,360367,1047.8
-,"2023 (provisional and partial)","2023","Wyoming","56",446,37010,1205.1
-"Total","2023 (provisional and partial)","2023",,,213407,18394320,1160.2
-"Total",,,,,519540,36788640,1412.2
-"---"
-"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
-"Query Parameters:"
-"Single-Year Ages: 65 years; 66 years; 67 years; 68 years; 69 years"
-"Year/Month: 2022 (provisional); 2023 (provisional and partial)"
-"Group By: Year; Residence State"
-"Show Totals: True"
-"Show Zero Values: True"
-"Show Suppressed: True"
-"Calculate Rates Per: 100,000"
-"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
-"---"
-"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
-"---"
-"Query Date: Oct 20, 2023 3:22:36 PM"
-"---"
-"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
-"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
-"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 3:22:36"
-"PM"
-"---"
-Caveats:
-"1. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
-"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
-"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
-"2. The population figures for years 2021 and later are single-race estimates of the July 1 resident population, based on the"
-"Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021"
-"postcensal series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates"
-"of the July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census"
-"Bureau on July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from"
-"the Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
-"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
-"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
-"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
-"3. Deaths occurring through October 07, 2023 as of October 15, 2023."
+,"2023 (provisional and partial)","2023","Alabama","01",4793,294377,1628.2
+,"2023 (provisional and partial)","2023","Alaska","02",440,38297,1148.9
+,"2023 (provisional and partial)","2023","Arizona","04",5028,409308,1228.4
+,"2023 (provisional and partial)","2023","Arkansas","05",2755,170339,1617.4
+,"2023 (provisional and partial)","2023","California","06",19792,1961307,1009.1
+,"2023 (provisional and partial)","2023","Colorado","08",3139,308907,1016.2
+,"2023 (provisional and partial)","2023","Connecticut","09",2056,209492,981.4
+,"2023 (provisional and partial)","2023","Delaware","10",715,67369,1061.3
+,"2023 (provisional and partial)","2023","District of Columbia","11",421,27873,1510.4
+,"2023 (provisional and partial)","2023","Florida","12",16012,1352886,1183.5
+,"2023 (provisional and partial)","2023","Georgia","13",7394,539737,1369.9
+,"2023 (provisional and partial)","2023","Hawaii","15",826,86471,955.2
+,"2023 (provisional and partial)","2023","Idaho","16",1175,107836,1089.6
+,"2023 (provisional and partial)","2023","Illinois","17",8215,696825,1178.9
+,"2023 (provisional and partial)","2023","Indiana","18",5332,376938,1414.6
+,"2023 (provisional and partial)","2023","Iowa","19",2275,185617,1225.6
+,"2023 (provisional and partial)","2023","Kansas","20",2053,163343,1256.9
+,"2023 (provisional and partial)","2023","Kentucky","21",4290,259763,1651.5
+,"2023 (provisional and partial)","2023","Louisiana","22",3918,260931,1501.5
+,"2023 (provisional and partial)","2023","Maine","23",1134,99258,1142.5
+,"2023 (provisional and partial)","2023","Maryland","24",3724,332170,1121.1
+,"2023 (provisional and partial)","2023","Massachusetts","25",3947,398530,990.4
+,"2023 (provisional and partial)","2023","Michigan","26",8023,617312,1299.7
+,"2023 (provisional and partial)","2023","Minnesota","27",3190,321627,991.8
+,"2023 (provisional and partial)","2023","Mississippi","28",2914,166225,1753.0
+,"2023 (provisional and partial)","2023","Missouri","29",5055,356887,1416.4
+,"2023 (provisional and partial)","2023","Montana","30",792,74417,1064.3
+,"2023 (provisional and partial)","2023","Nebraska","31",1256,107049,1173.3
+,"2023 (provisional and partial)","2023","Nevada","32",1985,172744,1149.1
+,"2023 (provisional and partial)","2023","New Hampshire","33",1027,92129,1114.7
+,"2023 (provisional and partial)","2023","New Jersey","34",4961,508080,976.4
+,"2023 (provisional and partial)","2023","New Mexico","35",1598,127485,1253.5
+,"2023 (provisional and partial)","2023","New York","36",11057,1114139,992.4
+,"2023 (provisional and partial)","2023","North Carolina","37",8186,595852,1373.8
+,"2023 (provisional and partial)","2023","North Dakota","38",484,41796,1158.0
+,"2023 (provisional and partial)","2023","Ohio","39",9805,701254,1398.2
+,"2023 (provisional and partial)","2023","Oklahoma","40",3532,213644,1653.2
+,"2023 (provisional and partial)","2023","Oregon","41",2994,263384,1136.7
+,"2023 (provisional and partial)","2023","Pennsylvania","42",9912,804870,1231.5
+,"2023 (provisional and partial)","2023","Rhode Island","44",746,65626,1136.7
+,"2023 (provisional and partial)","2023","South Carolina","45",4535,320465,1415.1
+,"2023 (provisional and partial)","2023","South Dakota","46",582,55178,1054.8
+,"2023 (provisional and partial)","2023","Tennessee","47",6339,395614,1602.3
+,"2023 (provisional and partial)","2023","Texas","48",17382,1340363,1296.8
+,"2023 (provisional and partial)","2023","Utah","49",1342,134996,994.1
+,"2023 (provisional and partial)","2023","Vermont","50",476,45013,1057.5
+,"2023 (provisional and partial)","2023","Virginia","51",5731,464096,1234.9
+,"2023 (provisional and partial)","2023","Washington","53",4602,429420,1071.7
+,"2023 (provisional and partial)","2023","West Virginia","54",2020,119704,1687.5
+,"2023 (provisional and partial)","2023","Wisconsin","55",3939,360367,1093.1
+,"2023 (provisional and partial)","2023","Wyoming","56",467,37010,1261.8
+"Total","2023 (provisional and partial)","2023",,,224366,18394320,1219.8
+"Total",,,,,530499,36788640,1442.0

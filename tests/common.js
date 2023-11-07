@@ -27,6 +27,15 @@ export const getUniqueObjects = (array) => {
   return uniqueObjects
 }
 
+export const six_age_groups = [
+  makeSequence(0, 24),
+  makeSequence(25, 44),
+  makeSequence(45, 64),
+  makeSequence(65, 74),
+  makeSequence(75, 84),
+  makeSequence(85, 100)
+]
+
 export const twenty_year_age_groups = [
   makeSequence(0, 19),
   makeSequence(20, 39),
@@ -73,6 +82,7 @@ export const five_year_age_groups = [
 
 export const age_groups = getUniqueObjects([
   'all',
+  ...six_age_groups,
   ...twenty_year_age_groups,
   ...ten_year_age_groups,
   ...five_year_age_groups,

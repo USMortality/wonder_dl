@@ -51,94 +51,56 @@
 ,"2022 (provisional)","2022","Wisconsin","55",16205,Not Applicable,Not Applicable
 ,"2022 (provisional)","2022","Wyoming","56",1492,Not Applicable,Not Applicable
 "Total","2022 (provisional)","2022",,,825674,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Alabama","01",10607,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Alaska","02",702,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Arizona","04",13864,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Arkansas","05",6557,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","California","06",56861,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Colorado","08",8426,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Connecticut","09",6493,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Delaware","10",2063,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","District of Columbia","11",671,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Florida","12",47612,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Georgia","13",16766,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Hawaii","15",2306,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Idaho","16",3452,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Illinois","17",21614,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Indiana","18",13096,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Iowa","19",6641,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Kansas","20",5653,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Kentucky","21",9198,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Louisiana","22",8296,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Maine","23",3538,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Maryland","24",9886,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Massachusetts","25",12604,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Michigan","26",20067,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Minnesota","27",10069,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Mississippi","28",6115,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Missouri","29",12600,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Montana","30",2317,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Nebraska","31",3659,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Nevada","32",4909,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","New Hampshire","33",2968,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","New Jersey","34",15199,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","New Mexico","35",3961,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","New York","36",32014,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","North Carolina","37",19888,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","North Dakota","38",1309,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Ohio","39",24172,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Oklahoma","40",7969,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Oregon","41",8268,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Pennsylvania","42",27451,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Rhode Island","44",2033,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","South Carolina","45",10870,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","South Dakota","46",1592,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Tennessee","47",14310,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Texas","48",41235,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Utah","49",4342,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Vermont","50",1414,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Virginia","51",15193,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Washington","53",12664,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","West Virginia","54",4533,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Wisconsin","55",11759,Not Applicable,Not Applicable
-,"2023 (provisional and partial)","2023","Wyoming","56",1077,Not Applicable,Not Applicable
-"Total","2023 (provisional and partial)","2023",,,590863,Not Applicable,Not Applicable
-"Total",,,,,1416537,Not Applicable,Not Applicable
-"---"
-"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
-"Query Parameters:"
-"Single-Year Ages: 80 years; 81 years; 82 years; 83 years; 84 years; 85 years; 86 years; 87 years; 88 years; 89 years"
-"Year/Month: 2022 (provisional); 2023 (provisional and partial)"
-"Group By: Year; Residence State"
-"Show Totals: True"
-"Show Zero Values: True"
-"Show Suppressed: True"
-"Calculate Rates Per: 100,000"
-"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
-"---"
-"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
-"---"
-"Query Date: Oct 20, 2023 12:29:47 AM"
-"---"
-"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
-"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
-"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 20, 2023 12:29:47"
-"AM"
-"---"
-Caveats:
-"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
-"available for those ages. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Ages 85-100."
-"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
-"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
-"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
-"3. The population figures for years 2021 and later are single-race estimates of the July 1 resident population, based on the"
-"Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021"
-"postcensal series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates"
-"of the July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census"
-"Bureau on July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from"
-"the Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
-"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
-"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
-"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
-"4. Deaths occurring through October 07, 2023 as of October 15, 2023."
+,"2023 (provisional and partial)","2023","Alabama","01",11118,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Alaska","02",761,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Arizona","04",14535,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Arkansas","05",6903,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","California","06",59680,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Colorado","08",8844,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Connecticut","09",6732,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Delaware","10",2144,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","District of Columbia","11",710,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Florida","12",50047,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Georgia","13",17678,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Hawaii","15",2409,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Idaho","16",3636,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Illinois","17",22736,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Indiana","18",13792,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Iowa","19",6971,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Kansas","20",5898,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Kentucky","21",9687,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Louisiana","22",8692,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Maine","23",3732,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Maryland","24",10404,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Massachusetts","25",13258,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Michigan","26",21131,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Minnesota","27",10630,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Mississippi","28",6378,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Missouri","29",13239,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Montana","30",2449,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Nebraska","31",3891,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Nevada","32",4924,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","New Hampshire","33",3139,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","New Jersey","34",16002,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","New Mexico","35",4183,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","New York","36",33636,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","North Carolina","37",21139,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","North Dakota","38",1384,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Ohio","39",25463,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Oklahoma","40",8393,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Oregon","41",8757,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Pennsylvania","42",28948,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Rhode Island","44",2142,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","South Carolina","45",11430,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","South Dakota","46",1680,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Tennessee","47",15035,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Texas","48",43311,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Utah","49",4570,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Vermont","50",1485,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Virginia","51",15924,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Washington","53",13308,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","West Virginia","54",4756,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Wisconsin","55",12354,Not Applicable,Not Applicable
+,"2023 (provisional and partial)","2023","Wyoming","56",1135,Not Applicable,Not Applicable
+"Total","2023 (provisional and partial)","2023",,,621183,Not Applicable,Not Applicable
+"Total",,,,,1446857,Not Applicable,Not Applicable
