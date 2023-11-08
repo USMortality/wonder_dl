@@ -45,7 +45,7 @@ for (const jurisdiction of ['usa', 'usa-state']) {
   for (const period of ['year', 'month', 'week']) {
     for (const ag of age_groups) {
       // Weekly only process six age groups.
-      if (period !== "week" || (ag !== 'NS' && !six_age_groups.includes(ag))) {
+      if (period !== "week" || !['all', 'NS', ...six_age_groups].includes(ag)) {
         continue
       }
       const ag_str = Array.isArray(ag) ? `${ag.at(0)}-${ag.at(-1)}` : ag
