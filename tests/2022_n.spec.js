@@ -2,7 +2,6 @@ import { test } from '@playwright/test'
 import {
   age_groups, download, makeSequence, six_age_groups, waitUntilLoaded
 } from './common.js'
-import { existsSync } from 'fs'
 
 const YEARS = makeSequence(2022, 2023)
 
@@ -51,7 +50,6 @@ for (const jurisdiction of ['usa', 'usa-state']) {
       const ag_str = Array.isArray(ag) ? `${ag.at(0)}-${ag.at(-1)}` : ag
       const file = `./out/${jurisdiction}_${period}_${ag_str}_` +
         `${YEARS.at(0)}_${YEARS.at(-1)}.txt`
-      if (existsSync(file)) continue
       test(
         `Download CDC Wonder Data by: ${jurisdiction}/${period}/2022-n: ` +
         `Age Groups: ${Array.isArray(ag) ? ag.join(', ') : ag}`,
