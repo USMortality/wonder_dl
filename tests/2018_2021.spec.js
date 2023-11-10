@@ -10,6 +10,9 @@ const dl = async (page, jurisdiction, period, ageGroups, file) => {
   await page.goto('https://wonder.cdc.gov/mcd-icd10-provisional.html')
   await page.getByRole('button', { name: 'I Agree' }).click()
 
+  // select years
+  await page.locator('#codes-D176\\.V1').selectOption(YEARS)
+
   if (period == 'year') {
     // group by: year
     await page.locator('#SB_1').selectOption('D176.V1-level1')
@@ -34,9 +37,6 @@ const dl = async (page, jurisdiction, period, ageGroups, file) => {
     await page.locator('#SD176\\.V52').selectOption(ageGroups) // select ages
     await waitUntilLoaded(page)
   }
-
-  // select years
-  await page.locator('#codes-D176\\.V1').selectOption(YEARS)
 
   await download(page, file)
 }
