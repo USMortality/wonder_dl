@@ -5,8 +5,9 @@ import * as csv from 'csv'
 import * as Minio from 'minio'
 import { stringify } from 'csv-stringify/sync'
 import { program } from 'commander'
-import { exit } from 'process'
+
 program.option('-r, --reset')
+program.option('-t, --test')
 program.parse();
 const options = program.opts();
 
@@ -138,6 +139,7 @@ const main = async () => {
   }
 
   if (!options.reset) {
+    if (options.test) updated.push(unique_countries[1])
     for (const country of updated) {
       tweet(country.iso3c, jurisdictions[country.iso3c], country.max_date)
       if (updated.length > 1) await sleep(15 * 60 * 1000)
