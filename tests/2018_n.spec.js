@@ -1,6 +1,5 @@
 import { test } from "@playwright/test";
 import { age_groups, download, waitUntilLoaded } from "./common.js";
-import { existsSync } from "fs";
 
 const dl = async (page, jurisdiction, period, ageGroups, file) => {
   await page.goto("https://wonder.cdc.gov/mcd-icd10-provisional.html");
@@ -33,14 +32,13 @@ const dl = async (page, jurisdiction, period, ageGroups, file) => {
 
 for (const jurisdiction of ["usa", "usa-state"]) {
   for (const period of [
-    "month",
-    // , "week"
+    "month"
+    // "week",
   ]) {
     for (let i = 0; i < age_groups.length; i++) {
       const ag = age_groups[i];
       const ag_str = Array.isArray(ag) ? `${ag.at(0)}-${ag.at(-1)}` : ag;
-      const file = `./out/${jurisdiction}_${ag_str}_2018-n.txt`;
-      // if (existsSync(file)) continue;
+      const file = `./out/${jurisdiction}_${period}_${ag_str}_2018-n.txt`;
       const ags = ["all", "NS"].includes(ag)
         ? ag
         : [].concat(
