@@ -31,10 +31,7 @@ const dl = async (page, jurisdiction, period, ageGroups, file) => {
 };
 
 for (const jurisdiction of ["usa", "usa-state"]) {
-  for (const period of [
-    "month"
-    // "week",
-  ]) {
+  for (const period of ["month", "week"]) {
     for (let i = 0; i < age_groups.length; i++) {
       const ag = age_groups[i];
       const ag_str = Array.isArray(ag) ? `${ag.at(0)}-${ag.at(-1)}` : ag;
