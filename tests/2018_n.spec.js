@@ -36,7 +36,7 @@ for (const jurisdiction of ["usa", "usa-state"]) {
       const ag = age_groups[i];
       const ag_str = Array.isArray(ag) ? `${ag.at(0)}-${ag.at(-1)}` : ag;
       const file = `./out/${jurisdiction}_${period}_${ag_str}_2018-n.txt`;
-      const ags = ["all", "NS"].includes(ag)
+      const ags = ["all"].includes(ag)
         ? ag
         : [].concat(
             ...age_groups.slice(1, i),
@@ -44,7 +44,7 @@ for (const jurisdiction of ["usa", "usa-state"]) {
           );
 
       test(
-        `Download CDC Wonder Data by: ${jurisdiction}/2018-n: ` +
+        `Download CDC Wonder Data by: ${period}/${jurisdiction}/2018-n: ` +
           `Age Groups: ${Array.isArray(ag) ? ag.join(", ") : ag}`,
         async ({ page }) => {
           await dl(page, jurisdiction, period, ags, file);

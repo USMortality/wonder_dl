@@ -27,7 +27,7 @@ for (const jurisdiction of ["usa", "usa-state"]) {
     const ag = age_groups[i];
     const ag_str = Array.isArray(ag) ? `${ag.at(0)}-${ag.at(-1)}` : ag;
     const file = `./out/${jurisdiction}_${ag_str}_1999_2020.txt`;
-    const ags = ["all", "NS"].includes(ag)
+    const ags = ["all"].includes(ag)
       ? ag
       : [].concat(
           ...age_groups.slice(1, i),
