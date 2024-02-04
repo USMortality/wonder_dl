@@ -59,20 +59,20 @@
 	"Oct., 2022 (provisional)"	"2022/10"	245243	Not Applicable	Not Applicable
 	"Nov., 2022 (provisional)"	"2022/11"	247846	Not Applicable	Not Applicable
 	"Dec., 2022 (provisional)"	"2022/12"	278162	Not Applicable	Not Applicable
-	"Jan., 2023 (provisional)"	"2023/01"	267592	Not Applicable	Not Applicable
-	"Feb., 2023 (provisional)"	"2023/02"	230264	Not Applicable	Not Applicable
-	"Mar., 2023 (provisional)"	"2023/03"	248900	Not Applicable	Not Applicable
-	"Apr., 2023 (provisional)"	"2023/04"	233052	Not Applicable	Not Applicable
-	"May, 2023 (provisional)"	"2023/05"	232984	Not Applicable	Not Applicable
-	"Jun., 2023 (provisional)"	"2023/06"	222383	Not Applicable	Not Applicable
-	"Jul., 2023 (provisional)"	"2023/07"	227338	Not Applicable	Not Applicable
-	"Aug., 2023 (provisional)"	"2023/08"	230404	Not Applicable	Not Applicable
-	"Sep., 2023 (provisional)"	"2023/09"	225445	Not Applicable	Not Applicable
-	"Oct., 2023 (provisional)"	"2023/10"	237373	Not Applicable	Not Applicable
-	"Nov., 2023 (provisional)"	"2023/11"	234467	Not Applicable	Not Applicable
-	"Dec., 2023 (provisional)"	"2023/12"	238637	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional and partial)"	"2024/01"	74556	Not Applicable	Not Applicable
-"Total"			17506892	Not Applicable	Not Applicable
+	"Jan., 2023 (provisional)"	"2023/01"	267593	Not Applicable	Not Applicable
+	"Feb., 2023 (provisional)"	"2023/02"	230270	Not Applicable	Not Applicable
+	"Mar., 2023 (provisional)"	"2023/03"	248904	Not Applicable	Not Applicable
+	"Apr., 2023 (provisional)"	"2023/04"	233058	Not Applicable	Not Applicable
+	"May, 2023 (provisional)"	"2023/05"	233001	Not Applicable	Not Applicable
+	"Jun., 2023 (provisional)"	"2023/06"	222401	Not Applicable	Not Applicable
+	"Jul., 2023 (provisional)"	"2023/07"	227368	Not Applicable	Not Applicable
+	"Aug., 2023 (provisional)"	"2023/08"	230469	Not Applicable	Not Applicable
+	"Sep., 2023 (provisional)"	"2023/09"	225550	Not Applicable	Not Applicable
+	"Oct., 2023 (provisional)"	"2023/10"	237637	Not Applicable	Not Applicable
+	"Nov., 2023 (provisional)"	"2023/11"	235336	Not Applicable	Not Applicable
+	"Dec., 2023 (provisional)"	"2023/12"	248559	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional and partial)"	"2024/01"	128212	Not Applicable	Not Applicable
+"Total"			17571855	Not Applicable	Not Applicable
 "---"
 "Dataset: Provisional Mortality Statistics, 2018 through Last Week"
 "Query Parameters:"
@@ -93,13 +93,12 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
 "---"
-"Query Date: Jan 28, 2024 9:13:22 PM"
+"Query Date: Feb 4, 2024 1:43:56 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
-"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Jan 28, 2024 9:13:22"
-"PM"
+"and from provisional data for years 2022-2024, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Feb 4, 2024 1:43:56 PM"
 "---"
 Caveats:
 "1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
@@ -108,4 +107,4 @@ Caveats:
 "2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
 "so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
 "http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
-"3. Deaths occurring through January 13, 2024 as of January 21, 2024."
+"3. Deaths occurring through January 20, 2024 as of January 28, 2024."
