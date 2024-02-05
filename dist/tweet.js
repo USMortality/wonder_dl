@@ -14,15 +14,16 @@ const s3Client = () => {
     if (!process.env.AWS_ACCESS_KEY_ID) {
         console.warn('KEYS MISING');
         return {
-            fPutObject: (...args) => { console.log('fPutObject'); }
+            fPutObject: (...args) => {
+                console.log('fPutObject');
+            },
         };
     }
     if (!_s3Client)
         _s3Client = new Minio.Client({
-            endPoint: process.env.AWS_DEFAULT_REGION + '.' +
-                process.env.AWS_S3_ENDPOINT,
+            endPoint: process.env.AWS_DEFAULT_REGION + '.' + process.env.AWS_S3_ENDPOINT,
             accessKey: process.env.AWS_ACCESS_KEY_ID,
-            secretKey: process.env.AWS_SECRET_ACCESS_KEY
+            secretKey: process.env.AWS_SECRET_ACCESS_KEY,
         });
     return _s3Client;
 };
@@ -31,12 +32,16 @@ const twitterClient = () => {
     if (!process.env.TWITTER_API_KEY) {
         console.warn('KEYS MISING');
         return {
-            'v1': {
-                uploadMedia: (...args) => { console.log('uploadMedia'); }
+            v1: {
+                uploadMedia: (...args) => {
+                    console.log('uploadMedia');
+                },
             },
-            'v2': {
-                tweet: (...args) => { console.log('tweet'); }
-            }
+            v2: {
+                tweet: (...args) => {
+                    console.log('tweet');
+                },
+            },
         };
     }
     if (!_twitterClient)
@@ -44,16 +49,17 @@ const twitterClient = () => {
             appKey: process.env.TWITTER_API_KEY,
             appSecret: process.env.TWITTER_API_SECRET,
             accessToken: process.env.TWITTER_ACCESS_TOKEN,
-            accessSecret: process.env.TWITTER_ACCESS_SECRET
+            accessSecret: process.env.TWITTER_ACCESS_SECRET,
         });
     return _twitterClient;
 };
-const url_base = "https://s3.mortality.watch/charts/mortality/cmr/";
-const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+const url_base = 'https://s3.mortality.watch/charts/mortality/cmr/';
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const downloadImage = (url, filepath) => new Promise((resolve, reject) => {
     https.get(url, (res) => {
         if (res.statusCode === 200) {
-            res.pipe(fs.createWriteStream(filepath))
+            res
+                .pipe(fs.createWriteStream(filepath))
                 .on('error', reject)
                 .once('close', () => resolve(filepath));
         }
@@ -66,7 +72,8 @@ const downloadImage = (url, filepath) => new Promise((resolve, reject) => {
 const downloadCsv = (url) => new Promise((resolve) => {
     https.get(url, (res) => {
         const result = [];
-        res.pipe(csv.parse({ columns: true }))
+        res
+            .pipe(csv.parse({ columns: true }))
             .on('data', (data) => result.push(data))
             .on('end', () => resolve(result));
     });
@@ -93,11 +100,11 @@ const main = async () => {
     // Get list of unique countries and latest date
     for (const country of countries) {
         jurisdictions[country.iso3c] = country.jurisdiction;
-        const c = unique_countries.filter(it => it.iso3c == country.iso3c)[0];
+        const c = unique_countries.filter((it) => it.iso3c == country.iso3c)[0];
         if (!c) {
             unique_countries.push({
                 iso3c: country.iso3c,
-                max_date: country.max_date
+                max_date: country.max_date,
             });
             continue;
         }
@@ -108,9 +115,10 @@ const main = async () => {
     const updated = [];
     // Find current max date
     for (const country of unique_countries) {
-        const old = max_dates_old.filter(it => it.iso3c == country.iso3c)[0];
+        const old = max_dates_old.filter((it) => it.iso3c == country.iso3c)[0];
         const dn = old && Date.parse(old.max_date) < Date.parse(country.max_date);
-        if (!old || dn)
+        const is_state = country.iso3c.includes('DEU-') || country.iso3c.includes('USA-');
+        if (!is_state && (!old || dn))
             updated.push(country);
     }
     if (!options.reset) {
@@ -132,9 +140,9 @@ const main = async () => {
     // Only update when we have new tweets.
     console.log(`Updated tweets: ${updated.length}`);
     if (options.reset || updated.length > 0) {
-        const path = "./out/world_max_date.csv";
+        const path = './out/world_max_date.csv';
         await writeCsv(unique_countries, path);
-        s3Client().fPutObject('data', 'mortality/world_max_date.csv', path, {}, err => {
+        s3Client().fPutObject('data', 'mortality/world_max_date.csv', path, {}, (err) => {
             if (err)
                 return console.log(err);
             console.log('uploaded');
