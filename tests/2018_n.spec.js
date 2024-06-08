@@ -30,27 +30,26 @@ const dl = async (page, jurisdiction, period, ageGroups, file) => {
   await download(page, file)
 }
 
+let period = 'week'
 for (const jurisdiction of ['usa', 'usa-state']) {
-  for (const period of ['month', 'week']) {
-    for (let i = 0; i < age_groups.length; i++) {
-      const ag = age_groups[i]
-      const ag_str = Array.isArray(ag) ? `${ag.at(0)}-${ag.at(-1)}` : ag
-      const file = `./out/${jurisdiction}_${period}_${ag_str}_2018-n.txt`
-      const ags = ['all'].includes(ag)
-        ? ag
-        : [].concat(
-            ...age_groups.slice(1, i),
-            ...age_groups.slice(i + 1, age_groups.length - 1)
-          )
+  for (let i = 0; i < age_groups.length; i++) {
+    const ag = age_groups[i]
+    const ag_str = Array.isArray(ag) ? `${ag.at(0)}-${ag.at(-1)}` : ag
+    const file = `./out/${jurisdiction}_${period}_${ag_str}_2018-n.txt`
+    const ags = ['all'].includes(ag)
+      ? ag
+      : [].concat(
+          ...age_groups.slice(1, i),
+          ...age_groups.slice(i + 1, age_groups.length - 1)
+        )
 
-      test(
-        `Download CDC Wonder Data by: ${period}/${jurisdiction}/2018-n: ` +
-          `Age Groups: ${Array.isArray(ag) ? ag.join(', ') : ag}`,
-        async ({ page }) => {
-          await dl(page, jurisdiction, period, ags, file)
-          await page.close()
-        }
-      )
-    }
+    test(
+      `Download CDC Wonder Data by: ${period}/${jurisdiction}/2018-n: ` +
+        `Age Groups: ${Array.isArray(ag) ? ag.join(', ') : ag}`,
+      async ({ page }) => {
+        await dl(page, jurisdiction, period, ags, file)
+        await page.close()
+      }
+    )
   }
 }

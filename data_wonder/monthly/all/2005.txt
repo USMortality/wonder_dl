@@ -1,0 +1,649 @@
+"Notes"	"Month"	"Month Code"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Jan., 2005"	"2005/01"	"Alabama"	"01"	4229	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Alaska"	"02"	274	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Arizona"	"04"	3974	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Arkansas"	"05"	2521	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"California"	"06"	21334	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Colorado"	"08"	2607	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Connecticut"	"09"	3015	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Delaware"	"10"	661	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"District of Columbia"	"11"	496	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Florida"	"12"	15142	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Georgia"	"13"	6028	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Hawaii"	"15"	818	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Idaho"	"16"	951	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Illinois"	"17"	9515	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Indiana"	"18"	5063	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Iowa"	"19"	2566	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Kansas"	"20"	2231	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Kentucky"	"21"	3506	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Louisiana"	"22"	3900	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Maine"	"23"	1369	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Maryland"	"24"	4270	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Massachusetts"	"25"	5630	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Michigan"	"26"	8323	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Minnesota"	"27"	3825	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Mississippi"	"28"	2594	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Missouri"	"29"	4754	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Montana"	"30"	778	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Nebraska"	"31"	1371	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Nevada"	"32"	1694	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"New Hampshire"	"33"	1074	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"New Jersey"	"34"	7271	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"New Mexico"	"35"	1321	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"New York"	"36"	15760	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"North Carolina"	"37"	6758	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"North Dakota"	"38"	517	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Ohio"	"39"	9710	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Oklahoma"	"40"	3149	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Oregon"	"41"	2900	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Pennsylvania"	"42"	12182	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Rhode Island"	"44"	1087	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"South Carolina"	"45"	3403	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"South Dakota"	"46"	680	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Tennessee"	"47"	5086	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Texas"	"48"	14169	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Utah"	"49"	1161	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Vermont"	"50"	484	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Virginia"	"51"	5294	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Washington"	"53"	4313	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"West Virginia"	"54"	1814	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Wisconsin"	"55"	4485	Not Applicable	Not Applicable
+	"Jan., 2005"	"2005/01"	"Wyoming"	"56"	376	Not Applicable	Not Applicable
+"Total"	"Jan., 2005"	"2005/01"			226433	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Alabama"	"01"	4022	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Alaska"	"02"	251	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Arizona"	"04"	3505	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Arkansas"	"05"	2423	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"California"	"06"	19307	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Colorado"	"08"	2606	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Connecticut"	"09"	2661	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Delaware"	"10"	696	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"District of Columbia"	"11"	489	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Florida"	"12"	14346	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Georgia"	"13"	5691	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Hawaii"	"15"	758	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Idaho"	"16"	937	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Illinois"	"17"	9308	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Indiana"	"18"	4901	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Iowa"	"19"	2489	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Kansas"	"20"	2139	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Kentucky"	"21"	3547	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Louisiana"	"22"	3851	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Maine"	"23"	1167	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Maryland"	"24"	3988	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Massachusetts"	"25"	4749	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Michigan"	"26"	7618	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Minnesota"	"27"	3361	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Mississippi"	"28"	2510	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Missouri"	"29"	4671	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Montana"	"30"	815	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Nebraska"	"31"	1385	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Nevada"	"32"	1583	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"New Hampshire"	"33"	906	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"New Jersey"	"34"	6433	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"New Mexico"	"35"	1262	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"New York"	"36"	13285	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"North Carolina"	"37"	6416	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"North Dakota"	"38"	533	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Ohio"	"39"	9572	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Oklahoma"	"40"	3083	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Oregon"	"41"	2700	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Pennsylvania"	"42"	11813	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Rhode Island"	"44"	953	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"South Carolina"	"45"	3441	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"South Dakota"	"46"	614	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Tennessee"	"47"	4945	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Texas"	"48"	14292	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Utah"	"49"	1066	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Vermont"	"50"	436	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Virginia"	"51"	5246	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Washington"	"53"	4055	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"West Virginia"	"54"	1845	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Wisconsin"	"55"	4348	Not Applicable	Not Applicable
+	"Feb., 2005"	"2005/02"	"Wyoming"	"56"	318	Not Applicable	Not Applicable
+"Total"	"Feb., 2005"	"2005/02"			213336	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Alabama"	"01"	4376	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Alaska"	"02"	282	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Arizona"	"04"	4035	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Arkansas"	"05"	2794	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"California"	"06"	21093	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Colorado"	"08"	2758	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Connecticut"	"09"	2754	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Delaware"	"10"	710	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"District of Columbia"	"11"	540	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Florida"	"12"	15815	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Georgia"	"13"	6256	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Hawaii"	"15"	840	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Idaho"	"16"	981	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Illinois"	"17"	10216	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Indiana"	"18"	5483	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Iowa"	"19"	2683	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Kansas"	"20"	2469	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Kentucky"	"21"	4024	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Louisiana"	"22"	3876	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Maine"	"23"	1201	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Maryland"	"24"	4119	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Massachusetts"	"25"	5016	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Michigan"	"26"	7955	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Minnesota"	"27"	3568	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Mississippi"	"28"	2753	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Missouri"	"29"	5501	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Montana"	"30"	833	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Nebraska"	"31"	1382	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Nevada"	"32"	1710	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"New Hampshire"	"33"	937	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"New Jersey"	"34"	6914	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"New Mexico"	"35"	1448	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"New York"	"36"	13855	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"North Carolina"	"37"	7345	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"North Dakota"	"38"	586	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Ohio"	"39"	11267	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Oklahoma"	"40"	3438	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Oregon"	"41"	2901	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Pennsylvania"	"42"	12701	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Rhode Island"	"44"	900	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"South Carolina"	"45"	3802	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"South Dakota"	"46"	673	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Tennessee"	"47"	5537	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Texas"	"48"	14395	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Utah"	"49"	1169	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Vermont"	"50"	469	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Virginia"	"51"	5535	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Washington"	"53"	4404	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"West Virginia"	"54"	2086	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Wisconsin"	"55"	4325	Not Applicable	Not Applicable
+	"Mar., 2005"	"2005/03"	"Wyoming"	"56"	385	Not Applicable	Not Applicable
+"Total"	"Mar., 2005"	"2005/03"			231095	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Alabama"	"01"	3813	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Alaska"	"02"	270	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Arizona"	"04"	4011	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Arkansas"	"05"	2449	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"California"	"06"	19747	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Colorado"	"08"	2457	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Connecticut"	"09"	2411	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Delaware"	"10"	620	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"District of Columbia"	"11"	467	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Florida"	"12"	14655	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Georgia"	"13"	5423	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Hawaii"	"15"	755	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Idaho"	"16"	872	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Illinois"	"17"	8607	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Indiana"	"18"	4775	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Iowa"	"19"	2331	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Kansas"	"20"	2065	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Kentucky"	"21"	3402	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Louisiana"	"22"	3449	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Maine"	"23"	1099	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Maryland"	"24"	3616	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Massachusetts"	"25"	4478	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Michigan"	"26"	7256	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Minnesota"	"27"	3155	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Mississippi"	"28"	2291	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Missouri"	"29"	4607	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Montana"	"30"	694	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Nebraska"	"31"	1239	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Nevada"	"32"	1661	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"New Hampshire"	"33"	793	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"New Jersey"	"34"	5909	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"New Mexico"	"35"	1285	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"New York"	"36"	12684	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"North Carolina"	"37"	6444	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"North Dakota"	"38"	478	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Ohio"	"39"	9486	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Oklahoma"	"40"	3050	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Oregon"	"41"	2543	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Pennsylvania"	"42"	10969	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Rhode Island"	"44"	823	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"South Carolina"	"45"	3164	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"South Dakota"	"46"	583	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Tennessee"	"47"	4741	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Texas"	"48"	12825	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Utah"	"49"	1195	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Vermont"	"50"	447	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Virginia"	"51"	4746	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Washington"	"53"	3878	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"West Virginia"	"54"	1885	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Wisconsin"	"55"	3860	Not Applicable	Not Applicable
+	"Apr., 2005"	"2005/04"	"Wyoming"	"56"	372	Not Applicable	Not Applicable
+"Total"	"Apr., 2005"	"2005/04"			204835	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Alabama"	"01"	3942	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Alaska"	"02"	268	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Arizona"	"04"	4038	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Arkansas"	"05"	2224	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"California"	"06"	19754	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Colorado"	"08"	2590	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Connecticut"	"09"	2384	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Delaware"	"10"	591	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"District of Columbia"	"11"	425	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Florida"	"12"	14237	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Georgia"	"13"	5441	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Hawaii"	"15"	828	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Idaho"	"16"	833	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Illinois"	"17"	8546	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Indiana"	"18"	4612	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Iowa"	"19"	2197	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Kansas"	"20"	2018	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Kentucky"	"21"	3444	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Louisiana"	"22"	3654	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Maine"	"23"	1009	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Maryland"	"24"	3541	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Massachusetts"	"25"	4302	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Michigan"	"26"	7228	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Minnesota"	"27"	2828	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Mississippi"	"28"	2419	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Missouri"	"29"	4483	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Montana"	"30"	703	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Nebraska"	"31"	1217	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Nevada"	"32"	1595	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"New Hampshire"	"33"	783	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"New Jersey"	"34"	5771	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"New Mexico"	"35"	1249	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"New York"	"36"	12320	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"North Carolina"	"37"	6092	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"North Dakota"	"38"	476	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Ohio"	"39"	8922	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Oklahoma"	"40"	3102	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Oregon"	"41"	2561	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Pennsylvania"	"42"	10432	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Rhode Island"	"44"	838	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"South Carolina"	"45"	3095	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"South Dakota"	"46"	554	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Tennessee"	"47"	4730	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Texas"	"48"	12653	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Utah"	"49"	1084	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Vermont"	"50"	442	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Virginia"	"51"	4720	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Washington"	"53"	3820	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"West Virginia"	"54"	1691	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Wisconsin"	"55"	3786	Not Applicable	Not Applicable
+	"May, 2005"	"2005/05"	"Wyoming"	"56"	354	Not Applicable	Not Applicable
+"Total"	"May, 2005"	"2005/05"			200826	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Alabama"	"01"	3685	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Alaska"	"02"	248	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Arizona"	"04"	3564	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Arkansas"	"05"	2165	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"California"	"06"	18106	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Colorado"	"08"	2251	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Connecticut"	"09"	2226	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Delaware"	"10"	562	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"District of Columbia"	"11"	432	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Florida"	"12"	13219	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Georgia"	"13"	5038	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Hawaii"	"15"	709	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Idaho"	"16"	826	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Illinois"	"17"	7903	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Indiana"	"18"	4211	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Iowa"	"19"	2137	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Kansas"	"20"	1907	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Kentucky"	"21"	3144	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Louisiana"	"22"	3339	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Maine"	"23"	982	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Maryland"	"24"	3260	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Massachusetts"	"25"	4010	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Michigan"	"26"	6993	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Minnesota"	"27"	2726	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Mississippi"	"28"	2231	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Missouri"	"29"	4156	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Montana"	"30"	617	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Nebraska"	"31"	1084	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Nevada"	"32"	1525	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"New Hampshire"	"33"	727	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"New Jersey"	"34"	5467	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"New Mexico"	"35"	1080	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"New York"	"36"	11753	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"North Carolina"	"37"	5752	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"North Dakota"	"38"	393	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Ohio"	"39"	8512	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Oklahoma"	"40"	2790	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Oregon"	"41"	2412	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Pennsylvania"	"42"	9755	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Rhode Island"	"44"	796	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"South Carolina"	"45"	2978	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"South Dakota"	"46"	530	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Tennessee"	"47"	4394	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Texas"	"48"	12098	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Utah"	"49"	1026	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Vermont"	"50"	416	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Virginia"	"51"	4368	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Washington"	"53"	3597	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"West Virginia"	"54"	1575	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Wisconsin"	"55"	3384	Not Applicable	Not Applicable
+	"Jun., 2005"	"2005/06"	"Wyoming"	"56"	316	Not Applicable	Not Applicable
+"Total"	"Jun., 2005"	"2005/06"			187375	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Alabama"	"01"	3770	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Alaska"	"02"	253	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Arizona"	"04"	3652	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Arkansas"	"05"	2198	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"California"	"06"	19207	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Colorado"	"08"	2340	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Connecticut"	"09"	2165	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Delaware"	"10"	575	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"District of Columbia"	"11"	426	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Florida"	"12"	13789	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Georgia"	"13"	5341	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Hawaii"	"15"	720	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Idaho"	"16"	853	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Illinois"	"17"	8049	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Indiana"	"18"	4227	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Iowa"	"19"	2186	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Kansas"	"20"	1869	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Kentucky"	"21"	3106	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Louisiana"	"22"	3458	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Maine"	"23"	975	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Maryland"	"24"	3457	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Massachusetts"	"25"	4033	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Michigan"	"26"	6705	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Minnesota"	"27"	2894	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Mississippi"	"28"	2391	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Missouri"	"29"	4247	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Montana"	"30"	709	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Nebraska"	"31"	1131	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Nevada"	"32"	1456	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"New Hampshire"	"33"	801	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"New Jersey"	"34"	5640	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"New Mexico"	"35"	1209	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"New York"	"36"	11642	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"North Carolina"	"37"	5881	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"North Dakota"	"38"	471	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Ohio"	"39"	8282	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Oklahoma"	"40"	2827	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Oregon"	"41"	2416	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Pennsylvania"	"42"	9807	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Rhode Island"	"44"	748	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"South Carolina"	"45"	3049	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"South Dakota"	"46"	563	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Tennessee"	"47"	4512	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Texas"	"48"	12275	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Utah"	"49"	1095	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Vermont"	"50"	417	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Virginia"	"51"	4499	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Washington"	"53"	3573	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"West Virginia"	"54"	1578	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Wisconsin"	"55"	3589	Not Applicable	Not Applicable
+	"Jul., 2005"	"2005/07"	"Wyoming"	"56"	310	Not Applicable	Not Applicable
+"Total"	"Jul., 2005"	"2005/07"			191366	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Alabama"	"01"	3753	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Alaska"	"02"	283	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Arizona"	"04"	3636	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Arkansas"	"05"	2183	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"California"	"06"	18826	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Colorado"	"08"	2353	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Connecticut"	"09"	2256	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Delaware"	"10"	608	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"District of Columbia"	"11"	441	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Florida"	"12"	13770	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Georgia"	"13"	5416	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Hawaii"	"15"	753	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Idaho"	"16"	863	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Illinois"	"17"	7966	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Indiana"	"18"	4233	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Iowa"	"19"	2089	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Kansas"	"20"	1840	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Kentucky"	"21"	3016	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Louisiana"	"22"	4126	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Maine"	"23"	967	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Maryland"	"24"	3469	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Massachusetts"	"25"	4159	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Michigan"	"26"	6688	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Minnesota"	"27"	2838	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Mississippi"	"28"	2440	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Missouri"	"29"	4314	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Montana"	"30"	680	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Nebraska"	"31"	1209	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Nevada"	"32"	1447	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"New Hampshire"	"33"	746	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"New Jersey"	"34"	5466	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"New Mexico"	"35"	1207	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"New York"	"36"	11752	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"North Carolina"	"37"	5612	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"North Dakota"	"38"	426	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Ohio"	"39"	8246	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Oklahoma"	"40"	2773	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Oregon"	"41"	2425	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Pennsylvania"	"42"	9851	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Rhode Island"	"44"	727	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"South Carolina"	"45"	2947	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"South Dakota"	"46"	533	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Tennessee"	"47"	4539	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Texas"	"48"	12043	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Utah"	"49"	1076	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Vermont"	"50"	389	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Virginia"	"51"	4525	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Washington"	"53"	3533	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"West Virginia"	"54"	1516	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Wisconsin"	"55"	3522	Not Applicable	Not Applicable
+	"Aug., 2005"	"2005/08"	"Wyoming"	"56"	315	Not Applicable	Not Applicable
+"Total"	"Aug., 2005"	"2005/08"			190791	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Alabama"	"01"	3554	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Alaska"	"02"	271	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Arizona"	"04"	3469	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Arkansas"	"05"	2093	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"California"	"06"	18240	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Colorado"	"08"	2307	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Connecticut"	"09"	2138	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Delaware"	"10"	555	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"District of Columbia"	"11"	399	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Florida"	"12"	13407	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Georgia"	"13"	5226	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Hawaii"	"15"	720	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Idaho"	"16"	820	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Illinois"	"17"	7673	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Indiana"	"18"	4248	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Iowa"	"19"	2080	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Kansas"	"20"	1829	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Kentucky"	"21"	2979	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Louisiana"	"22"	3536	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Maine"	"23"	905	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Maryland"	"24"	3311	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Massachusetts"	"25"	4030	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Michigan"	"26"	6523	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Minnesota"	"27"	2826	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Mississippi"	"28"	2380	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Missouri"	"29"	4226	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Montana"	"30"	642	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Nebraska"	"31"	1151	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Nevada"	"32"	1442	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"New Hampshire"	"33"	815	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"New Jersey"	"34"	5171	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"New Mexico"	"35"	1123	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"New York"	"36"	11172	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"North Carolina"	"37"	5453	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"North Dakota"	"38"	406	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Ohio"	"39"	8051	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Oklahoma"	"40"	2740	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Oregon"	"41"	2378	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Pennsylvania"	"42"	9729	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Rhode Island"	"44"	704	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"South Carolina"	"45"	3001	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"South Dakota"	"46"	539	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Tennessee"	"47"	4323	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Texas"	"48"	12345	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Utah"	"49"	1081	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Vermont"	"50"	352	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Virginia"	"51"	4367	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Washington"	"53"	3434	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"West Virginia"	"54"	1562	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Wisconsin"	"55"	3464	Not Applicable	Not Applicable
+	"Sep., 2005"	"2005/09"	"Wyoming"	"56"	290	Not Applicable	Not Applicable
+"Total"	"Sep., 2005"	"2005/09"			185480	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Alabama"	"01"	3768	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Alaska"	"02"	258	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Arizona"	"04"	3585	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Arkansas"	"05"	2238	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"California"	"06"	19171	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Colorado"	"08"	2396	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Connecticut"	"09"	2354	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Delaware"	"10"	616	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"District of Columbia"	"11"	444	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Florida"	"12"	13627	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Georgia"	"13"	5252	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Hawaii"	"15"	742	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Idaho"	"16"	853	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Illinois"	"17"	8594	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Indiana"	"18"	4569	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Iowa"	"19"	2290	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Kansas"	"20"	2065	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Kentucky"	"21"	3192	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Louisiana"	"22"	3726	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Maine"	"23"	1095	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Maryland"	"24"	3541	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Massachusetts"	"25"	4338	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Michigan"	"26"	7123	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Minnesota"	"27"	3065	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Mississippi"	"28"	2306	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Missouri"	"29"	4441	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Montana"	"30"	645	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Nebraska"	"31"	1262	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Nevada"	"32"	1537	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"New Hampshire"	"33"	848	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"New Jersey"	"34"	5900	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"New Mexico"	"35"	1178	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"New York"	"36"	12421	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"North Carolina"	"37"	6058	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"North Dakota"	"38"	469	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Ohio"	"39"	8494	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Oklahoma"	"40"	2890	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Oregon"	"41"	2572	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Pennsylvania"	"42"	10505	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Rhode Island"	"44"	740	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"South Carolina"	"45"	3124	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"South Dakota"	"46"	597	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Tennessee"	"47"	4577	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Texas"	"48"	12785	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Utah"	"49"	1093	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Vermont"	"50"	410	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Virginia"	"51"	4639	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Washington"	"53"	3732	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"West Virginia"	"54"	1657	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Wisconsin"	"55"	3898	Not Applicable	Not Applicable
+	"Oct., 2005"	"2005/10"	"Wyoming"	"56"	334	Not Applicable	Not Applicable
+"Total"	"Oct., 2005"	"2005/10"			198014	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Alabama"	"01"	3917	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Alaska"	"02"	235	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Arizona"	"04"	3699	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Arkansas"	"05"	2272	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"California"	"06"	18997	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Colorado"	"08"	2372	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Connecticut"	"09"	2413	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Delaware"	"10"	595	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"District of Columbia"	"11"	456	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Florida"	"12"	13829	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Georgia"	"13"	5590	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Hawaii"	"15"	730	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Idaho"	"16"	854	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Illinois"	"17"	8485	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Indiana"	"18"	4458	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Iowa"	"19"	2278	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Kansas"	"20"	1910	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Kentucky"	"21"	3223	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Louisiana"	"22"	3554	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Maine"	"23"	1009	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Maryland"	"24"	3527	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Massachusetts"	"25"	4480	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Michigan"	"26"	7061	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Minnesota"	"27"	3089	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Mississippi"	"28"	2368	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Missouri"	"29"	4374	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Montana"	"30"	694	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Nebraska"	"31"	1234	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Nevada"	"32"	1537	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"New Hampshire"	"33"	837	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"New Jersey"	"34"	5759	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"New Mexico"	"35"	1242	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"New York"	"36"	12436	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"North Carolina"	"37"	6168	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"North Dakota"	"38"	465	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Ohio"	"39"	8941	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Oklahoma"	"40"	3004	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Oregon"	"41"	2537	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Pennsylvania"	"42"	10441	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Rhode Island"	"44"	814	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"South Carolina"	"45"	3154	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"South Dakota"	"46"	589	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Tennessee"	"47"	4728	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Texas"	"48"	12376	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Utah"	"49"	1123	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Vermont"	"50"	392	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Virginia"	"51"	4791	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Washington"	"53"	3662	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"West Virginia"	"54"	1731	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Wisconsin"	"55"	3835	Not Applicable	Not Applicable
+	"Nov., 2005"	"2005/11"	"Wyoming"	"56"	348	Not Applicable	Not Applicable
+"Total"	"Nov., 2005"	"2005/11"			198613	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Alabama"	"01"	4261	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Alaska"	"02"	275	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Arizona"	"04"	4659	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Arkansas"	"05"	2495	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"California"	"06"	23255	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Colorado"	"08"	2590	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Connecticut"	"09"	2690	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Delaware"	"10"	683	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"District of Columbia"	"11"	468	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Florida"	"12"	14955	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Georgia"	"13"	6034	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Hawaii"	"15"	763	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Idaho"	"16"	913	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Illinois"	"17"	9112	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Indiana"	"18"	4895	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Iowa"	"19"	2485	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Kansas"	"20"	2340	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Kentucky"	"21"	3640	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Louisiana"	"22"	3886	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Maine"	"23"	1090	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Maryland"	"24"	3793	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Massachusetts"	"25"	4649	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Michigan"	"26"	7394	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Minnesota"	"27"	3360	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Mississippi"	"28"	2513	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Missouri"	"29"	4882	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Montana"	"30"	718	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Nebraska"	"31"	1298	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Nevada"	"32"	1842	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"New Hampshire"	"33"	927	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"New Jersey"	"34"	6262	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"New Mexico"	"35"	1379	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"New York"	"36"	13347	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"North Carolina"	"37"	6659	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"North Dakota"	"38"	524	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Ohio"	"39"	9548	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Oklahoma"	"40"	3334	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Oregon"	"41"	2746	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Pennsylvania"	"42"	11347	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Rhode Island"	"44"	877	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"South Carolina"	"45"	3549	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"South Dakota"	"46"	631	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Tennessee"	"47"	5148	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Texas"	"48"	14201	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Utah"	"49"	1263	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Vermont"	"50"	412	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Virginia"	"51"	5125	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Washington"	"53"	4202	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"West Virginia"	"54"	1840	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Wisconsin"	"55"	4213	Not Applicable	Not Applicable
+	"Dec., 2005"	"2005/12"	"Wyoming"	"56"	381	Not Applicable	Not Applicable
+"Total"	"Dec., 2005"	"2005/12"			219853	Not Applicable	Not Applicable
+"Total"					2448017	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Year/Month: 2005"
+"Group By: Month; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jun 10, 2024 8:37:26 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 10, 2024 8:37:26 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."

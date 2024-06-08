@@ -30,35 +30,6 @@ export const getUniqueObjects = (array) => {
   return uniqueObjects
 }
 
-export const five_year_age_groups = [
-  makeSequence(0, 4),
-  makeSequence(5, 9),
-  makeSequence(10, 14),
-  makeSequence(15, 19),
-  makeSequence(20, 24),
-  makeSequence(25, 29),
-  makeSequence(30, 34),
-  makeSequence(35, 39),
-  makeSequence(40, 44),
-  makeSequence(45, 49),
-  makeSequence(50, 54),
-  makeSequence(55, 59),
-  makeSequence(60, 64),
-  makeSequence(65, 69),
-  makeSequence(70, 74),
-  makeSequence(75, 79),
-  makeSequence(80, 84),
-  makeSequence(85, 89),
-  makeSequence(90, 94),
-  makeSequence(95, 100),
-]
-
-export const age_groups = getUniqueObjects([
-  'all',
-  ...five_year_age_groups,
-  'NS',
-])
-
 export const download = async (page, file) => {
   await page.check('#export-option')
   await page.check('#CO_show_zeros')

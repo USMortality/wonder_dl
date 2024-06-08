@@ -1,0 +1,649 @@
+"Notes"	"Month"	"Month Code"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Jan., 2013"	"2013/01"	"Alabama"	"01"	4978	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Alaska"	"02"	362	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Arizona"	"04"	5136	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Arkansas"	"05"	3195	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"California"	"06"	24923	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Colorado"	"08"	3363	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Connecticut"	"09"	3109	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Delaware"	"10"	773	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"District of Columbia"	"11"	474	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Florida"	"12"	16914	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Georgia"	"13"	7134	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Hawaii"	"15"	914	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Idaho"	"16"	1170	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Illinois"	"17"	10690	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Indiana"	"18"	6270	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Iowa"	"19"	3080	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Kansas"	"20"	2727	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Kentucky"	"21"	4235	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Louisiana"	"22"	4215	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Maine"	"23"	1460	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Maryland"	"24"	4713	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Massachusetts"	"25"	5845	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Michigan"	"26"	9243	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Minnesota"	"27"	4149	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Mississippi"	"28"	2947	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Missouri"	"29"	5762	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Montana"	"30"	923	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Nebraska"	"31"	1631	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Nevada"	"32"	1984	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"New Hampshire"	"33"	1111	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"New Jersey"	"34"	7549	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"New Mexico"	"35"	1662	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"New York"	"36"	15652	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"North Carolina"	"37"	8225	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"North Dakota"	"38"	647	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Ohio"	"39"	11694	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Oklahoma"	"40"	3980	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Oregon"	"41"	3256	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Pennsylvania"	"42"	13457	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Rhode Island"	"44"	986	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"South Carolina"	"45"	4185	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"South Dakota"	"46"	738	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Tennessee"	"47"	6207	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Texas"	"48"	18251	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Utah"	"49"	1591	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Vermont"	"50"	556	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Virginia"	"51"	6305	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Washington"	"53"	5011	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"West Virginia"	"54"	2140	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Wisconsin"	"55"	5131	Not Applicable	Not Applicable
+	"Jan., 2013"	"2013/01"	"Wyoming"	"56"	436	Not Applicable	Not Applicable
+"Total"	"Jan., 2013"	"2013/01"			261089	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Alabama"	"01"	4147	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Alaska"	"02"	309	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Arizona"	"04"	4444	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Arkansas"	"05"	2581	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"California"	"06"	22284	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Colorado"	"08"	2922	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Connecticut"	"09"	2546	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Delaware"	"10"	675	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"District of Columbia"	"11"	380	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Florida"	"12"	14829	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Georgia"	"13"	6159	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Hawaii"	"15"	870	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Idaho"	"16"	991	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Illinois"	"17"	8505	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Indiana"	"18"	5030	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Iowa"	"19"	2363	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Kansas"	"20"	2175	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Kentucky"	"21"	3740	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Louisiana"	"22"	3450	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Maine"	"23"	1111	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Maryland"	"24"	3817	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Massachusetts"	"25"	4663	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Michigan"	"26"	7987	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Minnesota"	"27"	3292	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Mississippi"	"28"	2498	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Missouri"	"29"	4817	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Montana"	"30"	771	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Nebraska"	"31"	1344	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Nevada"	"32"	1856	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"New Hampshire"	"33"	938	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"New Jersey"	"34"	6106	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"New Mexico"	"35"	1399	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"New York"	"36"	12666	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"North Carolina"	"37"	6815	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"North Dakota"	"38"	509	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Ohio"	"39"	9410	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Oklahoma"	"40"	3258	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Oregon"	"41"	2846	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Pennsylvania"	"42"	11182	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Rhode Island"	"44"	794	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"South Carolina"	"45"	3600	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"South Dakota"	"46"	622	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Tennessee"	"47"	5176	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Texas"	"48"	14333	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Utah"	"49"	1331	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Vermont"	"50"	466	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Virginia"	"51"	5195	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Washington"	"53"	4286	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"West Virginia"	"54"	1744	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Wisconsin"	"55"	4029	Not Applicable	Not Applicable
+	"Feb., 2013"	"2013/02"	"Wyoming"	"56"	353	Not Applicable	Not Applicable
+"Total"	"Feb., 2013"	"2013/02"			217614	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Alabama"	"01"	4548	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Alaska"	"02"	377	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Arizona"	"04"	4566	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Arkansas"	"05"	2784	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"California"	"06"	22412	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Colorado"	"08"	2899	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Connecticut"	"09"	2564	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Delaware"	"10"	725	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"District of Columbia"	"11"	410	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Florida"	"12"	16351	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Georgia"	"13"	6901	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Hawaii"	"15"	991	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Idaho"	"16"	1094	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Illinois"	"17"	9137	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Indiana"	"18"	5509	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Iowa"	"19"	2578	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Kansas"	"20"	2217	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Kentucky"	"21"	3959	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Louisiana"	"22"	3907	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Maine"	"23"	1181	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Maryland"	"24"	4112	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Massachusetts"	"25"	4667	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Michigan"	"26"	8297	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Minnesota"	"27"	3567	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Mississippi"	"28"	2819	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Missouri"	"29"	5197	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Montana"	"30"	855	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Nebraska"	"31"	1372	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Nevada"	"32"	1935	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"New Hampshire"	"33"	952	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"New Jersey"	"34"	6446	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"New Mexico"	"35"	1542	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"New York"	"36"	13382	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"North Carolina"	"37"	7537	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"North Dakota"	"38"	526	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Ohio"	"39"	10361	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Oklahoma"	"40"	3392	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Oregon"	"41"	3066	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Pennsylvania"	"42"	11799	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Rhode Island"	"44"	892	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"South Carolina"	"45"	4214	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"South Dakota"	"46"	633	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Tennessee"	"47"	5619	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Texas"	"48"	15763	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Utah"	"49"	1452	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Vermont"	"50"	476	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Virginia"	"51"	5535	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Washington"	"53"	4571	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"West Virginia"	"54"	1994	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Wisconsin"	"55"	4366	Not Applicable	Not Applicable
+	"Mar., 2013"	"2013/03"	"Wyoming"	"56"	422	Not Applicable	Not Applicable
+"Total"	"Mar., 2013"	"2013/03"			232871	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Alabama"	"01"	4158	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Alaska"	"02"	294	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Arizona"	"04"	4284	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Arkansas"	"05"	2503	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"California"	"06"	19917	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Colorado"	"08"	2662	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Connecticut"	"09"	2437	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Delaware"	"10"	675	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"District of Columbia"	"11"	420	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Florida"	"12"	15334	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Georgia"	"13"	6252	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Hawaii"	"15"	862	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Idaho"	"16"	971	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Illinois"	"17"	8403	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Indiana"	"18"	4905	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Iowa"	"19"	2275	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Kansas"	"20"	1999	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Kentucky"	"21"	3695	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Louisiana"	"22"	3608	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Maine"	"23"	1123	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Maryland"	"24"	3678	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Massachusetts"	"25"	4561	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Michigan"	"26"	7606	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Minnesota"	"27"	3370	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Mississippi"	"28"	2560	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Missouri"	"29"	4808	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Montana"	"30"	792	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Nebraska"	"31"	1332	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Nevada"	"32"	1767	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"New Hampshire"	"33"	848	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"New Jersey"	"34"	5953	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"New Mexico"	"35"	1411	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"New York"	"36"	12601	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"North Carolina"	"37"	6879	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"North Dakota"	"38"	500	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Ohio"	"39"	9308	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Oklahoma"	"40"	3065	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Oregon"	"41"	2745	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Pennsylvania"	"42"	10764	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Rhode Island"	"44"	839	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"South Carolina"	"45"	3714	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"South Dakota"	"46"	603	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Tennessee"	"47"	5205	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Texas"	"48"	14454	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Utah"	"49"	1343	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Vermont"	"50"	467	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Virginia"	"51"	5288	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Washington"	"53"	4198	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"West Virginia"	"54"	1855	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Wisconsin"	"55"	4119	Not Applicable	Not Applicable
+	"Apr., 2013"	"2013/04"	"Wyoming"	"56"	379	Not Applicable	Not Applicable
+"Total"	"Apr., 2013"	"2013/04"			213789	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Alabama"	"01"	4064	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Alaska"	"02"	319	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Arizona"	"04"	4132	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Arkansas"	"05"	2509	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"California"	"06"	19823	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Colorado"	"08"	2744	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Connecticut"	"09"	2381	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Delaware"	"10"	642	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"District of Columbia"	"11"	395	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Florida"	"12"	14975	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Georgia"	"13"	6118	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Hawaii"	"15"	869	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Idaho"	"16"	1019	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Illinois"	"17"	8357	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Indiana"	"18"	4868	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Iowa"	"19"	2339	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Kansas"	"20"	1973	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Kentucky"	"21"	3482	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Louisiana"	"22"	3504	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Maine"	"23"	1059	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Maryland"	"24"	3721	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Massachusetts"	"25"	4276	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Michigan"	"26"	7415	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Minnesota"	"27"	3384	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Mississippi"	"28"	2401	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Missouri"	"29"	4583	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Montana"	"30"	806	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Nebraska"	"31"	1325	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Nevada"	"32"	1807	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"New Hampshire"	"33"	857	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"New Jersey"	"34"	5786	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"New Mexico"	"35"	1388	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"New York"	"36"	12257	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"North Carolina"	"37"	6729	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"North Dakota"	"38"	519	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Ohio"	"39"	9049	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Oklahoma"	"40"	3090	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Oregon"	"41"	2834	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Pennsylvania"	"42"	10552	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Rhode Island"	"44"	785	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"South Carolina"	"45"	3536	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"South Dakota"	"46"	533	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Tennessee"	"47"	5177	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Texas"	"48"	14365	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Utah"	"49"	1321	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Vermont"	"50"	470	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Virginia"	"51"	5041	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Washington"	"53"	4135	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"West Virginia"	"54"	1893	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Wisconsin"	"55"	4096	Not Applicable	Not Applicable
+	"May, 2013"	"2013/05"	"Wyoming"	"56"	373	Not Applicable	Not Applicable
+"Total"	"May, 2013"	"2013/05"			210076	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Alabama"	"01"	3847	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Alaska"	"02"	323	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Arizona"	"04"	3889	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Arkansas"	"05"	2399	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"California"	"06"	19147	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Colorado"	"08"	2655	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Connecticut"	"09"	2249	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Delaware"	"10"	590	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"District of Columbia"	"11"	352	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Florida"	"12"	14561	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Georgia"	"13"	5764	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Hawaii"	"15"	804	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Idaho"	"16"	989	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Illinois"	"17"	7845	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Indiana"	"18"	4667	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Iowa"	"19"	2178	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Kansas"	"20"	1931	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Kentucky"	"21"	3412	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Louisiana"	"22"	3334	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Maine"	"23"	1035	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Maryland"	"24"	3551	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Massachusetts"	"25"	4192	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Michigan"	"26"	6908	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Minnesota"	"27"	3045	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Mississippi"	"28"	2389	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Missouri"	"29"	4381	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Montana"	"30"	756	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Nebraska"	"31"	1197	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Nevada"	"32"	1730	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"New Hampshire"	"33"	860	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"New Jersey"	"34"	5376	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"New Mexico"	"35"	1256	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"New York"	"36"	11377	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"North Carolina"	"37"	6383	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"North Dakota"	"38"	461	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Ohio"	"39"	8605	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Oklahoma"	"40"	2958	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Oregon"	"41"	2532	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Pennsylvania"	"42"	9678	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Rhode Island"	"44"	749	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"South Carolina"	"45"	3622	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"South Dakota"	"46"	519	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Tennessee"	"47"	4894	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Texas"	"48"	14222	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Utah"	"49"	1336	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Vermont"	"50"	418	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Virginia"	"51"	4812	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Washington"	"53"	3981	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"West Virginia"	"54"	1659	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Wisconsin"	"55"	3857	Not Applicable	Not Applicable
+	"Jun., 2013"	"2013/06"	"Wyoming"	"56"	335	Not Applicable	Not Applicable
+"Total"	"Jun., 2013"	"2013/06"			200010	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Alabama"	"01"	3900	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Alaska"	"02"	325	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Arizona"	"04"	3980	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Arkansas"	"05"	2399	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"California"	"06"	19426	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Colorado"	"08"	2544	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Connecticut"	"09"	2272	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Delaware"	"10"	636	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"District of Columbia"	"11"	360	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Florida"	"12"	14605	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Georgia"	"13"	5866	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Hawaii"	"15"	874	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Idaho"	"16"	1030	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Illinois"	"17"	8202	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Indiana"	"18"	4745	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Iowa"	"19"	2121	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Kansas"	"20"	2032	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Kentucky"	"21"	3423	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Louisiana"	"22"	3421	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Maine"	"23"	1079	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Maryland"	"24"	3615	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Massachusetts"	"25"	4402	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Michigan"	"26"	7297	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Minnesota"	"27"	3265	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Mississippi"	"28"	2451	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Missouri"	"29"	4438	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Montana"	"30"	780	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Nebraska"	"31"	1209	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Nevada"	"32"	1778	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"New Hampshire"	"33"	846	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"New Jersey"	"34"	5504	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"New Mexico"	"35"	1285	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"New York"	"36"	11821	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"North Carolina"	"37"	6473	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"North Dakota"	"38"	482	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Ohio"	"39"	8976	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Oklahoma"	"40"	2987	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Oregon"	"41"	2741	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Pennsylvania"	"42"	10037	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Rhode Island"	"44"	791	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"South Carolina"	"45"	3508	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"South Dakota"	"46"	525	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Tennessee"	"47"	5080	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Texas"	"48"	14379	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Utah"	"49"	1316	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Vermont"	"50"	447	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Virginia"	"51"	4880	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Washington"	"53"	4052	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"West Virginia"	"54"	1681	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Wisconsin"	"55"	3837	Not Applicable	Not Applicable
+	"Jul., 2013"	"2013/07"	"Wyoming"	"56"	382	Not Applicable	Not Applicable
+"Total"	"Jul., 2013"	"2013/07"			204505	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Alabama"	"01"	3914	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Alaska"	"02"	342	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Arizona"	"04"	3925	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Arkansas"	"05"	2322	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"California"	"06"	19508	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Colorado"	"08"	2685	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Connecticut"	"09"	2313	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Delaware"	"10"	633	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"District of Columbia"	"11"	363	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Florida"	"12"	14393	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Georgia"	"13"	5987	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Hawaii"	"15"	862	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Idaho"	"16"	980	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Illinois"	"17"	8219	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Indiana"	"18"	4874	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Iowa"	"19"	2293	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Kansas"	"20"	1965	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Kentucky"	"21"	3492	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Louisiana"	"22"	3458	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Maine"	"23"	1132	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Maryland"	"24"	3476	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Massachusetts"	"25"	4242	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Michigan"	"26"	7146	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Minnesota"	"27"	3217	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Mississippi"	"28"	2491	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Missouri"	"29"	4617	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Montana"	"30"	713	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Nebraska"	"31"	1324	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Nevada"	"32"	1614	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"New Hampshire"	"33"	870	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"New Jersey"	"34"	5547	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"New Mexico"	"35"	1288	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"New York"	"36"	11812	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"North Carolina"	"37"	6544	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"North Dakota"	"38"	517	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Ohio"	"39"	8890	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Oklahoma"	"40"	3064	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Oregon"	"41"	2698	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Pennsylvania"	"42"	9994	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Rhode Island"	"44"	733	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"South Carolina"	"45"	3442	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"South Dakota"	"46"	582	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Tennessee"	"47"	5135	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Texas"	"48"	14124	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Utah"	"49"	1316	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Vermont"	"50"	451	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Virginia"	"51"	5078	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Washington"	"53"	3994	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"West Virginia"	"54"	1748	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Wisconsin"	"55"	3907	Not Applicable	Not Applicable
+	"Aug., 2013"	"2013/08"	"Wyoming"	"56"	351	Not Applicable	Not Applicable
+"Total"	"Aug., 2013"	"2013/08"			204585	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Alabama"	"01"	3748	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Alaska"	"02"	328	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Arizona"	"04"	3840	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Arkansas"	"05"	2222	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"California"	"06"	18724	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Colorado"	"08"	2697	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Connecticut"	"09"	2231	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Delaware"	"10"	613	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"District of Columbia"	"11"	361	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Florida"	"12"	14143	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Georgia"	"13"	5828	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Hawaii"	"15"	859	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Idaho"	"16"	945	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Illinois"	"17"	7802	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Indiana"	"18"	4643	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Iowa"	"19"	2249	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Kansas"	"20"	1968	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Kentucky"	"21"	3382	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Louisiana"	"22"	3355	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Maine"	"23"	1033	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Maryland"	"24"	3593	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Massachusetts"	"25"	4153	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Michigan"	"26"	7102	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Minnesota"	"27"	3150	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Mississippi"	"28"	2381	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Missouri"	"29"	4455	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Montana"	"30"	695	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Nebraska"	"31"	1154	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Nevada"	"32"	1636	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"New Hampshire"	"33"	871	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"New Jersey"	"34"	5455	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"New Mexico"	"35"	1329	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"New York"	"36"	11394	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"North Carolina"	"37"	6564	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"North Dakota"	"38"	469	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Ohio"	"39"	8681	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Oklahoma"	"40"	2965	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Oregon"	"41"	2600	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Pennsylvania"	"42"	9685	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Rhode Island"	"44"	751	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"South Carolina"	"45"	3417	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"South Dakota"	"46"	549	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Tennessee"	"47"	4898	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Texas"	"48"	13591	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Utah"	"49"	1234	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Vermont"	"50"	430	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Virginia"	"51"	4828	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Washington"	"53"	3932	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"West Virginia"	"54"	1715	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Wisconsin"	"55"	3812	Not Applicable	Not Applicable
+	"Sep., 2013"	"2013/09"	"Wyoming"	"56"	320	Not Applicable	Not Applicable
+"Total"	"Sep., 2013"	"2013/09"			198780	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Alabama"	"01"	4153	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Alaska"	"02"	355	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Arizona"	"04"	3905	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Arkansas"	"05"	2422	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"California"	"06"	20189	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Colorado"	"08"	2848	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Connecticut"	"09"	2412	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Delaware"	"10"	674	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"District of Columbia"	"11"	376	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Florida"	"12"	14787	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Georgia"	"13"	5946	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Hawaii"	"15"	881	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Idaho"	"16"	1097	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Illinois"	"17"	8639	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Indiana"	"18"	4968	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Iowa"	"19"	2347	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Kansas"	"20"	2164	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Kentucky"	"21"	3532	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Louisiana"	"22"	3491	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Maine"	"23"	1058	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Maryland"	"24"	3674	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Massachusetts"	"25"	4467	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Michigan"	"26"	7512	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Minnesota"	"27"	3577	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Mississippi"	"28"	2453	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Missouri"	"29"	4706	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Montana"	"30"	766	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Nebraska"	"31"	1218	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Nevada"	"32"	1736	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"New Hampshire"	"33"	940	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"New Jersey"	"34"	5666	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"New Mexico"	"35"	1424	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"New York"	"36"	12308	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"North Carolina"	"37"	6878	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"North Dakota"	"38"	548	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Ohio"	"39"	9147	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Oklahoma"	"40"	3114	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Oregon"	"41"	2811	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Pennsylvania"	"42"	10403	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Rhode Island"	"44"	790	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"South Carolina"	"45"	3727	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"South Dakota"	"46"	605	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Tennessee"	"47"	5084	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Texas"	"48"	14330	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Utah"	"49"	1403	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Vermont"	"50"	468	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Virginia"	"51"	5028	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Washington"	"53"	4282	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"West Virginia"	"54"	1791	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Wisconsin"	"55"	4239	Not Applicable	Not Applicable
+	"Oct., 2013"	"2013/10"	"Wyoming"	"56"	363	Not Applicable	Not Applicable
+"Total"	"Oct., 2013"	"2013/10"			211702	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Alabama"	"01"	4179	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Alaska"	"02"	332	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Arizona"	"04"	3959	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Arkansas"	"05"	2433	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"California"	"06"	20053	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Colorado"	"08"	2729	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Connecticut"	"09"	2493	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Delaware"	"10"	622	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"District of Columbia"	"11"	383	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Florida"	"12"	14623	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Georgia"	"13"	6357	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Hawaii"	"15"	835	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Idaho"	"16"	1028	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Illinois"	"17"	8268	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Indiana"	"18"	4917	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Iowa"	"19"	2487	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Kansas"	"20"	2020	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Kentucky"	"21"	3546	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Louisiana"	"22"	3608	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Maine"	"23"	1101	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Maryland"	"24"	3735	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Massachusetts"	"25"	4439	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Michigan"	"26"	7619	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Minnesota"	"27"	3389	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Mississippi"	"28"	2564	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Missouri"	"29"	4637	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Montana"	"30"	780	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Nebraska"	"31"	1291	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Nevada"	"32"	1707	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"New Hampshire"	"33"	875	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"New Jersey"	"34"	5760	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"New Mexico"	"35"	1274	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"New York"	"36"	12478	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"North Carolina"	"37"	6898	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"North Dakota"	"38"	525	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Ohio"	"39"	9273	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Oklahoma"	"40"	3110	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Oregon"	"41"	2796	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Pennsylvania"	"42"	10405	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Rhode Island"	"44"	819	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"South Carolina"	"45"	3628	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"South Dakota"	"46"	551	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Tennessee"	"47"	5242	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Texas"	"48"	14579	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Utah"	"49"	1279	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Vermont"	"50"	474	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Virginia"	"51"	5167	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Washington"	"53"	4296	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"West Virginia"	"54"	1724	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Wisconsin"	"55"	4190	Not Applicable	Not Applicable
+	"Nov., 2013"	"2013/11"	"Wyoming"	"56"	373	Not Applicable	Not Applicable
+"Total"	"Nov., 2013"	"2013/11"			211850	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Alabama"	"01"	4553	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Alaska"	"02"	331	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Arizona"	"04"	4474	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Arkansas"	"05"	2668	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"California"	"06"	21953	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Colorado"	"08"	2964	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Connecticut"	"09"	2625	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Delaware"	"10"	709	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"District of Columbia"	"11"	445	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Florida"	"12"	15597	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Georgia"	"13"	6776	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Hawaii"	"15"	884	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Idaho"	"16"	1120	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Illinois"	"17"	9334	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Indiana"	"18"	5320	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Iowa"	"19"	2638	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Kansas"	"20"	2243	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Kentucky"	"21"	3861	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Louisiana"	"22"	3919	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Maine"	"23"	1175	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Maryland"	"24"	4004	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Massachusetts"	"25"	4660	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Michigan"	"26"	8276	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Minnesota"	"27"	3582	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Mississippi"	"28"	2749	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Missouri"	"29"	5043	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Montana"	"30"	874	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Nebraska"	"31"	1357	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Nevada"	"32"	1918	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"New Hampshire"	"33"	929	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"New Jersey"	"34"	6255	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"New Mexico"	"35"	1547	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"New York"	"36"	13171	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"North Carolina"	"37"	7404	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"North Dakota"	"38"	530	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Ohio"	"39"	9864	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Oklahoma"	"40"	3401	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Oregon"	"41"	3014	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Pennsylvania"	"42"	11167	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Rhode Island"	"44"	863	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"South Carolina"	"45"	3989	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"South Dakota"	"46"	639	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Tennessee"	"47"	5689	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Texas"	"48"	16792	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Utah"	"49"	1444	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Vermont"	"50"	516	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Virginia"	"51"	5559	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Washington"	"53"	4526	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"West Virginia"	"54"	1899	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Wisconsin"	"55"	4443	Not Applicable	Not Applicable
+	"Dec., 2013"	"2013/12"	"Wyoming"	"56"	429	Not Applicable	Not Applicable
+"Total"	"Dec., 2013"	"2013/12"			230122	Not Applicable	Not Applicable
+"Total"					2596993	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Year/Month: 2013"
+"Group By: Month; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jun 10, 2024 8:38:08 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 10, 2024 8:38:08 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."

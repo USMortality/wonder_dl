@@ -1,0 +1,649 @@
+"Notes"	"Month"	"Month Code"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Jan., 2011"	"2011/01"	"Alabama"	"01"	4620	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Alaska"	"02"	324	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Arizona"	"04"	4388	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Arkansas"	"05"	2710	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"California"	"06"	22102	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Colorado"	"08"	2857	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Connecticut"	"09"	2915	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Delaware"	"10"	723	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"District of Columbia"	"11"	420	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Florida"	"12"	16468	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Georgia"	"13"	6958	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Hawaii"	"15"	882	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Idaho"	"16"	1035	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Illinois"	"17"	9427	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Indiana"	"18"	5144	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Iowa"	"19"	2559	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Kansas"	"20"	2387	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Kentucky"	"21"	3929	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Louisiana"	"22"	3781	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Maine"	"23"	1259	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Maryland"	"24"	4086	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Massachusetts"	"25"	5174	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Michigan"	"26"	7940	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Minnesota"	"27"	3573	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Mississippi"	"28"	2765	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Missouri"	"29"	5118	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Montana"	"30"	817	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Nebraska"	"31"	1422	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Nevada"	"32"	1713	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"New Hampshire"	"33"	964	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"New Jersey"	"34"	7092	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"New Mexico"	"35"	1538	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"New York"	"36"	14534	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"North Carolina"	"37"	7562	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"North Dakota"	"38"	523	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Ohio"	"39"	10191	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Oklahoma"	"40"	3570	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Oregon"	"41"	2860	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Pennsylvania"	"42"	12091	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Rhode Island"	"44"	936	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"South Carolina"	"45"	4029	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"South Dakota"	"46"	647	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Tennessee"	"47"	5521	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Texas"	"48"	15444	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Utah"	"49"	1307	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Vermont"	"50"	466	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Virginia"	"51"	5778	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Washington"	"53"	4347	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"West Virginia"	"54"	1985	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Wisconsin"	"55"	4422	Not Applicable	Not Applicable
+	"Jan., 2011"	"2011/01"	"Wyoming"	"56"	387	Not Applicable	Not Applicable
+"Total"	"Jan., 2011"	"2011/01"			233690	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Alabama"	"01"	4030	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Alaska"	"02"	257	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Arizona"	"04"	4127	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Arkansas"	"05"	2405	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"California"	"06"	20265	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Colorado"	"08"	2694	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Connecticut"	"09"	2564	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Delaware"	"10"	653	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"District of Columbia"	"11"	375	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Florida"	"12"	14288	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Georgia"	"13"	5971	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Hawaii"	"15"	814	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Idaho"	"16"	1002	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Illinois"	"17"	8564	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Indiana"	"18"	5045	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Iowa"	"19"	2276	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Kansas"	"20"	2037	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Kentucky"	"21"	3536	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Louisiana"	"22"	3577	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Maine"	"23"	1069	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Maryland"	"24"	3785	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Massachusetts"	"25"	4734	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Michigan"	"26"	7400	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Minnesota"	"27"	3269	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Mississippi"	"28"	2501	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Missouri"	"29"	4662	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Montana"	"30"	711	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Nebraska"	"31"	1293	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Nevada"	"32"	1658	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"New Hampshire"	"33"	953	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"New Jersey"	"34"	6240	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"New Mexico"	"35"	1399	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"New York"	"36"	12446	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"North Carolina"	"37"	6871	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"North Dakota"	"38"	485	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Ohio"	"39"	9283	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Oklahoma"	"40"	3224	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Oregon"	"41"	2595	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Pennsylvania"	"42"	10993	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Rhode Island"	"44"	836	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"South Carolina"	"45"	3539	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"South Dakota"	"46"	562	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Tennessee"	"47"	5092	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Texas"	"48"	14601	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Utah"	"49"	1228	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Vermont"	"50"	461	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Virginia"	"51"	5276	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Washington"	"53"	4136	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"West Virginia"	"54"	1844	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Wisconsin"	"55"	3830	Not Applicable	Not Applicable
+	"Feb., 2011"	"2011/02"	"Wyoming"	"56"	327	Not Applicable	Not Applicable
+"Total"	"Feb., 2011"	"2011/02"			211783	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Alabama"	"01"	4280	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Alaska"	"02"	390	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Arizona"	"04"	4427	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Arkansas"	"05"	2613	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"California"	"06"	21951	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Colorado"	"08"	2876	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Connecticut"	"09"	2597	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Delaware"	"10"	699	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"District of Columbia"	"11"	440	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Florida"	"12"	15281	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Georgia"	"13"	6232	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Hawaii"	"15"	940	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Idaho"	"16"	1077	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Illinois"	"17"	9020	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Indiana"	"18"	5204	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Iowa"	"19"	2634	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Kansas"	"20"	2304	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Kentucky"	"21"	3812	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Louisiana"	"22"	3479	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Maine"	"23"	1169	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Maryland"	"24"	3888	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Massachusetts"	"25"	4957	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Michigan"	"26"	8006	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Minnesota"	"27"	3761	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Mississippi"	"28"	2465	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Missouri"	"29"	4949	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Montana"	"30"	879	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Nebraska"	"31"	1425	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Nevada"	"32"	1874	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"New Hampshire"	"33"	1040	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"New Jersey"	"34"	6253	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"New Mexico"	"35"	1493	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"New York"	"36"	13351	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"North Carolina"	"37"	6989	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"North Dakota"	"38"	515	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Ohio"	"39"	10055	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Oklahoma"	"40"	3219	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Oregon"	"41"	2984	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Pennsylvania"	"42"	11792	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Rhode Island"	"44"	919	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"South Carolina"	"45"	3637	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"South Dakota"	"46"	637	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Tennessee"	"47"	5276	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Texas"	"48"	14905	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Utah"	"49"	1354	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Vermont"	"50"	491	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Virginia"	"51"	5412	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Washington"	"53"	4540	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"West Virginia"	"54"	2112	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Wisconsin"	"55"	4211	Not Applicable	Not Applicable
+	"Mar., 2011"	"2011/03"	"Wyoming"	"56"	380	Not Applicable	Not Applicable
+"Total"	"Mar., 2011"	"2011/03"			225194	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Alabama"	"01"	4139	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Alaska"	"02"	292	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Arizona"	"04"	4032	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Arkansas"	"05"	2466	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"California"	"06"	19994	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Colorado"	"08"	2684	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Connecticut"	"09"	2430	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Delaware"	"10"	663	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"District of Columbia"	"11"	377	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Florida"	"12"	14390	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Georgia"	"13"	5819	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Hawaii"	"15"	873	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Idaho"	"16"	1022	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Illinois"	"17"	8357	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Indiana"	"18"	4715	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Iowa"	"19"	2367	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Kansas"	"20"	2134	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Kentucky"	"21"	3407	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Louisiana"	"22"	3326	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Maine"	"23"	1134	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Maryland"	"24"	3537	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Massachusetts"	"25"	4535	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Michigan"	"26"	7732	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Minnesota"	"27"	3413	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Mississippi"	"28"	2447	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Missouri"	"29"	4492	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Montana"	"30"	757	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Nebraska"	"31"	1346	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Nevada"	"32"	1791	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"New Hampshire"	"33"	923	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"New Jersey"	"34"	5832	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"New Mexico"	"35"	1403	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"New York"	"36"	12367	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"North Carolina"	"37"	6429	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"North Dakota"	"38"	528	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Ohio"	"39"	9179	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Oklahoma"	"40"	3057	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Oregon"	"41"	2774	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Pennsylvania"	"42"	10440	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Rhode Island"	"44"	793	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"South Carolina"	"45"	3303	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"South Dakota"	"46"	619	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Tennessee"	"47"	4948	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Texas"	"48"	13705	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Utah"	"49"	1265	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Vermont"	"50"	476	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Virginia"	"51"	4877	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Washington"	"53"	4269	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"West Virginia"	"54"	1823	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Wisconsin"	"55"	4222	Not Applicable	Not Applicable
+	"Apr., 2011"	"2011/04"	"Wyoming"	"56"	385	Not Applicable	Not Applicable
+"Total"	"Apr., 2011"	"2011/04"			208288	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Alabama"	"01"	4037	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Alaska"	"02"	312	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Arizona"	"04"	3967	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Arkansas"	"05"	2533	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"California"	"06"	19858	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Colorado"	"08"	2868	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Connecticut"	"09"	2456	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Delaware"	"10"	676	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"District of Columbia"	"11"	372	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Florida"	"12"	14575	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Georgia"	"13"	5818	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Hawaii"	"15"	827	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Idaho"	"16"	994	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Illinois"	"17"	8419	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Indiana"	"18"	4877	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Iowa"	"19"	2250	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Kansas"	"20"	2048	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Kentucky"	"21"	3613	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Louisiana"	"22"	3405	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Maine"	"23"	1053	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Maryland"	"24"	3515	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Massachusetts"	"25"	4340	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Michigan"	"26"	7451	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Minnesota"	"27"	3232	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Mississippi"	"28"	2435	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Missouri"	"29"	4741	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Montana"	"30"	819	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Nebraska"	"31"	1305	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Nevada"	"32"	1709	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"New Hampshire"	"33"	877	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"New Jersey"	"34"	5768	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"New Mexico"	"35"	1446	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"New York"	"36"	12067	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"North Carolina"	"37"	6570	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"North Dakota"	"38"	494	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Ohio"	"39"	9062	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Oklahoma"	"40"	3054	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Oregon"	"41"	2750	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Pennsylvania"	"42"	10533	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Rhode Island"	"44"	802	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"South Carolina"	"45"	3542	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"South Dakota"	"46"	644	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Tennessee"	"47"	5033	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Texas"	"48"	13837	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Utah"	"49"	1307	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Vermont"	"50"	458	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Virginia"	"51"	4917	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Washington"	"53"	4283	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"West Virginia"	"54"	1859	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Wisconsin"	"55"	4171	Not Applicable	Not Applicable
+	"May, 2011"	"2011/05"	"Wyoming"	"56"	377	Not Applicable	Not Applicable
+"Total"	"May, 2011"	"2011/05"			208356	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Alabama"	"01"	3810	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Alaska"	"02"	339	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Arizona"	"04"	3908	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Arkansas"	"05"	2323	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"California"	"06"	19118	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Colorado"	"08"	2567	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Connecticut"	"09"	2259	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Delaware"	"10"	595	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"District of Columbia"	"11"	352	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Florida"	"12"	13837	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Georgia"	"13"	5490	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Hawaii"	"15"	816	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Idaho"	"16"	967	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Illinois"	"17"	7826	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Indiana"	"18"	4538	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Iowa"	"19"	2175	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Kansas"	"20"	1993	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Kentucky"	"21"	3365	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Louisiana"	"22"	3199	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Maine"	"23"	998	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Maryland"	"24"	3475	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Massachusetts"	"25"	4153	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Michigan"	"26"	7163	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Minnesota"	"27"	2962	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Mississippi"	"28"	2234	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Missouri"	"29"	4387	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Montana"	"30"	673	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Nebraska"	"31"	1197	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Nevada"	"32"	1697	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"New Hampshire"	"33"	877	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"New Jersey"	"34"	5416	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"New Mexico"	"35"	1293	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"New York"	"36"	11578	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"North Carolina"	"37"	6227	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"North Dakota"	"38"	476	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Ohio"	"39"	8663	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Oklahoma"	"40"	2882	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Oregon"	"41"	2592	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Pennsylvania"	"42"	10122	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Rhode Island"	"44"	706	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"South Carolina"	"45"	3383	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"South Dakota"	"46"	557	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Tennessee"	"47"	4768	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Texas"	"48"	13304	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Utah"	"49"	1181	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Vermont"	"50"	434	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Virginia"	"51"	4743	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Washington"	"53"	3894	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"West Virginia"	"54"	1684	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Wisconsin"	"55"	3783	Not Applicable	Not Applicable
+	"Jun., 2011"	"2011/06"	"Wyoming"	"56"	351	Not Applicable	Not Applicable
+"Total"	"Jun., 2011"	"2011/06"			197330	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Alabama"	"01"	3933	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Alaska"	"02"	349	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Arizona"	"04"	3862	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Arkansas"	"05"	2368	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"California"	"06"	18941	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Colorado"	"08"	2579	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Connecticut"	"09"	2361	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Delaware"	"10"	633	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"District of Columbia"	"11"	372	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Florida"	"12"	14137	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Georgia"	"13"	5698	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Hawaii"	"15"	797	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Idaho"	"16"	980	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Illinois"	"17"	8248	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Indiana"	"18"	4654	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Iowa"	"19"	2230	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Kansas"	"20"	1980	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Kentucky"	"21"	3324	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Louisiana"	"22"	3371	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Maine"	"23"	1036	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Maryland"	"24"	3495	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Massachusetts"	"25"	4330	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Michigan"	"26"	7273	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Minnesota"	"27"	3102	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Mississippi"	"28"	2313	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Missouri"	"29"	4593	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Montana"	"30"	739	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Nebraska"	"31"	1180	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Nevada"	"32"	1672	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"New Hampshire"	"33"	826	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"New Jersey"	"34"	5614	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"New Mexico"	"35"	1301	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"New York"	"36"	12120	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"North Carolina"	"37"	6452	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"North Dakota"	"38"	452	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Ohio"	"39"	9107	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Oklahoma"	"40"	3061	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Oregon"	"41"	2614	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Pennsylvania"	"42"	10329	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Rhode Island"	"44"	784	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"South Carolina"	"45"	3413	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"South Dakota"	"46"	576	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Tennessee"	"47"	4853	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Texas"	"48"	13580	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Utah"	"49"	1316	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Vermont"	"50"	450	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Virginia"	"51"	4858	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Washington"	"53"	4030	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"West Virginia"	"54"	1665	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Wisconsin"	"55"	3820	Not Applicable	Not Applicable
+	"Jul., 2011"	"2011/07"	"Wyoming"	"56"	320	Not Applicable	Not Applicable
+"Total"	"Jul., 2011"	"2011/07"			202091	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Alabama"	"01"	3820	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Alaska"	"02"	321	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Arizona"	"04"	3967	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Arkansas"	"05"	2483	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"California"	"06"	18840	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Colorado"	"08"	2646	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Connecticut"	"09"	2287	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Delaware"	"10"	626	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"District of Columbia"	"11"	373	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Florida"	"12"	14216	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Georgia"	"13"	5662	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Hawaii"	"15"	769	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Idaho"	"16"	926	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Illinois"	"17"	8190	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Indiana"	"18"	4689	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Iowa"	"19"	2267	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Kansas"	"20"	1985	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Kentucky"	"21"	3463	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Louisiana"	"22"	3365	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Maine"	"23"	1048	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Maryland"	"24"	3556	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Massachusetts"	"25"	4129	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Michigan"	"26"	7209	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Minnesota"	"27"	3133	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Mississippi"	"28"	2448	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Missouri"	"29"	4513	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Montana"	"30"	715	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Nebraska"	"31"	1265	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Nevada"	"32"	1644	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"New Hampshire"	"33"	815	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"New Jersey"	"34"	5355	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"New Mexico"	"35"	1283	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"New York"	"36"	11660	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"North Carolina"	"37"	6395	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"North Dakota"	"38"	502	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Ohio"	"39"	8935	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Oklahoma"	"40"	2991	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Oregon"	"41"	2624	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Pennsylvania"	"42"	9851	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Rhode Island"	"44"	729	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"South Carolina"	"45"	3339	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"South Dakota"	"46"	598	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Tennessee"	"47"	4842	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Texas"	"48"	13537	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Utah"	"49"	1268	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Vermont"	"50"	423	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Virginia"	"51"	4880	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Washington"	"53"	3894	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"West Virginia"	"54"	1732	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Wisconsin"	"55"	3934	Not Applicable	Not Applicable
+	"Aug., 2011"	"2011/08"	"Wyoming"	"56"	362	Not Applicable	Not Applicable
+"Total"	"Aug., 2011"	"2011/08"			200504	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Alabama"	"01"	3700	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Alaska"	"02"	304	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Arizona"	"04"	3746	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Arkansas"	"05"	2263	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"California"	"06"	18399	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Colorado"	"08"	2549	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Connecticut"	"09"	2240	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Delaware"	"10"	565	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"District of Columbia"	"11"	364	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Florida"	"12"	13697	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Georgia"	"13"	5713	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Hawaii"	"15"	772	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Idaho"	"16"	966	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Illinois"	"17"	8045	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Indiana"	"18"	4548	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Iowa"	"19"	2269	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Kansas"	"20"	1927	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Kentucky"	"21"	3269	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Louisiana"	"22"	3194	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Maine"	"23"	991	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Maryland"	"24"	3283	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Massachusetts"	"25"	4056	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Michigan"	"26"	7128	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Minnesota"	"27"	3150	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Mississippi"	"28"	2338	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Missouri"	"29"	4324	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Montana"	"30"	719	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Nebraska"	"31"	1206	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Nevada"	"32"	1599	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"New Hampshire"	"33"	848	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"New Jersey"	"34"	5432	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"New Mexico"	"35"	1231	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"New York"	"36"	11360	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"North Carolina"	"37"	6218	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"North Dakota"	"38"	464	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Ohio"	"39"	8676	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Oklahoma"	"40"	2889	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Oregon"	"41"	2492	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Pennsylvania"	"42"	9874	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Rhode Island"	"44"	746	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"South Carolina"	"45"	3283	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"South Dakota"	"46"	583	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Tennessee"	"47"	4841	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Texas"	"48"	13206	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Utah"	"49"	1187	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Vermont"	"50"	410	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Virginia"	"51"	4674	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Washington"	"53"	3850	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"West Virginia"	"54"	1719	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Wisconsin"	"55"	3728	Not Applicable	Not Applicable
+	"Sep., 2011"	"2011/09"	"Wyoming"	"56"	346	Not Applicable	Not Applicable
+"Total"	"Sep., 2011"	"2011/09"			195381	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Alabama"	"01"	4043	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Alaska"	"02"	302	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Arizona"	"04"	3963	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Arkansas"	"05"	2472	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"California"	"06"	19270	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Colorado"	"08"	2732	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Connecticut"	"09"	2408	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Delaware"	"10"	668	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"District of Columbia"	"11"	399	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Florida"	"12"	14296	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Georgia"	"13"	5909	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Hawaii"	"15"	790	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Idaho"	"16"	983	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Illinois"	"17"	8670	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Indiana"	"18"	4818	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Iowa"	"19"	2367	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Kansas"	"20"	2019	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Kentucky"	"21"	3598	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Louisiana"	"22"	3335	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Maine"	"23"	1112	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Maryland"	"24"	3640	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Massachusetts"	"25"	4324	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Michigan"	"26"	7444	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Minnesota"	"27"	3346	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Mississippi"	"28"	2378	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Missouri"	"29"	4689	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Montana"	"30"	763	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Nebraska"	"31"	1224	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Nevada"	"32"	1602	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"New Hampshire"	"33"	877	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"New Jersey"	"34"	5630	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"New Mexico"	"35"	1347	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"New York"	"36"	12418	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"North Carolina"	"37"	6605	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"North Dakota"	"38"	485	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Ohio"	"39"	9418	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Oklahoma"	"40"	3024	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Oregon"	"41"	2740	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Pennsylvania"	"42"	10821	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Rhode Island"	"44"	745	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"South Carolina"	"45"	3498	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"South Dakota"	"46"	621	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Tennessee"	"47"	5042	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Texas"	"48"	13884	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Utah"	"49"	1226	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Vermont"	"50"	466	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Virginia"	"51"	5143	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Washington"	"53"	4123	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"West Virginia"	"54"	1796	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Wisconsin"	"55"	4130	Not Applicable	Not Applicable
+	"Oct., 2011"	"2011/10"	"Wyoming"	"56"	371	Not Applicable	Not Applicable
+"Total"	"Oct., 2011"	"2011/10"			207974	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Alabama"	"01"	3997	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Alaska"	"02"	298	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Arizona"	"04"	3830	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Arkansas"	"05"	2419	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"California"	"06"	19565	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Colorado"	"08"	2666	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Connecticut"	"09"	2455	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Delaware"	"10"	646	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"District of Columbia"	"11"	367	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Florida"	"12"	14016	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Georgia"	"13"	5757	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Hawaii"	"15"	771	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Idaho"	"16"	1042	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Illinois"	"17"	8312	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Indiana"	"18"	4871	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Iowa"	"19"	2316	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Kansas"	"20"	2037	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Kentucky"	"21"	3558	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Louisiana"	"22"	3237	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Maine"	"23"	1064	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Maryland"	"24"	3710	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Massachusetts"	"25"	4481	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Michigan"	"26"	7283	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Minnesota"	"27"	3389	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Mississippi"	"28"	2319	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Missouri"	"29"	4547	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Montana"	"30"	736	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Nebraska"	"31"	1302	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Nevada"	"32"	1651	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"New Hampshire"	"33"	869	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"New Jersey"	"34"	5848	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"New Mexico"	"35"	1310	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"New York"	"36"	12494	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"North Carolina"	"37"	6642	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"North Dakota"	"38"	505	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Ohio"	"39"	9190	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Oklahoma"	"40"	3070	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Oregon"	"41"	2741	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Pennsylvania"	"42"	10340	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Rhode Island"	"44"	743	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"South Carolina"	"45"	3498	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"South Dakota"	"46"	619	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Tennessee"	"47"	5041	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Texas"	"48"	13659	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Utah"	"49"	1302	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Vermont"	"50"	450	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Virginia"	"51"	4991	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Washington"	"53"	4112	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"West Virginia"	"54"	1782	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Wisconsin"	"55"	3895	Not Applicable	Not Applicable
+	"Nov., 2011"	"2011/11"	"Wyoming"	"56"	396	Not Applicable	Not Applicable
+"Total"	"Nov., 2011"	"2011/11"			206139	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Alabama"	"01"	4272	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Alaska"	"02"	361	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Arizona"	"04"	4164	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Arkansas"	"05"	2598	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"California"	"06"	21639	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Colorado"	"08"	2845	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Connecticut"	"09"	2554	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Delaware"	"10"	698	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"District of Columbia"	"11"	378	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Florida"	"12"	14775	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Georgia"	"13"	6221	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Hawaii"	"15"	872	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Idaho"	"16"	1033	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Illinois"	"17"	8828	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Indiana"	"18"	5099	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Iowa"	"19"	2474	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Kansas"	"20"	2265	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Kentucky"	"21"	3752	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Louisiana"	"22"	3621	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Maine"	"23"	1068	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Maryland"	"24"	3775	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Massachusetts"	"25"	4497	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Michigan"	"26"	7479	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Minnesota"	"27"	3490	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Mississippi"	"28"	2635	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Missouri"	"29"	4833	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Montana"	"30"	787	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Nebraska"	"31"	1311	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Nevada"	"32"	1733	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"New Hampshire"	"33"	954	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"New Jersey"	"34"	6078	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"New Mexico"	"35"	1408	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"New York"	"36"	12779	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"North Carolina"	"37"	6922	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"North Dakota"	"38"	536	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Ohio"	"39"	9668	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Oklahoma"	"40"	3134	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Oregon"	"41"	3022	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Pennsylvania"	"42"	11051	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Rhode Island"	"44"	842	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"South Carolina"	"45"	3608	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"South Dakota"	"46"	651	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Tennessee"	"47"	5284	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Texas"	"48"	14978	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Utah"	"49"	1325	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Vermont"	"50"	448	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Virginia"	"51"	5255	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Washington"	"53"	4213	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"West Virginia"	"54"	1866	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Wisconsin"	"55"	4264	Not Applicable	Not Applicable
+	"Dec., 2011"	"2011/12"	"Wyoming"	"56"	385	Not Applicable	Not Applicable
+"Total"	"Dec., 2011"	"2011/12"			218728	Not Applicable	Not Applicable
+"Total"					2515458	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Year/Month: 2011"
+"Group By: Month; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jun 10, 2024 8:37:53 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 10, 2024 8:37:53 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."

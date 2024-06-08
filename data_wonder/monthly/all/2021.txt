@@ -1,0 +1,652 @@
+"Notes"	"Month"	"Month Code"	"Residence State"	"Residence State Code"	Deaths	Population	Crude Rate
+	"Jan., 2021"	"2021/01"	"Alabama"	"01"	8048	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Alaska"	"02"	486	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Arizona"	"04"	10057	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Arkansas"	"05"	4198	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"California"	"06"	47999	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Colorado"	"08"	4372	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Connecticut"	"09"	3761	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Delaware"	"10"	1229	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"District of Columbia"	"11"	661	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Florida"	"12"	24337	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Georgia"	"13"	12910	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Hawaii"	"15"	990	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Idaho"	"16"	1518	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Illinois"	"17"	12349	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Indiana"	"18"	8027	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Iowa"	"19"	3324	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Kansas"	"20"	3323	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Kentucky"	"21"	5793	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Louisiana"	"22"	5928	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Maine"	"23"	1574	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Maryland"	"24"	6075	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Massachusetts"	"25"	6814	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Michigan"	"26"	10598	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Minnesota"	"27"	4616	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Mississippi"	"28"	4501	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Missouri"	"29"	7383	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Montana"	"30"	1061	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Nebraska"	"31"	1792	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Nevada"	"32"	3610	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"New Hampshire"	"33"	1460	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"New Jersey"	"34"	9098	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"New Mexico"	"35"	2469	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"New York"	"36"	20466	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"North Carolina"	"37"	12948	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"North Dakota"	"38"	595	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Ohio"	"39"	15265	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Oklahoma"	"40"	5795	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Oregon"	"41"	3854	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Pennsylvania"	"42"	16996	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Rhode Island"	"44"	1237	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"South Carolina"	"45"	7340	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"South Dakota"	"46"	898	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Tennessee"	"47"	9679	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Texas"	"48"	30259	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Utah"	"49"	2121	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Vermont"	"50"	573	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Virginia"	"51"	9169	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Washington"	"53"	6063	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"West Virginia"	"54"	2974	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Wisconsin"	"55"	5733	Not Applicable	Not Applicable
+	"Jan., 2021"	"2021/01"	"Wyoming"	"56"	590	Not Applicable	Not Applicable
+"Total"	"Jan., 2021"	"2021/01"			372916	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Alabama"	"01"	5661	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Alaska"	"02"	386	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Arizona"	"04"	6567	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Arkansas"	"05"	3216	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"California"	"06"	29951	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Colorado"	"08"	3466	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Connecticut"	"09"	2807	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Delaware"	"10"	931	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"District of Columbia"	"11"	518	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Florida"	"12"	20355	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Georgia"	"13"	9378	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Hawaii"	"15"	999	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Idaho"	"16"	1224	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Illinois"	"17"	10095	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Indiana"	"18"	5916	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Iowa"	"19"	2537	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Kansas"	"20"	2481	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Kentucky"	"21"	4607	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Louisiana"	"22"	4610	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Maine"	"23"	1230	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Maryland"	"24"	4908	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Massachusetts"	"25"	5403	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Michigan"	"26"	8713	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Minnesota"	"27"	3756	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Mississippi"	"28"	3388	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Missouri"	"29"	5680	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Montana"	"30"	860	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Nebraska"	"31"	1330	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Nevada"	"32"	2640	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"New Hampshire"	"33"	1062	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"New Jersey"	"34"	7535	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"New Mexico"	"35"	1876	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"New York"	"36"	16544	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"North Carolina"	"37"	9703	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"North Dakota"	"38"	532	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Ohio"	"39"	11682	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Oklahoma"	"40"	4148	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Oregon"	"41"	3235	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Pennsylvania"	"42"	12547	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Rhode Island"	"44"	943	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"South Carolina"	"45"	5372	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"South Dakota"	"46"	713	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Tennessee"	"47"	6949	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Texas"	"48"	23638	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Utah"	"49"	1682	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Vermont"	"50"	594	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Virginia"	"51"	7302	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Washington"	"53"	5094	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"West Virginia"	"54"	2216	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Wisconsin"	"55"	4579	Not Applicable	Not Applicable
+	"Feb., 2021"	"2021/02"	"Wyoming"	"56"	456	Not Applicable	Not Applicable
+"Total"	"Feb., 2021"	"2021/02"			282015	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Alabama"	"01"	5218	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Alaska"	"02"	427	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Arizona"	"04"	6039	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Arkansas"	"05"	3038	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"California"	"06"	26632	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Colorado"	"08"	3839	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Connecticut"	"09"	2841	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Delaware"	"10"	913	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"District of Columbia"	"11"	504	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Florida"	"12"	20059	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Georgia"	"13"	8372	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Hawaii"	"15"	1078	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Idaho"	"16"	1375	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Illinois"	"17"	9804	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Indiana"	"18"	5863	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Iowa"	"19"	2491	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Kansas"	"20"	2433	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Kentucky"	"21"	4668	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Louisiana"	"22"	4542	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Maine"	"23"	1284	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Maryland"	"24"	5007	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Massachusetts"	"25"	5217	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Michigan"	"26"	9137	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Minnesota"	"27"	3930	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Mississippi"	"28"	3184	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Missouri"	"29"	5647	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Montana"	"30"	907	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Nebraska"	"31"	1450	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Nevada"	"32"	2509	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"New Hampshire"	"33"	1068	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"New Jersey"	"34"	7294	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"New Mexico"	"35"	2024	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"New York"	"36"	15943	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"North Carolina"	"37"	8964	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"North Dakota"	"38"	593	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Ohio"	"39"	11033	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Oklahoma"	"40"	3817	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Oregon"	"41"	3556	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Pennsylvania"	"42"	12104	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Rhode Island"	"44"	926	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"South Carolina"	"45"	5028	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"South Dakota"	"46"	716	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Tennessee"	"47"	6796	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Texas"	"48"	20706	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Utah"	"49"	1701	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Vermont"	"50"	526	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Virginia"	"51"	6797	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Washington"	"53"	5269	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"West Virginia"	"54"	2247	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Wisconsin"	"55"	4563	Not Applicable	Not Applicable
+	"Mar., 2021"	"2021/03"	"Wyoming"	"56"	448	Not Applicable	Not Applicable
+"Total"	"Mar., 2021"	"2021/03"			270527	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Alabama"	"01"	5051	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Alaska"	"02"	436	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Arizona"	"04"	5452	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Arkansas"	"05"	2824	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"California"	"06"	23176	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Colorado"	"08"	3511	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Connecticut"	"09"	2576	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Delaware"	"10"	883	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"District of Columbia"	"11"	455	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Florida"	"12"	19304	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Georgia"	"13"	8122	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Hawaii"	"15"	1024	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Idaho"	"16"	1290	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Illinois"	"17"	9752	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Indiana"	"18"	5672	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Iowa"	"19"	2614	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Kansas"	"20"	2260	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Kentucky"	"21"	4502	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Louisiana"	"22"	4223	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Maine"	"23"	1302	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Maryland"	"24"	4717	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Massachusetts"	"25"	4806	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Michigan"	"26"	10028	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Minnesota"	"27"	3917	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Mississippi"	"28"	2957	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Missouri"	"29"	5457	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Montana"	"30"	900	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Nebraska"	"31"	1483	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Nevada"	"32"	2272	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"New Hampshire"	"33"	1057	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"New Jersey"	"34"	7096	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"New Mexico"	"35"	1848	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"New York"	"36"	14336	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"North Carolina"	"37"	8701	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"North Dakota"	"38"	528	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Ohio"	"39"	10673	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Oklahoma"	"40"	3466	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Oregon"	"41"	3333	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Pennsylvania"	"42"	11895	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Rhode Island"	"44"	813	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"South Carolina"	"45"	4725	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"South Dakota"	"46"	671	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Tennessee"	"47"	6726	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Texas"	"48"	18840	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Utah"	"49"	1642	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Vermont"	"50"	522	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Virginia"	"51"	6466	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Washington"	"53"	5194	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"West Virginia"	"54"	2163	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Wisconsin"	"55"	4447	Not Applicable	Not Applicable
+	"Apr., 2021"	"2021/04"	"Wyoming"	"56"	415	Not Applicable	Not Applicable
+"Total"	"Apr., 2021"	"2021/04"			256523	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Alabama"	"01"	5009	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Alaska"	"02"	438	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Arizona"	"04"	5746	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Arkansas"	"05"	2990	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"California"	"06"	23461	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Colorado"	"08"	3701	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Connecticut"	"09"	2670	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Delaware"	"10"	880	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"District of Columbia"	"11"	447	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Florida"	"12"	19799	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Georgia"	"13"	8032	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Hawaii"	"15"	1013	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Idaho"	"16"	1353	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Illinois"	"17"	9846	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Indiana"	"18"	5827	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Iowa"	"19"	2526	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Kansas"	"20"	2347	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Kentucky"	"21"	4413	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Louisiana"	"22"	4211	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Maine"	"23"	1395	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Maryland"	"24"	4627	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Massachusetts"	"25"	4797	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Michigan"	"26"	9625	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Minnesota"	"27"	4019	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Mississippi"	"28"	2979	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Missouri"	"29"	5481	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Montana"	"30"	901	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Nebraska"	"31"	1471	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Nevada"	"32"	2313	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"New Hampshire"	"33"	1079	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"New Jersey"	"34"	6425	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"New Mexico"	"35"	1904	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"New York"	"36"	13679	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"North Carolina"	"37"	8989	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"North Dakota"	"38"	564	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Ohio"	"39"	10882	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Oklahoma"	"40"	3552	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Oregon"	"41"	3501	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Pennsylvania"	"42"	11847	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Rhode Island"	"44"	887	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"South Carolina"	"45"	4743	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"South Dakota"	"46"	671	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Tennessee"	"47"	6752	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Texas"	"48"	18909	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Utah"	"49"	1677	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Vermont"	"50"	541	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Virginia"	"51"	6499	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Washington"	"53"	5263	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"West Virginia"	"54"	2127	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Wisconsin"	"55"	4528	Not Applicable	Not Applicable
+	"May, 2021"	"2021/05"	"Wyoming"	"56"	462	Not Applicable	Not Applicable
+"Total"	"May, 2021"	"2021/05"			257798	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Alabama"	"01"	4795	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Alaska"	"02"	421	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Arizona"	"04"	5690	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Arkansas"	"05"	2911	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"California"	"06"	22656	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Colorado"	"08"	3542	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Connecticut"	"09"	2495	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Delaware"	"10"	797	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"District of Columbia"	"11"	413	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Florida"	"12"	18801	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Georgia"	"13"	7502	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Hawaii"	"15"	956	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Idaho"	"16"	1313	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Illinois"	"17"	9185	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Indiana"	"18"	5674	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Iowa"	"19"	2430	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Kansas"	"20"	2294	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Kentucky"	"21"	4383	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Louisiana"	"22"	4236	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Maine"	"23"	1310	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Maryland"	"24"	4122	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Massachusetts"	"25"	4505	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Michigan"	"26"	8335	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Minnesota"	"27"	3763	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Mississippi"	"28"	2895	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Missouri"	"29"	5455	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Montana"	"30"	936	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Nebraska"	"31"	1357	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Nevada"	"32"	2297	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"New Hampshire"	"33"	1088	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"New Jersey"	"34"	5939	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"New Mexico"	"35"	1803	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"New York"	"36"	12429	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"North Carolina"	"37"	8288	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"North Dakota"	"38"	535	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Ohio"	"39"	10122	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Oklahoma"	"40"	3535	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Oregon"	"41"	3527	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Pennsylvania"	"42"	10710	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Rhode Island"	"44"	790	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"South Carolina"	"45"	4553	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"South Dakota"	"46"	646	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Tennessee"	"47"	6463	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Texas"	"48"	18166	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Utah"	"49"	1675	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Vermont"	"50"	473	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Virginia"	"51"	5968	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Washington"	"53"	5585	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"West Virginia"	"54"	2053	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Wisconsin"	"55"	4361	Not Applicable	Not Applicable
+	"Jun., 2021"	"2021/06"	"Wyoming"	"56"	493	Not Applicable	Not Applicable
+"Total"	"Jun., 2021"	"2021/06"			244671	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Alabama"	"01"	5036	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Alaska"	"02"	468	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Arizona"	"04"	5828	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Arkansas"	"05"	3309	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"California"	"06"	23698	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Colorado"	"08"	3630	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Connecticut"	"09"	2600	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Delaware"	"10"	782	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"District of Columbia"	"11"	464	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Florida"	"12"	20983	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Georgia"	"13"	7995	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Hawaii"	"15"	993	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Idaho"	"16"	1366	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Illinois"	"17"	9609	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Indiana"	"18"	5730	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Iowa"	"19"	2515	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Kansas"	"20"	2439	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Kentucky"	"21"	4469	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Louisiana"	"22"	4678	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Maine"	"23"	1334	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Maryland"	"24"	4234	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Massachusetts"	"25"	4719	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Michigan"	"26"	8468	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Minnesota"	"27"	3892	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Mississippi"	"28"	3214	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Missouri"	"29"	6201	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Montana"	"30"	964	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Nebraska"	"31"	1431	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Nevada"	"32"	2755	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"New Hampshire"	"33"	1076	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"New Jersey"	"34"	6070	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"New Mexico"	"35"	1789	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"New York"	"36"	12851	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"North Carolina"	"37"	8710	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"North Dakota"	"38"	534	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Ohio"	"39"	10337	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Oklahoma"	"40"	3899	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Oregon"	"41"	3535	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Pennsylvania"	"42"	11004	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Rhode Island"	"44"	793	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"South Carolina"	"45"	4805	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"South Dakota"	"46"	705	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Tennessee"	"47"	6504	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Texas"	"48"	19625	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Utah"	"49"	1823	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Vermont"	"50"	553	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Virginia"	"51"	6290	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Washington"	"53"	5527	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"West Virginia"	"54"	2049	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Wisconsin"	"55"	4567	Not Applicable	Not Applicable
+	"Jul., 2021"	"2021/07"	"Wyoming"	"56"	478	Not Applicable	Not Applicable
+"Total"	"Jul., 2021"	"2021/07"			257328	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Alabama"	"01"	6853	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Alaska"	"02"	589	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Arizona"	"04"	6718	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Arkansas"	"05"	3936	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"California"	"06"	27019	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Colorado"	"08"	3846	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Connecticut"	"09"	2752	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Delaware"	"10"	919	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"District of Columbia"	"11"	459	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Florida"	"12"	30105	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Georgia"	"13"	10958	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Hawaii"	"15"	1228	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Idaho"	"16"	1522	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Illinois"	"17"	10184	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Indiana"	"18"	6418	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Iowa"	"19"	2760	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Kansas"	"20"	2758	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Kentucky"	"21"	5266	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Louisiana"	"22"	6152	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Maine"	"23"	1326	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Maryland"	"24"	4448	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Massachusetts"	"25"	4932	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Michigan"	"26"	8916	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Minnesota"	"27"	4078	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Mississippi"	"28"	4295	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Missouri"	"29"	7053	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Montana"	"30"	1118	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Nebraska"	"31"	1582	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Nevada"	"32"	3020	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"New Hampshire"	"33"	1116	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"New Jersey"	"34"	6465	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"New Mexico"	"35"	2012	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"New York"	"36"	13984	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"North Carolina"	"37"	10430	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"North Dakota"	"38"	531	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Ohio"	"39"	11402	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Oklahoma"	"40"	4873	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Oregon"	"41"	4041	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Pennsylvania"	"42"	11683	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Rhode Island"	"44"	902	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"South Carolina"	"45"	5911	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"South Dakota"	"46"	723	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Tennessee"	"47"	8230	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Texas"	"48"	26276	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Utah"	"49"	1943	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Vermont"	"50"	554	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Virginia"	"51"	7079	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Washington"	"53"	5953	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"West Virginia"	"54"	2405	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Wisconsin"	"55"	4921	Not Applicable	Not Applicable
+	"Aug., 2021"	"2021/08"	"Wyoming"	"56"	617	Not Applicable	Not Applicable
+"Total"	"Aug., 2021"	"2021/08"			303261	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Alabama"	"01"	6908	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Alaska"	"02"	635	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Arizona"	"04"	6863	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Arkansas"	"05"	3580	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"California"	"06"	27246	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Colorado"	"08"	4060	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Connecticut"	"09"	2731	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Delaware"	"10"	960	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"District of Columbia"	"11"	480	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Florida"	"12"	26914	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Georgia"	"13"	11868	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Hawaii"	"15"	1273	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Idaho"	"16"	1976	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Illinois"	"17"	10365	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Indiana"	"18"	7123	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Iowa"	"19"	3036	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Kansas"	"20"	2873	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Kentucky"	"21"	6120	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Louisiana"	"22"	5553	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Maine"	"23"	1436	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Maryland"	"24"	4765	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Massachusetts"	"25"	4955	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Michigan"	"26"	9145	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Minnesota"	"27"	4233	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Mississippi"	"28"	3972	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Missouri"	"29"	6399	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Montana"	"30"	1237	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Nebraska"	"31"	1603	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Nevada"	"32"	2925	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"New Hampshire"	"33"	1128	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"New Jersey"	"34"	6546	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"New Mexico"	"35"	2126	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"New York"	"36"	14071	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"North Carolina"	"37"	11119	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"North Dakota"	"38"	656	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Ohio"	"39"	12961	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Oklahoma"	"40"	4922	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Oregon"	"41"	4278	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Pennsylvania"	"42"	12531	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Rhode Island"	"44"	870	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"South Carolina"	"45"	6575	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"South Dakota"	"46"	831	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Tennessee"	"47"	9663	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Texas"	"48"	26978	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Utah"	"49"	2021	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Vermont"	"50"	651	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Virginia"	"51"	7416	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Washington"	"53"	6441	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"West Virginia"	"54"	2920	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Wisconsin"	"55"	5265	Not Applicable	Not Applicable
+	"Sep., 2021"	"2021/09"	"Wyoming"	"56"	627	Not Applicable	Not Applicable
+"Total"	"Sep., 2021"	"2021/09"			311830	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Alabama"	"01"	5752	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Alaska"	"02"	742	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Arizona"	"04"	6844	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Arkansas"	"05"	3380	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"California"	"06"	27106	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Colorado"	"08"	4488	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Connecticut"	"09"	2850	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Delaware"	"10"	1015	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"District of Columbia"	"11"	479	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Florida"	"12"	21347	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Georgia"	"13"	9453	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Hawaii"	"15"	1150	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Idaho"	"16"	2078	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Illinois"	"17"	10577	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Indiana"	"18"	7030	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Iowa"	"19"	3207	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Kansas"	"20"	2788	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Kentucky"	"21"	5441	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Louisiana"	"22"	4634	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Maine"	"23"	1576	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Maryland"	"24"	4989	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Massachusetts"	"25"	5335	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Michigan"	"26"	10149	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Minnesota"	"27"	4722	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Mississippi"	"28"	3214	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Missouri"	"29"	6049	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Montana"	"30"	1453	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Nebraska"	"31"	1791	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Nevada"	"32"	2869	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"New Hampshire"	"33"	1259	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"New Jersey"	"34"	7025	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"New Mexico"	"35"	2176	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"New York"	"36"	14852	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"North Carolina"	"37"	10344	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"North Dakota"	"38"	761	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Ohio"	"39"	13738	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Oklahoma"	"40"	4359	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Oregon"	"41"	4263	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Pennsylvania"	"42"	13825	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Rhode Island"	"44"	939	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"South Carolina"	"45"	5725	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"South Dakota"	"46"	833	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Tennessee"	"47"	8077	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Texas"	"48"	22795	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Utah"	"49"	2146	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Vermont"	"50"	629	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Virginia"	"51"	7758	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Washington"	"53"	6281	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"West Virginia"	"54"	2836	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Wisconsin"	"55"	5708	Not Applicable	Not Applicable
+	"Oct., 2021"	"2021/10"	"Wyoming"	"56"	754	Not Applicable	Not Applicable
+"Total"	"Oct., 2021"	"2021/10"			299591	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Alabama"	"01"	5135	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Alaska"	"02"	608	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Arizona"	"04"	7325	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Arkansas"	"05"	3169	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"California"	"06"	25694	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Colorado"	"08"	4897	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Connecticut"	"09"	2931	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Delaware"	"10"	918	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"District of Columbia"	"11"	437	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Florida"	"12"	19176	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Georgia"	"13"	8503	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Hawaii"	"15"	1044	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Idaho"	"16"	1687	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Illinois"	"17"	10708	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Indiana"	"18"	6991	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Iowa"	"19"	3176	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Kansas"	"20"	2768	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Kentucky"	"21"	5003	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Louisiana"	"22"	4348	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Maine"	"23"	1673	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Maryland"	"24"	4727	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Massachusetts"	"25"	5439	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Michigan"	"26"	11540	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Minnesota"	"27"	5113	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Mississippi"	"28"	3103	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Missouri"	"29"	6116	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Montana"	"30"	1237	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Nebraska"	"31"	1738	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Nevada"	"32"	2750	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"New Hampshire"	"33"	1315	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"New Jersey"	"34"	6738	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"New Mexico"	"35"	2457	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"New York"	"36"	15142	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"North Carolina"	"37"	9464	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"North Dakota"	"38"	711	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Ohio"	"39"	13439	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Oklahoma"	"40"	3964	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Oregon"	"41"	3776	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Pennsylvania"	"42"	14075	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Rhode Island"	"44"	988	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"South Carolina"	"45"	5178	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"South Dakota"	"46"	868	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Tennessee"	"47"	7257	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Texas"	"48"	20157	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Utah"	"49"	2033	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Vermont"	"50"	633	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Virginia"	"51"	7330	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Washington"	"53"	5877	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"West Virginia"	"54"	2644	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Wisconsin"	"55"	5810	Not Applicable	Not Applicable
+	"Nov., 2021"	"2021/11"	"Wyoming"	"56"	673	Not Applicable	Not Applicable
+"Total"	"Nov., 2021"	"2021/11"			288483	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Alabama"	"01"	5423	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Alaska"	"02"	572	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Arizona"	"04"	8313	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Arkansas"	"05"	3519	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"California"	"06"	28611	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Colorado"	"08"	4929	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Connecticut"	"09"	3319	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Delaware"	"10"	1069	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"District of Columbia"	"11"	516	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Florida"	"12"	20189	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Georgia"	"13"	9179	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Hawaii"	"15"	1068	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Idaho"	"16"	1644	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Illinois"	"17"	12574	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Indiana"	"18"	8046	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Iowa"	"19"	3599	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Kansas"	"20"	3265	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Kentucky"	"21"	5638	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Louisiana"	"22"	4418	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Maine"	"23"	1829	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Maryland"	"24"	5498	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Massachusetts"	"25"	6193	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Michigan"	"26"	13128	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Minnesota"	"27"	5601	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Mississippi"	"28"	3383	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Missouri"	"29"	6926	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Montana"	"30"	1133	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Nebraska"	"31"	1897	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Nevada"	"32"	2963	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"New Hampshire"	"33"	1490	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"New Jersey"	"34"	7801	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"New Mexico"	"35"	2816	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"New York"	"36"	17063	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"North Carolina"	"37"	10433	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"North Dakota"	"38"	726	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Ohio"	"39"	16101	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Oklahoma"	"40"	4615	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Oregon"	"41"	4090	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Pennsylvania"	"42"	16173	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Rhode Island"	"44"	1155	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"South Carolina"	"45"	5467	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"South Dakota"	"46"	910	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Tennessee"	"47"	8034	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Texas"	"48"	21302	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Utah"	"49"	2105	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Vermont"	"50"	628	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Virginia"	"51"	7866	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Washington"	"53"	6142	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"West Virginia"	"54"	2869	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Wisconsin"	"55"	6491	Not Applicable	Not Applicable
+	"Dec., 2021"	"2021/12"	"Wyoming"	"56"	569	Not Applicable	Not Applicable
+"Total"	"Dec., 2021"	"2021/12"			319288	Not Applicable	Not Applicable
+"Total"					3464231	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Year/Month: 2021"
+"Group By: Month; Residence State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Jun 10, 2024 8:38:40 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2022,"
+"and from provisional data for years 2023-2024, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Jun 10, 2024 8:38:40"
+"AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Deaths occurring through May 25, 2024 as of June 02, 2024."

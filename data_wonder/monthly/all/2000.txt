@@ -1,0 +1,649 @@
+"Notes"	"Month"	"Month Code"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Jan., 2000"	"2000/01"	"Alabama"	"01"	4782	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Alaska"	"02"	274	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Arizona"	"04"	4068	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Arkansas"	"05"	2969	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"California"	"06"	24357	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Colorado"	"08"	2528	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Connecticut"	"09"	3195	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Delaware"	"10"	698	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"District of Columbia"	"11"	596	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Florida"	"12"	16274	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Georgia"	"13"	6502	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Hawaii"	"15"	800	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Idaho"	"16"	911	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Illinois"	"17"	10975	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Indiana"	"18"	5556	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Iowa"	"19"	3023	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Kansas"	"20"	2694	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Kentucky"	"21"	4050	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Louisiana"	"22"	4258	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Maine"	"23"	1308	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Maryland"	"24"	4507	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Massachusetts"	"25"	5933	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Michigan"	"26"	9064	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Minnesota"	"27"	4051	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Mississippi"	"28"	2985	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Missouri"	"29"	6023	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Montana"	"30"	731	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Nebraska"	"31"	1578	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Nevada"	"32"	1418	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"New Hampshire"	"33"	989	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"New Jersey"	"34"	7869	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"New Mexico"	"35"	1227	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"New York"	"36"	16625	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"North Carolina"	"37"	7362	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"North Dakota"	"38"	560	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Ohio"	"39"	11075	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Oklahoma"	"40"	3747	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Oregon"	"41"	2866	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Pennsylvania"	"42"	13512	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Rhode Island"	"44"	1130	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"South Carolina"	"45"	3720	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"South Dakota"	"46"	741	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Tennessee"	"47"	5576	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Texas"	"48"	15683	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Utah"	"49"	1166	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Vermont"	"50"	559	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Virginia"	"51"	5585	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Washington"	"53"	4368	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"West Virginia"	"54"	2173	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Wisconsin"	"55"	4822	Not Applicable	Not Applicable
+	"Jan., 2000"	"2000/01"	"Wyoming"	"56"	365	Not Applicable	Not Applicable
+"Total"	"Jan., 2000"	"2000/01"			247828	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Alabama"	"01"	3932	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Alaska"	"02"	211	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Arizona"	"04"	3507	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Arkansas"	"05"	2456	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"California"	"06"	18675	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Colorado"	"08"	2241	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Connecticut"	"09"	2598	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Delaware"	"10"	590	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"District of Columbia"	"11"	520	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Florida"	"12"	14205	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Georgia"	"13"	5591	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Hawaii"	"15"	676	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Idaho"	"16"	755	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Illinois"	"17"	8764	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Indiana"	"18"	4588	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Iowa"	"19"	2411	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Kansas"	"20"	2101	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Kentucky"	"21"	3391	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Louisiana"	"22"	3459	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Maine"	"23"	1124	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Maryland"	"24"	3820	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Massachusetts"	"25"	4974	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Michigan"	"26"	7287	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Minnesota"	"27"	3103	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Mississippi"	"28"	2436	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Missouri"	"29"	4654	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Montana"	"30"	659	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Nebraska"	"31"	1265	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Nevada"	"32"	1223	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"New Hampshire"	"33"	822	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"New Jersey"	"34"	6364	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"New Mexico"	"35"	1112	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"New York"	"36"	13313	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"North Carolina"	"37"	6365	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"North Dakota"	"38"	459	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Ohio"	"39"	9271	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Oklahoma"	"40"	2885	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Oregon"	"41"	2403	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Pennsylvania"	"42"	11166	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Rhode Island"	"44"	873	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"South Carolina"	"45"	3258	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"South Dakota"	"46"	607	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Tennessee"	"47"	4710	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Texas"	"48"	12636	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Utah"	"49"	945	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Vermont"	"50"	415	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Virginia"	"51"	4934	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Washington"	"53"	3627	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"West Virginia"	"54"	1820	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Wisconsin"	"55"	3817	Not Applicable	Not Applicable
+	"Feb., 2000"	"2000/02"	"Wyoming"	"56"	300	Not Applicable	Not Applicable
+"Total"	"Feb., 2000"	"2000/02"			203318	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Alabama"	"01"	3736	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Alaska"	"02"	228	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Arizona"	"04"	3510	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Arkansas"	"05"	2305	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"California"	"06"	19876	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Colorado"	"08"	2286	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Connecticut"	"09"	2483	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Delaware"	"10"	624	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"District of Columbia"	"11"	498	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Florida"	"12"	13738	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Georgia"	"13"	5233	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Hawaii"	"15"	688	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Idaho"	"16"	861	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Illinois"	"17"	8646	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Indiana"	"18"	4649	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Iowa"	"19"	2376	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Kansas"	"20"	2027	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Kentucky"	"21"	3277	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Louisiana"	"22"	3468	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Maine"	"23"	1045	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Maryland"	"24"	3675	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Massachusetts"	"25"	4828	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Michigan"	"26"	7154	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Minnesota"	"27"	3067	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Mississippi"	"28"	2423	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Missouri"	"29"	4646	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Montana"	"30"	718	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Nebraska"	"31"	1281	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Nevada"	"32"	1373	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"New Hampshire"	"33"	813	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"New Jersey"	"34"	6159	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"New Mexico"	"35"	1187	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"New York"	"36"	13277	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"North Carolina"	"37"	5923	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"North Dakota"	"38"	464	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Ohio"	"39"	9280	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Oklahoma"	"40"	2949	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Oregon"	"41"	2506	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Pennsylvania"	"42"	11183	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Rhode Island"	"44"	837	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"South Carolina"	"45"	3075	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"South Dakota"	"46"	596	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Tennessee"	"47"	4576	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Texas"	"48"	12284	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Utah"	"49"	1079	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Vermont"	"50"	427	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Virginia"	"51"	4784	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Washington"	"53"	3745	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"West Virginia"	"54"	1819	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Wisconsin"	"55"	3804	Not Applicable	Not Applicable
+	"Mar., 2000"	"2000/03"	"Wyoming"	"56"	350	Not Applicable	Not Applicable
+"Total"	"Mar., 2000"	"2000/03"			201836	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Alabama"	"01"	3513	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Alaska"	"02"	236	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Arizona"	"04"	3270	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Arkansas"	"05"	2187	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"California"	"06"	18085	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Colorado"	"08"	2163	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Connecticut"	"09"	2317	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Delaware"	"10"	543	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"District of Columbia"	"11"	485	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Florida"	"12"	13202	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Georgia"	"13"	5154	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Hawaii"	"15"	680	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Idaho"	"16"	799	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Illinois"	"17"	8591	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Indiana"	"18"	4429	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Iowa"	"19"	2250	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Kansas"	"20"	1923	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Kentucky"	"21"	3089	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Louisiana"	"22"	3239	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Maine"	"23"	959	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Maryland"	"24"	3448	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Massachusetts"	"25"	4471	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Michigan"	"26"	6886	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Minnesota"	"27"	2985	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Mississippi"	"28"	2254	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Missouri"	"29"	4324	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Montana"	"30"	678	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Nebraska"	"31"	1182	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Nevada"	"32"	1263	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"New Hampshire"	"33"	739	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"New Jersey"	"34"	5919	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"New Mexico"	"35"	1043	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"New York"	"36"	12537	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"North Carolina"	"37"	5609	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"North Dakota"	"38"	442	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Ohio"	"39"	8540	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Oklahoma"	"40"	2717	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Oregon"	"41"	2376	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Pennsylvania"	"42"	10343	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Rhode Island"	"44"	745	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"South Carolina"	"45"	2820	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"South Dakota"	"46"	538	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Tennessee"	"47"	4466	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Texas"	"48"	11924	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Utah"	"49"	1014	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Vermont"	"50"	416	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Virginia"	"51"	4422	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Washington"	"53"	3526	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"West Virginia"	"54"	1666	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Wisconsin"	"55"	3712	Not Applicable	Not Applicable
+	"Apr., 2000"	"2000/04"	"Wyoming"	"56"	307	Not Applicable	Not Applicable
+"Total"	"Apr., 2000"	"2000/04"			190426	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Alabama"	"01"	3629	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Alaska"	"02"	227	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Arizona"	"04"	3280	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Arkansas"	"05"	2169	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"California"	"06"	18495	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Colorado"	"08"	2289	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Connecticut"	"09"	2418	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Delaware"	"10"	542	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"District of Columbia"	"11"	509	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Florida"	"12"	13504	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Georgia"	"13"	5133	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Hawaii"	"15"	704	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Idaho"	"16"	770	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Illinois"	"17"	8670	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Indiana"	"18"	4469	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Iowa"	"19"	2036	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Kansas"	"20"	1951	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Kentucky"	"21"	3163	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Louisiana"	"22"	3305	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Maine"	"23"	1056	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Maryland"	"24"	3378	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Massachusetts"	"25"	4576	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Michigan"	"26"	7003	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Minnesota"	"27"	2962	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Mississippi"	"28"	2316	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Missouri"	"29"	4168	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Montana"	"30"	685	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Nebraska"	"31"	1133	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Nevada"	"32"	1311	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"New Hampshire"	"33"	773	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"New Jersey"	"34"	6111	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"New Mexico"	"35"	1111	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"New York"	"36"	12918	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"North Carolina"	"37"	5750	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"North Dakota"	"38"	482	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Ohio"	"39"	8572	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Oklahoma"	"40"	2833	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Oregon"	"41"	2431	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Pennsylvania"	"42"	10460	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Rhode Island"	"44"	808	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"South Carolina"	"45"	2965	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"South Dakota"	"46"	554	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Tennessee"	"47"	4364	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Texas"	"48"	11897	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Utah"	"49"	1060	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Vermont"	"50"	397	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Virginia"	"51"	4535	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Washington"	"53"	3594	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"West Virginia"	"54"	1639	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Wisconsin"	"55"	3658	Not Applicable	Not Applicable
+	"May, 2000"	"2000/05"	"Wyoming"	"56"	348	Not Applicable	Not Applicable
+"Total"	"May, 2000"	"2000/05"			193111	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Alabama"	"01"	3480	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Alaska"	"02"	253	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Arizona"	"04"	3017	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Arkansas"	"05"	2136	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"California"	"06"	17727	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Colorado"	"08"	2162	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Connecticut"	"09"	2211	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Delaware"	"10"	548	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"District of Columbia"	"11"	458	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Florida"	"12"	12714	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Georgia"	"13"	4963	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Hawaii"	"15"	683	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Idaho"	"16"	783	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Illinois"	"17"	8021	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Indiana"	"18"	4175	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Iowa"	"19"	2088	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Kansas"	"20"	1791	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Kentucky"	"21"	3025	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Louisiana"	"22"	3119	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Maine"	"23"	974	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Maryland"	"24"	3429	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Massachusetts"	"25"	4235	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Michigan"	"26"	6615	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Minnesota"	"27"	2715	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Mississippi"	"28"	2149	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Missouri"	"29"	4047	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Montana"	"30"	584	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Nebraska"	"31"	1084	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Nevada"	"32"	1195	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"New Hampshire"	"33"	775	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"New Jersey"	"34"	5800	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"New Mexico"	"35"	1006	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"New York"	"36"	12057	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"North Carolina"	"37"	5363	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"North Dakota"	"38"	464	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Ohio"	"39"	8216	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Oklahoma"	"40"	2618	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Oregon"	"41"	2281	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Pennsylvania"	"42"	9888	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Rhode Island"	"44"	746	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"South Carolina"	"45"	2766	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"South Dakota"	"46"	508	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Tennessee"	"47"	4208	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Texas"	"48"	11697	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Utah"	"49"	929	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Vermont"	"50"	374	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Virginia"	"51"	4245	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Washington"	"53"	3440	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"West Virginia"	"54"	1609	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Wisconsin"	"55"	3445	Not Applicable	Not Applicable
+	"Jun., 2000"	"2000/06"	"Wyoming"	"56"	306	Not Applicable	Not Applicable
+"Total"	"Jun., 2000"	"2000/06"			183122	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Alabama"	"01"	3551	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Alaska"	"02"	270	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Arizona"	"04"	3155	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Arkansas"	"05"	2278	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"California"	"06"	18049	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Colorado"	"08"	2167	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Connecticut"	"09"	2420	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Delaware"	"10"	500	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"District of Columbia"	"11"	465	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Florida"	"12"	13111	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Georgia"	"13"	4893	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Hawaii"	"15"	667	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Idaho"	"16"	761	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Illinois"	"17"	8421	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Indiana"	"18"	4338	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Iowa"	"19"	2215	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Kansas"	"20"	1913	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Kentucky"	"21"	3066	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Louisiana"	"22"	3304	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Maine"	"23"	870	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Maryland"	"24"	3328	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Massachusetts"	"25"	4376	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Michigan"	"26"	6823	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Minnesota"	"27"	2910	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Mississippi"	"28"	2311	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Missouri"	"29"	4286	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Montana"	"30"	654	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Nebraska"	"31"	1190	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Nevada"	"32"	1164	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"New Hampshire"	"33"	730	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"New Jersey"	"34"	5798	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"New Mexico"	"35"	1086	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"New York"	"36"	12220	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"North Carolina"	"37"	5515	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"North Dakota"	"38"	484	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Ohio"	"39"	8401	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Oklahoma"	"40"	2847	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Oregon"	"41"	2400	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Pennsylvania"	"42"	10221	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Rhode Island"	"44"	763	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"South Carolina"	"45"	2878	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"South Dakota"	"46"	564	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Tennessee"	"47"	4340	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Texas"	"48"	12080	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Utah"	"49"	970	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Vermont"	"50"	404	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Virginia"	"51"	4475	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Washington"	"53"	3408	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"West Virginia"	"54"	1621	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Wisconsin"	"55"	3604	Not Applicable	Not Applicable
+	"Jul., 2000"	"2000/07"	"Wyoming"	"56"	305	Not Applicable	Not Applicable
+"Total"	"Jul., 2000"	"2000/07"			188570	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Alabama"	"01"	3640	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Alaska"	"02"	217	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Arizona"	"04"	3178	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Arkansas"	"05"	2158	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"California"	"06"	18313	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Colorado"	"08"	2167	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Connecticut"	"09"	2284	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Delaware"	"10"	539	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"District of Columbia"	"11"	503	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Florida"	"12"	13281	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Georgia"	"13"	5002	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Hawaii"	"15"	694	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Idaho"	"16"	764	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Illinois"	"17"	8334	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Indiana"	"18"	4307	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Iowa"	"19"	2152	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Kansas"	"20"	1952	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Kentucky"	"21"	3036	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Louisiana"	"22"	3284	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Maine"	"23"	975	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Maryland"	"24"	3469	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Massachusetts"	"25"	4353	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Michigan"	"26"	6702	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Minnesota"	"27"	3005	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Mississippi"	"28"	2218	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Missouri"	"29"	4249	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Montana"	"30"	668	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Nebraska"	"31"	1120	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Nevada"	"32"	1196	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"New Hampshire"	"33"	746	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"New Jersey"	"34"	5756	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"New Mexico"	"35"	1095	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"New York"	"36"	12426	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"North Carolina"	"37"	5579	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"North Dakota"	"38"	440	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Ohio"	"39"	8390	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Oklahoma"	"40"	2757	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Oregon"	"41"	2339	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Pennsylvania"	"42"	10206	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Rhode Island"	"44"	769	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"South Carolina"	"45"	2900	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"South Dakota"	"46"	540	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Tennessee"	"47"	4369	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Texas"	"48"	11727	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Utah"	"49"	971	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Vermont"	"50"	415	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Virginia"	"51"	4484	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Washington"	"53"	3462	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"West Virginia"	"54"	1611	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Wisconsin"	"55"	3635	Not Applicable	Not Applicable
+	"Aug., 2000"	"2000/08"	"Wyoming"	"56"	311	Not Applicable	Not Applicable
+"Total"	"Aug., 2000"	"2000/08"			188688	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Alabama"	"01"	3500	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Alaska"	"02"	253	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Arizona"	"04"	3227	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Arkansas"	"05"	2113	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"California"	"06"	17811	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Colorado"	"08"	2137	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Connecticut"	"09"	2389	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Delaware"	"10"	519	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"District of Columbia"	"11"	463	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Florida"	"12"	12818	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Georgia"	"13"	4837	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Hawaii"	"15"	641	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Idaho"	"16"	751	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Illinois"	"17"	8253	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Indiana"	"18"	4343	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Iowa"	"19"	2170	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Kansas"	"20"	1908	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Kentucky"	"21"	3148	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Louisiana"	"22"	3248	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Maine"	"23"	894	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Maryland"	"24"	3366	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Massachusetts"	"25"	4303	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Michigan"	"26"	6827	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Minnesota"	"27"	3004	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Mississippi"	"28"	2188	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Missouri"	"29"	4333	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Montana"	"30"	668	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Nebraska"	"31"	1135	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Nevada"	"32"	1235	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"New Hampshire"	"33"	751	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"New Jersey"	"34"	5623	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"New Mexico"	"35"	1056	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"New York"	"36"	11999	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"North Carolina"	"37"	5682	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"North Dakota"	"38"	477	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Ohio"	"39"	8337	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Oklahoma"	"40"	2778	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Oregon"	"41"	2380	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Pennsylvania"	"42"	10073	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Rhode Island"	"44"	780	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"South Carolina"	"45"	2936	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"South Dakota"	"46"	577	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Tennessee"	"47"	4302	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Texas"	"48"	11821	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Utah"	"49"	1022	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Vermont"	"50"	375	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Virginia"	"51"	4378	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Washington"	"53"	3409	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"West Virginia"	"54"	1668	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Wisconsin"	"55"	3745	Not Applicable	Not Applicable
+	"Sep., 2000"	"2000/09"	"Wyoming"	"56"	311	Not Applicable	Not Applicable
+"Total"	"Sep., 2000"	"2000/09"			186962	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Alabama"	"01"	3704	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Alaska"	"02"	253	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Arizona"	"04"	3321	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Arkansas"	"05"	2322	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"California"	"06"	18728	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Colorado"	"08"	2358	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Connecticut"	"09"	2484	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Delaware"	"10"	538	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"District of Columbia"	"11"	498	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Florida"	"12"	13544	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Georgia"	"13"	5245	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Hawaii"	"15"	676	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Idaho"	"16"	809	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Illinois"	"17"	9119	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Indiana"	"18"	4741	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Iowa"	"19"	2426	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Kansas"	"20"	2032	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Kentucky"	"21"	3252	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Louisiana"	"22"	3332	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Maine"	"23"	1041	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Maryland"	"24"	3697	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Massachusetts"	"25"	4790	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Michigan"	"26"	7348	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Minnesota"	"27"	3338	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Mississippi"	"28"	2464	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Missouri"	"29"	4415	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Montana"	"30"	686	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Nebraska"	"31"	1307	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Nevada"	"32"	1291	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"New Hampshire"	"33"	853	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"New Jersey"	"34"	6224	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"New Mexico"	"35"	1169	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"New York"	"36"	13060	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"North Carolina"	"37"	5882	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"North Dakota"	"38"	523	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Ohio"	"39"	8932	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Oklahoma"	"40"	2828	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Oregon"	"41"	2508	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Pennsylvania"	"42"	10884	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Rhode Island"	"44"	837	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"South Carolina"	"45"	3075	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"South Dakota"	"46"	572	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Tennessee"	"47"	4595	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Texas"	"48"	12205	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Utah"	"49"	1086	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Vermont"	"50"	443	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Virginia"	"51"	4591	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Washington"	"53"	3681	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"West Virginia"	"54"	1765	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Wisconsin"	"55"	4039	Not Applicable	Not Applicable
+	"Oct., 2000"	"2000/10"	"Wyoming"	"56"	314	Not Applicable	Not Applicable
+"Total"	"Oct., 2000"	"2000/10"			199825	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Alabama"	"01"	3514	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Alaska"	"02"	253	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Arizona"	"04"	3388	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Arkansas"	"05"	2374	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"California"	"06"	18962	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Colorado"	"08"	2354	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Connecticut"	"09"	2535	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Delaware"	"10"	566	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"District of Columbia"	"11"	509	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Florida"	"12"	13435	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Georgia"	"13"	5234	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Hawaii"	"15"	656	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Idaho"	"16"	794	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Illinois"	"17"	8871	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Indiana"	"18"	4518	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Iowa"	"19"	2305	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Kansas"	"20"	2049	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Kentucky"	"21"	3355	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Louisiana"	"22"	3355	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Maine"	"23"	1027	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Maryland"	"24"	3684	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Massachusetts"	"25"	4597	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Michigan"	"26"	7188	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Minnesota"	"27"	3148	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Mississippi"	"28"	2258	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Missouri"	"29"	4557	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Montana"	"30"	627	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Nebraska"	"31"	1321	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Nevada"	"32"	1262	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"New Hampshire"	"33"	820	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"New Jersey"	"34"	6293	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"New Mexico"	"35"	1120	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"New York"	"36"	13334	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"North Carolina"	"37"	5980	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"North Dakota"	"38"	514	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Ohio"	"39"	9014	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Oklahoma"	"40"	2884	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Oregon"	"41"	2433	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Pennsylvania"	"42"	10962	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Rhode Island"	"44"	819	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"South Carolina"	"45"	3110	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"South Dakota"	"46"	601	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Tennessee"	"47"	4552	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Texas"	"48"	12363	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Utah"	"49"	1054	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Vermont"	"50"	418	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Virginia"	"51"	4701	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Washington"	"53"	3698	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"West Virginia"	"54"	1725	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Wisconsin"	"55"	3865	Not Applicable	Not Applicable
+	"Nov., 2000"	"2000/11"	"Wyoming"	"56"	338	Not Applicable	Not Applicable
+"Total"	"Nov., 2000"	"2000/11"			199294	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Alabama"	"01"	4081	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Alaska"	"02"	239	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Arizona"	"04"	3579	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Arkansas"	"05"	2750	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"California"	"06"	20473	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Colorado"	"08"	2436	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Connecticut"	"09"	2795	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Delaware"	"10"	668	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"District of Columbia"	"11"	497	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Florida"	"12"	14569	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Georgia"	"13"	6083	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Hawaii"	"15"	725	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Idaho"	"16"	805	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Illinois"	"17"	9969	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Indiana"	"18"	5356	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Iowa"	"19"	2608	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Kansas"	"20"	2376	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Kentucky"	"21"	3652	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Louisiana"	"22"	3767	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Maine"	"23"	1081	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Maryland"	"24"	3952	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Massachusetts"	"25"	5245	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Michigan"	"26"	8056	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Minnesota"	"27"	3402	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Mississippi"	"28"	2652	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Missouri"	"29"	5163	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Montana"	"30"	738	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Nebraska"	"31"	1396	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Nevada"	"32"	1330	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"New Hampshire"	"33"	886	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"New Jersey"	"34"	6884	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"New Mexico"	"35"	1213	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"New York"	"36"	14437	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"North Carolina"	"37"	6925	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"North Dakota"	"38"	547	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Ohio"	"39"	10097	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Oklahoma"	"40"	3236	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Oregon"	"41"	2629	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Pennsylvania"	"42"	11915	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Rhode Island"	"44"	920	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"South Carolina"	"45"	3445	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"South Dakota"	"46"	623	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Tennessee"	"47"	5188	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Texas"	"48"	13622	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Utah"	"49"	1068	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Vermont"	"50"	484	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Virginia"	"51"	5148	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Washington"	"53"	3983	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"West Virginia"	"54"	1998	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Wisconsin"	"55"	4315	Not Applicable	Not Applicable
+	"Dec., 2000"	"2000/12"	"Wyoming"	"56"	365	Not Applicable	Not Applicable
+"Total"	"Dec., 2000"	"2000/12"			220371	Not Applicable	Not Applicable
+"Total"					2403351	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Year/Month: 2000"
+"Group By: Month; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jun 10, 2024 8:33:43 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 10, 2024 8:33:43 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."

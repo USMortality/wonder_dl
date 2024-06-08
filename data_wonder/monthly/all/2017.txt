@@ -1,0 +1,649 @@
+"Notes"	"Month"	"Month Code"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Jan., 2017"	"2017/01"	"Alabama"	"01"	4860	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Alaska"	"02"	430	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Arizona"	"04"	5125	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Arkansas"	"05"	2878	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"California"	"06"	26429	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Colorado"	"08"	3476	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Connecticut"	"09"	2909	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Delaware"	"10"	883	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"District of Columbia"	"11"	453	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Florida"	"12"	18136	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Georgia"	"13"	7580	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Hawaii"	"15"	1041	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Idaho"	"16"	1340	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Illinois"	"17"	10231	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Indiana"	"18"	6173	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Iowa"	"19"	3022	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Kansas"	"20"	2593	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Kentucky"	"21"	4482	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Louisiana"	"22"	4048	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Maine"	"23"	1274	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Maryland"	"24"	4650	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Massachusetts"	"25"	5538	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Michigan"	"26"	9132	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Minnesota"	"27"	3975	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Mississippi"	"28"	2885	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Missouri"	"29"	6064	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Montana"	"30"	945	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Nebraska"	"31"	1698	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Nevada"	"32"	2390	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"New Hampshire"	"33"	1103	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"New Jersey"	"34"	7188	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"New Mexico"	"35"	1706	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"New York"	"36"	14684	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"North Carolina"	"37"	8454	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"North Dakota"	"38"	552	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Ohio"	"39"	11696	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Oklahoma"	"40"	3763	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Oregon"	"41"	3756	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Pennsylvania"	"42"	12944	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Rhode Island"	"44"	923	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"South Carolina"	"45"	4429	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"South Dakota"	"46"	760	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Tennessee"	"47"	6392	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Texas"	"48"	17849	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Utah"	"49"	1637	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Vermont"	"50"	563	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Virginia"	"51"	6300	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Washington"	"53"	5936	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"West Virginia"	"54"	2256	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Wisconsin"	"55"	4870	Not Applicable	Not Applicable
+	"Jan., 2017"	"2017/01"	"Wyoming"	"56"	431	Not Applicable	Not Applicable
+"Total"	"Jan., 2017"	"2017/01"			262832	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Alabama"	"01"	4338	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Alaska"	"02"	300	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Arizona"	"04"	4521	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Arkansas"	"05"	2591	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"California"	"06"	22388	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Colorado"	"08"	3194	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Connecticut"	"09"	2749	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Delaware"	"10"	742	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"District of Columbia"	"11"	406	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Florida"	"12"	16487	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Georgia"	"13"	6713	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Hawaii"	"15"	878	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Idaho"	"16"	1124	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Illinois"	"17"	9257	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Indiana"	"18"	5562	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Iowa"	"19"	2565	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Kansas"	"20"	2308	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Kentucky"	"21"	4058	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Louisiana"	"22"	3656	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Maine"	"23"	1187	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Maryland"	"24"	4231	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Massachusetts"	"25"	5199	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Michigan"	"26"	8067	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Minnesota"	"27"	3698	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Mississippi"	"28"	2623	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Missouri"	"29"	5280	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Montana"	"30"	918	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Nebraska"	"31"	1478	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Nevada"	"32"	1990	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"New Hampshire"	"33"	1058	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"New Jersey"	"34"	6400	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"New Mexico"	"35"	1652	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"New York"	"36"	12885	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"North Carolina"	"37"	7644	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"North Dakota"	"38"	520	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Ohio"	"39"	10370	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Oklahoma"	"40"	3484	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Oregon"	"41"	3050	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Pennsylvania"	"42"	11547	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Rhode Island"	"44"	900	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"South Carolina"	"45"	3932	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"South Dakota"	"46"	695	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Tennessee"	"47"	5731	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Texas"	"48"	16344	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Utah"	"49"	1448	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Vermont"	"50"	480	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Virginia"	"51"	5662	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Washington"	"53"	4871	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"West Virginia"	"54"	1894	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Wisconsin"	"55"	4353	Not Applicable	Not Applicable
+	"Feb., 2017"	"2017/02"	"Wyoming"	"56"	391	Not Applicable	Not Applicable
+"Total"	"Feb., 2017"	"2017/02"			233819	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Alabama"	"01"	4692	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Alaska"	"02"	391	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Arizona"	"04"	5074	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Arkansas"	"05"	2931	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"California"	"06"	23453	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Colorado"	"08"	3452	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Connecticut"	"09"	2788	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Delaware"	"10"	817	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"District of Columbia"	"11"	475	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Florida"	"12"	17924	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Georgia"	"13"	7403	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Hawaii"	"15"	982	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Idaho"	"16"	1225	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Illinois"	"17"	9925	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Indiana"	"18"	6023	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Iowa"	"19"	2768	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Kansas"	"20"	2491	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Kentucky"	"21"	4334	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Louisiana"	"22"	4062	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Maine"	"23"	1356	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Maryland"	"24"	4408	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Massachusetts"	"25"	5279	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Michigan"	"26"	8957	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Minnesota"	"27"	3939	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Mississippi"	"28"	2839	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Missouri"	"29"	5604	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Montana"	"30"	929	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Nebraska"	"31"	1444	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Nevada"	"32"	2158	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"New Hampshire"	"33"	1164	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"New Jersey"	"34"	6761	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"New Mexico"	"35"	1679	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"New York"	"36"	13752	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"North Carolina"	"37"	8768	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"North Dakota"	"38"	569	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Ohio"	"39"	11259	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Oklahoma"	"40"	3598	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Oregon"	"41"	3172	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Pennsylvania"	"42"	12419	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Rhode Island"	"44"	927	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"South Carolina"	"45"	4378	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"South Dakota"	"46"	735	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Tennessee"	"47"	6371	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Texas"	"48"	17424	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Utah"	"49"	1597	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Vermont"	"50"	576	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Virginia"	"51"	6243	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Washington"	"53"	4976	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"West Virginia"	"54"	2121	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Wisconsin"	"55"	4686	Not Applicable	Not Applicable
+	"Mar., 2017"	"2017/03"	"Wyoming"	"56"	434	Not Applicable	Not Applicable
+"Total"	"Mar., 2017"	"2017/03"			251732	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Alabama"	"01"	4395	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Alaska"	"02"	351	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Arizona"	"04"	4864	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Arkansas"	"05"	2700	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"California"	"06"	21984	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Colorado"	"08"	3259	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Connecticut"	"09"	2645	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Delaware"	"10"	758	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"District of Columbia"	"11"	429	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Florida"	"12"	16793	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Georgia"	"13"	6806	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Hawaii"	"15"	914	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Idaho"	"16"	1153	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Illinois"	"17"	8882	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Indiana"	"18"	5462	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Iowa"	"19"	2522	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Kansas"	"20"	2193	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Kentucky"	"21"	4047	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Louisiana"	"22"	3775	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Maine"	"23"	1320	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Maryland"	"24"	4176	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Massachusetts"	"25"	4953	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Michigan"	"26"	8325	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Minnesota"	"27"	3741	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Mississippi"	"28"	2574	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Missouri"	"29"	4821	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Montana"	"30"	839	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Nebraska"	"31"	1312	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Nevada"	"32"	2061	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"New Hampshire"	"33"	1025	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"New Jersey"	"34"	6283	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"New Mexico"	"35"	1589	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"New York"	"36"	12806	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"North Carolina"	"37"	7601	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"North Dakota"	"38"	562	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Ohio"	"39"	10266	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Oklahoma"	"40"	3284	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Oregon"	"41"	2986	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Pennsylvania"	"42"	11224	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Rhode Island"	"44"	863	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"South Carolina"	"45"	4066	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"South Dakota"	"46"	650	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Tennessee"	"47"	5786	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Texas"	"48"	15881	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Utah"	"49"	1498	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Vermont"	"50"	517	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Virginia"	"51"	5681	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Washington"	"53"	4532	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"West Virginia"	"54"	1938	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Wisconsin"	"55"	4319	Not Applicable	Not Applicable
+	"Apr., 2017"	"2017/04"	"Wyoming"	"56"	419	Not Applicable	Not Applicable
+"Total"	"Apr., 2017"	"2017/04"			231830	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Alabama"	"01"	4395	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Alaska"	"02"	331	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Arizona"	"04"	4878	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Arkansas"	"05"	2657	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"California"	"06"	21973	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Colorado"	"08"	3060	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Connecticut"	"09"	2498	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Delaware"	"10"	705	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"District of Columbia"	"11"	432	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Florida"	"12"	16761	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Georgia"	"13"	6770	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Hawaii"	"15"	970	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Idaho"	"16"	1146	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Illinois"	"17"	8932	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Indiana"	"18"	5252	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Iowa"	"19"	2522	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Kansas"	"20"	2120	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Kentucky"	"21"	3900	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Louisiana"	"22"	3765	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Maine"	"23"	1196	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Maryland"	"24"	4024	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Massachusetts"	"25"	4702	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Michigan"	"26"	7993	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Minnesota"	"27"	3651	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Mississippi"	"28"	2634	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Missouri"	"29"	4949	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Montana"	"30"	858	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Nebraska"	"31"	1346	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Nevada"	"32"	2089	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"New Hampshire"	"33"	987	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"New Jersey"	"34"	6139	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"New Mexico"	"35"	1613	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"New York"	"36"	12752	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"North Carolina"	"37"	7653	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"North Dakota"	"38"	525	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Ohio"	"39"	9978	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Oklahoma"	"40"	3263	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Oregon"	"41"	3072	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Pennsylvania"	"42"	11013	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Rhode Island"	"44"	836	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"South Carolina"	"45"	4025	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"South Dakota"	"46"	641	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Tennessee"	"47"	5610	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Texas"	"48"	16260	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Utah"	"49"	1476	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Vermont"	"50"	479	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Virginia"	"51"	5623	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Washington"	"53"	4619	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"West Virginia"	"54"	1802	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Wisconsin"	"55"	4390	Not Applicable	Not Applicable
+	"May, 2017"	"2017/05"	"Wyoming"	"56"	405	Not Applicable	Not Applicable
+"Total"	"May, 2017"	"2017/05"			229670	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Alabama"	"01"	4155	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Alaska"	"02"	354	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Arizona"	"04"	4791	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Arkansas"	"05"	2577	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"California"	"06"	21109	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Colorado"	"08"	2937	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Connecticut"	"09"	2489	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Delaware"	"10"	673	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"District of Columbia"	"11"	389	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Florida"	"12"	16040	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Georgia"	"13"	6522	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Hawaii"	"15"	934	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Idaho"	"16"	1110	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Illinois"	"17"	8361	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Indiana"	"18"	5131	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Iowa"	"19"	2349	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Kansas"	"20"	2011	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Kentucky"	"21"	3786	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Louisiana"	"22"	3537	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Maine"	"23"	1153	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Maryland"	"24"	3904	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Massachusetts"	"25"	4516	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Michigan"	"26"	7527	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Minnesota"	"27"	3308	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Mississippi"	"28"	2507	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Missouri"	"29"	4785	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Montana"	"30"	779	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Nebraska"	"31"	1364	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Nevada"	"32"	2001	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"New Hampshire"	"33"	958	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"New Jersey"	"34"	5776	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"New Mexico"	"35"	1414	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"New York"	"36"	12118	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"North Carolina"	"37"	7163	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"North Dakota"	"38"	510	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Ohio"	"39"	9512	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Oklahoma"	"40"	3109	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Oregon"	"41"	2803	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Pennsylvania"	"42"	10571	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Rhode Island"	"44"	801	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"South Carolina"	"45"	3966	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"South Dakota"	"46"	620	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Tennessee"	"47"	5409	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Texas"	"48"	15421	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Utah"	"49"	1441	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Vermont"	"50"	462	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Virginia"	"51"	5368	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Washington"	"53"	4219	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"West Virginia"	"54"	1806	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Wisconsin"	"55"	4031	Not Applicable	Not Applicable
+	"Jun., 2017"	"2017/06"	"Wyoming"	"56"	352	Not Applicable	Not Applicable
+"Total"	"Jun., 2017"	"2017/06"			218929	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Alabama"	"01"	4225	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Alaska"	"02"	332	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Arizona"	"04"	4754	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Arkansas"	"05"	2635	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"California"	"06"	21059	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Colorado"	"08"	2919	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Connecticut"	"09"	2441	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Delaware"	"10"	731	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"District of Columbia"	"11"	381	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Florida"	"12"	16264	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Georgia"	"13"	6691	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Hawaii"	"15"	926	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Idaho"	"16"	1113	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Illinois"	"17"	8586	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Indiana"	"18"	5118	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Iowa"	"19"	2256	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Kansas"	"20"	2211	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Kentucky"	"21"	3819	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Louisiana"	"22"	3616	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Maine"	"23"	1090	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Maryland"	"24"	3889	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Massachusetts"	"25"	4636	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Michigan"	"26"	7610	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Minnesota"	"27"	3411	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Mississippi"	"28"	2587	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Missouri"	"29"	4928	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Montana"	"30"	837	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Nebraska"	"31"	1336	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Nevada"	"32"	1989	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"New Hampshire"	"33"	1005	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"New Jersey"	"34"	5821	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"New Mexico"	"35"	1460	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"New York"	"36"	12149	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"North Carolina"	"37"	7373	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"North Dakota"	"38"	482	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Ohio"	"39"	9699	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Oklahoma"	"40"	3280	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Oregon"	"41"	2960	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Pennsylvania"	"42"	10468	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Rhode Island"	"44"	769	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"South Carolina"	"45"	3998	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"South Dakota"	"46"	615	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Tennessee"	"47"	5761	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Texas"	"48"	15663	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Utah"	"49"	1455	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Vermont"	"50"	471	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Virginia"	"51"	5326	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Washington"	"53"	4454	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"West Virginia"	"54"	1782	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Wisconsin"	"55"	4123	Not Applicable	Not Applicable
+	"Jul., 2017"	"2017/07"	"Wyoming"	"56"	365	Not Applicable	Not Applicable
+"Total"	"Jul., 2017"	"2017/07"			221869	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Alabama"	"01"	4225	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Alaska"	"02"	341	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Arizona"	"04"	4554	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Arkansas"	"05"	2596	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"California"	"06"	20671	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Colorado"	"08"	2930	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Connecticut"	"09"	2371	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Delaware"	"10"	716	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"District of Columbia"	"11"	401	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Florida"	"12"	16682	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Georgia"	"13"	6695	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Hawaii"	"15"	938	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Idaho"	"16"	1106	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Illinois"	"17"	8587	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Indiana"	"18"	5119	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Iowa"	"19"	2276	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Kansas"	"20"	2088	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Kentucky"	"21"	3777	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Louisiana"	"22"	3669	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Maine"	"23"	1160	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Maryland"	"24"	4020	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Massachusetts"	"25"	4690	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Michigan"	"26"	7614	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Minnesota"	"27"	3461	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Mississippi"	"28"	2504	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Missouri"	"29"	4920	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Montana"	"30"	815	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Nebraska"	"31"	1300	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Nevada"	"32"	1856	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"New Hampshire"	"33"	1045	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"New Jersey"	"34"	5904	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"New Mexico"	"35"	1405	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"New York"	"36"	12272	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"North Carolina"	"37"	7466	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"North Dakota"	"38"	513	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Ohio"	"39"	9715	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Oklahoma"	"40"	3186	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Oregon"	"41"	2874	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Pennsylvania"	"42"	10620	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Rhode Island"	"44"	752	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"South Carolina"	"45"	3962	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"South Dakota"	"46"	626	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Tennessee"	"47"	5491	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Texas"	"48"	15766	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Utah"	"49"	1436	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Vermont"	"50"	464	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Virginia"	"51"	5376	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Washington"	"53"	4580	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"West Virginia"	"54"	1851	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Wisconsin"	"55"	4131	Not Applicable	Not Applicable
+	"Aug., 2017"	"2017/08"	"Wyoming"	"56"	370	Not Applicable	Not Applicable
+"Total"	"Aug., 2017"	"2017/08"			221887	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Alabama"	"01"	4315	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Alaska"	"02"	405	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Arizona"	"04"	4456	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Arkansas"	"05"	2590	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"California"	"06"	20963	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Colorado"	"08"	3063	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Connecticut"	"09"	2410	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Delaware"	"10"	715	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"District of Columbia"	"11"	386	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Florida"	"12"	16639	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Georgia"	"13"	6536	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Hawaii"	"15"	897	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Idaho"	"16"	1121	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Illinois"	"17"	8741	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Indiana"	"18"	5094	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Iowa"	"19"	2351	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Kansas"	"20"	2075	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Kentucky"	"21"	3691	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Louisiana"	"22"	3552	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Maine"	"23"	1175	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Maryland"	"24"	3915	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Massachusetts"	"25"	4379	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Michigan"	"26"	7498	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Minnesota"	"27"	3559	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Mississippi"	"28"	2561	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Missouri"	"29"	4822	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Montana"	"30"	739	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Nebraska"	"31"	1291	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Nevada"	"32"	1896	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"New Hampshire"	"33"	986	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"New Jersey"	"34"	5789	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"New Mexico"	"35"	1433	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"New York"	"36"	12072	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"North Carolina"	"37"	7275	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"North Dakota"	"38"	505	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Ohio"	"39"	9587	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Oklahoma"	"40"	3191	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Oregon"	"41"	2764	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Pennsylvania"	"42"	10468	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Rhode Island"	"44"	792	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"South Carolina"	"45"	3918	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"South Dakota"	"46"	581	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Tennessee"	"47"	5542	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Texas"	"48"	15522	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Utah"	"49"	1496	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Vermont"	"50"	444	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Virginia"	"51"	5382	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Washington"	"53"	4405	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"West Virginia"	"54"	1752	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Wisconsin"	"55"	4164	Not Applicable	Not Applicable
+	"Sep., 2017"	"2017/09"	"Wyoming"	"56"	359	Not Applicable	Not Applicable
+"Total"	"Sep., 2017"	"2017/09"			220262	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Alabama"	"01"	4337	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Alaska"	"02"	396	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Arizona"	"04"	4651	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Arkansas"	"05"	2584	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"California"	"06"	21702	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Colorado"	"08"	3240	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Connecticut"	"09"	2518	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Delaware"	"10"	755	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"District of Columbia"	"11"	407	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Florida"	"12"	17098	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Georgia"	"13"	6980	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Hawaii"	"15"	886	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Idaho"	"16"	1201	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Illinois"	"17"	8863	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Indiana"	"18"	5358	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Iowa"	"19"	2539	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Kansas"	"20"	2250	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Kentucky"	"21"	3887	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Louisiana"	"22"	3816	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Maine"	"23"	1192	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Maryland"	"24"	4066	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Massachusetts"	"25"	4855	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Michigan"	"26"	8034	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Minnesota"	"27"	3781	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Mississippi"	"28"	2660	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Missouri"	"29"	5033	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Montana"	"30"	868	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Nebraska"	"31"	1401	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Nevada"	"32"	1998	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"New Hampshire"	"33"	1047	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"New Jersey"	"34"	5836	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"New Mexico"	"35"	1560	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"New York"	"36"	12681	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"North Carolina"	"37"	7619	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"North Dakota"	"38"	568	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Ohio"	"39"	9879	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Oklahoma"	"40"	3252	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Oregon"	"41"	3085	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Pennsylvania"	"42"	11059	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Rhode Island"	"44"	788	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"South Carolina"	"45"	4115	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"South Dakota"	"46"	722	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Tennessee"	"47"	5773	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Texas"	"48"	16731	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Utah"	"49"	1502	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Vermont"	"50"	490	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Virginia"	"51"	5653	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Washington"	"53"	4625	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"West Virginia"	"54"	1988	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Wisconsin"	"55"	4391	Not Applicable	Not Applicable
+	"Oct., 2017"	"2017/10"	"Wyoming"	"56"	405	Not Applicable	Not Applicable
+"Total"	"Oct., 2017"	"2017/10"			231125	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Alabama"	"01"	4402	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Alaska"	"02"	377	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Arizona"	"04"	4672	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Arkansas"	"05"	2641	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"California"	"06"	21098	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Colorado"	"08"	3138	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Connecticut"	"09"	2586	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Delaware"	"10"	806	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"District of Columbia"	"11"	370	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Florida"	"12"	16654	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Georgia"	"13"	6882	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Hawaii"	"15"	955	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Idaho"	"16"	1139	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Illinois"	"17"	9090	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Indiana"	"18"	5325	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Iowa"	"19"	2570	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Kansas"	"20"	2225	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Kentucky"	"21"	3873	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Louisiana"	"22"	3864	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Maine"	"23"	1248	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Maryland"	"24"	4106	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Massachusetts"	"25"	4823	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Michigan"	"26"	7961	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Minnesota"	"27"	3799	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Mississippi"	"28"	2744	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Missouri"	"29"	5015	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Montana"	"30"	830	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Nebraska"	"31"	1392	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Nevada"	"32"	1987	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"New Hampshire"	"33"	1035	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"New Jersey"	"34"	6089	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"New Mexico"	"35"	1486	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"New York"	"36"	12944	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"North Carolina"	"37"	7591	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"North Dakota"	"38"	543	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Ohio"	"39"	10231	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Oklahoma"	"40"	3359	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Oregon"	"41"	2892	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Pennsylvania"	"42"	11017	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Rhode Island"	"44"	822	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"South Carolina"	"45"	4113	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"South Dakota"	"46"	683	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Tennessee"	"47"	5779	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Texas"	"48"	16555	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Utah"	"49"	1497	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Vermont"	"50"	501	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Virginia"	"51"	5658	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Washington"	"53"	4731	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"West Virginia"	"54"	1960	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Wisconsin"	"55"	4416	Not Applicable	Not Applicable
+	"Nov., 2017"	"2017/11"	"Wyoming"	"56"	417	Not Applicable	Not Applicable
+"Total"	"Nov., 2017"	"2017/11"			230891	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Alabama"	"01"	4899	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Alaska"	"02"	403	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Arizona"	"04"	5418	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Arkansas"	"05"	3208	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"California"	"06"	25360	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Colorado"	"08"	3395	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Connecticut"	"09"	2908	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Delaware"	"10"	877	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"District of Columbia"	"11"	436	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Florida"	"12"	18158	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Georgia"	"13"	7520	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Hawaii"	"15"	1069	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Idaho"	"16"	1233	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Illinois"	"17"	10266	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Indiana"	"18"	5980	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Iowa"	"19"	2790	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Kansas"	"20"	2498	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Kentucky"	"21"	4558	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Louisiana"	"22"	4444	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Maine"	"23"	1325	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Maryland"	"24"	4537	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Massachusetts"	"25"	5233	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Michigan"	"26"	8884	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Minnesota"	"27"	4048	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Mississippi"	"28"	3162	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Missouri"	"29"	5655	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Montana"	"30"	843	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Nebraska"	"31"	1516	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Nevada"	"32"	2242	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"New Hampshire"	"33"	1091	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"New Jersey"	"34"	6860	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"New Mexico"	"35"	1676	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"New York"	"36"	14243	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"North Carolina"	"37"	8550	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"North Dakota"	"38"	566	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Ohio"	"39"	11456	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Oklahoma"	"40"	3683	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Oregon"	"41"	3210	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Pennsylvania"	"42"	12306	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Rhode Island"	"44"	984	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"South Carolina"	"45"	4539	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"South Dakota"	"46"	668	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Tennessee"	"47"	6451	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Texas"	"48"	18690	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Utah"	"49"	1552	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Vermont"	"50"	560	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Virginia"	"51"	6307	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Washington"	"53"	5047	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"West Virginia"	"54"	2126	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Wisconsin"	"55"	4807	Not Applicable	Not Applicable
+	"Dec., 2017"	"2017/12"	"Wyoming"	"56"	420	Not Applicable	Not Applicable
+"Total"	"Dec., 2017"	"2017/12"			258657	Not Applicable	Not Applicable
+"Total"					2813503	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Year/Month: 2017"
+"Group By: Month; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jun 10, 2024 8:38:24 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 10, 2024 8:38:24 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."

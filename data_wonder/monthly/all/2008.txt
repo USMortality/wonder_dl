@@ -1,0 +1,649 @@
+"Notes"	"Month"	"Month Code"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Jan., 2008"	"2008/01"	"Alabama"	"01"	4336	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Alaska"	"02"	305	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Arizona"	"04"	4201	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Arkansas"	"05"	2586	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"California"	"06"	22241	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Colorado"	"08"	2859	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Connecticut"	"09"	2656	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Delaware"	"10"	668	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"District of Columbia"	"11"	469	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Florida"	"12"	15112	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Georgia"	"13"	6142	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Hawaii"	"15"	883	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Idaho"	"16"	912	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Illinois"	"17"	9116	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Indiana"	"18"	4871	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Iowa"	"19"	2592	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Kansas"	"20"	2311	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Kentucky"	"21"	3566	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Louisiana"	"22"	3769	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Maine"	"23"	1114	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Maryland"	"24"	3841	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Massachusetts"	"25"	4818	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Michigan"	"26"	7967	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Minnesota"	"27"	3479	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Mississippi"	"28"	2700	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Missouri"	"29"	5315	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Montana"	"30"	800	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Nebraska"	"31"	1378	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Nevada"	"32"	1798	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"New Hampshire"	"33"	916	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"New Jersey"	"34"	6469	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"New Mexico"	"35"	1467	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"New York"	"36"	13349	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"North Carolina"	"37"	6894	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"North Dakota"	"38"	470	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Ohio"	"39"	9884	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Oklahoma"	"40"	3415	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Oregon"	"41"	2774	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Pennsylvania"	"42"	11515	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Rhode Island"	"44"	886	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"South Carolina"	"45"	3555	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"South Dakota"	"46"	629	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Tennessee"	"47"	5325	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Texas"	"48"	15627	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Utah"	"49"	1275	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Vermont"	"50"	412	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Virginia"	"51"	5272	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Washington"	"53"	4435	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"West Virginia"	"54"	1888	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Wisconsin"	"55"	4262	Not Applicable	Not Applicable
+	"Jan., 2008"	"2008/01"	"Wyoming"	"56"	385	Not Applicable	Not Applicable
+"Total"	"Jan., 2008"	"2008/01"			223909	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Alabama"	"01"	4401	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Alaska"	"02"	263	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Arizona"	"04"	4107	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Arkansas"	"05"	2853	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"California"	"06"	22280	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Colorado"	"08"	2795	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Connecticut"	"09"	2504	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Delaware"	"10"	681	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"District of Columbia"	"11"	423	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Florida"	"12"	14457	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Georgia"	"13"	6167	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Hawaii"	"15"	829	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Idaho"	"16"	927	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Illinois"	"17"	9490	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Indiana"	"18"	5146	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Iowa"	"19"	2541	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Kansas"	"20"	2362	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Kentucky"	"21"	3700	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Louisiana"	"22"	3550	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Maine"	"23"	1115	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Maryland"	"24"	3978	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Massachusetts"	"25"	4868	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Michigan"	"26"	8064	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Minnesota"	"27"	3352	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Mississippi"	"28"	2660	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Missouri"	"29"	5467	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Montana"	"30"	716	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Nebraska"	"31"	1398	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Nevada"	"32"	1765	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"New Hampshire"	"33"	865	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"New Jersey"	"34"	6218	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"New Mexico"	"35"	1576	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"New York"	"36"	13336	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"North Carolina"	"37"	6844	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"North Dakota"	"38"	529	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Ohio"	"39"	9863	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Oklahoma"	"40"	3668	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Oregon"	"41"	2714	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Pennsylvania"	"42"	11552	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Rhode Island"	"44"	961	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"South Carolina"	"45"	3603	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"South Dakota"	"46"	608	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Tennessee"	"47"	5343	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Texas"	"48"	15256	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Utah"	"49"	1271	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Vermont"	"50"	438	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Virginia"	"51"	5147	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Washington"	"53"	4289	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"West Virginia"	"54"	1960	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Wisconsin"	"55"	4182	Not Applicable	Not Applicable
+	"Feb., 2008"	"2008/02"	"Wyoming"	"56"	359	Not Applicable	Not Applicable
+"Total"	"Feb., 2008"	"2008/02"			223441	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Alabama"	"01"	4371	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Alaska"	"02"	321	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Arizona"	"04"	4484	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Arkansas"	"05"	2814	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"California"	"06"	22210	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Colorado"	"08"	2925	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Connecticut"	"09"	2791	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Delaware"	"10"	698	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"District of Columbia"	"11"	460	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Florida"	"12"	15436	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Georgia"	"13"	6633	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Hawaii"	"15"	836	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Idaho"	"16"	1078	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Illinois"	"17"	10064	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Indiana"	"18"	5496	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Iowa"	"19"	2740	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Kansas"	"20"	2540	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Kentucky"	"21"	3901	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Louisiana"	"22"	3721	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Maine"	"23"	1204	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Maryland"	"24"	4010	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Massachusetts"	"25"	5135	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Michigan"	"26"	8218	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Minnesota"	"27"	3697	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Mississippi"	"28"	2645	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Missouri"	"29"	5621	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Montana"	"30"	818	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Nebraska"	"31"	1425	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Nevada"	"32"	1797	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"New Hampshire"	"33"	948	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"New Jersey"	"34"	6806	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"New Mexico"	"35"	1538	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"New York"	"36"	14051	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"North Carolina"	"37"	7287	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"North Dakota"	"38"	604	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Ohio"	"39"	10569	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Oklahoma"	"40"	3540	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Oregon"	"41"	2900	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Pennsylvania"	"42"	12386	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Rhode Island"	"44"	943	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"South Carolina"	"45"	3617	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"South Dakota"	"46"	672	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Tennessee"	"47"	5438	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Texas"	"48"	14810	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Utah"	"49"	1267	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Vermont"	"50"	486	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Virginia"	"51"	5415	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Washington"	"53"	4400	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"West Virginia"	"54"	2097	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Wisconsin"	"55"	4477	Not Applicable	Not Applicable
+	"Mar., 2008"	"2008/03"	"Wyoming"	"56"	375	Not Applicable	Not Applicable
+"Total"	"Mar., 2008"	"2008/03"			232715	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Alabama"	"01"	3944	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Alaska"	"02"	281	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Arizona"	"04"	4003	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Arkansas"	"05"	2338	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"California"	"06"	19695	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Colorado"	"08"	2681	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Connecticut"	"09"	2460	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Delaware"	"10"	562	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"District of Columbia"	"11"	424	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Florida"	"12"	14744	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Georgia"	"13"	5628	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Hawaii"	"15"	810	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Idaho"	"16"	935	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Illinois"	"17"	8646	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Indiana"	"18"	4753	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Iowa"	"19"	2401	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Kansas"	"20"	2061	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Kentucky"	"21"	3417	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Louisiana"	"22"	3310	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Maine"	"23"	1112	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Maryland"	"24"	3636	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Massachusetts"	"25"	4600	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Michigan"	"26"	7473	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Minnesota"	"27"	3137	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Mississippi"	"28"	2335	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Missouri"	"29"	4659	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Montana"	"30"	759	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Nebraska"	"31"	1378	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Nevada"	"32"	1603	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"New Hampshire"	"33"	912	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"New Jersey"	"34"	5816	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"New Mexico"	"35"	1335	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"New York"	"36"	12557	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"North Carolina"	"37"	6397	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"North Dakota"	"38"	516	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Ohio"	"39"	9181	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Oklahoma"	"40"	2957	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Oregon"	"41"	2775	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Pennsylvania"	"42"	11082	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Rhode Island"	"44"	811	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"South Carolina"	"45"	3310	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"South Dakota"	"46"	600	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Tennessee"	"47"	4722	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Texas"	"48"	13372	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Utah"	"49"	1179	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Vermont"	"50"	467	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Virginia"	"51"	4799	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Washington"	"53"	4238	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"West Virginia"	"54"	1748	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Wisconsin"	"55"	3914	Not Applicable	Not Applicable
+	"Apr., 2008"	"2008/04"	"Wyoming"	"56"	328	Not Applicable	Not Applicable
+"Total"	"Apr., 2008"	"2008/04"			206801	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Alabama"	"01"	3920	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Alaska"	"02"	295	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Arizona"	"04"	3805	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Arkansas"	"05"	2374	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"California"	"06"	18881	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Colorado"	"08"	2665	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Connecticut"	"09"	2407	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Delaware"	"10"	610	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"District of Columbia"	"11"	452	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Florida"	"12"	14464	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Georgia"	"13"	5724	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Hawaii"	"15"	806	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Idaho"	"16"	944	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Illinois"	"17"	8484	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Indiana"	"18"	4673	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Iowa"	"19"	2332	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Kansas"	"20"	1991	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Kentucky"	"21"	3398	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Louisiana"	"22"	3345	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Maine"	"23"	1005	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Maryland"	"24"	3601	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Massachusetts"	"25"	4383	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Michigan"	"26"	7220	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Minnesota"	"27"	3140	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Mississippi"	"28"	2310	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Missouri"	"29"	4547	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Montana"	"30"	713	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Nebraska"	"31"	1288	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Nevada"	"32"	1647	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"New Hampshire"	"33"	836	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"New Jersey"	"34"	5821	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"New Mexico"	"35"	1309	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"New York"	"36"	12167	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"North Carolina"	"37"	6253	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"North Dakota"	"38"	449	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Ohio"	"39"	8844	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Oklahoma"	"40"	2878	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Oregon"	"41"	2709	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Pennsylvania"	"42"	10311	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Rhode Island"	"44"	784	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"South Carolina"	"45"	3336	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"South Dakota"	"46"	593	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Tennessee"	"47"	4881	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Texas"	"48"	13387	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Utah"	"49"	1109	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Vermont"	"50"	458	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Virginia"	"51"	4669	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Washington"	"53"	4276	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"West Virginia"	"54"	1796	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Wisconsin"	"55"	3798	Not Applicable	Not Applicable
+	"May, 2008"	"2008/05"	"Wyoming"	"56"	340	Not Applicable	Not Applicable
+"Total"	"May, 2008"	"2008/05"			202428	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Alabama"	"01"	3681	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Alaska"	"02"	307	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Arizona"	"04"	3586	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Arkansas"	"05"	2247	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"California"	"06"	18342	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Colorado"	"08"	2518	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Connecticut"	"09"	2211	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Delaware"	"10"	594	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"District of Columbia"	"11"	438	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Florida"	"12"	13520	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Georgia"	"13"	5396	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Hawaii"	"15"	749	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Idaho"	"16"	888	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Illinois"	"17"	7840	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Indiana"	"18"	4237	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Iowa"	"19"	2141	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Kansas"	"20"	1848	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Kentucky"	"21"	3169	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Louisiana"	"22"	3183	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Maine"	"23"	974	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Maryland"	"24"	3427	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Massachusetts"	"25"	4037	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Michigan"	"26"	6679	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Minnesota"	"27"	2948	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Mississippi"	"28"	2227	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Missouri"	"29"	4119	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Montana"	"30"	725	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Nebraska"	"31"	1129	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Nevada"	"32"	1522	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"New Hampshire"	"33"	818	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"New Jersey"	"34"	5394	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"New Mexico"	"35"	1219	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"New York"	"36"	11439	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"North Carolina"	"37"	6030	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"North Dakota"	"38"	452	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Ohio"	"39"	8333	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Oklahoma"	"40"	2808	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Oregon"	"41"	2581	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Pennsylvania"	"42"	9907	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Rhode Island"	"44"	754	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"South Carolina"	"45"	3175	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"South Dakota"	"46"	521	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Tennessee"	"47"	4477	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Texas"	"48"	12629	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Utah"	"49"	1070	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Vermont"	"50"	402	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Virginia"	"51"	4491	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Washington"	"53"	3871	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"West Virginia"	"54"	1620	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Wisconsin"	"55"	3581	Not Applicable	Not Applicable
+	"Jun., 2008"	"2008/06"	"Wyoming"	"56"	340	Not Applicable	Not Applicable
+"Total"	"Jun., 2008"	"2008/06"			190594	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Alabama"	"01"	3667	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Alaska"	"02"	234	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Arizona"	"04"	3523	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Arkansas"	"05"	2336	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"California"	"06"	18114	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Colorado"	"08"	2328	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Connecticut"	"09"	2257	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Delaware"	"10"	668	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"District of Columbia"	"11"	384	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Florida"	"12"	13595	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Georgia"	"13"	5490	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Hawaii"	"15"	789	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Idaho"	"16"	864	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Illinois"	"17"	7968	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Indiana"	"18"	4503	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Iowa"	"19"	2156	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Kansas"	"20"	1915	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Kentucky"	"21"	3198	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Louisiana"	"22"	3176	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Maine"	"23"	970	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Maryland"	"24"	3437	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Massachusetts"	"25"	4082	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Michigan"	"26"	6875	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Minnesota"	"27"	2941	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Mississippi"	"28"	2238	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Missouri"	"29"	4378	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Montana"	"30"	737	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Nebraska"	"31"	1157	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Nevada"	"32"	1544	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"New Hampshire"	"33"	788	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"New Jersey"	"34"	5497	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"New Mexico"	"35"	1169	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"New York"	"36"	11401	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"North Carolina"	"37"	5903	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"North Dakota"	"38"	451	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Ohio"	"39"	8602	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Oklahoma"	"40"	2858	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Oregon"	"41"	2545	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Pennsylvania"	"42"	9618	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Rhode Island"	"44"	726	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"South Carolina"	"45"	3285	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"South Dakota"	"46"	515	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Tennessee"	"47"	4529	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Texas"	"48"	12942	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Utah"	"49"	1112	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Vermont"	"50"	390	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Virginia"	"51"	4796	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Washington"	"53"	3740	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"West Virginia"	"54"	1729	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Wisconsin"	"55"	3556	Not Applicable	Not Applicable
+	"Jul., 2008"	"2008/07"	"Wyoming"	"56"	314	Not Applicable	Not Applicable
+"Total"	"Jul., 2008"	"2008/07"			191990	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Alabama"	"01"	3775	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Alaska"	"02"	282	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Arizona"	"04"	3590	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Arkansas"	"05"	2291	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"California"	"06"	18203	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Colorado"	"08"	2397	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Connecticut"	"09"	2192	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Delaware"	"10"	624	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"District of Columbia"	"11"	401	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Florida"	"12"	13515	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Georgia"	"13"	5595	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Hawaii"	"15"	719	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Idaho"	"16"	863	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Illinois"	"17"	8125	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Indiana"	"18"	4341	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Iowa"	"19"	2138	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Kansas"	"20"	1949	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Kentucky"	"21"	3194	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Louisiana"	"22"	3217	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Maine"	"23"	943	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Maryland"	"24"	3348	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Massachusetts"	"25"	4207	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Michigan"	"26"	6880	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Minnesota"	"27"	2999	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Mississippi"	"28"	2313	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Missouri"	"29"	4246	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Montana"	"30"	663	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Nebraska"	"31"	1268	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Nevada"	"32"	1516	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"New Hampshire"	"33"	827	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"New Jersey"	"34"	5376	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"New Mexico"	"35"	1258	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"New York"	"36"	11607	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"North Carolina"	"37"	6002	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"North Dakota"	"38"	479	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Ohio"	"39"	8282	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Oklahoma"	"40"	2849	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Oregon"	"41"	2591	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Pennsylvania"	"42"	9538	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Rhode Island"	"44"	770	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"South Carolina"	"45"	3169	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"South Dakota"	"46"	563	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Tennessee"	"47"	4606	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Texas"	"48"	12782	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Utah"	"49"	1116	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Vermont"	"50"	400	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Virginia"	"51"	4736	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Washington"	"53"	3670	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"West Virginia"	"54"	1640	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Wisconsin"	"55"	3548	Not Applicable	Not Applicable
+	"Aug., 2008"	"2008/08"	"Wyoming"	"56"	326	Not Applicable	Not Applicable
+"Total"	"Aug., 2008"	"2008/08"			191929	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Alabama"	"01"	3730	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Alaska"	"02"	260	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Arizona"	"04"	3339	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Arkansas"	"05"	2208	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"California"	"06"	17570	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Colorado"	"08"	2346	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Connecticut"	"09"	2194	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Delaware"	"10"	593	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"District of Columbia"	"11"	385	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Florida"	"12"	13196	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Georgia"	"13"	5173	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Hawaii"	"15"	740	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Idaho"	"16"	863	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Illinois"	"17"	7857	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Indiana"	"18"	4433	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Iowa"	"19"	2177	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Kansas"	"20"	1857	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Kentucky"	"21"	3174	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Louisiana"	"22"	3441	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Maine"	"23"	973	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Maryland"	"24"	3228	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Massachusetts"	"25"	3936	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Michigan"	"26"	6749	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Minnesota"	"27"	2811	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Mississippi"	"28"	2247	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Missouri"	"29"	4401	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Montana"	"30"	703	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Nebraska"	"31"	1179	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Nevada"	"32"	1412	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"New Hampshire"	"33"	800	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"New Jersey"	"34"	5122	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"New Mexico"	"35"	1185	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"New York"	"36"	11236	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"North Carolina"	"37"	6012	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"North Dakota"	"38"	449	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Ohio"	"39"	8172	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Oklahoma"	"40"	2734	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Oregon"	"41"	2418	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Pennsylvania"	"42"	9504	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Rhode Island"	"44"	690	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"South Carolina"	"45"	3031	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"South Dakota"	"46"	554	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Tennessee"	"47"	4487	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Texas"	"48"	12812	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Utah"	"49"	1129	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Vermont"	"50"	420	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Virginia"	"51"	4500	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Washington"	"53"	3790	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"West Virginia"	"54"	1679	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Wisconsin"	"55"	3521	Not Applicable	Not Applicable
+	"Sep., 2008"	"2008/09"	"Wyoming"	"56"	361	Not Applicable	Not Applicable
+"Total"	"Sep., 2008"	"2008/09"			187781	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Alabama"	"01"	3781	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Alaska"	"02"	331	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Arizona"	"04"	3687	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Arkansas"	"05"	2322	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"California"	"06"	18842	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Colorado"	"08"	2461	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Connecticut"	"09"	2354	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Delaware"	"10"	609	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"District of Columbia"	"11"	399	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Florida"	"12"	13887	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Georgia"	"13"	5651	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Hawaii"	"15"	753	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Idaho"	"16"	884	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Illinois"	"17"	8294	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Indiana"	"18"	4500	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Iowa"	"19"	2328	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Kansas"	"20"	1980	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Kentucky"	"21"	3330	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Louisiana"	"22"	3409	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Maine"	"23"	1007	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Maryland"	"24"	3571	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Massachusetts"	"25"	4505	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Michigan"	"26"	7382	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Minnesota"	"27"	3192	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Mississippi"	"28"	2312	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Missouri"	"29"	4406	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Montana"	"30"	758	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Nebraska"	"31"	1229	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Nevada"	"32"	1553	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"New Hampshire"	"33"	858	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"New Jersey"	"34"	5665	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"New Mexico"	"35"	1238	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"New York"	"36"	12253	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"North Carolina"	"37"	6321	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"North Dakota"	"38"	492	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Ohio"	"39"	8894	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Oklahoma"	"40"	2935	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Oregon"	"41"	2694	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Pennsylvania"	"42"	10326	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Rhode Island"	"44"	823	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"South Carolina"	"45"	3212	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"South Dakota"	"46"	563	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Tennessee"	"47"	4799	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Texas"	"48"	13344	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Utah"	"49"	1192	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Vermont"	"50"	434	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Virginia"	"51"	5010	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Washington"	"53"	3903	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"West Virginia"	"54"	1674	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Wisconsin"	"55"	3833	Not Applicable	Not Applicable
+	"Oct., 2008"	"2008/10"	"Wyoming"	"56"	355	Not Applicable	Not Applicable
+"Total"	"Oct., 2008"	"2008/10"			200535	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Alabama"	"01"	3920	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Alaska"	"02"	294	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Arizona"	"04"	3586	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Arkansas"	"05"	2347	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"California"	"06"	18257	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Colorado"	"08"	2558	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Connecticut"	"09"	2304	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Delaware"	"10"	635	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"District of Columbia"	"11"	448	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Florida"	"12"	14016	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Georgia"	"13"	5816	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Hawaii"	"15"	753	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Idaho"	"16"	871	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Illinois"	"17"	8485	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Indiana"	"18"	4639	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Iowa"	"19"	2361	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Kansas"	"20"	1945	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Kentucky"	"21"	3544	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Louisiana"	"22"	3418	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Maine"	"23"	1034	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Maryland"	"24"	3758	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Massachusetts"	"25"	4381	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Michigan"	"26"	7236	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Minnesota"	"27"	3208	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Mississippi"	"28"	2419	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Missouri"	"29"	4563	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Montana"	"30"	727	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Nebraska"	"31"	1271	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Nevada"	"32"	1486	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"New Hampshire"	"33"	797	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"New Jersey"	"34"	5615	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"New Mexico"	"35"	1336	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"New York"	"36"	12071	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"North Carolina"	"37"	6464	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"North Dakota"	"38"	471	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Ohio"	"39"	9277	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Oklahoma"	"40"	3045	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Oregon"	"41"	2544	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Pennsylvania"	"42"	10352	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Rhode Island"	"44"	757	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"South Carolina"	"45"	3375	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"South Dakota"	"46"	632	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Tennessee"	"47"	4916	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Texas"	"48"	13295	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Utah"	"49"	1118	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Vermont"	"50"	437	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Virginia"	"51"	4894	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Washington"	"53"	3841	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"West Virginia"	"54"	1764	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Wisconsin"	"55"	3936	Not Applicable	Not Applicable
+	"Nov., 2008"	"2008/11"	"Wyoming"	"56"	340	Not Applicable	Not Applicable
+"Total"	"Nov., 2008"	"2008/11"			201557	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Alabama"	"01"	4181	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Alaska"	"02"	321	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Arizona"	"04"	3912	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Arkansas"	"05"	2606	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"California"	"06"	20131	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Colorado"	"08"	2741	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Connecticut"	"09"	2464	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Delaware"	"10"	680	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"District of Columbia"	"11"	457	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Florida"	"12"	14761	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Georgia"	"13"	6225	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Hawaii"	"15"	834	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Idaho"	"16"	933	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Illinois"	"17"	9102	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Indiana"	"18"	5160	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Iowa"	"19"	2634	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Kansas"	"20"	2216	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Kentucky"	"21"	3738	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Louisiana"	"22"	3681	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Maine"	"23"	1090	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Maryland"	"24"	4057	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Massachusetts"	"25"	4566	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Michigan"	"26"	7702	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Minnesota"	"27"	3595	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Mississippi"	"28"	2578	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Missouri"	"29"	4856	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Montana"	"30"	794	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Nebraska"	"31"	1361	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Nevada"	"32"	1692	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"New Hampshire"	"33"	903	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"New Jersey"	"34"	6227	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"New Mexico"	"35"	1375	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"New York"	"36"	13231	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"North Carolina"	"37"	6876	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"North Dakota"	"38"	509	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Ohio"	"39"	9866	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Oklahoma"	"40"	3327	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Oregon"	"41"	2722	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Pennsylvania"	"42"	11371	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Rhode Island"	"44"	833	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"South Carolina"	"45"	3621	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"South Dakota"	"46"	633	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Tennessee"	"47"	5297	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Texas"	"48"	14658	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Utah"	"49"	1202	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Vermont"	"50"	467	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Virginia"	"51"	5371	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Washington"	"53"	4174	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"West Virginia"	"54"	1962	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Wisconsin"	"55"	4207	Not Applicable	Not Applicable
+	"Dec., 2008"	"2008/12"	"Wyoming"	"56"	404	Not Applicable	Not Applicable
+"Total"	"Dec., 2008"	"2008/12"			218304	Not Applicable	Not Applicable
+"Total"					2471984	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Year/Month: 2008"
+"Group By: Month; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jun 10, 2024 8:37:40 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 10, 2024 8:37:40 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."

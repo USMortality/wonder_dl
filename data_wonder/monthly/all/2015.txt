@@ -1,0 +1,649 @@
+"Notes"	"Month"	"Month Code"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Jan., 2015"	"2015/01"	"Alabama"	"01"	4999	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Alaska"	"02"	376	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Arizona"	"04"	5049	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Arkansas"	"05"	3130	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"California"	"06"	25192	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Colorado"	"08"	3629	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Connecticut"	"09"	2943	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Delaware"	"10"	899	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"District of Columbia"	"11"	512	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Florida"	"12"	17675	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Georgia"	"13"	7538	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Hawaii"	"15"	1066	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Idaho"	"16"	1224	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Illinois"	"17"	10402	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Indiana"	"18"	6363	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Iowa"	"19"	2988	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Kansas"	"20"	2633	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Kentucky"	"21"	4672	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Louisiana"	"22"	4257	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Maine"	"23"	1396	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Maryland"	"24"	4795	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Massachusetts"	"25"	5834	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Michigan"	"26"	9313	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Minnesota"	"27"	4144	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Mississippi"	"28"	2893	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Missouri"	"29"	5844	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Montana"	"30"	918	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Nebraska"	"31"	1672	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Nevada"	"32"	2162	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"New Hampshire"	"33"	1220	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"New Jersey"	"34"	7344	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"New Mexico"	"35"	1735	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"New York"	"36"	15280	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"North Carolina"	"37"	8715	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"North Dakota"	"38"	643	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Ohio"	"39"	11899	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Oklahoma"	"40"	3874	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Oregon"	"41"	3334	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Pennsylvania"	"42"	13501	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Rhode Island"	"44"	990	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"South Carolina"	"45"	4561	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"South Dakota"	"46"	752	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Tennessee"	"47"	6518	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Texas"	"48"	18825	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Utah"	"49"	1608	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Vermont"	"50"	544	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Virginia"	"51"	6658	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Washington"	"53"	5153	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"West Virginia"	"54"	2215	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Wisconsin"	"55"	5007	Not Applicable	Not Applicable
+	"Jan., 2015"	"2015/01"	"Wyoming"	"56"	461	Not Applicable	Not Applicable
+"Total"	"Jan., 2015"	"2015/01"			265355	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Alabama"	"01"	4447	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Alaska"	"02"	345	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Arizona"	"04"	4292	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Arkansas"	"05"	2754	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"California"	"06"	21619	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Colorado"	"08"	2827	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Connecticut"	"09"	2698	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Delaware"	"10"	747	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"District of Columbia"	"11"	412	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Florida"	"12"	16062	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Georgia"	"13"	6641	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Hawaii"	"15"	915	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Idaho"	"16"	993	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Illinois"	"17"	8488	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Indiana"	"18"	5018	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Iowa"	"19"	2385	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Kansas"	"20"	2215	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Kentucky"	"21"	3900	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Louisiana"	"22"	3705	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Maine"	"23"	1277	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Maryland"	"24"	3942	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Massachusetts"	"25"	5232	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Michigan"	"26"	7714	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Minnesota"	"27"	3391	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Mississippi"	"28"	2743	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Missouri"	"29"	5054	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Montana"	"30"	748	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Nebraska"	"31"	1409	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Nevada"	"32"	1777	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"New Hampshire"	"33"	1092	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"New Jersey"	"34"	6379	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"New Mexico"	"35"	1443	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"New York"	"36"	13486	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"North Carolina"	"37"	7602	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"North Dakota"	"38"	491	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Ohio"	"39"	9830	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Oklahoma"	"40"	3389	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Oregon"	"41"	2974	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Pennsylvania"	"42"	11581	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Rhode Island"	"44"	890	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"South Carolina"	"45"	4023	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"South Dakota"	"46"	611	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Tennessee"	"47"	5615	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Texas"	"48"	15484	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Utah"	"49"	1416	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Vermont"	"50"	524	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Virginia"	"51"	5602	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Washington"	"53"	4337	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"West Virginia"	"54"	1989	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Wisconsin"	"55"	4154	Not Applicable	Not Applicable
+	"Feb., 2015"	"2015/02"	"Wyoming"	"56"	385	Not Applicable	Not Applicable
+"Total"	"Feb., 2015"	"2015/02"			227047	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Alabama"	"01"	4809	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Alaska"	"02"	351	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Arizona"	"04"	4822	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Arkansas"	"05"	2786	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"California"	"06"	22674	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Colorado"	"08"	3038	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Connecticut"	"09"	2833	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Delaware"	"10"	746	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"District of Columbia"	"11"	438	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Florida"	"12"	16969	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Georgia"	"13"	7081	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Hawaii"	"15"	949	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Idaho"	"16"	1108	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Illinois"	"17"	9595	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Indiana"	"18"	5652	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Iowa"	"19"	2750	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Kansas"	"20"	2352	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Kentucky"	"21"	4086	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Louisiana"	"22"	3849	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Maine"	"23"	1316	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Maryland"	"24"	4117	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Massachusetts"	"25"	5361	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Michigan"	"26"	8640	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Minnesota"	"27"	3870	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Mississippi"	"28"	2841	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Missouri"	"29"	5485	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Montana"	"30"	827	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Nebraska"	"31"	1536	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Nevada"	"32"	2061	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"New Hampshire"	"33"	1043	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"New Jersey"	"34"	6561	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"New Mexico"	"35"	1598	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"New York"	"36"	14067	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"North Carolina"	"37"	8094	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"North Dakota"	"38"	570	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Ohio"	"39"	10319	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Oklahoma"	"40"	3636	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Oregon"	"41"	3091	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Pennsylvania"	"42"	12275	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Rhode Island"	"44"	936	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"South Carolina"	"45"	4274	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"South Dakota"	"46"	697	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Tennessee"	"47"	5812	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Texas"	"48"	16979	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Utah"	"49"	1493	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Vermont"	"50"	540	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Virginia"	"51"	5791	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Washington"	"53"	4864	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"West Virginia"	"54"	1990	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Wisconsin"	"55"	4700	Not Applicable	Not Applicable
+	"Mar., 2015"	"2015/03"	"Wyoming"	"56"	440	Not Applicable	Not Applicable
+"Total"	"Mar., 2015"	"2015/03"			242712	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Alabama"	"01"	4217	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Alaska"	"02"	336	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Arizona"	"04"	4542	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Arkansas"	"05"	2522	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"California"	"06"	21351	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Colorado"	"08"	3164	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Connecticut"	"09"	2570	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Delaware"	"10"	732	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"District of Columbia"	"11"	411	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Florida"	"12"	15679	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Georgia"	"13"	6528	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Hawaii"	"15"	863	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Idaho"	"16"	1080	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Illinois"	"17"	8935	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Indiana"	"18"	5360	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Iowa"	"19"	2461	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Kansas"	"20"	2123	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Kentucky"	"21"	3778	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Louisiana"	"22"	3552	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Maine"	"23"	1226	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Maryland"	"24"	3812	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Massachusetts"	"25"	4969	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Michigan"	"26"	8026	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Minnesota"	"27"	3640	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Mississippi"	"28"	2626	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Missouri"	"29"	4968	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Montana"	"30"	825	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Nebraska"	"31"	1389	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Nevada"	"32"	1871	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"New Hampshire"	"33"	1039	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"New Jersey"	"34"	5975	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"New Mexico"	"35"	1463	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"New York"	"36"	12963	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"North Carolina"	"37"	7145	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"North Dakota"	"38"	549	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Ohio"	"39"	9989	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Oklahoma"	"40"	3115	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Oregon"	"41"	2913	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Pennsylvania"	"42"	11093	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Rhode Island"	"44"	850	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"South Carolina"	"45"	3801	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"South Dakota"	"46"	658	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Tennessee"	"47"	5328	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Texas"	"48"	15466	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Utah"	"49"	1404	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Vermont"	"50"	540	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Virginia"	"51"	5392	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Washington"	"53"	4448	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"West Virginia"	"54"	1944	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Wisconsin"	"55"	4392	Not Applicable	Not Applicable
+	"Apr., 2015"	"2015/04"	"Wyoming"	"56"	400	Not Applicable	Not Applicable
+"Total"	"Apr., 2015"	"2015/04"			224423	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Alabama"	"01"	4132	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Alaska"	"02"	394	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Arizona"	"04"	4521	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Arkansas"	"05"	2689	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"California"	"06"	21330	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Colorado"	"08"	3033	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Connecticut"	"09"	2487	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Delaware"	"10"	696	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"District of Columbia"	"11"	351	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Florida"	"12"	16238	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Georgia"	"13"	6520	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Hawaii"	"15"	956	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Idaho"	"16"	1152	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Illinois"	"17"	8839	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Indiana"	"18"	5222	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Iowa"	"19"	2382	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Kansas"	"20"	2159	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Kentucky"	"21"	3865	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Louisiana"	"22"	3552	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Maine"	"23"	1194	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Maryland"	"24"	3880	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Massachusetts"	"25"	4860	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Michigan"	"26"	7874	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Minnesota"	"27"	3496	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Mississippi"	"28"	2695	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Missouri"	"29"	4894	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Montana"	"30"	875	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Nebraska"	"31"	1369	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Nevada"	"32"	1857	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"New Hampshire"	"33"	998	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"New Jersey"	"34"	5929	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"New Mexico"	"35"	1395	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"New York"	"36"	12570	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"North Carolina"	"37"	7163	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"North Dakota"	"38"	499	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Ohio"	"39"	9656	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Oklahoma"	"40"	3157	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Oregon"	"41"	3074	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Pennsylvania"	"42"	10940	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Rhode Island"	"44"	842	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"South Carolina"	"45"	3870	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"South Dakota"	"46"	610	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Tennessee"	"47"	5446	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Texas"	"48"	15850	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Utah"	"49"	1439	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Vermont"	"50"	497	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Virginia"	"51"	5324	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Washington"	"53"	4626	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"West Virginia"	"54"	1828	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Wisconsin"	"55"	4013	Not Applicable	Not Applicable
+	"May, 2015"	"2015/05"	"Wyoming"	"56"	362	Not Applicable	Not Applicable
+"Total"	"May, 2015"	"2015/05"			223600	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Alabama"	"01"	3996	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Alaska"	"02"	339	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Arizona"	"04"	4393	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Arkansas"	"05"	2425	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"California"	"06"	20311	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Colorado"	"08"	2902	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Connecticut"	"09"	2367	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Delaware"	"10"	660	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"District of Columbia"	"11"	383	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Florida"	"12"	15204	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Georgia"	"13"	6255	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Hawaii"	"15"	924	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Idaho"	"16"	1013	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Illinois"	"17"	8259	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Indiana"	"18"	4726	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Iowa"	"19"	2313	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Kansas"	"20"	2138	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Kentucky"	"21"	3561	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Louisiana"	"22"	3438	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Maine"	"23"	1030	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Maryland"	"24"	3763	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Massachusetts"	"25"	4399	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Michigan"	"26"	7503	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Minnesota"	"27"	3298	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Mississippi"	"28"	2519	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Missouri"	"29"	4588	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Montana"	"30"	814	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Nebraska"	"31"	1291	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Nevada"	"32"	1845	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"New Hampshire"	"33"	920	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"New Jersey"	"34"	5625	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"New Mexico"	"35"	1408	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"New York"	"36"	11705	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"North Carolina"	"37"	6996	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"North Dakota"	"38"	473	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Ohio"	"39"	9096	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Oklahoma"	"40"	3101	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Oregon"	"41"	2862	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Pennsylvania"	"42"	10063	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Rhode Island"	"44"	780	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"South Carolina"	"45"	3652	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"South Dakota"	"46"	597	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Tennessee"	"47"	5229	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Texas"	"48"	14857	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Utah"	"49"	1408	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Vermont"	"50"	449	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Virginia"	"51"	4962	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Washington"	"53"	4336	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"West Virginia"	"54"	1712	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Wisconsin"	"55"	3895	Not Applicable	Not Applicable
+	"Jun., 2015"	"2015/06"	"Wyoming"	"56"	392	Not Applicable	Not Applicable
+"Total"	"Jun., 2015"	"2015/06"			211175	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Alabama"	"01"	4123	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Alaska"	"02"	375	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Arizona"	"04"	4351	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Arkansas"	"05"	2480	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"California"	"06"	20460	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Colorado"	"08"	2897	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Connecticut"	"09"	2450	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Delaware"	"10"	658	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"District of Columbia"	"11"	391	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Florida"	"12"	15780	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Georgia"	"13"	6496	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Hawaii"	"15"	921	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Idaho"	"16"	1069	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Illinois"	"17"	8675	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Indiana"	"18"	4968	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Iowa"	"19"	2370	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Kansas"	"20"	2207	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Kentucky"	"21"	3712	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Louisiana"	"22"	3625	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Maine"	"23"	1136	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Maryland"	"24"	3801	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Massachusetts"	"25"	4540	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Michigan"	"26"	7599	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Minnesota"	"27"	3347	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Mississippi"	"28"	2632	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Missouri"	"29"	4793	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Montana"	"30"	828	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Nebraska"	"31"	1355	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Nevada"	"32"	1844	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"New Hampshire"	"33"	957	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"New Jersey"	"34"	5728	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"New Mexico"	"35"	1406	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"New York"	"36"	12101	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"North Carolina"	"37"	7124	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"North Dakota"	"38"	504	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Ohio"	"39"	9480	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Oklahoma"	"40"	3168	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Oregon"	"41"	2888	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Pennsylvania"	"42"	10217	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Rhode Island"	"44"	830	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"South Carolina"	"45"	3687	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"South Dakota"	"46"	651	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Tennessee"	"47"	5370	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Texas"	"48"	15329	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Utah"	"49"	1403	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Vermont"	"50"	440	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Virginia"	"51"	5144	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Washington"	"53"	4400	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"West Virginia"	"54"	1832	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Wisconsin"	"55"	3998	Not Applicable	Not Applicable
+	"Jul., 2015"	"2015/07"	"Wyoming"	"56"	411	Not Applicable	Not Applicable
+"Total"	"Jul., 2015"	"2015/07"			216951	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Alabama"	"01"	4121	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Alaska"	"02"	341	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Arizona"	"04"	4366	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Arkansas"	"05"	2607	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"California"	"06"	20490	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Colorado"	"08"	2909	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Connecticut"	"09"	2300	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Delaware"	"10"	673	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"District of Columbia"	"11"	403	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Florida"	"12"	15555	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Georgia"	"13"	6240	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Hawaii"	"15"	915	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Idaho"	"16"	1001	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Illinois"	"17"	8528	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Indiana"	"18"	4976	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Iowa"	"19"	2344	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Kansas"	"20"	2168	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Kentucky"	"21"	3688	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Louisiana"	"22"	3489	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Maine"	"23"	1146	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Maryland"	"24"	3779	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Massachusetts"	"25"	4347	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Michigan"	"26"	7560	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Minnesota"	"27"	3435	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Mississippi"	"28"	2553	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Missouri"	"29"	4669	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Montana"	"30"	829	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Nebraska"	"31"	1319	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Nevada"	"32"	1849	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"New Hampshire"	"33"	886	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"New Jersey"	"34"	5660	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"New Mexico"	"35"	1397	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"New York"	"36"	12038	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"North Carolina"	"37"	6957	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"North Dakota"	"38"	483	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Ohio"	"39"	9330	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Oklahoma"	"40"	3101	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Oregon"	"41"	2757	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Pennsylvania"	"42"	10142	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Rhode Island"	"44"	776	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"South Carolina"	"45"	3795	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"South Dakota"	"46"	582	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Tennessee"	"47"	5290	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Texas"	"48"	15050	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Utah"	"49"	1370	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Vermont"	"50"	460	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Virginia"	"51"	5307	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Washington"	"53"	4283	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"West Virginia"	"54"	1797	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Wisconsin"	"55"	3944	Not Applicable	Not Applicable
+	"Aug., 2015"	"2015/08"	"Wyoming"	"56"	399	Not Applicable	Not Applicable
+"Total"	"Aug., 2015"	"2015/08"			214404	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Alabama"	"01"	4086	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Alaska"	"02"	364	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Arizona"	"04"	4200	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Arkansas"	"05"	2437	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"California"	"06"	19993	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Colorado"	"08"	2727	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Connecticut"	"09"	2319	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Delaware"	"10"	655	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"District of Columbia"	"11"	360	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Florida"	"12"	15192	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Georgia"	"13"	6225	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Hawaii"	"15"	939	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Idaho"	"16"	1075	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Illinois"	"17"	8332	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Indiana"	"18"	4955	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Iowa"	"19"	2298	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Kansas"	"20"	2089	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Kentucky"	"21"	3569	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Louisiana"	"22"	3474	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Maine"	"23"	1157	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Maryland"	"24"	3520	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Massachusetts"	"25"	4291	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Michigan"	"26"	7350	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Minnesota"	"27"	3358	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Mississippi"	"28"	2511	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Missouri"	"29"	4692	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Montana"	"30"	778	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Nebraska"	"31"	1314	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Nevada"	"32"	1776	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"New Hampshire"	"33"	936	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"New Jersey"	"34"	5458	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"New Mexico"	"35"	1390	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"New York"	"36"	11692	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"North Carolina"	"37"	6928	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"North Dakota"	"38"	505	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Ohio"	"39"	9045	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Oklahoma"	"40"	2940	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Oregon"	"41"	2829	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Pennsylvania"	"42"	10123	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Rhode Island"	"44"	784	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"South Carolina"	"45"	3559	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"South Dakota"	"46"	642	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Tennessee"	"47"	5252	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Texas"	"48"	14476	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Utah"	"49"	1311	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Vermont"	"50"	412	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Virginia"	"51"	5058	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Washington"	"53"	4329	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"West Virginia"	"54"	1780	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Wisconsin"	"55"	4054	Not Applicable	Not Applicable
+	"Sep., 2015"	"2015/09"	"Wyoming"	"56"	366	Not Applicable	Not Applicable
+"Total"	"Sep., 2015"	"2015/09"			209905	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Alabama"	"01"	4235	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Alaska"	"02"	377	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Arizona"	"04"	4299	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Arkansas"	"05"	2637	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"California"	"06"	20757	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Colorado"	"08"	2953	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Connecticut"	"09"	2554	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Delaware"	"10"	714	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"District of Columbia"	"11"	410	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Florida"	"12"	15805	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Georgia"	"13"	6635	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Hawaii"	"15"	875	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Idaho"	"16"	1103	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Illinois"	"17"	8988	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Indiana"	"18"	5097	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Iowa"	"19"	2396	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Kansas"	"20"	2208	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Kentucky"	"21"	3893	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Louisiana"	"22"	3532	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Maine"	"23"	1235	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Maryland"	"24"	4005	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Massachusetts"	"25"	4792	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Michigan"	"26"	7965	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Minnesota"	"27"	3663	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Mississippi"	"28"	2605	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Missouri"	"29"	4944	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Montana"	"30"	830	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Nebraska"	"31"	1383	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Nevada"	"32"	1822	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"New Hampshire"	"33"	965	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"New Jersey"	"34"	5951	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"New Mexico"	"35"	1428	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"New York"	"36"	12901	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"North Carolina"	"37"	7333	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"North Dakota"	"38"	512	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Ohio"	"39"	9815	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Oklahoma"	"40"	3198	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Oregon"	"41"	2864	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Pennsylvania"	"42"	10952	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Rhode Island"	"44"	869	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"South Carolina"	"45"	4032	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"South Dakota"	"46"	657	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Tennessee"	"47"	5460	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Texas"	"48"	15333	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Utah"	"49"	1485	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Vermont"	"50"	485	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Virginia"	"51"	5417	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Washington"	"53"	4464	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"West Virginia"	"54"	1900	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Wisconsin"	"55"	4438	Not Applicable	Not Applicable
+	"Oct., 2015"	"2015/10"	"Wyoming"	"56"	364	Not Applicable	Not Applicable
+"Total"	"Oct., 2015"	"2015/10"			223535	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Alabama"	"01"	4236	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Alaska"	"02"	356	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Arizona"	"04"	4562	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Arkansas"	"05"	2473	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"California"	"06"	21490	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Colorado"	"08"	3014	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Connecticut"	"09"	2561	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Delaware"	"10"	683	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"District of Columbia"	"11"	399	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Florida"	"12"	15304	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Georgia"	"13"	6656	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Hawaii"	"15"	817	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Idaho"	"16"	1077	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Illinois"	"17"	8680	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Indiana"	"18"	4925	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Iowa"	"19"	2418	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Kansas"	"20"	2110	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Kentucky"	"21"	3786	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Louisiana"	"22"	3493	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Maine"	"23"	1153	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Maryland"	"24"	3805	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Massachusetts"	"25"	4609	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Michigan"	"26"	7561	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Minnesota"	"27"	3461	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Mississippi"	"28"	2484	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Missouri"	"29"	4872	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Montana"	"30"	775	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Nebraska"	"31"	1289	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Nevada"	"32"	1942	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"New Hampshire"	"33"	975	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"New Jersey"	"34"	5669	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"New Mexico"	"35"	1493	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"New York"	"36"	12114	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"North Carolina"	"37"	7298	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"North Dakota"	"38"	501	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Ohio"	"39"	9694	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Oklahoma"	"40"	3220	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Oregon"	"41"	3002	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Pennsylvania"	"42"	10563	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Rhode Island"	"44"	789	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"South Carolina"	"45"	3836	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"South Dakota"	"46"	606	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Tennessee"	"47"	5508	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Texas"	"48"	15305	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Utah"	"49"	1456	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Vermont"	"50"	505	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Virginia"	"51"	5377	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Washington"	"53"	4444	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"West Virginia"	"54"	1840	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Wisconsin"	"55"	4197	Not Applicable	Not Applicable
+	"Nov., 2015"	"2015/11"	"Wyoming"	"56"	405	Not Applicable	Not Applicable
+"Total"	"Nov., 2015"	"2015/11"			219788	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Alabama"	"01"	4508	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Alaska"	"02"	362	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Arizona"	"04"	4902	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Arkansas"	"05"	2677	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"California"	"06"	23539	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Colorado"	"08"	3256	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Connecticut"	"09"	2453	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Delaware"	"10"	719	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"District of Columbia"	"11"	401	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Florida"	"12"	16274	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Georgia"	"13"	7127	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Hawaii"	"15"	913	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Idaho"	"16"	1131	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Illinois"	"17"	9151	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Indiana"	"18"	5451	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Iowa"	"19"	2495	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Kansas"	"20"	2262	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Kentucky"	"21"	4054	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Louisiana"	"22"	3750	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Maine"	"23"	1213	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Maryland"	"24"	4028	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Massachusetts"	"25"	4572	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Michigan"	"26"	8035	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Minnesota"	"27"	3697	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Mississippi"	"28"	2681	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Missouri"	"29"	5068	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Montana"	"30"	895	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Nebraska"	"31"	1414	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Nevada"	"32"	2073	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"New Hampshire"	"33"	953	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"New Jersey"	"34"	5992	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"New Mexico"	"35"	1529	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"New York"	"36"	12711	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"North Carolina"	"37"	7778	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"North Dakota"	"38"	493	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Ohio"	"39"	10035	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Oklahoma"	"40"	3523	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Oregon"	"41"	3117	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Pennsylvania"	"42"	11148	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Rhode Island"	"44"	827	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"South Carolina"	"45"	4108	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"South Dakota"	"46"	668	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Tennessee"	"47"	5742	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Texas"	"48"	16700	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Utah"	"49"	1541	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Vermont"	"50"	523	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Virginia"	"51"	5545	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Washington"	"53"	4911	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"West Virginia"	"54"	1925	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Wisconsin"	"55"	4472	Not Applicable	Not Applicable
+	"Dec., 2015"	"2015/12"	"Wyoming"	"56"	393	Not Applicable	Not Applicable
+"Total"	"Dec., 2015"	"2015/12"			233735	Not Applicable	Not Applicable
+"Total"					2712630	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"Year/Month: 2015"
+"Group By: Month; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jun 10, 2024 8:38:15 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 10, 2024 8:38:15 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."

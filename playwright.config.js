@@ -1,5 +1,5 @@
 // @ts-check
-const { defineConfig, devices } = require('@playwright/test');
+const { defineConfig, devices } = require('@playwright/test')
 
 /**
  * Read environment variables from file.
@@ -20,7 +20,7 @@ module.exports = defineConfig({
   /* Retry on CI only */
   retries: process.env.CI ? 2 : 0,
   /* Opt out of parallel tests on CI. */
-  workers: process.env.CI ? 1 : 2,
+  workers: process.env.CI || process.env.DEV ? 1 : 3,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   // Concise 'dot' for CI, default 'list' when running locally
   reporter: 'list',
@@ -32,7 +32,7 @@ module.exports = defineConfig({
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
     trace: 'on-first-retry',
     headless: process.env.HEADLESS ? true : false,
-    video: 'on'
+    video: 'on',
   },
 
   /* Configure projects for major browsers */
@@ -40,7 +40,6 @@ module.exports = defineConfig({
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome'] },
-    }
-  ]
-});
-
+    },
+  ],
+})
