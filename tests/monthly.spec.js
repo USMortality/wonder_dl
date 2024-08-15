@@ -15,7 +15,7 @@ const dl = async (
   states,
   file,
   year,
-  totals
+  by_age
 ) => {
   await page.goto(url)
   await page.getByRole('button', { name: 'I Agree' }).click()
@@ -23,7 +23,7 @@ const dl = async (
   // group by: month
   await page.locator('#SB_1').selectOption(`${prefix}.V1-level2`)
 
-  if (!totals) {
+  if (by_age) {
     // group by: single year ages
     await page.locator('#SB_2').selectOption(`${prefix}.V52`)
   } else {
@@ -74,7 +74,7 @@ async function downloadData(by_age, year, type, file, state = null) {
       states.filter((x) => x !== state && x !== 'all'),
       file,
       year,
-      by_age
+      by_age === 'age'
     )
     await page.close()
     completedTests++
