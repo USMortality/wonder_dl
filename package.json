@@ -10,13 +10,13 @@
   "type": "module",
   "devDependencies": {
     "@playwright/test": "^1.46.0",
-    "@types/node": "^20.5.3"
+    "@types/node": "^22.3.0"
   },
   "dependencies": {
-    "commander": "^11.0.0",
+    "commander": "^12.1.0",
     "csv": "^6.3.10",
     "csv-parse": "^5.5.6",
-    "minio": "^7.1.1",
+    "minio": "^8.0.1",
     "twitter-api-v2": "^1.17.2",
     "typescript": "^5.5.4"
   }
