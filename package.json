@@ -9,8 +9,8 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
-    "@playwright/test": "^1.46.0",
-    "@types/node": "^22.3.0"
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.4.1"
   },
   "dependencies": {
     "commander": "^12.1.0",
