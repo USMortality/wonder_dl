@@ -509,9 +509,9 @@
 	"2022"	"2022"	"99 years"	"99"	306	Not Applicable	Not Applicable
 	"2022"	"2022"	"100+ years"	"100"	511	Not Applicable	Not Applicable
 	"2022"	"2022"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
-	"2023 (provisional)"	"2023"	"< 1 year"	"0"	536	81460	658.0
+	"2023 (provisional)"	"2023"	"< 1 year"	"0"	542	81460	665.4
 	"2023 (provisional)"	"2023"	"1 year"	"1"	58	79643	72.8
-	"2023 (provisional)"	"2023"	"2 years"	"2"	39	80447	48.5
+	"2023 (provisional)"	"2023"	"2 years"	"2"	40	80447	49.7
 	"2023 (provisional)"	"2023"	"3 years"	"3"	33	81111	40.7
 	"2023 (provisional)"	"2023"	"4 years"	"4"	20	82760	24.2
 	"2023 (provisional)"	"2023"	"5 years"	"5"	24	82754	29.0
@@ -522,7 +522,7 @@
 	"2023 (provisional)"	"2023"	"10 years"	"10"	11	84452	Unreliable
 	"2023 (provisional)"	"2023"	"11 years"	"11"	12	84297	Unreliable
 	"2023 (provisional)"	"2023"	"12 years"	"12"	15	86520	Unreliable
-	"2023 (provisional)"	"2023"	"13 years"	"13"	14	89410	Unreliable
+	"2023 (provisional)"	"2023"	"13 years"	"13"	15	89410	Unreliable
 	"2023 (provisional)"	"2023"	"14 years"	"14"	34	93357	36.4
 	"2023 (provisional)"	"2023"	"15 years"	"15"	40	92843	43.1
 	"2023 (provisional)"	"2023"	"16 years"	"16"	52	90995	57.1
@@ -537,12 +537,12 @@
 	"2023 (provisional)"	"2023"	"25 years"	"25"	158	94743	166.8
 	"2023 (provisional)"	"2023"	"26 years"	"26"	141	95067	148.3
 	"2023 (provisional)"	"2023"	"27 years"	"27"	171	96133	177.9
-	"2023 (provisional)"	"2023"	"28 years"	"28"	166	97774	169.8
+	"2023 (provisional)"	"2023"	"28 years"	"28"	167	97774	170.8
 	"2023 (provisional)"	"2023"	"29 years"	"29"	191	98859	193.2
 	"2023 (provisional)"	"2023"	"30 years"	"30"	227	100388	226.1
 	"2023 (provisional)"	"2023"	"31 years"	"31"	251	102289	245.4
 	"2023 (provisional)"	"2023"	"32 years"	"32"	275	100704	273.1
-	"2023 (provisional)"	"2023"	"33 years"	"33"	247	96591	255.7
+	"2023 (provisional)"	"2023"	"33 years"	"33"	248	96591	256.8
 	"2023 (provisional)"	"2023"	"34 years"	"34"	251	94015	267.0
 	"2023 (provisional)"	"2023"	"35 years"	"35"	274	91313	300.1
 	"2023 (provisional)"	"2023"	"36 years"	"36"	253	90494	279.6
@@ -557,49 +557,49 @@
 	"2023 (provisional)"	"2023"	"45 years"	"45"	393	85091	461.9
 	"2023 (provisional)"	"2023"	"46 years"	"46"	386	81529	473.5
 	"2023 (provisional)"	"2023"	"47 years"	"47"	415	83802	495.2
-	"2023 (provisional)"	"2023"	"48 years"	"48"	459	82908	553.6
+	"2023 (provisional)"	"2023"	"48 years"	"48"	460	82908	554.8
 	"2023 (provisional)"	"2023"	"49 years"	"49"	528	84947	621.6
 	"2023 (provisional)"	"2023"	"50 years"	"50"	473	90101	525.0
 	"2023 (provisional)"	"2023"	"51 years"	"51"	571	95742	596.4
 	"2023 (provisional)"	"2023"	"52 years"	"52"	653	93482	698.5
-	"2023 (provisional)"	"2023"	"53 years"	"53"	708	88822	797.1
+	"2023 (provisional)"	"2023"	"53 years"	"53"	706	88822	794.8
 	"2023 (provisional)"	"2023"	"54 years"	"54"	686	86100	796.7
-	"2023 (provisional)"	"2023"	"55 years"	"55"	725	86463	838.5
+	"2023 (provisional)"	"2023"	"55 years"	"55"	724	86463	837.4
 	"2023 (provisional)"	"2023"	"56 years"	"56"	753	88363	852.2
 	"2023 (provisional)"	"2023"	"57 years"	"57"	869	92276	941.7
-	"2023 (provisional)"	"2023"	"58 years"	"58"	937	94408	992.5
+	"2023 (provisional)"	"2023"	"58 years"	"58"	938	94408	993.6
 	"2023 (provisional)"	"2023"	"59 years"	"59"	1063	93408	1138.0
-	"2023 (provisional)"	"2023"	"60 years"	"60"	1131	92807	1218.7
-	"2023 (provisional)"	"2023"	"61 years"	"61"	1221	92138	1325.2
-	"2023 (provisional)"	"2023"	"62 years"	"62"	1270	90108	1409.4
+	"2023 (provisional)"	"2023"	"60 years"	"60"	1130	92807	1217.6
+	"2023 (provisional)"	"2023"	"61 years"	"61"	1219	92138	1323.0
+	"2023 (provisional)"	"2023"	"62 years"	"62"	1271	90108	1410.5
 	"2023 (provisional)"	"2023"	"63 years"	"63"	1410	88565	1592.1
 	"2023 (provisional)"	"2023"	"64 years"	"64"	1418	88012	1611.1
 	"2023 (provisional)"	"2023"	"65 years"	"65"	1528	86623	1764.0
-	"2023 (provisional)"	"2023"	"66 years"	"66"	1603	82711	1938.1
+	"2023 (provisional)"	"2023"	"66 years"	"66"	1604	82711	1939.3
 	"2023 (provisional)"	"2023"	"67 years"	"67"	1612	80662	1998.5
-	"2023 (provisional)"	"2023"	"68 years"	"68"	1656	78340	2113.9
+	"2023 (provisional)"	"2023"	"68 years"	"68"	1655	78340	2112.6
 	"2023 (provisional)"	"2023"	"69 years"	"69"	1692	74156	2281.7
-	"2023 (provisional)"	"2023"	"70 years"	"70"	1750	70862	2469.6
+	"2023 (provisional)"	"2023"	"70 years"	"70"	1748	70862	2466.8
 	"2023 (provisional)"	"2023"	"71 years"	"71"	1695	67540	2509.6
 	"2023 (provisional)"	"2023"	"72 years"	"72"	1876	64076	2927.8
 	"2023 (provisional)"	"2023"	"73 years"	"73"	1917	62856	3049.8
-	"2023 (provisional)"	"2023"	"74 years"	"74"	2045	61698	3314.5
+	"2023 (provisional)"	"2023"	"74 years"	"74"	2046	61698	3316.2
 	"2023 (provisional)"	"2023"	"75 years"	"75"	2105	65147	3231.2
-	"2023 (provisional)"	"2023"	"76 years"	"76"	2293	44592	5142.2
+	"2023 (provisional)"	"2023"	"76 years"	"76"	2292	44592	5139.9
 	"2023 (provisional)"	"2023"	"77 years"	"77"	1829	42352	4318.6
 	"2023 (provisional)"	"2023"	"78 years"	"78"	1945	40801	4767.0
 	"2023 (provisional)"	"2023"	"79 years"	"79"	2142	40979	5227.1
-	"2023 (provisional)"	"2023"	"80 years"	"80"	2297	34344	6688.2
-	"2023 (provisional)"	"2023"	"81 years"	"81"	2052	30200	6794.7
-	"2023 (provisional)"	"2023"	"82 years"	"82"	2089	27208	7677.9
-	"2023 (provisional)"	"2023"	"83 years"	"83"	1989	24481	8124.7
+	"2023 (provisional)"	"2023"	"80 years"	"80"	2296	34344	6685.3
+	"2023 (provisional)"	"2023"	"81 years"	"81"	2053	30200	6798.0
+	"2023 (provisional)"	"2023"	"82 years"	"82"	2090	27208	7681.6
+	"2023 (provisional)"	"2023"	"83 years"	"83"	1988	24481	8120.6
 	"2023 (provisional)"	"2023"	"84 years"	"84"	1996	22126	9021.1
 	"2023 (provisional)"	"2023"	"85 years"	"85"	1944	Not Applicable	Not Applicable
 	"2023 (provisional)"	"2023"	"86 years"	"86"	1791	Not Applicable	Not Applicable
-	"2023 (provisional)"	"2023"	"87 years"	"87"	1852	Not Applicable	Not Applicable
-	"2023 (provisional)"	"2023"	"88 years"	"88"	1767	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"87 years"	"87"	1850	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"88 years"	"88"	1766	Not Applicable	Not Applicable
 	"2023 (provisional)"	"2023"	"89 years"	"89"	1626	Not Applicable	Not Applicable
-	"2023 (provisional)"	"2023"	"90 years"	"90"	1454	Not Applicable	Not Applicable
+	"2023 (provisional)"	"2023"	"90 years"	"90"	1453	Not Applicable	Not Applicable
 	"2023 (provisional)"	"2023"	"91 years"	"91"	1453	Not Applicable	Not Applicable
 	"2023 (provisional)"	"2023"	"92 years"	"92"	1242	Not Applicable	Not Applicable
 	"2023 (provisional)"	"2023"	"93 years"	"93"	1143	Not Applicable	Not Applicable
@@ -611,107 +611,107 @@
 	"2023 (provisional)"	"2023"	"99 years"	"99"	246	Not Applicable	Not Applicable
 	"2023 (provisional)"	"2023"	"100+ years"	"100"	510	Not Applicable	Not Applicable
 	"2023 (provisional)"	"2023"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"< 1 year"	"0"	179	81460	219.7
-	"2024 (provisional and partial)"	"2024"	"1 year"	"1"	18	79643	Unreliable
-	"2024 (provisional and partial)"	"2024"	"2 years"	"2"	11	80447	Unreliable
-	"2024 (provisional and partial)"	"2024"	"3 years"	"3"	10	81111	Unreliable
-	"2024 (provisional and partial)"	"2024"	"4 years"	"4"	Suppressed	82760	Suppressed
-	"2024 (provisional and partial)"	"2024"	"5 years"	"5"	Suppressed	82754	Suppressed
+	"2024 (provisional and partial)"	"2024"	"< 1 year"	"0"	354	81460	434.6
+	"2024 (provisional and partial)"	"2024"	"1 year"	"1"	33	79643	41.4
+	"2024 (provisional and partial)"	"2024"	"2 years"	"2"	23	80447	28.6
+	"2024 (provisional and partial)"	"2024"	"3 years"	"3"	17	81111	Unreliable
+	"2024 (provisional and partial)"	"2024"	"4 years"	"4"	15	82760	Unreliable
+	"2024 (provisional and partial)"	"2024"	"5 years"	"5"	12	82754	Unreliable
 	"2024 (provisional and partial)"	"2024"	"6 years"	"6"	Suppressed	84802	Suppressed
 	"2024 (provisional and partial)"	"2024"	"7 years"	"7"	Suppressed	85017	Suppressed
 	"2024 (provisional and partial)"	"2024"	"8 years"	"8"	Suppressed	84524	Suppressed
-	"2024 (provisional and partial)"	"2024"	"9 years"	"9"	0	84219	Unreliable
+	"2024 (provisional and partial)"	"2024"	"9 years"	"9"	Suppressed	84219	Suppressed
 	"2024 (provisional and partial)"	"2024"	"10 years"	"10"	Suppressed	84452	Suppressed
 	"2024 (provisional and partial)"	"2024"	"11 years"	"11"	Suppressed	84297	Suppressed
 	"2024 (provisional and partial)"	"2024"	"12 years"	"12"	Suppressed	86520	Suppressed
-	"2024 (provisional and partial)"	"2024"	"13 years"	"13"	Suppressed	89410	Suppressed
-	"2024 (provisional and partial)"	"2024"	"14 years"	"14"	Suppressed	93357	Suppressed
-	"2024 (provisional and partial)"	"2024"	"15 years"	"15"	12	92843	Unreliable
-	"2024 (provisional and partial)"	"2024"	"16 years"	"16"	25	90995	27.5
-	"2024 (provisional and partial)"	"2024"	"17 years"	"17"	27	89526	30.2
-	"2024 (provisional and partial)"	"2024"	"18 years"	"18"	28	85181	32.9
-	"2024 (provisional and partial)"	"2024"	"19 years"	"19"	36	81874	44.0
-	"2024 (provisional and partial)"	"2024"	"20 years"	"20"	34	88554	38.4
-	"2024 (provisional and partial)"	"2024"	"21 years"	"21"	36	96650	37.2
-	"2024 (provisional and partial)"	"2024"	"22 years"	"22"	47	98124	47.9
-	"2024 (provisional and partial)"	"2024"	"23 years"	"23"	38	97587	38.9
-	"2024 (provisional and partial)"	"2024"	"24 years"	"24"	46	96170	47.8
-	"2024 (provisional and partial)"	"2024"	"25 years"	"25"	49	94743	51.7
-	"2024 (provisional and partial)"	"2024"	"26 years"	"26"	60	95067	63.1
-	"2024 (provisional and partial)"	"2024"	"27 years"	"27"	60	96133	62.4
-	"2024 (provisional and partial)"	"2024"	"28 years"	"28"	49	97774	50.1
-	"2024 (provisional and partial)"	"2024"	"29 years"	"29"	41	98859	41.5
-	"2024 (provisional and partial)"	"2024"	"30 years"	"30"	82	100388	81.7
-	"2024 (provisional and partial)"	"2024"	"31 years"	"31"	83	102289	81.1
-	"2024 (provisional and partial)"	"2024"	"32 years"	"32"	65	100704	64.5
-	"2024 (provisional and partial)"	"2024"	"33 years"	"33"	80	96591	82.8
-	"2024 (provisional and partial)"	"2024"	"34 years"	"34"	84	94015	89.3
-	"2024 (provisional and partial)"	"2024"	"35 years"	"35"	83	91313	90.9
-	"2024 (provisional and partial)"	"2024"	"36 years"	"36"	69	90494	76.2
-	"2024 (provisional and partial)"	"2024"	"37 years"	"37"	105	90061	116.6
-	"2024 (provisional and partial)"	"2024"	"38 years"	"38"	102	88078	115.8
-	"2024 (provisional and partial)"	"2024"	"39 years"	"39"	89	90195	98.7
-	"2024 (provisional and partial)"	"2024"	"40 years"	"40"	119	90497	131.5
-	"2024 (provisional and partial)"	"2024"	"41 years"	"41"	109	89236	122.1
-	"2024 (provisional and partial)"	"2024"	"42 years"	"42"	134	89747	149.3
-	"2024 (provisional and partial)"	"2024"	"43 years"	"43"	139	87316	159.2
-	"2024 (provisional and partial)"	"2024"	"44 years"	"44"	153	85501	178.9
-	"2024 (provisional and partial)"	"2024"	"45 years"	"45"	149	85091	175.1
-	"2024 (provisional and partial)"	"2024"	"46 years"	"46"	151	81529	185.2
-	"2024 (provisional and partial)"	"2024"	"47 years"	"47"	150	83802	179.0
-	"2024 (provisional and partial)"	"2024"	"48 years"	"48"	153	82908	184.5
-	"2024 (provisional and partial)"	"2024"	"49 years"	"49"	178	84947	209.5
-	"2024 (provisional and partial)"	"2024"	"50 years"	"50"	193	90101	214.2
-	"2024 (provisional and partial)"	"2024"	"51 years"	"51"	191	95742	199.5
-	"2024 (provisional and partial)"	"2024"	"52 years"	"52"	258	93482	276.0
-	"2024 (provisional and partial)"	"2024"	"53 years"	"53"	246	88822	277.0
-	"2024 (provisional and partial)"	"2024"	"54 years"	"54"	248	86100	288.0
-	"2024 (provisional and partial)"	"2024"	"55 years"	"55"	271	86463	313.4
-	"2024 (provisional and partial)"	"2024"	"56 years"	"56"	259	88363	293.1
-	"2024 (provisional and partial)"	"2024"	"57 years"	"57"	309	92276	334.9
-	"2024 (provisional and partial)"	"2024"	"58 years"	"58"	362	94408	383.4
-	"2024 (provisional and partial)"	"2024"	"59 years"	"59"	389	93408	416.5
-	"2024 (provisional and partial)"	"2024"	"60 years"	"60"	439	92807	473.0
-	"2024 (provisional and partial)"	"2024"	"61 years"	"61"	466	92138	505.8
-	"2024 (provisional and partial)"	"2024"	"62 years"	"62"	500	90108	554.9
-	"2024 (provisional and partial)"	"2024"	"63 years"	"63"	518	88565	584.9
-	"2024 (provisional and partial)"	"2024"	"64 years"	"64"	536	88012	609.0
-	"2024 (provisional and partial)"	"2024"	"65 years"	"65"	591	86623	682.3
-	"2024 (provisional and partial)"	"2024"	"66 years"	"66"	650	82711	785.9
-	"2024 (provisional and partial)"	"2024"	"67 years"	"67"	654	80662	810.8
-	"2024 (provisional and partial)"	"2024"	"68 years"	"68"	680	78340	868.0
-	"2024 (provisional and partial)"	"2024"	"69 years"	"69"	691	74156	931.8
-	"2024 (provisional and partial)"	"2024"	"70 years"	"70"	688	70862	970.9
-	"2024 (provisional and partial)"	"2024"	"71 years"	"71"	726	67540	1074.9
-	"2024 (provisional and partial)"	"2024"	"72 years"	"72"	709	64076	1106.5
-	"2024 (provisional and partial)"	"2024"	"73 years"	"73"	714	62856	1135.9
-	"2024 (provisional and partial)"	"2024"	"74 years"	"74"	727	61698	1178.3
-	"2024 (provisional and partial)"	"2024"	"75 years"	"75"	802	65147	1231.1
-	"2024 (provisional and partial)"	"2024"	"76 years"	"76"	940	44592	2108.0
-	"2024 (provisional and partial)"	"2024"	"77 years"	"77"	899	42352	2122.7
-	"2024 (provisional and partial)"	"2024"	"78 years"	"78"	779	40801	1909.3
-	"2024 (provisional and partial)"	"2024"	"79 years"	"79"	794	40979	1937.6
-	"2024 (provisional and partial)"	"2024"	"80 years"	"80"	851	34344	2477.9
-	"2024 (provisional and partial)"	"2024"	"81 years"	"81"	905	30200	2996.7
-	"2024 (provisional and partial)"	"2024"	"82 years"	"82"	847	27208	3113.1
-	"2024 (provisional and partial)"	"2024"	"83 years"	"83"	845	24481	3451.7
-	"2024 (provisional and partial)"	"2024"	"84 years"	"84"	793	22126	3584.0
-	"2024 (provisional and partial)"	"2024"	"85 years"	"85"	772	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"86 years"	"86"	784	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"87 years"	"87"	777	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"88 years"	"88"	741	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"89 years"	"89"	640	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"90 years"	"90"	592	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"91 years"	"91"	544	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"92 years"	"92"	511	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"93 years"	"93"	469	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"94 years"	"94"	375	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"95 years"	"95"	307	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"96 years"	"96"	269	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"97 years"	"97"	185	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"98 years"	"98"	165	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"99 years"	"99"	107	Not Applicable	Not Applicable
-	"2024 (provisional and partial)"	"2024"	"100+ years"	"100"	193	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"13 years"	"13"	10	89410	Unreliable
+	"2024 (provisional and partial)"	"2024"	"14 years"	"14"	13	93357	Unreliable
+	"2024 (provisional and partial)"	"2024"	"15 years"	"15"	29	92843	31.2
+	"2024 (provisional and partial)"	"2024"	"16 years"	"16"	50	90995	54.9
+	"2024 (provisional and partial)"	"2024"	"17 years"	"17"	51	89526	57.0
+	"2024 (provisional and partial)"	"2024"	"18 years"	"18"	57	85181	66.9
+	"2024 (provisional and partial)"	"2024"	"19 years"	"19"	75	81874	91.6
+	"2024 (provisional and partial)"	"2024"	"20 years"	"20"	60	88554	67.8
+	"2024 (provisional and partial)"	"2024"	"21 years"	"21"	62	96650	64.1
+	"2024 (provisional and partial)"	"2024"	"22 years"	"22"	94	98124	95.8
+	"2024 (provisional and partial)"	"2024"	"23 years"	"23"	69	97587	70.7
+	"2024 (provisional and partial)"	"2024"	"24 years"	"24"	71	96170	73.8
+	"2024 (provisional and partial)"	"2024"	"25 years"	"25"	89	94743	93.9
+	"2024 (provisional and partial)"	"2024"	"26 years"	"26"	92	95067	96.8
+	"2024 (provisional and partial)"	"2024"	"27 years"	"27"	98	96133	101.9
+	"2024 (provisional and partial)"	"2024"	"28 years"	"28"	92	97774	94.1
+	"2024 (provisional and partial)"	"2024"	"29 years"	"29"	87	98859	88.0
+	"2024 (provisional and partial)"	"2024"	"30 years"	"30"	139	100388	138.5
+	"2024 (provisional and partial)"	"2024"	"31 years"	"31"	137	102289	133.9
+	"2024 (provisional and partial)"	"2024"	"32 years"	"32"	134	100704	133.1
+	"2024 (provisional and partial)"	"2024"	"33 years"	"33"	144	96591	149.1
+	"2024 (provisional and partial)"	"2024"	"34 years"	"34"	143	94015	152.1
+	"2024 (provisional and partial)"	"2024"	"35 years"	"35"	152	91313	166.5
+	"2024 (provisional and partial)"	"2024"	"36 years"	"36"	127	90494	140.3
+	"2024 (provisional and partial)"	"2024"	"37 years"	"37"	180	90061	199.9
+	"2024 (provisional and partial)"	"2024"	"38 years"	"38"	170	88078	193.0
+	"2024 (provisional and partial)"	"2024"	"39 years"	"39"	166	90195	184.0
+	"2024 (provisional and partial)"	"2024"	"40 years"	"40"	197	90497	217.7
+	"2024 (provisional and partial)"	"2024"	"41 years"	"41"	188	89236	210.7
+	"2024 (provisional and partial)"	"2024"	"42 years"	"42"	234	89747	260.7
+	"2024 (provisional and partial)"	"2024"	"43 years"	"43"	246	87316	281.7
+	"2024 (provisional and partial)"	"2024"	"44 years"	"44"	260	85501	304.1
+	"2024 (provisional and partial)"	"2024"	"45 years"	"45"	263	85091	309.1
+	"2024 (provisional and partial)"	"2024"	"46 years"	"46"	249	81529	305.4
+	"2024 (provisional and partial)"	"2024"	"47 years"	"47"	239	83802	285.2
+	"2024 (provisional and partial)"	"2024"	"48 years"	"48"	283	82908	341.3
+	"2024 (provisional and partial)"	"2024"	"49 years"	"49"	295	84947	347.3
+	"2024 (provisional and partial)"	"2024"	"50 years"	"50"	331	90101	367.4
+	"2024 (provisional and partial)"	"2024"	"51 years"	"51"	341	95742	356.2
+	"2024 (provisional and partial)"	"2024"	"52 years"	"52"	407	93482	435.4
+	"2024 (provisional and partial)"	"2024"	"53 years"	"53"	418	88822	470.6
+	"2024 (provisional and partial)"	"2024"	"54 years"	"54"	430	86100	499.4
+	"2024 (provisional and partial)"	"2024"	"55 years"	"55"	467	86463	540.1
+	"2024 (provisional and partial)"	"2024"	"56 years"	"56"	462	88363	522.8
+	"2024 (provisional and partial)"	"2024"	"57 years"	"57"	518	92276	561.4
+	"2024 (provisional and partial)"	"2024"	"58 years"	"58"	619	94408	655.7
+	"2024 (provisional and partial)"	"2024"	"59 years"	"59"	679	93408	726.9
+	"2024 (provisional and partial)"	"2024"	"60 years"	"60"	749	92807	807.1
+	"2024 (provisional and partial)"	"2024"	"61 years"	"61"	799	92138	867.2
+	"2024 (provisional and partial)"	"2024"	"62 years"	"62"	850	90108	943.3
+	"2024 (provisional and partial)"	"2024"	"63 years"	"63"	924	88565	1043.3
+	"2024 (provisional and partial)"	"2024"	"64 years"	"64"	969	88012	1101.0
+	"2024 (provisional and partial)"	"2024"	"65 years"	"65"	1003	86623	1157.9
+	"2024 (provisional and partial)"	"2024"	"66 years"	"66"	1093	82711	1321.5
+	"2024 (provisional and partial)"	"2024"	"67 years"	"67"	1150	80662	1425.7
+	"2024 (provisional and partial)"	"2024"	"68 years"	"68"	1114	78340	1422.0
+	"2024 (provisional and partial)"	"2024"	"69 years"	"69"	1146	74156	1545.4
+	"2024 (provisional and partial)"	"2024"	"70 years"	"70"	1173	70862	1655.3
+	"2024 (provisional and partial)"	"2024"	"71 years"	"71"	1206	67540	1785.6
+	"2024 (provisional and partial)"	"2024"	"72 years"	"72"	1214	64076	1894.6
+	"2024 (provisional and partial)"	"2024"	"73 years"	"73"	1287	62856	2047.5
+	"2024 (provisional and partial)"	"2024"	"74 years"	"74"	1270	61698	2058.4
+	"2024 (provisional and partial)"	"2024"	"75 years"	"75"	1376	65147	2112.1
+	"2024 (provisional and partial)"	"2024"	"76 years"	"76"	1575	44592	3532.0
+	"2024 (provisional and partial)"	"2024"	"77 years"	"77"	1552	42352	3664.5
+	"2024 (provisional and partial)"	"2024"	"78 years"	"78"	1296	40801	3176.4
+	"2024 (provisional and partial)"	"2024"	"79 years"	"79"	1317	40979	3213.8
+	"2024 (provisional and partial)"	"2024"	"80 years"	"80"	1414	34344	4117.2
+	"2024 (provisional and partial)"	"2024"	"81 years"	"81"	1563	30200	5175.5
+	"2024 (provisional and partial)"	"2024"	"82 years"	"82"	1421	27208	5222.7
+	"2024 (provisional and partial)"	"2024"	"83 years"	"83"	1404	24481	5735.1
+	"2024 (provisional and partial)"	"2024"	"84 years"	"84"	1363	22126	6160.2
+	"2024 (provisional and partial)"	"2024"	"85 years"	"85"	1280	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"86 years"	"86"	1322	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"87 years"	"87"	1264	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"88 years"	"88"	1273	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"89 years"	"89"	1161	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"90 years"	"90"	964	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"91 years"	"91"	915	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"92 years"	"92"	867	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"93 years"	"93"	800	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"94 years"	"94"	623	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"95 years"	"95"	514	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"96 years"	"96"	445	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"97 years"	"97"	345	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"98 years"	"98"	287	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"99 years"	"99"	179	Not Applicable	Not Applicable
+	"2024 (provisional and partial)"	"2024"	"100+ years"	"100"	341	Not Applicable	Not Applicable
 	"2024 (provisional and partial)"	"2024"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
 "---"
 "Dataset: Provisional Mortality Statistics, 2018 through Last Week"
@@ -726,12 +726,13 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
 "---"
-"Query Date: Jun 8, 2024 7:38:03 PM"
+"Query Date: Sep 16, 2024 7:34:26 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2022,"
 "and from provisional data for years 2023-2024, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Jun 8, 2024 7:38:03 PM"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Sep 16, 2024 7:34:26"
+"PM"
 "---"
 Messages:
 "1. Totals are not available for these results due to suppression constraints. More Information:"
@@ -763,4 +764,6 @@ Caveats:
 "6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
 "resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
 "Group."
-"7. Deaths occurring through May 25, 2024 as of June 02, 2024."
+"7. Death data for Florida from July 2024 and August 2024 are temporarily under reported due to technical difficulties with the"
+"reporting systems."
+"8. Deaths occurring through September 07, 2024 as of September 15, 2024."

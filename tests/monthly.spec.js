@@ -3,6 +3,7 @@ import { download, makeSequence, waitUntilLoaded } from './common.js'
 import { existsSync } from 'fs'
 
 import states from '../data_wonder/states.json'
+import { TestTimingUtility } from './testTimingUtility.js'
 
 const url_1 = 'https://wonder.cdc.gov/mcd-icd10.html'
 const url_2 = 'https://wonder.cdc.gov/mcd-icd10-provisional.html'
@@ -43,28 +44,22 @@ const dl = async (
   await download(page, file)
 }
 
-let totalNumberOfTests = 0
-let completedTests = 0
-let startTime = Date.now()
-let concurrency = 3
+// ETA
+const testTimingUtility = new TestTimingUtility(10)
+test.beforeEach(async ({}, testInfo) =>
+  testTimingUtility.startTest(testInfo.title)
+)
 
-test.afterEach(async ({}, testInfo) => {
-  if (testInfo.retry > 0) totalNumberOfTests++
-  const elapsedTime = Date.now() - startTime
-  const remainingTests = totalNumberOfTests - completedTests
-  const remainingTimeInSeconds = Math.ceil(
-    ((elapsedTime / completedTests) * remainingTests) / concurrency / 1000
-  )
-  const remainingTimeFormatted = `${Math.floor(remainingTimeInSeconds / 3600)}h`
-  console.log(`ETA: ${remainingTimeFormatted}`)
-})
+test.afterEach(async ({}, testInfo) =>
+  testTimingUtility.completeTest(testInfo.title, testInfo.retry)
+)
 
 async function downloadData(by_age, year, type, file, state = null) {
   const name = `Download CDC Wonder Data by: ${by_age}/${year}${
     state ? '/' + state : ''
   }: `
-  totalNumberOfTests++
 
+  testTimingUtility.addTest()
   test(name, async ({ page }) => {
     await dl(
       page,
@@ -77,7 +72,6 @@ async function downloadData(by_age, year, type, file, state = null) {
       by_age === 'age'
     )
     await page.close()
-    completedTests++
   })
 }
 

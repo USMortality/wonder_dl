@@ -1,514 +1,922 @@
 "Notes"	"Month"	"Month Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
-	"Jan., 2024 (provisional)"	"2024/01"	"< 1 year"	"0"	1549	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"1 year"	"1"	119	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"2 years"	"2"	79	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"3 years"	"3"	64	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"4 years"	"4"	44	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"5 years"	"5"	62	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"6 years"	"6"	35	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"7 years"	"7"	51	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"< 1 year"	"0"	1599	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"1 year"	"1"	123	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"2 years"	"2"	80	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"3 years"	"3"	68	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"4 years"	"4"	46	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"5 years"	"5"	64	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"6 years"	"6"	36	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"7 years"	"7"	52	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"8 years"	"8"	35	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"9 years"	"9"	43	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"10 years"	"10"	46	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"9 years"	"9"	45	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"10 years"	"10"	48	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"11 years"	"11"	38	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"12 years"	"12"	52	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"13 years"	"13"	58	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"12 years"	"12"	53	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"13 years"	"13"	59	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"14 years"	"14"	93	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"15 years"	"15"	109	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"16 years"	"16"	136	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"17 years"	"17"	187	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"18 years"	"18"	229	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"19 years"	"19"	249	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"20 years"	"20"	239	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"21 years"	"21"	265	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"22 years"	"22"	337	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"23 years"	"23"	332	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"24 years"	"24"	346	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"25 years"	"25"	325	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"26 years"	"26"	410	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"27 years"	"27"	361	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"28 years"	"28"	398	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"29 years"	"29"	448	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"30 years"	"30"	562	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"31 years"	"31"	555	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"32 years"	"32"	555	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"33 years"	"33"	683	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"34 years"	"34"	701	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"35 years"	"35"	690	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"36 years"	"36"	667	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"37 years"	"37"	760	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"38 years"	"38"	807	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"39 years"	"39"	816	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"40 years"	"40"	915	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"41 years"	"41"	911	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"42 years"	"42"	983	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"43 years"	"43"	996	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"44 years"	"44"	1021	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"45 years"	"45"	1042	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"46 years"	"46"	1132	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"47 years"	"47"	1099	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"48 years"	"48"	1170	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"49 years"	"49"	1234	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"50 years"	"50"	1383	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"51 years"	"51"	1470	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"52 years"	"52"	1703	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"53 years"	"53"	1900	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"54 years"	"54"	1918	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"55 years"	"55"	2095	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"56 years"	"56"	2265	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"57 years"	"57"	2467	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"58 years"	"58"	2784	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"59 years"	"59"	3149	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"60 years"	"60"	3431	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"61 years"	"61"	3673	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"62 years"	"62"	4041	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"63 years"	"63"	4357	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"64 years"	"64"	4623	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"65 years"	"65"	4771	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"66 years"	"66"	5135	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"67 years"	"67"	5330	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"68 years"	"68"	5565	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"69 years"	"69"	5716	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"70 years"	"70"	5691	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"71 years"	"71"	5958	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"72 years"	"72"	6167	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"73 years"	"73"	6458	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"74 years"	"74"	6638	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"75 years"	"75"	7257	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"76 years"	"76"	7830	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"77 years"	"77"	7728	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"78 years"	"78"	6661	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"79 years"	"79"	7226	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"80 years"	"80"	8010	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"81 years"	"81"	8249	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"82 years"	"82"	7676	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"83 years"	"83"	7639	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"84 years"	"84"	7609	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"85 years"	"85"	7842	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"86 years"	"86"	7570	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"87 years"	"87"	7429	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"88 years"	"88"	7444	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"89 years"	"89"	7217	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"90 years"	"90"	6648	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"91 years"	"91"	6515	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"92 years"	"92"	6152	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"18 years"	"18"	231	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"19 years"	"19"	250	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"20 years"	"20"	240	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"21 years"	"21"	267	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"22 years"	"22"	339	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"23 years"	"23"	336	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"24 years"	"24"	347	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"25 years"	"25"	327	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"26 years"	"26"	413	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"27 years"	"27"	362	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"28 years"	"28"	404	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"29 years"	"29"	451	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"30 years"	"30"	563	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"31 years"	"31"	557	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"32 years"	"32"	557	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"33 years"	"33"	687	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"34 years"	"34"	706	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"35 years"	"35"	691	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"36 years"	"36"	672	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"37 years"	"37"	765	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"38 years"	"38"	815	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"39 years"	"39"	819	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"40 years"	"40"	916	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"41 years"	"41"	915	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"42 years"	"42"	988	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"43 years"	"43"	1006	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"44 years"	"44"	1026	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"45 years"	"45"	1045	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"46 years"	"46"	1138	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"47 years"	"47"	1104	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"48 years"	"48"	1175	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"49 years"	"49"	1239	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"50 years"	"50"	1387	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"51 years"	"51"	1473	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"52 years"	"52"	1709	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"53 years"	"53"	1906	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"54 years"	"54"	1929	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"55 years"	"55"	2098	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"56 years"	"56"	2276	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"57 years"	"57"	2475	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"58 years"	"58"	2801	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"59 years"	"59"	3166	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"60 years"	"60"	3454	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"61 years"	"61"	3690	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"62 years"	"62"	4056	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"63 years"	"63"	4364	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"64 years"	"64"	4635	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"65 years"	"65"	4785	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"66 years"	"66"	5146	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"67 years"	"67"	5348	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"68 years"	"68"	5579	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"69 years"	"69"	5729	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"70 years"	"70"	5699	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"71 years"	"71"	5974	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"72 years"	"72"	6179	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"73 years"	"73"	6463	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"74 years"	"74"	6654	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"75 years"	"75"	7264	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"76 years"	"76"	7847	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"77 years"	"77"	7737	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"78 years"	"78"	6670	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"79 years"	"79"	7230	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"80 years"	"80"	8019	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"81 years"	"81"	8258	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"82 years"	"82"	7680	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"83 years"	"83"	7644	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"84 years"	"84"	7614	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"85 years"	"85"	7848	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"86 years"	"86"	7577	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"87 years"	"87"	7434	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"88 years"	"88"	7446	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"89 years"	"89"	7221	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"90 years"	"90"	6649	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"91 years"	"91"	6517	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"92 years"	"92"	6154	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"93 years"	"93"	5776	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"94 years"	"94"	4970	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"95 years"	"95"	4204	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"96 years"	"96"	3665	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"97 years"	"97"	2748	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"98 years"	"98"	2280	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"99 years"	"99"	1670	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"100+ years"	"100"	3411	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"94 years"	"94"	4972	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"95 years"	"95"	4207	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"96 years"	"96"	3667	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"97 years"	"97"	2749	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"98 years"	"98"	2281	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"99 years"	"99"	1671	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"100+ years"	"100"	3412	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"< 1 year"	"0"	1439	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"1 year"	"1"	134	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"2 years"	"2"	67	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"< 1 year"	"0"	1496	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"1 year"	"1"	140	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"2 years"	"2"	72	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"3 years"	"3"	67	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"4 years"	"4"	51	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"4 years"	"4"	52	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"5 years"	"5"	42	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"6 years"	"6"	34	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"6 years"	"6"	35	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"7 years"	"7"	29	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"8 years"	"8"	38	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"9 years"	"9"	32	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"10 years"	"10"	47	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"9 years"	"9"	36	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"10 years"	"10"	48	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"11 years"	"11"	41	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"12 years"	"12"	59	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"12 years"	"12"	60	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"13 years"	"13"	60	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"14 years"	"14"	73	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"15 years"	"15"	87	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"16 years"	"16"	139	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"17 years"	"17"	164	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"18 years"	"18"	198	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"19 years"	"19"	243	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"20 years"	"20"	241	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"21 years"	"21"	247	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"22 years"	"22"	281	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"23 years"	"23"	269	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"24 years"	"24"	291	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"25 years"	"25"	313	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"26 years"	"26"	339	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"27 years"	"27"	367	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"28 years"	"28"	365	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"29 years"	"29"	425	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"30 years"	"30"	482	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"31 years"	"31"	498	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"32 years"	"32"	567	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"33 years"	"33"	566	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"34 years"	"34"	595	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"35 years"	"35"	652	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"36 years"	"36"	633	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"37 years"	"37"	671	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"38 years"	"38"	677	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"39 years"	"39"	684	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"40 years"	"40"	811	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"41 years"	"41"	846	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"42 years"	"42"	825	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"43 years"	"43"	955	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"44 years"	"44"	933	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"45 years"	"45"	962	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"46 years"	"46"	971	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"47 years"	"47"	995	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"48 years"	"48"	1035	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"49 years"	"49"	1071	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"50 years"	"50"	1215	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"51 years"	"51"	1350	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"52 years"	"52"	1502	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"53 years"	"53"	1613	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"54 years"	"54"	1741	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"55 years"	"55"	1737	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"56 years"	"56"	1973	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"57 years"	"57"	2155	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"58 years"	"58"	2414	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"59 years"	"59"	2748	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"60 years"	"60"	2887	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"61 years"	"61"	3187	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"62 years"	"62"	3492	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"63 years"	"63"	3792	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"64 years"	"64"	4010	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"65 years"	"65"	4207	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"66 years"	"66"	4273	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"67 years"	"67"	4607	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"68 years"	"68"	4780	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"69 years"	"69"	4806	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"70 years"	"70"	5046	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"71 years"	"71"	5308	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"72 years"	"72"	5595	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"73 years"	"73"	5511	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"74 years"	"74"	5715	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"75 years"	"75"	6062	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"76 years"	"76"	6924	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"77 years"	"77"	6735	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"78 years"	"78"	5885	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"79 years"	"79"	6300	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"80 years"	"80"	6820	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"81 years"	"81"	7275	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"82 years"	"82"	6717	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"83 years"	"83"	6639	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"84 years"	"84"	6413	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"85 years"	"85"	6675	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"86 years"	"86"	6594	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"87 years"	"87"	6365	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"88 years"	"88"	6380	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"89 years"	"89"	6162	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"90 years"	"90"	5673	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"91 years"	"91"	5515	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"92 years"	"92"	4996	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"93 years"	"93"	4742	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"94 years"	"94"	4215	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"95 years"	"95"	3467	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"96 years"	"96"	2934	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"97 years"	"97"	2407	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"98 years"	"98"	1893	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"14 years"	"14"	76	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"15 years"	"15"	89	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"16 years"	"16"	143	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"17 years"	"17"	166	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"18 years"	"18"	202	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"19 years"	"19"	248	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"20 years"	"20"	250	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"21 years"	"21"	252	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"22 years"	"22"	285	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"23 years"	"23"	274	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"24 years"	"24"	293	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"25 years"	"25"	320	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"26 years"	"26"	343	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"27 years"	"27"	376	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"28 years"	"28"	372	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"29 years"	"29"	435	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"30 years"	"30"	487	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"31 years"	"31"	506	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"32 years"	"32"	572	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"33 years"	"33"	574	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"34 years"	"34"	601	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"35 years"	"35"	662	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"36 years"	"36"	640	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"37 years"	"37"	678	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"38 years"	"38"	694	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"39 years"	"39"	692	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"40 years"	"40"	815	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"41 years"	"41"	857	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"42 years"	"42"	831	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"43 years"	"43"	972	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"44 years"	"44"	941	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"45 years"	"45"	969	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"46 years"	"46"	982	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"47 years"	"47"	1007	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"48 years"	"48"	1049	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"49 years"	"49"	1080	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"50 years"	"50"	1225	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"51 years"	"51"	1362	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"52 years"	"52"	1523	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"53 years"	"53"	1632	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"54 years"	"54"	1757	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"55 years"	"55"	1749	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"56 years"	"56"	1990	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"57 years"	"57"	2170	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"58 years"	"58"	2428	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"59 years"	"59"	2773	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"60 years"	"60"	2913	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"61 years"	"61"	3213	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"62 years"	"62"	3512	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"63 years"	"63"	3822	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"64 years"	"64"	4042	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"65 years"	"65"	4240	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"66 years"	"66"	4309	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"67 years"	"67"	4630	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"68 years"	"68"	4807	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"69 years"	"69"	4827	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"70 years"	"70"	5073	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"71 years"	"71"	5331	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"72 years"	"72"	5624	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"73 years"	"73"	5544	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"74 years"	"74"	5749	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"75 years"	"75"	6099	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"76 years"	"76"	6953	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"77 years"	"77"	6765	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"78 years"	"78"	5914	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"79 years"	"79"	6330	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"80 years"	"80"	6853	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"81 years"	"81"	7299	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"82 years"	"82"	6750	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"83 years"	"83"	6665	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"84 years"	"84"	6435	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"85 years"	"85"	6689	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"86 years"	"86"	6608	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"87 years"	"87"	6374	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"88 years"	"88"	6402	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"89 years"	"89"	6184	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"90 years"	"90"	5688	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"91 years"	"91"	5527	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"92 years"	"92"	5016	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"93 years"	"93"	4757	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"94 years"	"94"	4222	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"95 years"	"95"	3472	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"96 years"	"96"	2944	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"97 years"	"97"	2417	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"98 years"	"98"	1899	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"99 years"	"99"	1362	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"100+ years"	"100"	2913	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"100+ years"	"100"	2922	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"< 1 year"	"0"	1503	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"1 year"	"1"	110	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"2 years"	"2"	73	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"3 years"	"3"	57	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"4 years"	"4"	42	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"5 years"	"5"	53	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"6 years"	"6"	45	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"7 years"	"7"	46	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"< 1 year"	"0"	1623	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"1 year"	"1"	111	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"2 years"	"2"	74	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"3 years"	"3"	59	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"4 years"	"4"	44	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"5 years"	"5"	55	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"6 years"	"6"	48	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"7 years"	"7"	48	Not Applicable	Not Applicable
 	"Mar., 2024 (provisional)"	"2024/03"	"8 years"	"8"	32	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"9 years"	"9"	38	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"9 years"	"9"	41	Not Applicable	Not Applicable
 	"Mar., 2024 (provisional)"	"2024/03"	"10 years"	"10"	30	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"11 years"	"11"	42	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"11 years"	"11"	43	Not Applicable	Not Applicable
 	"Mar., 2024 (provisional)"	"2024/03"	"12 years"	"12"	50	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"13 years"	"13"	82	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"14 years"	"14"	75	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"15 years"	"15"	84	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"16 years"	"16"	126	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"17 years"	"17"	191	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"18 years"	"18"	220	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"19 years"	"19"	246	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"20 years"	"20"	257	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"21 years"	"21"	271	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"22 years"	"22"	305	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"23 years"	"23"	316	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"24 years"	"24"	305	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"25 years"	"25"	367	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"26 years"	"26"	329	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"27 years"	"27"	351	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"28 years"	"28"	391	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"29 years"	"29"	448	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"30 years"	"30"	454	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"31 years"	"31"	575	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"32 years"	"32"	616	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"33 years"	"33"	610	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"34 years"	"34"	639	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"35 years"	"35"	624	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"36 years"	"36"	609	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"37 years"	"37"	697	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"38 years"	"38"	720	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"39 years"	"39"	787	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"40 years"	"40"	792	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"41 years"	"41"	821	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"42 years"	"42"	819	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"43 years"	"43"	898	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"44 years"	"44"	926	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"45 years"	"45"	972	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"46 years"	"46"	968	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"47 years"	"47"	989	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"48 years"	"48"	1028	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"49 years"	"49"	1133	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"50 years"	"50"	1146	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"51 years"	"51"	1343	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"52 years"	"52"	1601	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"53 years"	"53"	1777	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"54 years"	"54"	1770	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"55 years"	"55"	1914	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"56 years"	"56"	1966	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"57 years"	"57"	2175	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"58 years"	"58"	2502	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"59 years"	"59"	2832	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"60 years"	"60"	3020	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"61 years"	"61"	3322	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"62 years"	"62"	3642	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"63 years"	"63"	3839	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"64 years"	"64"	4027	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"65 years"	"65"	4362	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"66 years"	"66"	4539	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"67 years"	"67"	4676	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"68 years"	"68"	4833	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"69 years"	"69"	5077	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"70 years"	"70"	5405	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"71 years"	"71"	5357	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"72 years"	"72"	5595	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"73 years"	"73"	5578	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"74 years"	"74"	6023	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"75 years"	"75"	6350	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"76 years"	"76"	6960	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"77 years"	"77"	7220	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"78 years"	"78"	5883	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"79 years"	"79"	6374	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"80 years"	"80"	6847	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"81 years"	"81"	7286	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"82 years"	"82"	6900	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"83 years"	"83"	6689	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"84 years"	"84"	6648	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"85 years"	"85"	6913	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"86 years"	"86"	6898	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"87 years"	"87"	6615	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"88 years"	"88"	6573	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"89 years"	"89"	6295	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"90 years"	"90"	5915	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"91 years"	"91"	5761	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"92 years"	"92"	5245	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"93 years"	"93"	4891	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"94 years"	"94"	4288	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"95 years"	"95"	3612	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"96 years"	"96"	3146	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"97 years"	"97"	2492	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"98 years"	"98"	1955	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"99 years"	"99"	1453	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"100+ years"	"100"	2960	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"13 years"	"13"	86	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"14 years"	"14"	79	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"15 years"	"15"	87	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"16 years"	"16"	130	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"17 years"	"17"	197	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"18 years"	"18"	224	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"19 years"	"19"	258	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"20 years"	"20"	268	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"21 years"	"21"	279	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"22 years"	"22"	315	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"23 years"	"23"	327	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"24 years"	"24"	312	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"25 years"	"25"	378	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"26 years"	"26"	336	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"27 years"	"27"	366	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"28 years"	"28"	404	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"29 years"	"29"	462	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"30 years"	"30"	467	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"31 years"	"31"	589	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"32 years"	"32"	634	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"33 years"	"33"	627	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"34 years"	"34"	652	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"35 years"	"35"	637	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"36 years"	"36"	637	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"37 years"	"37"	712	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"38 years"	"38"	739	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"39 years"	"39"	805	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"40 years"	"40"	812	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"41 years"	"41"	840	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"42 years"	"42"	837	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"43 years"	"43"	917	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"44 years"	"44"	951	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"45 years"	"45"	992	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"46 years"	"46"	988	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"47 years"	"47"	1015	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"48 years"	"48"	1047	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"49 years"	"49"	1153	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"50 years"	"50"	1168	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"51 years"	"51"	1362	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"52 years"	"52"	1627	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"53 years"	"53"	1808	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"54 years"	"54"	1794	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"55 years"	"55"	1945	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"56 years"	"56"	1991	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"57 years"	"57"	2213	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"58 years"	"58"	2534	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"59 years"	"59"	2872	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"60 years"	"60"	3066	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"61 years"	"61"	3349	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"62 years"	"62"	3679	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"63 years"	"63"	3884	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"64 years"	"64"	4071	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"65 years"	"65"	4401	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"66 years"	"66"	4580	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"67 years"	"67"	4731	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"68 years"	"68"	4864	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"69 years"	"69"	5124	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"70 years"	"70"	5441	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"71 years"	"71"	5393	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"72 years"	"72"	5628	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"73 years"	"73"	5610	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"74 years"	"74"	6060	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"75 years"	"75"	6388	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"76 years"	"76"	6986	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"77 years"	"77"	7264	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"78 years"	"78"	5910	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"79 years"	"79"	6402	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"80 years"	"80"	6873	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"81 years"	"81"	7308	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"82 years"	"82"	6925	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"83 years"	"83"	6710	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"84 years"	"84"	6669	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"85 years"	"85"	6931	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"86 years"	"86"	6922	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"87 years"	"87"	6628	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"88 years"	"88"	6586	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"89 years"	"89"	6303	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"90 years"	"90"	5930	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"91 years"	"91"	5765	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"92 years"	"92"	5249	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"93 years"	"93"	4898	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"94 years"	"94"	4294	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"95 years"	"95"	3615	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"96 years"	"96"	3150	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"97 years"	"97"	2494	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"98 years"	"98"	1958	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"99 years"	"99"	1454	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"100+ years"	"100"	2968	Not Applicable	Not Applicable
 	"Mar., 2024 (provisional)"	"2024/03"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"< 1 year"	"0"	1362	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"1 year"	"1"	90	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"2 years"	"2"	64	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"3 years"	"3"	68	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"4 years"	"4"	49	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"5 years"	"5"	33	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"< 1 year"	"0"	1550	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"1 year"	"1"	101	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"2 years"	"2"	69	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"3 years"	"3"	74	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"4 years"	"4"	55	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"5 years"	"5"	37	Not Applicable	Not Applicable
 	"Apr., 2024 (provisional)"	"2024/04"	"6 years"	"6"	31	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"7 years"	"7"	24	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"8 years"	"8"	25	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"9 years"	"9"	27	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"10 years"	"10"	25	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"7 years"	"7"	27	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"8 years"	"8"	28	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"9 years"	"9"	29	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"10 years"	"10"	29	Not Applicable	Not Applicable
 	"Apr., 2024 (provisional)"	"2024/04"	"11 years"	"11"	35	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"12 years"	"12"	39	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"13 years"	"13"	56	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"14 years"	"14"	67	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"15 years"	"15"	92	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"16 years"	"16"	129	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"17 years"	"17"	133	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"18 years"	"18"	182	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"19 years"	"19"	256	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"20 years"	"20"	243	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"21 years"	"21"	262	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"22 years"	"22"	264	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"23 years"	"23"	290	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"24 years"	"24"	312	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"25 years"	"25"	296	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"26 years"	"26"	318	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"27 years"	"27"	358	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"28 years"	"28"	371	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"29 years"	"29"	387	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"30 years"	"30"	424	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"31 years"	"31"	481	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"32 years"	"32"	486	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"33 years"	"33"	555	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"34 years"	"34"	620	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"35 years"	"35"	650	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"36 years"	"36"	626	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"37 years"	"37"	598	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"38 years"	"38"	637	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"39 years"	"39"	647	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"40 years"	"40"	681	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"41 years"	"41"	742	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"42 years"	"42"	807	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"43 years"	"43"	818	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"44 years"	"44"	879	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"45 years"	"45"	825	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"46 years"	"46"	972	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"47 years"	"47"	944	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"48 years"	"48"	977	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"49 years"	"49"	1056	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"50 years"	"50"	1083	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"51 years"	"51"	1313	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"52 years"	"52"	1424	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"53 years"	"53"	1589	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"54 years"	"54"	1626	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"55 years"	"55"	1705	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"56 years"	"56"	1818	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"57 years"	"57"	1983	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"58 years"	"58"	2168	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"59 years"	"59"	2487	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"60 years"	"60"	2894	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"61 years"	"61"	3026	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"62 years"	"62"	3259	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"63 years"	"63"	3623	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"64 years"	"64"	3713	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"65 years"	"65"	3932	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"66 years"	"66"	4250	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"67 years"	"67"	4313	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"68 years"	"68"	4525	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"69 years"	"69"	4810	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"70 years"	"70"	4914	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"71 years"	"71"	5090	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"72 years"	"72"	5182	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"73 years"	"73"	5099	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"74 years"	"74"	5459	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"75 years"	"75"	5827	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"76 years"	"76"	6409	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"77 years"	"77"	6790	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"78 years"	"78"	5477	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"79 years"	"79"	6080	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"80 years"	"80"	6394	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"81 years"	"81"	6907	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"82 years"	"82"	6612	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"83 years"	"83"	6200	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"84 years"	"84"	6286	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"85 years"	"85"	6300	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"86 years"	"86"	6294	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"87 years"	"87"	6054	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"88 years"	"88"	6222	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"89 years"	"89"	5959	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"90 years"	"90"	5499	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"91 years"	"91"	5386	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"92 years"	"92"	4899	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"93 years"	"93"	4497	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"94 years"	"94"	3963	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"95 years"	"95"	3523	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"96 years"	"96"	2952	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"97 years"	"97"	2245	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"98 years"	"98"	1742	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"99 years"	"99"	1347	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"100+ years"	"100"	2710	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"12 years"	"12"	42	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"13 years"	"13"	62	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"14 years"	"14"	77	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"15 years"	"15"	100	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"16 years"	"16"	141	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"17 years"	"17"	160	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"18 years"	"18"	206	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"19 years"	"19"	282	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"20 years"	"20"	275	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"21 years"	"21"	296	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"22 years"	"22"	289	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"23 years"	"23"	327	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"24 years"	"24"	337	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"25 years"	"25"	328	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"26 years"	"26"	350	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"27 years"	"27"	394	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"28 years"	"28"	414	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"29 years"	"29"	436	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"30 years"	"30"	463	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"31 years"	"31"	528	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"32 years"	"32"	555	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"33 years"	"33"	616	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"34 years"	"34"	673	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"35 years"	"35"	713	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"36 years"	"36"	682	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"37 years"	"37"	650	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"38 years"	"38"	704	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"39 years"	"39"	710	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"40 years"	"40"	737	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"41 years"	"41"	802	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"42 years"	"42"	872	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"43 years"	"43"	894	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"44 years"	"44"	947	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"45 years"	"45"	881	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"46 years"	"46"	1036	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"47 years"	"47"	1009	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"48 years"	"48"	1057	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"49 years"	"49"	1126	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"50 years"	"50"	1146	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"51 years"	"51"	1394	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"52 years"	"52"	1511	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"53 years"	"53"	1682	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"54 years"	"54"	1717	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"55 years"	"55"	1795	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"56 years"	"56"	1893	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"57 years"	"57"	2082	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"58 years"	"58"	2261	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"59 years"	"59"	2608	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"60 years"	"60"	3016	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"61 years"	"61"	3133	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"62 years"	"62"	3396	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"63 years"	"63"	3752	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"64 years"	"64"	3856	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"65 years"	"65"	4065	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"66 years"	"66"	4377	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"67 years"	"67"	4456	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"68 years"	"68"	4659	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"69 years"	"69"	4965	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"70 years"	"70"	5053	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"71 years"	"71"	5221	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"72 years"	"72"	5313	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"73 years"	"73"	5220	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"74 years"	"74"	5573	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"75 years"	"75"	5967	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"76 years"	"76"	6523	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"77 years"	"77"	6909	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"78 years"	"78"	5573	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"79 years"	"79"	6172	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"80 years"	"80"	6514	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"81 years"	"81"	7009	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"82 years"	"82"	6694	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"83 years"	"83"	6291	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"84 years"	"84"	6362	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"85 years"	"85"	6376	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"86 years"	"86"	6364	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"87 years"	"87"	6130	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"88 years"	"88"	6283	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"89 years"	"89"	6021	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"90 years"	"90"	5555	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"91 years"	"91"	5432	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"92 years"	"92"	4949	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"93 years"	"93"	4549	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"94 years"	"94"	3991	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"95 years"	"95"	3551	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"96 years"	"96"	2989	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"97 years"	"97"	2262	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"98 years"	"98"	1757	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"99 years"	"99"	1359	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"100+ years"	"100"	2737	Not Applicable	Not Applicable
 	"Apr., 2024 (provisional)"	"2024/04"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"< 1 year"	"0"	574	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"1 year"	"1"	52	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"2 years"	"2"	43	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"3 years"	"3"	34	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"4 years"	"4"	23	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"5 years"	"5"	15	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"6 years"	"6"	14	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"7 years"	"7"	11	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"8 years"	"8"	12	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"9 years"	"9"	11	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"10 years"	"10"	12	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"11 years"	"11"	13	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"12 years"	"12"	20	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"13 years"	"13"	30	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"14 years"	"14"	26	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"15 years"	"15"	38	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"16 years"	"16"	46	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"17 years"	"17"	52	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"18 years"	"18"	80	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"19 years"	"19"	76	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"20 years"	"20"	92	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"21 years"	"21"	103	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"22 years"	"22"	101	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"23 years"	"23"	105	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"24 years"	"24"	126	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"25 years"	"25"	130	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"26 years"	"26"	147	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"27 years"	"27"	138	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"28 years"	"28"	161	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"29 years"	"29"	204	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"30 years"	"30"	202	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"31 years"	"31"	216	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"32 years"	"32"	237	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"33 years"	"33"	273	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"34 years"	"34"	304	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"35 years"	"35"	296	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"36 years"	"36"	342	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"37 years"	"37"	336	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"38 years"	"38"	327	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"39 years"	"39"	361	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"40 years"	"40"	383	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"41 years"	"41"	384	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"42 years"	"42"	420	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"43 years"	"43"	446	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"44 years"	"44"	510	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"45 years"	"45"	489	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"46 years"	"46"	531	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"47 years"	"47"	555	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"48 years"	"48"	516	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"49 years"	"49"	552	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"50 years"	"50"	588	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"51 years"	"51"	681	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"52 years"	"52"	778	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"53 years"	"53"	907	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"54 years"	"54"	954	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"55 years"	"55"	1055	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"56 years"	"56"	1119	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"57 years"	"57"	1163	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"58 years"	"58"	1408	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"59 years"	"59"	1508	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"60 years"	"60"	1582	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"61 years"	"61"	1936	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"62 years"	"62"	2059	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"63 years"	"63"	2147	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"64 years"	"64"	2247	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"65 years"	"65"	2502	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"66 years"	"66"	2544	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"67 years"	"67"	2720	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"68 years"	"68"	2726	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"69 years"	"69"	2949	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"70 years"	"70"	3125	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"71 years"	"71"	3180	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"72 years"	"72"	3327	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"73 years"	"73"	3316	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"74 years"	"74"	3503	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"75 years"	"75"	3743	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"76 years"	"76"	4057	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"77 years"	"77"	4473	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"78 years"	"78"	3706	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"79 years"	"79"	3893	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"80 years"	"80"	4113	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"81 years"	"81"	4557	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"82 years"	"82"	4197	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"83 years"	"83"	4011	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"84 years"	"84"	4261	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"85 years"	"85"	4220	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"86 years"	"86"	4088	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"87 years"	"87"	4068	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"88 years"	"88"	3974	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"89 years"	"89"	3907	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"90 years"	"90"	3558	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"91 years"	"91"	3406	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"92 years"	"92"	3239	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"93 years"	"93"	2913	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"94 years"	"94"	2628	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"95 years"	"95"	2210	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"96 years"	"96"	1959	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"97 years"	"97"	1534	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"98 years"	"98"	1175	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"99 years"	"99"	848	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"100+ years"	"100"	1774	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"< 1 year"	"0"	1583	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"1 year"	"1"	120	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"2 years"	"2"	94	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"3 years"	"3"	68	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"4 years"	"4"	63	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"5 years"	"5"	49	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"6 years"	"6"	44	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"7 years"	"7"	28	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"8 years"	"8"	37	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"9 years"	"9"	35	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"10 years"	"10"	40	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"11 years"	"11"	45	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"12 years"	"12"	42	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"13 years"	"13"	65	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"14 years"	"14"	82	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"15 years"	"15"	124	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"16 years"	"16"	147	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"17 years"	"17"	170	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"18 years"	"18"	237	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"19 years"	"19"	244	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"20 years"	"20"	282	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"21 years"	"21"	312	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"22 years"	"22"	305	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"23 years"	"23"	322	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"24 years"	"24"	327	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"25 years"	"25"	351	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"26 years"	"26"	346	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"27 years"	"27"	361	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"28 years"	"28"	415	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"29 years"	"29"	441	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"30 years"	"30"	501	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"31 years"	"31"	509	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"32 years"	"32"	527	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"33 years"	"33"	595	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"34 years"	"34"	666	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"35 years"	"35"	689	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"36 years"	"36"	701	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"37 years"	"37"	741	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"38 years"	"38"	741	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"39 years"	"39"	759	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"40 years"	"40"	793	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"41 years"	"41"	815	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"42 years"	"42"	864	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"43 years"	"43"	919	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"44 years"	"44"	981	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"45 years"	"45"	995	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"46 years"	"46"	1022	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"47 years"	"47"	1045	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"48 years"	"48"	1010	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"49 years"	"49"	1121	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"50 years"	"50"	1137	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"51 years"	"51"	1286	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"52 years"	"52"	1447	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"53 years"	"53"	1715	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"54 years"	"54"	1732	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"55 years"	"55"	1886	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"56 years"	"56"	1989	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"57 years"	"57"	2053	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"58 years"	"58"	2424	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"59 years"	"59"	2684	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"60 years"	"60"	2838	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"61 years"	"61"	3312	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"62 years"	"62"	3507	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"63 years"	"63"	3793	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"64 years"	"64"	3879	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"65 years"	"65"	4123	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"66 years"	"66"	4360	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"67 years"	"67"	4569	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"68 years"	"68"	4591	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"69 years"	"69"	4909	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"70 years"	"70"	5077	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"71 years"	"71"	5129	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"72 years"	"72"	5307	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"73 years"	"73"	5460	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"74 years"	"74"	5657	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"75 years"	"75"	5979	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"76 years"	"76"	6401	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"77 years"	"77"	7011	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"78 years"	"78"	5822	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"79 years"	"79"	6162	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"80 years"	"80"	6491	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"81 years"	"81"	7103	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"82 years"	"82"	6600	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"83 years"	"83"	6285	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"84 years"	"84"	6476	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"85 years"	"85"	6371	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"86 years"	"86"	6386	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"87 years"	"87"	6123	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"88 years"	"88"	6078	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"89 years"	"89"	5977	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"90 years"	"90"	5428	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"91 years"	"91"	5256	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"92 years"	"92"	4909	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"93 years"	"93"	4439	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"94 years"	"94"	3987	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"95 years"	"95"	3424	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"96 years"	"96"	2930	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"97 years"	"97"	2256	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"98 years"	"98"	1732	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"99 years"	"99"	1292	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"100+ years"	"100"	2638	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"< 1 year"	"0"	1442	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"1 year"	"1"	113	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"2 years"	"2"	78	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"3 years"	"3"	66	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"4 years"	"4"	55	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"5 years"	"5"	53	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"6 years"	"6"	51	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"7 years"	"7"	43	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"8 years"	"8"	42	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"9 years"	"9"	41	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"10 years"	"10"	28	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"11 years"	"11"	31	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"12 years"	"12"	45	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"13 years"	"13"	58	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"14 years"	"14"	70	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"15 years"	"15"	108	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"16 years"	"16"	158	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"17 years"	"17"	187	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"18 years"	"18"	237	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"19 years"	"19"	269	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"20 years"	"20"	259	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"21 years"	"21"	313	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"22 years"	"22"	276	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"23 years"	"23"	303	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"24 years"	"24"	319	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"25 years"	"25"	342	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"26 years"	"26"	391	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"27 years"	"27"	364	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"28 years"	"28"	364	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"29 years"	"29"	402	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"30 years"	"30"	482	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"31 years"	"31"	511	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"32 years"	"32"	504	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"33 years"	"33"	562	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"34 years"	"34"	622	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"35 years"	"35"	656	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"36 years"	"36"	635	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"37 years"	"37"	672	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"38 years"	"38"	715	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"39 years"	"39"	739	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"40 years"	"40"	782	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"41 years"	"41"	776	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"42 years"	"42"	873	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"43 years"	"43"	863	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"44 years"	"44"	939	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"45 years"	"45"	914	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"46 years"	"46"	937	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"47 years"	"47"	941	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"48 years"	"48"	993	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"49 years"	"49"	1054	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"50 years"	"50"	1235	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"51 years"	"51"	1253	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"52 years"	"52"	1500	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"53 years"	"53"	1607	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"54 years"	"54"	1767	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"55 years"	"55"	1725	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"56 years"	"56"	1784	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"57 years"	"57"	2014	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"58 years"	"58"	2258	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"59 years"	"59"	2500	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"60 years"	"60"	2844	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"61 years"	"61"	3000	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"62 years"	"62"	3336	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"63 years"	"63"	3586	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"64 years"	"64"	3897	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"65 years"	"65"	3938	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"66 years"	"66"	4202	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"67 years"	"67"	4395	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"68 years"	"68"	4484	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"69 years"	"69"	4549	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"70 years"	"70"	4760	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"71 years"	"71"	4969	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"72 years"	"72"	5046	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"73 years"	"73"	5193	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"74 years"	"74"	5401	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"75 years"	"75"	5762	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"76 years"	"76"	5979	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"77 years"	"77"	6743	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"78 years"	"78"	5482	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"79 years"	"79"	5724	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"80 years"	"80"	6249	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"81 years"	"81"	6787	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"82 years"	"82"	6243	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"83 years"	"83"	5843	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"84 years"	"84"	5901	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"85 years"	"85"	6156	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"86 years"	"86"	6072	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"87 years"	"87"	5811	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"88 years"	"88"	5959	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"89 years"	"89"	5675	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"90 years"	"90"	5138	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"91 years"	"91"	5020	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"92 years"	"92"	4805	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"93 years"	"93"	4366	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"94 years"	"94"	3755	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"95 years"	"95"	3191	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"96 years"	"96"	2766	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"97 years"	"97"	2235	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"98 years"	"98"	1640	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"99 years"	"99"	1247	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"100+ years"	"100"	2540	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"< 1 year"	"0"	1380	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"1 year"	"1"	101	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"2 years"	"2"	84	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"3 years"	"3"	71	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"4 years"	"4"	43	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"5 years"	"5"	60	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"6 years"	"6"	46	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"7 years"	"7"	37	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"8 years"	"8"	34	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"9 years"	"9"	33	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"10 years"	"10"	36	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"11 years"	"11"	42	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"12 years"	"12"	45	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"13 years"	"13"	63	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"14 years"	"14"	68	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"15 years"	"15"	100	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"16 years"	"16"	132	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"17 years"	"17"	199	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"18 years"	"18"	221	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"19 years"	"19"	279	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"20 years"	"20"	281	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"21 years"	"21"	280	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"22 years"	"22"	289	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"23 years"	"23"	270	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"24 years"	"24"	279	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"25 years"	"25"	300	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"26 years"	"26"	335	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"27 years"	"27"	343	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"28 years"	"28"	414	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"29 years"	"29"	436	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"30 years"	"30"	451	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"31 years"	"31"	468	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"32 years"	"32"	505	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"33 years"	"33"	570	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"34 years"	"34"	599	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"35 years"	"35"	575	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"36 years"	"36"	594	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"37 years"	"37"	650	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"38 years"	"38"	685	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"39 years"	"39"	726	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"40 years"	"40"	707	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"41 years"	"41"	720	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"42 years"	"42"	834	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"43 years"	"43"	869	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"44 years"	"44"	903	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"45 years"	"45"	919	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"46 years"	"46"	945	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"47 years"	"47"	950	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"48 years"	"48"	925	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"49 years"	"49"	959	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"50 years"	"50"	1097	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"51 years"	"51"	1192	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"52 years"	"52"	1334	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"53 years"	"53"	1578	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"54 years"	"54"	1606	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"55 years"	"55"	1756	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"56 years"	"56"	1804	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"57 years"	"57"	1947	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"58 years"	"58"	2144	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"59 years"	"59"	2479	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"60 years"	"60"	2783	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"61 years"	"61"	2963	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"62 years"	"62"	3220	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"63 years"	"63"	3543	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"64 years"	"64"	3755	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"65 years"	"65"	3961	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"66 years"	"66"	4113	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"67 years"	"67"	4288	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"68 years"	"68"	4523	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"69 years"	"69"	4523	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"70 years"	"70"	4862	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"71 years"	"71"	4857	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"72 years"	"72"	5097	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"73 years"	"73"	5084	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"74 years"	"74"	5345	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"75 years"	"75"	5699	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"76 years"	"76"	6024	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"77 years"	"77"	6696	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"78 years"	"78"	5329	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"79 years"	"79"	5637	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"80 years"	"80"	6028	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"81 years"	"81"	6637	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"82 years"	"82"	6037	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"83 years"	"83"	5831	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"84 years"	"84"	5987	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"85 years"	"85"	5973	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"86 years"	"86"	6048	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"87 years"	"87"	5699	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"88 years"	"88"	5585	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"89 years"	"89"	5514	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"90 years"	"90"	5012	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"91 years"	"91"	4779	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"92 years"	"92"	4659	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"93 years"	"93"	4271	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"94 years"	"94"	3674	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"95 years"	"95"	3098	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"96 years"	"96"	2548	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"97 years"	"97"	2149	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"98 years"	"98"	1606	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"99 years"	"99"	1227	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"100+ years"	"100"	2462	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"< 1 year"	"0"	1008	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"1 year"	"1"	84	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"2 years"	"2"	47	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"3 years"	"3"	30	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"4 years"	"4"	31	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"5 years"	"5"	40	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"6 years"	"6"	27	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"7 years"	"7"	21	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"8 years"	"8"	17	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"9 years"	"9"	32	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"10 years"	"10"	37	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"11 years"	"11"	39	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"12 years"	"12"	40	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"13 years"	"13"	43	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"14 years"	"14"	45	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"15 years"	"15"	89	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"16 years"	"16"	104	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"17 years"	"17"	140	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"18 years"	"18"	153	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"19 years"	"19"	174	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"20 years"	"20"	205	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"21 years"	"21"	198	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"22 years"	"22"	215	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"23 years"	"23"	221	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"24 years"	"24"	202	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"25 years"	"25"	245	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"26 years"	"26"	237	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"27 years"	"27"	253	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"28 years"	"28"	270	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"29 years"	"29"	302	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"30 years"	"30"	349	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"31 years"	"31"	368	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"32 years"	"32"	389	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"33 years"	"33"	441	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"34 years"	"34"	435	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"35 years"	"35"	478	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"36 years"	"36"	528	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"37 years"	"37"	520	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"38 years"	"38"	531	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"39 years"	"39"	573	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"40 years"	"40"	617	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"41 years"	"41"	676	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"42 years"	"42"	695	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"43 years"	"43"	725	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"44 years"	"44"	790	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"45 years"	"45"	762	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"46 years"	"46"	753	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"47 years"	"47"	840	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"48 years"	"48"	821	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"49 years"	"49"	890	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"50 years"	"50"	948	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"51 years"	"51"	1062	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"52 years"	"52"	1240	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"53 years"	"53"	1368	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"54 years"	"54"	1405	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"55 years"	"55"	1590	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"56 years"	"56"	1740	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"57 years"	"57"	1785	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"58 years"	"58"	1977	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"59 years"	"59"	2239	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"60 years"	"60"	2557	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"61 years"	"61"	2791	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"62 years"	"62"	2963	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"63 years"	"63"	3220	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"64 years"	"64"	3500	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"65 years"	"65"	3686	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"66 years"	"66"	3770	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"67 years"	"67"	4034	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"68 years"	"68"	4061	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"69 years"	"69"	4227	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"70 years"	"70"	4558	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"71 years"	"71"	4596	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"72 years"	"72"	4812	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"73 years"	"73"	5027	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"74 years"	"74"	5120	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"75 years"	"75"	5469	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"76 years"	"76"	5815	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"77 years"	"77"	6612	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"78 years"	"78"	5450	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"79 years"	"79"	5587	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"80 years"	"80"	5837	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"81 years"	"81"	6689	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"82 years"	"82"	6101	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"83 years"	"83"	5896	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"84 years"	"84"	5990	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"85 years"	"85"	5935	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"86 years"	"86"	5879	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"87 years"	"87"	5881	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"88 years"	"88"	5840	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"89 years"	"89"	5553	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"90 years"	"90"	4989	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"91 years"	"91"	4974	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"92 years"	"92"	4584	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"93 years"	"93"	4148	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"94 years"	"94"	3770	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"95 years"	"95"	3140	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"96 years"	"96"	2744	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"97 years"	"97"	2185	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"98 years"	"98"	1697	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"99 years"	"99"	1292	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"100+ years"	"100"	2616	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"< 1 year"	"0"	92	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"1 year"	"1"	12	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"2 years"	"2"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"3 years"	"3"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"4 years"	"4"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"5 years"	"5"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"6 years"	"6"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"7 years"	"7"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"8 years"	"8"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"9 years"	"9"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"10 years"	"10"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"11 years"	"11"	0	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"12 years"	"12"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"13 years"	"13"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"14 years"	"14"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"15 years"	"15"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"16 years"	"16"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"17 years"	"17"	13	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"18 years"	"18"	Suppressed	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"19 years"	"19"	14	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"20 years"	"20"	10	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"21 years"	"21"	14	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"22 years"	"22"	15	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"23 years"	"23"	13	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"24 years"	"24"	16	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"25 years"	"25"	24	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"26 years"	"26"	26	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"27 years"	"27"	25	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"28 years"	"28"	23	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"29 years"	"29"	27	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"30 years"	"30"	24	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"31 years"	"31"	43	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"32 years"	"32"	46	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"33 years"	"33"	37	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"34 years"	"34"	43	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"35 years"	"35"	36	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"36 years"	"36"	55	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"37 years"	"37"	59	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"38 years"	"38"	50	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"39 years"	"39"	61	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"40 years"	"40"	71	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"41 years"	"41"	73	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"42 years"	"42"	64	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"43 years"	"43"	83	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"44 years"	"44"	105	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"45 years"	"45"	86	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"46 years"	"46"	94	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"47 years"	"47"	103	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"48 years"	"48"	113	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"49 years"	"49"	113	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"50 years"	"50"	146	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"51 years"	"51"	143	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"52 years"	"52"	157	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"53 years"	"53"	183	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"54 years"	"54"	201	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"55 years"	"55"	197	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"56 years"	"56"	219	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"57 years"	"57"	255	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"58 years"	"58"	290	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"59 years"	"59"	347	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"60 years"	"60"	344	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"61 years"	"61"	388	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"62 years"	"62"	403	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"63 years"	"63"	490	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"64 years"	"64"	512	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"65 years"	"65"	510	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"66 years"	"66"	598	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"67 years"	"67"	575	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"68 years"	"68"	579	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"69 years"	"69"	627	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"70 years"	"70"	680	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"71 years"	"71"	704	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"72 years"	"72"	718	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"73 years"	"73"	782	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"74 years"	"74"	778	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"75 years"	"75"	837	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"76 years"	"76"	857	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"77 years"	"77"	1013	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"78 years"	"78"	839	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"79 years"	"79"	851	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"80 years"	"80"	947	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"81 years"	"81"	1093	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"82 years"	"82"	937	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"83 years"	"83"	968	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"84 years"	"84"	988	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"85 years"	"85"	987	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"86 years"	"86"	970	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"87 years"	"87"	927	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"88 years"	"88"	922	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"89 years"	"89"	872	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"90 years"	"90"	845	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"91 years"	"91"	839	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"92 years"	"92"	803	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"93 years"	"93"	677	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"94 years"	"94"	635	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"95 years"	"95"	507	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"96 years"	"96"	451	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"97 years"	"97"	356	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"98 years"	"98"	283	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"99 years"	"99"	230	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"100+ years"	"100"	428	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
 "---"
 "Dataset: Provisional Mortality Statistics, 2018 through Last Week"
 "Query Parameters:"
@@ -529,12 +937,13 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
 "---"
-"Query Date: Jun 8, 2024 7:10:51 PM"
+"Query Date: Sep 16, 2024 7:29:50 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2022,"
 "and from provisional data for years 2023-2024, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Jun 8, 2024 7:10:51 PM"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Sep 16, 2024 7:29:50"
+"PM"
 "---"
 Messages:
 "1. Totals are not available for these results due to suppression constraints. More Information:"
@@ -551,4 +960,10 @@ Caveats:
 "4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
 "so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
 "http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Not Stated."
-"5. Deaths occurring through May 25, 2024 as of June 02, 2024."
+"5. Connecticut population estimates for 2022 are reported for 9 planning regions as county equivalent areas, instead of the"
+"former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. Populations"
+"estimates for the former counties are not available for 2022. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022."
+"6. Death data for Florida from July 2024 and August 2024 are temporarily under reported due to technical difficulties with the"
+"reporting systems."
+"7. Deaths occurring through September 07, 2024 as of September 15, 2024."

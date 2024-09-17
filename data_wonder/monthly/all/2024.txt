@@ -1,265 +1,473 @@
 "Notes"	"Month"	"Month Code"	"Residence State"	"Residence State Code"	Deaths	Population	Crude Rate
-	"Jan., 2024 (provisional)"	"2024/01"	"Alabama"	"01"	5774	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Alaska"	"02"	518	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Arizona"	"04"	6698	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Arkansas"	"05"	3419	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"California"	"06"	27338	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Colorado"	"08"	4061	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Connecticut"	"09"	3076	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Alabama"	"01"	5809	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Alaska"	"02"	521	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Arizona"	"04"	6705	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Arkansas"	"05"	3427	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"California"	"06"	27401	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Colorado"	"08"	4066	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Connecticut"	"09"	3079	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"Delaware"	"10"	1038	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"District of Columbia"	"11"	429	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Florida"	"12"	21280	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Georgia"	"13"	9419	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Hawaii"	"15"	1238	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Idaho"	"16"	1551	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Illinois"	"17"	10595	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Indiana"	"18"	6564	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Iowa"	"19"	3149	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Kansas"	"20"	2787	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Kentucky"	"21"	5076	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Louisiana"	"22"	4769	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Maine"	"23"	1521	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Maryland"	"24"	5167	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Massachusetts"	"25"	5774	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Michigan"	"26"	9728	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Minnesota"	"27"	4549	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Mississippi"	"28"	3543	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Missouri"	"29"	6359	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Florida"	"12"	21292	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Georgia"	"13"	9529	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Hawaii"	"15"	1247	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Idaho"	"16"	1552	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Illinois"	"17"	10599	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Indiana"	"18"	6594	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Iowa"	"19"	3150	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Kansas"	"20"	2791	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Kentucky"	"21"	5089	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Louisiana"	"22"	4806	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Maine"	"23"	1522	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Maryland"	"24"	5178	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Massachusetts"	"25"	5779	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Michigan"	"26"	9744	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Minnesota"	"27"	4555	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Mississippi"	"28"	3553	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Missouri"	"29"	6398	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"Montana"	"30"	1124	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Nebraska"	"31"	1742	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Nevada"	"32"	2643	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"New Hampshire"	"33"	1361	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"New Jersey"	"34"	7377	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"New Mexico"	"35"	2071	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"New York"	"36"	15837	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"North Carolina"	"37"	10213	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Nebraska"	"31"	1746	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Nevada"	"32"	2646	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"New Hampshire"	"33"	1372	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"New Jersey"	"34"	7400	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"New Mexico"	"35"	2080	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"New York"	"36"	15842	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"North Carolina"	"37"	10231	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"North Dakota"	"38"	648	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Ohio"	"39"	12199	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Oklahoma"	"40"	4410	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Oregon"	"41"	3936	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Pennsylvania"	"42"	13077	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Ohio"	"39"	12215	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Oklahoma"	"40"	4430	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Oregon"	"41"	3949	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Pennsylvania"	"42"	13091	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"Rhode Island"	"44"	984	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"South Carolina"	"45"	5439	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"South Dakota"	"46"	832	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Tennessee"	"47"	7688	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Texas"	"48"	21933	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"South Carolina"	"45"	5448	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"South Dakota"	"46"	835	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Tennessee"	"47"	7706	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Texas"	"48"	21987	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"Utah"	"49"	2076	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"Vermont"	"50"	651	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Virginia"	"51"	7579	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Washington"	"53"	6099	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"West Virginia"	"54"	2315	Not Applicable	Not Applicable
-	"Jan., 2024 (provisional)"	"2024/01"	"Wisconsin"	"55"	5364	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Virginia"	"51"	7592	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Washington"	"53"	6124	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"West Virginia"	"54"	2318	Not Applicable	Not Applicable
+	"Jan., 2024 (provisional)"	"2024/01"	"Wisconsin"	"55"	5368	Not Applicable	Not Applicable
 	"Jan., 2024 (provisional)"	"2024/01"	"Wyoming"	"56"	560	Not Applicable	Not Applicable
-"Total"	"Jan., 2024 (provisional)"	"2024/01"			293578	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Alabama"	"01"	4779	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Alaska"	"02"	495	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Arizona"	"04"	5568	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Arkansas"	"05"	3033	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"California"	"06"	23365	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Colorado"	"08"	3565	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Connecticut"	"09"	2708	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Delaware"	"10"	860	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"District of Columbia"	"11"	429	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Florida"	"12"	18992	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Georgia"	"13"	7887	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Hawaii"	"15"	1055	Not Applicable	Not Applicable
+"Total"	"Jan., 2024 (provisional)"	"2024/01"			294276	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Alabama"	"01"	4832	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Alaska"	"02"	500	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Arizona"	"04"	5572	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Arkansas"	"05"	3050	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"California"	"06"	23433	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Colorado"	"08"	3573	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Connecticut"	"09"	2716	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Delaware"	"10"	874	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"District of Columbia"	"11"	430	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Florida"	"12"	19010	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Georgia"	"13"	8043	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Hawaii"	"15"	1059	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"Idaho"	"16"	1326	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Illinois"	"17"	9310	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Indiana"	"18"	5672	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Iowa"	"19"	2733	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Kansas"	"20"	2476	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Kentucky"	"21"	4349	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Louisiana"	"22"	3995	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Illinois"	"17"	9321	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Indiana"	"18"	5721	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Iowa"	"19"	2740	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Kansas"	"20"	2484	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Kentucky"	"21"	4373	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Louisiana"	"22"	4078	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"Maine"	"23"	1399	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Maryland"	"24"	4447	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Massachusetts"	"25"	5045	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Michigan"	"26"	8509	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Minnesota"	"27"	4096	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Mississippi"	"28"	2899	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Missouri"	"29"	5416	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Montana"	"30"	967	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Nebraska"	"31"	1462	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Nevada"	"32"	2391	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"New Hampshire"	"33"	1145	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"New Jersey"	"34"	6346	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"New Mexico"	"35"	1747	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"New York"	"36"	13462	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"North Carolina"	"37"	8788	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Maryland"	"24"	4459	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Massachusetts"	"25"	5049	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Michigan"	"26"	8524	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Minnesota"	"27"	4111	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Mississippi"	"28"	2912	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Missouri"	"29"	5495	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Montana"	"30"	969	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Nebraska"	"31"	1467	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Nevada"	"32"	2394	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"New Hampshire"	"33"	1146	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"New Jersey"	"34"	6357	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"New Mexico"	"35"	1758	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"New York"	"36"	13484	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"North Carolina"	"37"	8817	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"North Dakota"	"38"	580	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Ohio"	"39"	10706	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Oklahoma"	"40"	3786	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Oregon"	"41"	3473	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Pennsylvania"	"42"	11243	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Ohio"	"39"	10724	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Oklahoma"	"40"	3816	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Oregon"	"41"	3482	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Pennsylvania"	"42"	11257	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"Rhode Island"	"44"	908	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"South Carolina"	"45"	4290	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"South Dakota"	"46"	723	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Tennessee"	"47"	6527	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Texas"	"48"	18968	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Utah"	"49"	1698	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Vermont"	"50"	572	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Virginia"	"51"	6430	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Washington"	"53"	5270	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"West Virginia"	"54"	2039	Not Applicable	Not Applicable
-	"Feb., 2024 (provisional)"	"2024/02"	"Wisconsin"	"55"	4823	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"South Carolina"	"45"	4831	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"South Dakota"	"46"	728	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Tennessee"	"47"	6556	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Texas"	"48"	19060	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Utah"	"49"	1702	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Vermont"	"50"	575	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Virginia"	"51"	6439	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Washington"	"53"	5301	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"West Virginia"	"54"	2047	Not Applicable	Not Applicable
+	"Feb., 2024 (provisional)"	"2024/02"	"Wisconsin"	"55"	4830	Not Applicable	Not Applicable
 	"Feb., 2024 (provisional)"	"2024/02"	"Wyoming"	"56"	476	Not Applicable	Not Applicable
-"Total"	"Feb., 2024 (provisional)"	"2024/02"			253228	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Alabama"	"01"	4855	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Alaska"	"02"	431	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Arizona"	"04"	5884	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Arkansas"	"05"	3066	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"California"	"06"	24115	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Colorado"	"08"	3769	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Connecticut"	"09"	2885	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Delaware"	"10"	877	Not Applicable	Not Applicable
+"Total"	"Feb., 2024 (provisional)"	"2024/02"			254788	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Alabama"	"01"	4960	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Alaska"	"02"	463	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Arizona"	"04"	5898	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Arkansas"	"05"	3092	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"California"	"06"	24260	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Colorado"	"08"	3789	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Connecticut"	"09"	2900	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Delaware"	"10"	891	Not Applicable	Not Applicable
 	"Mar., 2024 (provisional)"	"2024/03"	"District of Columbia"	"11"	410	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Florida"	"12"	19593	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Georgia"	"13"	7791	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Hawaii"	"15"	1054	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Idaho"	"16"	1420	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Illinois"	"17"	9662	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Indiana"	"18"	5946	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Iowa"	"19"	2737	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Kansas"	"20"	2562	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Kentucky"	"21"	4536	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Louisiana"	"22"	3930	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Maine"	"23"	1465	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Maryland"	"24"	4527	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Massachusetts"	"25"	5250	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Michigan"	"26"	9008	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Minnesota"	"27"	4251	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Mississippi"	"28"	2950	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Missouri"	"29"	5377	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Montana"	"30"	976	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Nebraska"	"31"	1616	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Nevada"	"32"	2521	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"New Hampshire"	"33"	1192	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"New Jersey"	"34"	6443	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"New Mexico"	"35"	1894	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"New York"	"36"	13664	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"North Carolina"	"37"	9016	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"North Dakota"	"38"	581	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Ohio"	"39"	10981	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Oklahoma"	"40"	3659	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Oregon"	"41"	3560	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Pennsylvania"	"42"	11717	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Rhode Island"	"44"	834	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"South Carolina"	"45"	4894	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"South Dakota"	"46"	716	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Tennessee"	"47"	6733	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Texas"	"48"	19135	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Utah"	"49"	1789	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Vermont"	"50"	591	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Virginia"	"51"	6668	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Washington"	"53"	5470	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"West Virginia"	"54"	2157	Not Applicable	Not Applicable
-	"Mar., 2024 (provisional)"	"2024/03"	"Wisconsin"	"55"	4805	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Florida"	"12"	19619	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Georgia"	"13"	8091	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Hawaii"	"15"	1060	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Idaho"	"16"	1421	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Illinois"	"17"	9696	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Indiana"	"18"	6048	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Iowa"	"19"	2770	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Kansas"	"20"	2571	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Kentucky"	"21"	4610	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Louisiana"	"22"	4121	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Maine"	"23"	1466	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Maryland"	"24"	4542	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Massachusetts"	"25"	5270	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Michigan"	"26"	9036	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Minnesota"	"27"	4288	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Mississippi"	"28"	2993	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Missouri"	"29"	5596	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Montana"	"30"	979	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Nebraska"	"31"	1635	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Nevada"	"32"	2539	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"New Hampshire"	"33"	1197	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"New Jersey"	"34"	6476	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"New Mexico"	"35"	1931	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"New York"	"36"	13684	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"North Carolina"	"37"	9045	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"North Dakota"	"38"	585	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Ohio"	"39"	11008	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Oklahoma"	"40"	3716	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Oregon"	"41"	3585	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Pennsylvania"	"42"	11756	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Rhode Island"	"44"	836	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"South Carolina"	"45"	4901	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"South Dakota"	"46"	724	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Tennessee"	"47"	6778	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Texas"	"48"	19367	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Utah"	"49"	1795	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Vermont"	"50"	594	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Virginia"	"51"	6690	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Washington"	"53"	5532	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"West Virginia"	"54"	2170	Not Applicable	Not Applicable
+	"Mar., 2024 (provisional)"	"2024/03"	"Wisconsin"	"55"	4818	Not Applicable	Not Applicable
 	"Mar., 2024 (provisional)"	"2024/03"	"Wyoming"	"56"	484	Not Applicable	Not Applicable
-"Total"	"Mar., 2024 (provisional)"	"2024/03"			260447	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Alabama"	"01"	4555	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Alaska"	"02"	337	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Arizona"	"04"	5621	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Arkansas"	"05"	2817	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"California"	"06"	22924	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Colorado"	"08"	3699	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Connecticut"	"09"	2666	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Delaware"	"10"	839	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"District of Columbia"	"11"	368	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Florida"	"12"	18209	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Georgia"	"13"	6988	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Hawaii"	"15"	1003	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Idaho"	"16"	1334	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Illinois"	"17"	8918	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Indiana"	"18"	5206	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Iowa"	"19"	2547	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Kansas"	"20"	2257	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Kentucky"	"21"	3952	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Louisiana"	"22"	3322	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Maine"	"23"	1352	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Maryland"	"24"	4316	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Massachusetts"	"25"	4954	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Michigan"	"26"	8322	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Minnesota"	"27"	3954	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Mississippi"	"28"	2705	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Missouri"	"29"	4734	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Montana"	"30"	934	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Nebraska"	"31"	1392	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Nevada"	"32"	2304	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"New Hampshire"	"33"	1154	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"New Jersey"	"34"	6018	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"New Mexico"	"35"	1706	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"New York"	"36"	12863	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"North Carolina"	"37"	8578	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"North Dakota"	"38"	528	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Ohio"	"39"	10128	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Oklahoma"	"40"	3421	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Oregon"	"41"	3276	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Pennsylvania"	"42"	10927	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Rhode Island"	"44"	812	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"South Carolina"	"45"	4664	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"South Dakota"	"46"	703	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Tennessee"	"47"	6223	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Texas"	"48"	17075	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Utah"	"49"	1726	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Vermont"	"50"	543	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Virginia"	"51"	6194	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Washington"	"53"	5133	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"West Virginia"	"54"	1904	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Wisconsin"	"55"	4598	Not Applicable	Not Applicable
-	"Apr., 2024 (provisional)"	"2024/04"	"Wyoming"	"56"	461	Not Applicable	Not Applicable
-"Total"	"Apr., 2024 (provisional)"	"2024/04"			241164	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Alabama"	"01"	2464	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Alaska"	"02"	112	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Arizona"	"04"	3779	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Arkansas"	"05"	1863	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"California"	"06"	14655	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Colorado"	"08"	2347	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Connecticut"	"09"	1082	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Delaware"	"10"	528	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"District of Columbia"	"11"	196	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Florida"	"12"	12278	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Georgia"	"13"	3667	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Hawaii"	"15"	653	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Idaho"	"16"	846	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Illinois"	"17"	6253	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Indiana"	"18"	3136	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Iowa"	"19"	1647	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Kansas"	"20"	1446	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Kentucky"	"21"	1959	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Louisiana"	"22"	729	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Maine"	"23"	994	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Maryland"	"24"	2779	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Massachusetts"	"25"	3355	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Michigan"	"26"	5721	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Minnesota"	"27"	2593	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Mississippi"	"28"	1682	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Missouri"	"29"	2932	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Montana"	"30"	627	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Nebraska"	"31"	789	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Nevada"	"32"	1458	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"New Hampshire"	"33"	868	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"New Jersey"	"34"	4188	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"New Mexico"	"35"	981	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"New York"	"36"	9473	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"North Carolina"	"37"	5761	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"North Dakota"	"38"	330	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Ohio"	"39"	5507	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Oklahoma"	"40"	2032	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Oregon"	"41"	1871	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Pennsylvania"	"42"	7243	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Rhode Island"	"44"	554	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"South Carolina"	"45"	2856	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"South Dakota"	"46"	323	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Tennessee"	"47"	3858	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Texas"	"48"	8568	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Utah"	"49"	1187	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Vermont"	"50"	333	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Virginia"	"51"	3983	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Washington"	"53"	3188	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"West Virginia"	"54"	1360	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Wisconsin"	"55"	3073	Not Applicable	Not Applicable
-	"May, 2024 (provisional and partial)"	"2024/05"	"Wyoming"	"56"	266	Not Applicable	Not Applicable
-"Total"	"May, 2024 (provisional and partial)"	"2024/05"			150373	Not Applicable	Not Applicable
-"Total"					1198790	Not Applicable	Not Applicable
+"Total"	"Mar., 2024 (provisional)"	"2024/03"			262686	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Alabama"	"01"	4815	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Alaska"	"02"	439	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Arizona"	"04"	5678	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Arkansas"	"05"	2879	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"California"	"06"	23324	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Colorado"	"08"	3745	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Connecticut"	"09"	2700	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Delaware"	"10"	866	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"District of Columbia"	"11"	394	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Florida"	"12"	18367	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Georgia"	"13"	7606	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Hawaii"	"15"	1016	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Idaho"	"16"	1342	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Illinois"	"17"	9019	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Indiana"	"18"	5546	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Iowa"	"19"	2655	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Kansas"	"20"	2302	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Kentucky"	"21"	4280	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Louisiana"	"22"	3931	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Maine"	"23"	1360	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Maryland"	"24"	4389	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Massachusetts"	"25"	5003	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Michigan"	"26"	8399	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Minnesota"	"27"	4111	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Mississippi"	"28"	2806	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Missouri"	"29"	5292	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Montana"	"30"	942	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Nebraska"	"31"	1441	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Nevada"	"32"	2376	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"New Hampshire"	"33"	1161	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"New Jersey"	"34"	6078	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"New Mexico"	"35"	1810	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"New York"	"36"	12930	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"North Carolina"	"37"	8664	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"North Dakota"	"38"	547	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Ohio"	"39"	10371	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Oklahoma"	"40"	3576	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Oregon"	"41"	3365	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Pennsylvania"	"42"	11020	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Rhode Island"	"44"	823	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"South Carolina"	"45"	4715	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"South Dakota"	"46"	743	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Tennessee"	"47"	6378	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Texas"	"48"	18246	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Utah"	"49"	1737	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Vermont"	"50"	547	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Virginia"	"51"	6273	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Washington"	"53"	5250	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"West Virginia"	"54"	1935	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Wisconsin"	"55"	4650	Not Applicable	Not Applicable
+	"Apr., 2024 (provisional)"	"2024/04"	"Wyoming"	"56"	467	Not Applicable	Not Applicable
+"Total"	"Apr., 2024 (provisional)"	"2024/04"			248309	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Alabama"	"01"	4653	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Alaska"	"02"	458	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Arizona"	"04"	5863	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Arkansas"	"05"	2854	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"California"	"06"	23555	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Colorado"	"08"	3751	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Connecticut"	"09"	2604	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Delaware"	"10"	841	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"District of Columbia"	"11"	411	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Florida"	"12"	18765	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Georgia"	"13"	7633	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Hawaii"	"15"	1004	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Idaho"	"16"	1361	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Illinois"	"17"	9069	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Indiana"	"18"	5608	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Iowa"	"19"	2624	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Kansas"	"20"	2276	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Kentucky"	"21"	4167	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Louisiana"	"22"	3935	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Maine"	"23"	1372	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Maryland"	"24"	4277	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Massachusetts"	"25"	4869	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Michigan"	"26"	8338	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Minnesota"	"27"	4038	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Mississippi"	"28"	2881	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Missouri"	"29"	5296	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Montana"	"30"	984	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Nebraska"	"31"	1477	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Nevada"	"32"	2485	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"New Hampshire"	"33"	1167	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"New Jersey"	"34"	5996	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"New Mexico"	"35"	1837	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"New York"	"36"	12827	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"North Carolina"	"37"	8510	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"North Dakota"	"38"	582	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Ohio"	"39"	10236	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Oklahoma"	"40"	3595	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Oregon"	"41"	3511	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Pennsylvania"	"42"	10983	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Rhode Island"	"44"	801	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"South Carolina"	"45"	4664	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"South Dakota"	"46"	735	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Tennessee"	"47"	6408	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Texas"	"48"	18618	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Utah"	"49"	1686	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Vermont"	"50"	534	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Virginia"	"51"	6124	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Washington"	"53"	5360	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"West Virginia"	"54"	2059	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Wisconsin"	"55"	4695	Not Applicable	Not Applicable
+	"May, 2024 (provisional)"	"2024/05"	"Wyoming"	"56"	452	Not Applicable	Not Applicable
+"Total"	"May, 2024 (provisional)"	"2024/05"			248829	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Alabama"	"01"	4566	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Alaska"	"02"	404	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Arizona"	"04"	5602	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Arkansas"	"05"	2866	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"California"	"06"	22976	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Colorado"	"08"	3533	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Connecticut"	"09"	2506	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Delaware"	"10"	840	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"District of Columbia"	"11"	394	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Florida"	"12"	15505	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Georgia"	"13"	7196	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Hawaii"	"15"	1032	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Idaho"	"16"	1418	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Illinois"	"17"	8559	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Indiana"	"18"	5442	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Iowa"	"19"	2495	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Kansas"	"20"	2279	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Kentucky"	"21"	3990	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Louisiana"	"22"	3709	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Maine"	"23"	1258	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Maryland"	"24"	4237	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Massachusetts"	"25"	4680	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Michigan"	"26"	7751	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Minnesota"	"27"	3824	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Mississippi"	"28"	2738	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Missouri"	"29"	5113	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Montana"	"30"	927	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Nebraska"	"31"	1429	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Nevada"	"32"	2393	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"New Hampshire"	"33"	1077	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"New Jersey"	"34"	5696	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"New Mexico"	"35"	1675	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"New York"	"36"	12340	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"North Carolina"	"37"	8218	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"North Dakota"	"38"	566	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Ohio"	"39"	9867	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Oklahoma"	"40"	3590	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Oregon"	"41"	3339	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Pennsylvania"	"42"	10561	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Rhode Island"	"44"	801	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"South Carolina"	"45"	4632	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"South Dakota"	"46"	655	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Tennessee"	"47"	6149	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Texas"	"48"	18297	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Utah"	"49"	1690	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Vermont"	"50"	556	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Virginia"	"51"	5874	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Washington"	"53"	5245	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"West Virginia"	"54"	1902	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Wisconsin"	"55"	4367	Not Applicable	Not Applicable
+	"Jun., 2024 (provisional)"	"2024/06"	"Wyoming"	"56"	451	Not Applicable	Not Applicable
+"Total"	"Jun., 2024 (provisional)"	"2024/06"			237210	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Alabama"	"01"	4580	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Alaska"	"02"	398	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Arizona"	"04"	5921	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Arkansas"	"05"	2834	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"California"	"06"	23521	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Colorado"	"08"	3500	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Connecticut"	"09"	2538	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Delaware"	"10"	798	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"District of Columbia"	"11"	402	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Florida"	"12"	7307	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Georgia"	"13"	7247	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Hawaii"	"15"	1142	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Idaho"	"16"	1346	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Illinois"	"17"	8853	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Indiana"	"18"	5320	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Iowa"	"19"	2497	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Kansas"	"20"	2277	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Kentucky"	"21"	3987	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Louisiana"	"22"	3730	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Maine"	"23"	1331	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Maryland"	"24"	4118	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Massachusetts"	"25"	4688	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Michigan"	"26"	7878	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Minnesota"	"27"	3913	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Mississippi"	"28"	2822	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Missouri"	"29"	5007	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Montana"	"30"	946	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Nebraska"	"31"	1438	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Nevada"	"32"	2478	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"New Hampshire"	"33"	1056	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"New Jersey"	"34"	5900	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"New Mexico"	"35"	1662	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"New York"	"36"	12705	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"North Carolina"	"37"	8498	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"North Dakota"	"38"	529	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Ohio"	"39"	9804	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Oklahoma"	"40"	3563	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Oregon"	"41"	3383	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Pennsylvania"	"42"	10632	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Rhode Island"	"44"	849	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"South Carolina"	"45"	4672	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"South Dakota"	"46"	659	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Tennessee"	"47"	6338	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Texas"	"48"	18427	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Utah"	"49"	1758	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Vermont"	"50"	525	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Virginia"	"51"	6117	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Washington"	"53"	5363	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"West Virginia"	"54"	1933	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Wisconsin"	"55"	4508	Not Applicable	Not Applicable
+	"Jul., 2024 (provisional)"	"2024/07"	"Wyoming"	"56"	469	Not Applicable	Not Applicable
+"Total"	"Jul., 2024 (provisional)"	"2024/07"			232167	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Alabama"	"01"	4095	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Alaska"	"02"	288	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Arizona"	"04"	5208	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Arkansas"	"05"	2699	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"California"	"06"	21119	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Colorado"	"08"	3227	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Connecticut"	"09"	2503	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Delaware"	"10"	749	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"District of Columbia"	"11"	191	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Florida"	"12"	16182	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Georgia"	"13"	6151	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Hawaii"	"15"	975	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Idaho"	"16"	1315	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Illinois"	"17"	8468	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Indiana"	"18"	4962	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Iowa"	"19"	2267	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Kansas"	"20"	2164	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Kentucky"	"21"	3415	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Louisiana"	"22"	2781	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Maine"	"23"	1259	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Maryland"	"24"	3984	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Massachusetts"	"25"	4536	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Michigan"	"26"	7608	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Minnesota"	"27"	3549	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Mississippi"	"28"	2668	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Missouri"	"29"	4499	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Montana"	"30"	831	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Nebraska"	"31"	1230	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Nevada"	"32"	2052	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"New Hampshire"	"33"	1091	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"New Jersey"	"34"	5644	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"New Mexico"	"35"	1296	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"New York"	"36"	12412	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"North Carolina"	"37"	8084	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"North Dakota"	"38"	463	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Ohio"	"39"	8687	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Oklahoma"	"40"	3257	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Oregon"	"41"	2861	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Pennsylvania"	"42"	10100	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Rhode Island"	"44"	807	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"South Carolina"	"45"	4575	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"South Dakota"	"46"	537	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Tennessee"	"47"	5878	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Texas"	"48"	16274	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Utah"	"49"	1699	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Vermont"	"50"	500	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Virginia"	"51"	5652	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Washington"	"53"	4692	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"West Virginia"	"54"	1799	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Wisconsin"	"55"	4138	Not Applicable	Not Applicable
+	"Aug., 2024 (provisional)"	"2024/08"	"Wyoming"	"56"	412	Not Applicable	Not Applicable
+"Total"	"Aug., 2024 (provisional)"	"2024/08"			221833	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Alabama"	"01"	463	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Alaska"	"02"	22	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Arizona"	"04"	853	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Arkansas"	"05"	391	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"California"	"06"	3155	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Colorado"	"08"	482	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Connecticut"	"09"	461	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Delaware"	"10"	122	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"District of Columbia"	"11"	10	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Florida"	"12"	2589	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Georgia"	"13"	622	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Hawaii"	"15"	124	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Idaho"	"16"	183	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Illinois"	"17"	1450	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Indiana"	"18"	690	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Iowa"	"19"	366	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Kansas"	"20"	326	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Kentucky"	"21"	412	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Louisiana"	"22"	212	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Maine"	"23"	239	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Maryland"	"24"	613	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Massachusetts"	"25"	769	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Michigan"	"26"	1198	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Minnesota"	"27"	621	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Mississippi"	"28"	413	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Missouri"	"29"	700	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Montana"	"30"	101	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Nebraska"	"31"	172	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Nevada"	"32"	287	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"New Hampshire"	"33"	220	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"New Jersey"	"34"	974	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"New Mexico"	"35"	207	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"New York"	"36"	2320	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"North Carolina"	"37"	1377	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"North Dakota"	"38"	61	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Ohio"	"39"	1059	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Oklahoma"	"40"	469	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Oregon"	"41"	313	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Pennsylvania"	"42"	1815	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Rhode Island"	"44"	141	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"South Carolina"	"45"	787	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"South Dakota"	"46"	23	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Tennessee"	"47"	838	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Texas"	"48"	1850	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Utah"	"49"	303	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Vermont"	"50"	81	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Virginia"	"51"	754	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Washington"	"53"	616	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"West Virginia"	"54"	295	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Wisconsin"	"55"	648	Not Applicable	Not Applicable
+	"Sep., 2024 (provisional and partial)"	"2024/09"	"Wyoming"	"56"	59	Not Applicable	Not Applicable
+"Total"	"Sep., 2024 (provisional and partial)"	"2024/09"			33256	Not Applicable	Not Applicable
+"Total"					2033354	Not Applicable	Not Applicable
 "---"
 "Dataset: Provisional Mortality Statistics, 2018 through Last Week"
 "Query Parameters:"
@@ -273,16 +481,24 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
 "---"
-"Query Date: Jun 10, 2024 8:38:52 AM"
+"Query Date: Sep 16, 2024 7:30:51 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
 "System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2022,"
 "and from provisional data for years 2023-2024, as compiled from data provided by the 57 vital statistics jurisdictions through"
-"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Jun 10, 2024 8:38:52"
-"AM"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Sep 16, 2024 7:30:51"
+"PM"
 "---"
 Caveats:
 "1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
 "Month are grouped by or limited, due to lack of a valid population. More information:"
 "http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
-"2. Deaths occurring through May 25, 2024 as of June 02, 2024."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"3. Connecticut population estimates for 2022 are reported for 9 planning regions as county equivalent areas, instead of the"
+"former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. Populations"
+"estimates for the former counties are not available for 2022. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022."
+"4. Death data for Florida from July 2024 and August 2024 are temporarily under reported due to technical difficulties with the"
+"reporting systems."
+"5. Deaths occurring through September 07, 2024 as of September 15, 2024."

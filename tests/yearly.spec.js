@@ -3,6 +3,7 @@ import { download, waitUntilLoaded } from './common.js'
 import { existsSync } from 'fs'
 
 import states from '../data_wonder/states.json'
+import { TestTimingUtility } from './testTimingUtility.js'
 
 const url_1 = 'https://wonder.cdc.gov/mcd-icd10.html'
 const url_2 = 'https://wonder.cdc.gov/mcd-icd10-provisional.html'
@@ -26,29 +27,22 @@ const dl = async (page, url, prefix, isNational, state, file) => {
   await download(page, file)
 }
 
-let totalNumberOfTests = 0
-let completedTests = 0
-let startTime = Date.now()
-let concurrency = 3
+// ETA
+const testTimingUtility = new TestTimingUtility(10)
+test.beforeEach(async ({}, testInfo) =>
+  testTimingUtility.startTest(testInfo.title)
+)
 
-test.afterEach(async ({}, testInfo) => {
-  if (testInfo.retry > 0) totalNumberOfTests++
-  const elapsedTime = Date.now() - startTime
-  const remainingTests = totalNumberOfTests - completedTests
-  const remainingTimeInSeconds = Math.ceil(
-    ((elapsedTime / completedTests) * remainingTests) / concurrency / 1000
-  )
-  const remainingTimeFormatted = `${Math.floor(remainingTimeInSeconds / 3600)}h`
-  console.log(`ETA: ${remainingTimeFormatted}`)
-})
+test.afterEach(async ({}, testInfo) =>
+  testTimingUtility.completeTest(testInfo.title, testInfo.retry)
+)
 
 for (let type of ['1999_2020', '2021_n']) {
   for (let state of states) {
     const file = `./data_wonder/yearly/${type}/${state}.txt`
     if (existsSync(file)) continue
     const name = `Download CDC Wonder Data by: ${type}/${state}: `
-    totalNumberOfTests++
-
+    testTimingUtility.addTest()
     test(name, async ({ page }) => {
       await dl(
         page,
@@ -59,7 +53,6 @@ for (let type of ['1999_2020', '2021_n']) {
         file
       )
       await page.close()
-      completedTests++
     })
   }
 }
