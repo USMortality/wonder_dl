@@ -60,13 +60,35 @@ export const age_groups = getUniqueObjects([
 ])
 
 export const download = async (page, file) => {
-  await page.check('#export-option')
-  await page.check('#CO_show_zeros')
-  await page.check('#CO_show_suppressed')
+  await page.getByLabel('Export Results').check()
+  await page.getByLabel('Show Totals').uncheck()
+  await page.getByLabel('Show Zero Values').check()
   await waitUntilLoaded(page)
 
   const downloadPromise = page.waitForEvent('download')
   await page.click('#submit-button1')
-  const download = await downloadPromise
-  await download.saveAs(file)
+
+  // Run the timeout check concurrently with the download
+  await Promise.race([downloadPromise, checkForGatewayTimeout(page)])
+    .then(async (result) => {
+      if (result && typeof result !== 'string') {
+        await result.saveAs(file)
+      }
+    })
+    .catch((error) => {
+      throw new Error(error.message)
+    })
+}
+
+async function checkForGatewayTimeout(page) {
+  while (true) {
+    const h1 = await page.$('h1')
+    if (h1) {
+      const text = await h1.textContent()
+      if (text?.includes('504 Gateway Time-out')) {
+        throw new Error('Download failed due to 504 Gateway Time-out')
+      }
+    }
+    await page.waitForTimeout(1000)
+  }
 }
