@@ -76,7 +76,7 @@ async function downloadData(by_age, year, type, file, state = null) {
 }
 
 // Combined loop for age-specific data and totals
-for (let year of makeSequence(1999, 2024)) {
+for (let year of makeSequence(1999, 2025)) {
   const type = year <= 2020 ? '1999_2020' : '2021_n'
 
   // For age-specific data
