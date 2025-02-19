@@ -16,7 +16,7 @@ module.exports = defineConfig({
   fullyParallel: true,
   /* Fail the build on CI if you accidentally left test.only in the source code. */
   forbidOnly: !!process.env.CI,
-  timeout: 1000 * 60 * 2, // 2min
+  timeout: 1000 * 60 * 4, // 4 min max as per CDC Wonder support
   /* Retry on CI only */
   retries: process.env.CI ? 3 : 0,
   /* Opt out of parallel tests on CI. */
