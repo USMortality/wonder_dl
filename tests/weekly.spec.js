@@ -1,8 +1,14 @@
 import { test } from '@playwright/test'
-import { age_groups, download, waitUntilLoaded } from './common.js'
+import { age_groups, download, makeSequence, waitUntilLoaded } from './common.js'
 import { existsSync } from 'fs'
 
-const dl = async (page, jurisdiction, ageGroups, file) => {
+const year_tranches = [
+  makeSequence(2018, 2020),
+  makeSequence(2021, 2023),
+  makeSequence(2024, 2026),
+]
+
+const dl = async (page, jurisdiction, ageGroups, years, file) => {
   await page.goto('https://wonder.cdc.gov/mcd-icd10-provisional.html')
   await page.getByRole('button', { name: 'I Agree' }).click()
 
@@ -14,6 +20,16 @@ const dl = async (page, jurisdiction, ageGroups, file) => {
   // group by: week
   await page.locator('#SB_1').selectOption('D176.V100-level2')
 
+  await waitUntilLoaded(page)
+
+  // Select MMWR year tranche (element is hidden, use evaluate to set directly)
+  await page.evaluate((yrs) => {
+    const select = document.querySelector('#codes-D176\\.V100')
+    for (const opt of select.options) {
+      opt.selected = yrs.includes(opt.value)
+    }
+    select.dispatchEvent(new Event('change'))
+  }, years)
   await waitUntilLoaded(page)
 
   if (ageGroups !== 'all') {
@@ -30,8 +46,6 @@ for (const jurisdiction of ['usa', 'usa-state']) {
   for (let i = 0; i < age_groups.length; i++) {
     const ag = age_groups[i]
     const ag_str = Array.isArray(ag) ? `${ag.at(0)}-${ag.at(-1)}` : ag
-    const file = `./data_wonder/weekly/${jurisdiction}_${ag_str}_2018-n.txt`
-    if (existsSync(file)) continue
     const ags = ['all'].includes(ag)
       ? ag
       : [].concat(
@@ -39,13 +53,19 @@ for (const jurisdiction of ['usa', 'usa-state']) {
           ...age_groups.slice(i + 1, age_groups.length - 1)
         )
 
-    test(
-      `Download CDC Wonder Data by: weekly/${jurisdiction}/2018-n: ` +
-        `Age Groups: ${Array.isArray(ag) ? ag.join(', ') : ag}`,
-      async ({ page }) => {
-        await dl(page, jurisdiction, ags, file)
-        await page.close()
-      }
-    )
+    for (const years of year_tranches) {
+      const tranche = `${years[0]}-${years.at(-1)}`
+      const file = `./data_wonder/weekly/${jurisdiction}_${ag_str}_${tranche}.txt`
+      if (existsSync(file)) continue
+
+      test(
+        `Download CDC Wonder Data by: weekly/${jurisdiction}/${tranche}: ` +
+          `Age Groups: ${Array.isArray(ag) ? ag.join(', ') : ag}`,
+        async ({ page }) => {
+          await dl(page, jurisdiction, ags, years, file)
+          await page.close()
+        }
+      )
+    }
   }
 }
