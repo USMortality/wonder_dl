@@ -2,11 +2,13 @@ import { test } from '@playwright/test'
 import { age_groups, download, makeSequence, waitUntilLoaded } from './common.js'
 import { existsSync } from 'fs'
 
-const year_tranches = [
-  makeSequence(2018, 2020),
-  makeSequence(2021, 2023),
-  makeSequence(2024, 2026),
-]
+const START_YEAR = 2018
+const TRANCHE_SIZE = 3
+const currentYear = new Date().getFullYear()
+const year_tranches = []
+for (let y = START_YEAR; y <= currentYear; y += TRANCHE_SIZE) {
+  year_tranches.push(makeSequence(y, Math.min(y + TRANCHE_SIZE - 1, currentYear)))
+}
 
 const dl = async (page, jurisdiction, ageGroups, years, file) => {
   await page.goto('https://wonder.cdc.gov/mcd-icd10-provisional.html')
