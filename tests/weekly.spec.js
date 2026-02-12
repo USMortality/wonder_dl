@@ -4,10 +4,14 @@ import { existsSync } from 'fs'
 
 const START_YEAR = 2018
 const TRANCHE_SIZE = 3
-const currentYear = new Date().getFullYear()
+const MAX_YEAR = Number(process.env.WONDER_MAX_YEAR)
+const currentYear = Number.isFinite(MAX_YEAR)
+  ? MAX_YEAR
+  : new Date().getFullYear()
+const endYear = Math.max(START_YEAR, currentYear)
 const year_tranches = []
-for (let y = START_YEAR; y <= currentYear; y += TRANCHE_SIZE) {
-  year_tranches.push(makeSequence(y, Math.min(y + TRANCHE_SIZE - 1, currentYear)))
+for (let y = START_YEAR; y <= endYear; y += TRANCHE_SIZE) {
+  year_tranches.push(makeSequence(y, Math.min(y + TRANCHE_SIZE - 1, endYear)))
 }
 
 const dl = async (page, jurisdiction, ageGroups, years, file) => {

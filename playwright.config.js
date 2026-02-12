@@ -19,8 +19,8 @@ module.exports = defineConfig({
   timeout: 1000 * 60 * 4, // 4 min max as per CDC Wonder support
   /* Retry on CI only */
   retries: process.env.CI ? 3 : 0,
-  /* Opt out of parallel tests on CI. */
-  workers: process.env.CI || process.env.DEV ? 1 : 3,
+  /* Limit concurrency on CI/cron to reduce Wonder timeouts. */
+  workers: process.env.CI || process.env.DEV ? 2 : 3,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   // Concise 'dot' for CI, default 'list' when running locally
   reporter: 'list',
